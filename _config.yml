@@ -15,3 +15,5 @@ url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
+
+exclude: ["node_modules", "gulpfile.js", "package.json"]

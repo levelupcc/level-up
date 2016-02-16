@@ -1,0 +1,21 @@
+{
+  "name": "browser-sync-jekyll-windows",
+  "version": "1.0.0",
+  "description": "Full setup for Jekyll, GulpJS, SASS & BrowserSync for Windows",
+  "main": "gulpfile.js",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "2.11.1",
+    "gulp": "3.9.1",
+    "gulp-autoprefixer": "3.1.0",
+    "gulp-imagemin": "^2.4.0",
+    "gulp-sass": "2.2.0",
+    "imagemin-pngquant": "^4.2.0"
+  },
+  "keywords": [
+    "jekyll",
+    "gulp",
+    "sass",
+    "browsersync"
+  ]
+}

@@ -1,0 +1,3 @@
+# Site settings (dev)
+baseurl: ""
+url: "http://localhost:3000/"
