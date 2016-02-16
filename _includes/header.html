@@ -5,12 +5,14 @@
   <h2>{{ site.description }}</h2>
 
   <nav class="site-nav">
-    <div class="trigger">
-      {% for my_page in site.pages %}
-        {% if my_page.title %}
-        <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
-        {% endif %}
-      {% endfor %}
-    </div>
+
+    <ul>
+      <li><a href="/trainer/">You, the Trainer</a></li>
+      <li><a href="/training/">Pre-Training</a></li>
+      <li><a href="/session/">After a session</a></li>
+      <li><a href="/community/">Community</a></li>
+      <li><a href="/curriculum/">Curriculum</a></li>
+    </ul>
+
   </nav>
 </header>
