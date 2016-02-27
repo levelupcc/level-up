@@ -1,12 +1,12 @@
 {% capture html %}
 <ul>
-    {% if include.context == "/" %}
+    {% if include.context == "/pages/" %}
         <li class="{% if page.url == "/" %}active{% endif %}">
             <a href="{{ site.baseurl }}/">{{ site.title }}</a>
         </li>
     {% endif %}
 
-    {% assign entries = site.pages | sort: "path" %}
+    {% assign entries = site.pages | sort: "weight" %}
     {% for entry in entries %}
 
         {% capture slug    %}{{ entry.url | split: "/"   | last                       }}{% endcapture %}

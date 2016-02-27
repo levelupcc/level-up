@@ -1,5 +1,6 @@
 ---
 layout: page
-title: About Us
+title: about
 permalink: /about/
+weight: 6
 ---
