@@ -1,6 +1,6 @@
 ---
 layout: page
-title: pre-training
+title: Pre-training
 permalink: /pre-training/
 weight: 2
 ---
