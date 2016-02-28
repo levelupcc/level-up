@@ -1,6 +1,6 @@
 ---
 layout: page
-title: training organizing and logistics
+title: Training Organizing and Logistics
 permalink: /pre-training/training-organizing-and-logistics/
 weight: 2.1
 ---
