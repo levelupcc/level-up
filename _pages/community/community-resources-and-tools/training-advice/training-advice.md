@@ -3,7 +3,6 @@ layout: page
 title: Training Advice
 permalink: /community/training-advice/
 author: DJ, a trainer with a decade of training experience worldwide
-weight: 1.1
 ---
 
 Changes Changes Changes
