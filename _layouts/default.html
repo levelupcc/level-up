@@ -4,16 +4,21 @@
   {% include head.html %}
 
   <body>
+    <header class="site-header">
+      {% include header.html %}
+    </header>
 
-    {% include header.html %}
+    <nav class="main-nav">
+        {% include navigation.html context="/" %}
+    </nav>
 
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </div>
+    <main>
+    {{ content }}
+    </main>
 
-    {% include footer.html %}
+    <footer class="site-footer">
+      {% include footer.html %}
+    </footer>
   </body>
 
 </html>

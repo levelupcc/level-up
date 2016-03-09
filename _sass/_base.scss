@@ -1,0 +1,133 @@
+// note: this is very rough and will be heavily refactored as i go along
+
+// typography - following dev's notes but will develop a scaling typo system later
+@import url(https://fonts.googleapis.com/css?family=Arvo);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300);
+
+:root {
+  font: 16px 'Roboto', sans-serif;
+  line-height: 26px;
+}
+
+.site-header {
+  font: 16px 'Arvo', serif;
+}
+.site-header-description {
+  @extend .site-header;
+  font-style: italic;
+}
+
+.menu {
+  font: 18px 'Arvo', serif;
+  line-height: 42px;
+}
+.menu ul {
+  @extend .main-nav;
+  font-size: 14px;
+  line-height: 30px;
+}
+.site-footer {
+ font-family: 'Arvo', serif;
+}
+
+h1 {
+  font-family: 48px 'Arvo', serif;
+  line-height: 58px;
+}
+h2 {
+  @extend h1;
+  font-size: 36px;
+  line-height: 44px;
+}
+h3 {
+  @extend h1;
+  font-size: 28px;
+  line-height: 32px;
+}
+h4 {
+  @extend h1;
+  font-size: 16px;
+  line-height: 36px;
+}
+
+//layout
+.site-header {
+  display: inline-block;
+}
+
+// styling
+body {
+  background: #E7E7ED;
+  color: #666666;
+  font-size: 16px;
+}
+
+nav, footer, main {
+  background-color: #ffffff;
+}
+
+.site-header {
+  background-color: #F0A742;
+  color: white;
+  display: inline-block;
+}
+
+.menu {
+  color: #F3B968;
+}
+.menu ul a {
+  color: #ffffff;
+}
+.menu ul a:focus,
+.menu ul a:hover {
+  background-color: #ffffff;
+  color: #24929B;
+}
+
+.menu ul li {
+  position: absolute;
+  height: 1px;
+  width: 1px;
+  clip: rect(1px 1px 1px 1px);
+  clip: rect(1px, 1px, 1px, 1px);
+  clip-path: polygon(1px 1px, 1px 1px, 1px 1px, 1px 1px);
+  -webkit-clip-path: polygon(1px 1px, 1px 1px, 1px 1px, 1px 1px);
+  overflow: hidden;
+
+  background-color: #65B2B9;
+}
+
+.menu li:focus li,
+.menu li:hover li {
+  position: relative;
+  width: auto;
+  height: auto;
+  clip: auto;
+  clip-path: none;
+  overflow: visible;
+}
+
+.site-footer {
+  background-color: #24929B;
+  color: white;
+}
+
+.site-footer a:focus,
+.site-footer a:hover  {
+  color: #F0A742;
+}
+// overrides
+a {
+  text-decoration: none;
+  color: inherit;
+}
+ul {
+  list-style-type: none;
+}
+
+header, footer, main, section {
+  min-width: 100%;
+  border: 0;
+  margin: 0;
+  padding: 0;
+}

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: license
+title: License
 permalink: /license/
 weight: 7
 ---

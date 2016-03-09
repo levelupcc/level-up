@@ -1,8 +1,9 @@
 ---
 layout: page
-title: be a better trainer
+title: Be a Better Trainer
 permalink: /you-the-trainer/be-a-better-trainer/
 author: DJ, a trainer with a decade of training experience worldwide
+weight: 1.1
 ---
 The goal of the trainer is to facilitate the participants' understanding of a specific topic. In the context of online security training, the main goal of a trainer is to facilitate the participants' understanding of online security risks and solutions, apply it to their real experiences, and make the decision to change their behavior and practices in using the Internet. There are five kinds of trainer behavior that impede this goal:
 
@@ -75,4 +76,3 @@ If you recognize any of these indicators, you should stop and ask questions. If 
 If you sense the energy in the room is low, and the participants are not paying attention, address it and do something about it by either taking a quick break or doing an energizer activity.
 
 Be OK with being interrupted. Keeping yourself from the monologue-r behavior is more than what you do during the lecture. At the start of your training workshop, you need to negotiate with the participants about acceptable behavior during the event. Let them know that it is not acceptable for you to be speaking all the time, and having long lectures that the participants are not interested in, and ask them to interrupt you when they feel that they no longer have the headspace and attention span to listen to more.
-
