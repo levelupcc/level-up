@@ -1,4 +1,4 @@
-/* NOTE: THIS IS VERY ROUGH AND WILL BE HEAVILY REFACTORED AS I GO ALONG */
+/* note: THIS IS VERY ROUGH AND WILL BE HEAVILY REFACTORED AS I GO ALONG */
 @import url(https://fonts.googleapis.com/css?family=Arvo:400,400italic);
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300);
 :root, .site-header-description {
@@ -63,9 +63,20 @@ h4 {
 .site-header-description {
   line-height: 1; }
 
+.main-menu ul li {
+  display: none; }
+
+.main-menu li:focus li,
+.main-menu li:hover li {
+  display: block; }
+
 .nav-block, .main-menu {
-  min-width: 30%;
-  margin-right: 11px; }
+  min-width: 32%;
+  margin-bottom: 15px; }
+
+.main-menu {
+  min-width: 20vw;
+  line-height: 1.2; }
 
 .section-block, .top-section-block {
   min-width: 100%;
@@ -73,10 +84,10 @@ h4 {
   padding: 1rem; }
 
 .top-section-block {
-  min-width: 65%; }
+  min-width: 67%;
+  margin-left: 11px; }
 
 .main-block {
-  min-height: 70vh;
   padding: 15px 50px 30px;
   display: -webkit-box;
   display: -webkit-flex;
@@ -117,6 +128,9 @@ body {
 .main-menu {
   color: #F3B968; }
 
+.main-menu ul {
+  background-color: #65B2B9; }
+
 .main-menu ul a {
   color: #ffffff; }
 
@@ -124,27 +138,6 @@ body {
 .main-menu ul a:hover {
   background-color: #ffffff;
   color: #24929B; }
-
-.main-menu ul li {
-  position: absolute;
-  height: 1px;
-  width: 1px;
-  clip: rect(1px 1px 1px 1px);
-  clip: rect(1px, 1px, 1px, 1px);
-  clip-path: polygon(1px 1px, 1px 1px, 1px 1px, 1px 1px);
-  -webkit-clip-path: polygon(1px 1px, 1px 1px, 1px 1px, 1px 1px);
-  overflow: hidden;
-  background-color: #65B2B9; }
-
-.main-menu li:focus li,
-.main-menu li:hover li {
-  position: relative;
-  width: auto;
-  height: auto;
-  clip: auto;
-  -webkit-clip-path: none;
-          clip-path: none;
-  overflow: visible; }
 
 .section-block, .top-section-block {
   background-color: #ffffff; }

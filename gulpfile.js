@@ -77,6 +77,16 @@ gulp.task('minify-images', function () {
         .pipe(gulp.dest('./img/'));
 });
 
+
+/**
+ * Build the Jekyll Site for production
+ */
+gulp.task('jekyll-build-prod', ['minify-images'], function (done) {
+    browserSync.notify(messages.jekyllBuild);
+    return cp.spawn('jekyll', ['build'], {stdio: 'inherit'})
+        .on('close', done);
+});
+
 /**
  * Default task, running just `gulp` will compile the sass,
  * compile the jekyll site, launch BrowserSync & watch files.
