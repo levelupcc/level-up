@@ -1,90 +1,138 @@
-// note: this is very rough and will be heavily refactored as i go along
+/* note: THIS IS VERY ROUGH AND WILL BE HEAVILY REFACTORED AS I GO ALONG */
 
 // typography - following dev's notes but will develop a scaling typo system later
-@import url(https://fonts.googleapis.com/css?family=Arvo);
+@import url(https://fonts.googleapis.com/css?family=Arvo:400,400italic);
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300);
 
+$serif: "Arvo", serif;
+$sans-serif: "Roboto", sans-serif;
+
 :root {
-  font: 16px 'Roboto', sans-serif;
-  line-height: 26px;
+	font: 16px $sans-serif;
 }
 
-.site-header {
-  font: 16px 'Arvo', serif;
+h1, h2, h3, h4, nav {
+	font-family: $serif;
 }
-.site-header-description {
-  @extend .site-header;
-  font-style: italic;
-}
-
-.menu {
-  font: 18px 'Arvo', serif;
-  line-height: 42px;
-}
-.menu ul {
-  @extend .main-nav;
-  font-size: 14px;
-  line-height: 30px;
-}
-.site-footer {
- font-family: 'Arvo', serif;
-}
-
-h1 {
-  font-family: 48px 'Arvo', serif;
-  line-height: 58px;
-}
-h2 {
-  @extend h1;
-  font-size: 36px;
-  line-height: 44px;
-}
-h3 {
-  @extend h1;
-  font-size: 28px;
-  line-height: 32px;
+h1, h2, h3, h4, nav {
+	color: #24929B;
 }
 h4 {
-  @extend h1;
-  font-size: 16px;
-  line-height: 36px;
+	color: #F0A742;
+}
+h1 { font-size: 2.4rem; }
+h2 { font-size: 2rem; }
+h3 { font-size: 1.2rem; }
+h4 { font-size: 1rem; }
+
+.site-header-description {
+	@extend :root;
+	font-family: $serif;
+	font-style: italic;
+	color: white;
+}
+
+.main-menu {
+  font: $serif;
+  line-height: 42px;
+}
+.main-menu ul {
+  @extend nav;
+  font-size: 14px;
+  line-height: 30px;
 }
 
 //layout
 .site-header {
-  display: inline-block;
+	display: flex;
+	justify-content: center;
+	height: 10vh;
+	padding: 1.5rem 0;
 }
 
-// styling
+.site-header-title,
+.site-header-description {
+	display: inline;
+}
+
+.site-header-title {
+	font-size: 2.5em;
+	line-height: 0;
+	margin-top: 1rem;
+	margin-right: 32rem;
+}
+.site-header-description {
+	line-height: 1;
+}
+
+.nav-block {
+	min-width: 30%;
+	margin-right: 11px;
+}
+
+.section-block {
+	min-width: 100%;
+	margin-bottom: 15px;
+	padding: 1rem;
+}
+
+.top-section-block {
+	@extend .section-block;
+	min-width: 65%;
+}
+
+.main-block {
+	min-height: 70vh;
+	padding: 15px 50px 30px;
+
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.site-footer {
+	padding: 1rem 6%;
+	height: 7.1vh;
+}
+.site-footer-link {
+	margin-right: 2.4rem;
+}
+
+// styles
 body {
-  background: #E7E7ED;
-  color: #666666;
-  font-size: 16px;
-}
-
-nav, footer, main {
-  background-color: #ffffff;
+	background-color: #E7E7ED;
 }
 
 .site-header {
-  background-color: #F0A742;
-  color: white;
-  display: inline-block;
+	background-color: #F0A742;
+	color: white;
 }
 
-.menu {
+.site-footer {
+	background-color: #24929B;
+}
+.site-header-link,
+.site-footer-link {
+	color: white;
+}
+
+.nav-block {
+	background-color: #ffffff;
+}
+
+.main-menu {
+	@extend .nav-block;
   color: #F3B968;
 }
-.menu ul a {
+.main-menu ul a {
   color: #ffffff;
 }
-.menu ul a:focus,
-.menu ul a:hover {
+.main-menu ul a:focus,
+.main-menu ul a:hover {
   background-color: #ffffff;
   color: #24929B;
 }
-
-.menu ul li {
+.main-menu ul li {
   position: absolute;
   height: 1px;
   width: 1px;
@@ -93,12 +141,10 @@ nav, footer, main {
   clip-path: polygon(1px 1px, 1px 1px, 1px 1px, 1px 1px);
   -webkit-clip-path: polygon(1px 1px, 1px 1px, 1px 1px, 1px 1px);
   overflow: hidden;
-
   background-color: #65B2B9;
 }
-
-.menu li:focus li,
-.menu li:hover li {
+.main-menu li:focus li,
+.main-menu li:hover li {
   position: relative;
   width: auto;
   height: auto;
@@ -107,27 +153,30 @@ nav, footer, main {
   overflow: visible;
 }
 
+.section-block {
+	background-color: #ffffff;
+}
 .site-footer {
   background-color: #24929B;
   color: white;
 }
 
-.site-footer a:focus,
-.site-footer a:hover  {
+.site-footer-link:focus,
+.site-footer-link:hover  {
   color: #F0A742;
 }
+
 // overrides
-a {
-  text-decoration: none;
-  color: inherit;
-}
+
 ul {
-  list-style-type: none;
+	list-style-type: none;
 }
 
-header, footer, main, section {
-  min-width: 100%;
-  border: 0;
-  margin: 0;
-  padding: 0;
+a {
+	text-decoration: none;
+	color: inherit;
+}
+
+* {
+	box-sizing: border-box;
 }
