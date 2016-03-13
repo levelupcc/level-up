@@ -1,4 +1,3 @@
-/* note: THIS IS VERY ROUGH AND WILL BE HEAVILY REFACTORED AS I GO ALONG */
 @import url(https://fonts.googleapis.com/css?family=Arvo:400,400italic);
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300);
 :root, .site-header-description {
@@ -32,12 +31,13 @@ h4 {
 
 .main-menu {
   font: "Arvo", serif;
-  line-height: 42px; }
+  line-height: 1.1; }
 
 .main-menu ul {
-  font-size: 14px;
-  line-height: 30px; }
+  font-size: .9rem;
+  line-height: 2; }
 
+/* note: THIS IS VERY ROUGH AND WILL BE HEAVILY REFACTORED AS I GO ALONG */
 .site-header {
   display: -webkit-box;
   display: -webkit-flex;
@@ -56,27 +56,12 @@ h4 {
 
 .site-header-title {
   font-size: 2.5em;
-  line-height: 0;
-  margin-top: 1rem;
+  margin-top: -.6rem;
   margin-right: 32rem; }
 
-.site-header-description {
-  line-height: 1; }
-
-.main-menu ul li {
-  display: none; }
-
-.main-menu li:focus li,
-.main-menu li:hover li {
-  display: block; }
-
-.nav-block, .main-menu {
-  min-width: 32%;
+.nav-block {
+  width: 32%;
   margin-bottom: 15px; }
-
-.main-menu {
-  min-width: 20vw;
-  line-height: 1.2; }
 
 .section-block, .top-section-block {
   min-width: 100%;
@@ -108,58 +93,73 @@ h4 {
 .site-footer-link {
   margin-right: 2.4rem; }
 
-body {
+.site-header,
+.site-header-link {
+  background-color: #F0A742;
+  color: #ffffff; }
+
+.main-block {
   background-color: #E7E7ED; }
 
-.site-header {
-  background-color: #F0A742;
-  color: white; }
+.nav-block,
+.section-block,
+.top-section-block {
+  background-color: #ffffff; }
 
 .site-footer {
   background-color: #24929B; }
 
-.site-header-link,
 .site-footer-link {
-  color: white; }
-
-.nav-block, .main-menu {
-  background-color: #ffffff; }
-
-.main-menu {
-  color: #F3B968; }
-
-.main-menu ul {
-  background-color: #65B2B9; }
-
-.main-menu ul a {
   color: #ffffff; }
-
-.main-menu ul a:focus,
-.main-menu ul a:hover {
-  background-color: #ffffff;
-  color: #24929B; }
-
-.section-block, .top-section-block {
-  background-color: #ffffff; }
-
-.site-footer {
-  background-color: #24929B;
-  color: white; }
 
 .site-footer-link:focus,
 .site-footer-link:hover {
   color: #F0A742; }
 
-ul {
-  list-style-type: none; }
+.main-menu {
+  min-width: 20vw; }
 
-a {
-  text-decoration: none;
-  color: inherit; }
+.main-menu li {
+  padding: .5rem; }
 
-* {
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box; }
+.main-menu ul li,
+.main-menu ul li ul {
+  display: none; }
+
+.main-menu li:focus li,
+.main-menu li:hover li,
+.main-menu ul li:focus ul,
+.main-menu ul li:hover ul {
+  display: block; }
+
+.main-menu ul {
+  position: absolute;
+  top: -webkit-calc(12%);
+  top: calc(12%);
+  left: -webkit-calc(34%);
+  left: calc(34%);
+  width: 61.5vw;
+  height: auto;
+  overflow: hidden; }
+
+.main-menu ul > li ul {
+  position: relative; }
+
+.main-menu a {
+  color: #F0A742; }
+
+.main-menu ul {
+  background-color: #65B2B9;
+  color: #F3B968; }
+
+.main-menu ul a {
+  background-color: #65B2B9;
+  color: #ffffff; }
+
+.main-menu ul a:hover,
+.main-menu ul a:focus {
+  background-color: #ffffff;
+  color: #24929B; }
 
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 /**
@@ -519,6 +519,22 @@ table {
 td,
 th {
   padding: 0; }
+
+/* Overrides
+   ========================================================================== */
+/**
+ * Custom overrides
+ */
+ul {
+  list-style-type: none; }
+
+a {
+  text-decoration: none;
+  color: inherit; }
+
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box; }
 
 /**
  * Syntax highlighting styles

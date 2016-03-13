@@ -3,13 +3,10 @@ layout: default
 title: Home
 ---
 <main class="main-block">
-  <nav class="nav-block">
-      {% include navigation.html context="/" %}
-  </nav>
 
   <section class="top-section-block">
     <h1>How To Use This Site</h1>
-  	<p>Here's how to use this site <a href=""> >> </a></p>
+	  <p>Here's how to use this site <a href=""> >> </a></p>
   </section>
 
   <section class="section-block">
@@ -20,17 +17,5 @@ title: Home
   <section class="section-block">
     <h2>News and Updates</h2>
     <a href="">That last thing that happened was >></a>
-
-    <ul class="post-list">
-      {% for post in site.posts %}
-        <li>
-          <h2>
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-          </h2>
-        </li>
-      {% endfor %}
-    </ul>
   </section>
-
 </main>

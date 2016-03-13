@@ -1,48 +1,5 @@
 /* note: THIS IS VERY ROUGH AND WILL BE HEAVILY REFACTORED AS I GO ALONG */
 
-// typography - following dev's notes but will develop a scaling typo system later
-@import url(https://fonts.googleapis.com/css?family=Arvo:400,400italic);
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,300);
-
-$serif: "Arvo", serif;
-$sans-serif: "Roboto", sans-serif;
-
-:root {
-	font: 16px $sans-serif;
-}
-
-h1, h2, h3, h4, nav {
-	font-family: $serif;
-}
-h1, h2, h3, h4, nav {
-	color: #24929B;
-}
-h4 {
-	color: #F0A742;
-}
-h1 { font-size: 2.4rem; }
-h2 { font-size: 2rem; }
-h3 { font-size: 1.2rem; }
-h4 { font-size: 1rem; }
-
-.site-header-description {
-	@extend :root;
-	font-family: $serif;
-	font-style: italic;
-	color: white;
-}
-
-.main-menu {
-  font: $serif;
-  line-height: 42px;
-}
-.main-menu ul {
-  @extend nav;
-  font-size: 14px;
-  line-height: 30px;
-}
-
-//layout
 .site-header {
 	display: flex;
 	justify-content: center;
@@ -57,30 +14,13 @@ h4 { font-size: 1rem; }
 
 .site-header-title {
 	font-size: 2.5em;
-	line-height: 0;
-	margin-top: 1rem;
+	margin-top: -.6rem;
 	margin-right: 32rem;
-}
-.site-header-description {
-	line-height: 1;
-}
-
-.main-menu ul li {
-  display: none;
-}
-.main-menu li:focus li,
-.main-menu li:hover li {
-	display: block;
 }
 
 .nav-block {
-	min-width: 32%;
+	width: 32%;
 	margin-bottom: 15px;
-}
-
-.main-menu {
-	min-width: 20vw;
-	line-height: 1.2;
 }
 
 .section-block {
@@ -109,70 +49,4 @@ h4 { font-size: 1rem; }
 }
 .site-footer-link {
 	margin-right: 2.4rem;
-}
-
-// styles
-body {
-	background-color: #E7E7ED;
-}
-
-.site-header {
-	background-color: #F0A742;
-	color: white;
-}
-
-.site-footer {
-	background-color: #24929B;
-}
-.site-header-link,
-.site-footer-link {
-	color: white;
-}
-
-.nav-block {
-	background-color: #ffffff;
-}
-
-.main-menu {
-	@extend .nav-block;
-  color: #F3B968;
-}
-.main-menu ul {
-  background-color: #65B2B9;
-}
-.main-menu ul a {
-  color: #ffffff;
-}
-.main-menu ul a:focus,
-.main-menu ul a:hover {
-  background-color: #ffffff;
-  color: #24929B;
-}
-
-.section-block {
-	background-color: #ffffff;
-}
-.site-footer {
-  background-color: #24929B;
-  color: white;
-}
-
-.site-footer-link:focus,
-.site-footer-link:hover  {
-  color: #F0A742;
-}
-
-// overrides
-
-ul {
-	list-style-type: none;
-}
-
-a {
-	text-decoration: none;
-	color: inherit;
-}
-
-* {
-	box-sizing: border-box;
 }

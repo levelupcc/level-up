@@ -422,3 +422,23 @@ td,
 th {
   padding: 0;
 }
+
+/* Overrides
+   ========================================================================== */
+
+/**
+ * Custom overrides
+ */
+
+ ul {
+ 	list-style-type: none;
+ }
+
+ a {
+ 	text-decoration: none;
+ 	color: inherit;
+ }
+
+ * {
+ 	box-sizing: border-box;
+ }

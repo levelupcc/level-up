@@ -1,0 +1,48 @@
+// base
+.main-menu {
+	min-width: 20vw;
+}
+.main-menu li {
+  padding: .5rem;
+}
+
+// behavior
+.main-menu ul li,
+.main-menu ul li ul {
+  display: none;
+}
+.main-menu li:focus li,
+.main-menu li:hover li,
+.main-menu ul li:focus ul,
+.main-menu ul li:hover ul {
+	display: block;
+}
+.main-menu ul {
+  position: absolute;
+  top: calc(12%);
+  left: calc(34%);
+  width: 61.5vw;
+  height: auto;
+  overflow: hidden;
+}
+.main-menu ul > li ul {
+  position: relative;
+}
+
+// style
+.main-menu a {
+	color: #F0A742;
+}
+.main-menu ul {
+  background-color: #65B2B9;
+	color: #F3B968;
+}
+.main-menu ul a {
+  background-color: #65B2B9;
+  color: #ffffff;
+}
+.main-menu ul a:hover,
+.main-menu ul a:focus {
+	background-color: #ffffff;
+  color: #24929B;
+}

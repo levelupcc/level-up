@@ -1,0 +1,40 @@
+@import url(https://fonts.googleapis.com/css?family=Arvo:400,400italic);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300);
+
+$serif: "Arvo", serif;
+$sans-serif: "Roboto", sans-serif;
+
+:root {
+	font: 16px $sans-serif;
+}
+
+h1, h2, h3, h4, nav {
+	font-family: $serif;
+}
+h1, h2, h3, h4, nav {
+	color: #24929B;
+}
+h4 {
+	color: #F0A742;
+}
+h1 { font-size: 2.4rem; }
+h2 { font-size: 2rem; }
+h3 { font-size: 1.2rem; }
+h4 { font-size: 1rem; }
+
+.site-header-description {
+	@extend :root;
+	font-family: $serif;
+	font-style: italic;
+	color: white;
+}
+
+.main-menu {
+  font: $serif;
+  line-height: 1.1;
+}
+.main-menu ul {
+  @extend nav;
+  font-size: .9rem;
+  line-height: 2;
+}

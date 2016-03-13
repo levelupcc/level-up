@@ -1,7 +1,9 @@
 @charset "utf-8";
 
 // partials
+@import "typography";
 @import "base";
-@import "layout";
+@import "style";
+@import "nav";
 @import "normalize";
 @import "syntax-highlighting";
