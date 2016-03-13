@@ -19,19 +19,20 @@
 }
 
 .nav-block {
-	width: 32%;
+	min-width: 26.5vw;
 	margin-bottom: 15px;
 }
 
 .section-block {
 	min-width: 100%;
+	min-height: 25vh;
 	margin-bottom: 15px;
 	padding: 1rem;
 }
 
 .top-section-block {
 	@extend .section-block;
-	min-width: 67%;
+	min-width: 60vw;
 	margin-left: 11px;
 }
 
