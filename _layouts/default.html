@@ -4,7 +4,9 @@
   <body>
     {% include header.html %}
     <main class="main-block">
-      {% include navigation.html context="/" %}
+      <nav class="nav-block">
+        {% include navigation.html context="/" %}
+      </nav>
         {{ content }}
     </main>
     {% include footer.html %}

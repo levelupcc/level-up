@@ -1,6 +1,5 @@
-<nav class="nav-block">
-  {% capture html %}
-  <ul class="main-menu">
+{% capture html %}
+  <ul class="menu">
       {% if include.context == "/_pages/" %}
           <li class="{% if page.url == "/" %}active{% endif %}">
               <a href="{{ site.baseurl }}/">{{ site.title }}</a>
@@ -22,5 +21,4 @@
 
       {% endfor %}
   </ul>
-  {% endcapture %}{{ html | strip_newlines | replace:'    ','' | replace:'    ','' | replace:'  ',' ' }}
-</nav>
+{% endcapture %}{{ html | strip_newlines | replace:'    ','' | replace:'    ','' | replace:'  ',' ' }}
