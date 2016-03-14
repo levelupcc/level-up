@@ -43,38 +43,41 @@ h4 {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  -webkit-box-pack: center;
-  -webkit-justify-content: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-  height: 10vh;
-  padding: 1.5rem 0; }
-
-.site-header-title,
-.site-header-description {
-  display: inline; }
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  height: 4.5rem;
+  padding: 1.5rem 6%; }
 
 .site-header-title {
-  font-size: 2.5em;
-  margin-top: -.6rem;
+  font-size: 2.5rem;
   margin-right: 32rem; }
 
 .nav-block {
-  min-width: 30.5vw;
+  -webkit-flex-basis: 33%;
+      -ms-flex-preferred-size: 33%;
+          flex-basis: 33%;
   margin-bottom: 15px; }
 
 .section-block, .top-section-block {
-  min-width: 100%;
-  min-height: 25vh;
+  -webkit-flex-basis: 100%;
+      -ms-flex-preferred-size: 100%;
+          flex-basis: 100%;
   margin-bottom: 15px;
+  min-height: 8.3rem;
   padding: 1rem; }
 
 .top-section-block {
-  min-width: 60vw;
+  -webkit-flex-basis: 66%;
+      -ms-flex-preferred-size: 66%;
+          flex-basis: 66%;
   margin-left: 11px; }
 
 .main-block {
-  padding: 15px 50px 30px;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -85,11 +88,28 @@ h4 {
   -webkit-box-pack: center;
   -webkit-justify-content: center;
       -ms-flex-pack: center;
-          justify-content: center; }
+          justify-content: center;
+  -webkit-box-align: stretch;
+  -webkit-align-items: stretch;
+      -ms-flex-align: stretch;
+          align-items: stretch;
+  min-height: 70rem;
+  padding: 15px 50px 30px; }
 
 .site-footer {
   padding: 1rem 6%;
-  height: 7.1vh; }
+  height: 4rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center; }
 
 .site-footer-link {
   margin-right: 2.4rem; }
@@ -132,11 +152,11 @@ h4 {
 
 .menu ul {
   position: absolute;
-  top: -webkit-calc(12%);
-  top: calc(12%);
-  left: -webkit-calc(35.5%);
-  left: calc(35.5%);
-  width: 60vw;
+  top: -webkit-calc(12.3%);
+  top: calc(12.3%);
+  left: -webkit-calc(35.1%);
+  left: calc(35.1%);
+  min-width: 61.2%;
   height: auto;
   overflow: hidden;
   z-index: 1; }

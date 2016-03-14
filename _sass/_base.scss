@@ -2,51 +2,53 @@
 
 .site-header {
 	display: flex;
-	justify-content: center;
-	height: 10vh;
-	padding: 1.5rem 0;
-}
-
-.site-header-title,
-.site-header-description {
-	display: inline;
+	flex-wrap: wrap;
+	align-items: center;
+	height: 4.5rem;
+	padding: 1.5rem 6%;
 }
 
 .site-header-title {
-	font-size: 2.5em;
-	margin-top: -.6rem;
+	font-size: 2.5rem;
 	margin-right: 32rem;
 }
 
 .nav-block {
-	min-width: 30.5vw;
+	flex-basis: 33%;
 	margin-bottom: 15px;
 }
 
 .section-block {
-	min-width: 100%;
-	min-height: 25vh;
+	flex-basis: 100%;
 	margin-bottom: 15px;
+	min-height: 8.3rem;
 	padding: 1rem;
 }
 
 .top-section-block {
 	@extend .section-block;
-	min-width: 60vw;
+	flex-basis: 66%;
 	margin-left: 11px;
 }
 
 .main-block {
-	padding: 15px 50px 30px;
-
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
+	align-items: stretch;
+
+	min-height: 70rem;
+
+	padding: 15px 50px 30px;
 }
 
 .site-footer {
 	padding: 1rem 6%;
-	height: 7.1vh;
+	height: 4rem;
+
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
 }
 .site-footer-link {
 	margin-right: 2.4rem;
