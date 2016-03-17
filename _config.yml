@@ -8,8 +8,8 @@
 # Site settings
 title: Prototype
 description: "Sample site"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://hedr.github.io/level-up" # the base hostname & protocol for your site
+baseurl: "/level-up/" # the subpath of your site, e.g. /blog
+url: "http://hedr.github.io/level-up/" # the base hostname & protocol for your site
 
 exclude: ["node_modules", "gulpfile.js", "package.json"]
 include: ["_pages"]
