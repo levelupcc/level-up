@@ -33,7 +33,7 @@ h4 { font-size: 1rem; }
 
 .menu {
   font: $serif;
-  line-height: 1.1;
+  line-height: 2;
 }
 .menu ul {
   @extend nav;
@@ -57,18 +57,14 @@ h4 { font-size: 1rem; }
 }
 
 .nav-block {
-	flex-basis: 30.5%;
+	flex-basis: 28%;
 	margin-bottom: 15px;
-  padding: 1.5rem;
-}
-.nav-block > .menu > li {
-  margin-bottom: .7rem;
 }
 
 .section-block {
 	flex-basis: 100%;
 	margin-bottom: 15px;
-	padding: 1.5rem;
+	padding: 2rem 2rem 3rem;
 }
 
 .section-block_top {
@@ -83,7 +79,7 @@ h4 { font-size: 1rem; }
 	justify-content: center;
 	align-items: stretch;
 
-  min-height: 31.9rem;
+  min-height: 35rem;
 
 	padding: 15px 25px 30px;
 }
