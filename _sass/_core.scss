@@ -59,15 +59,16 @@ h4 { font-size: 1rem; }
 .nav-block {
 	flex-basis: 30.5%;
 	margin-bottom: 15px;
+  padding: 1.5rem;
 }
 .nav-block > .menu > li {
-  padding: .7rem;
+  margin-bottom: .7rem;
 }
 
 .section-block {
 	flex-basis: 100%;
 	margin-bottom: 15px;
-	padding: 1rem;
+	padding: 1.5rem;
 }
 
 .section-block_top {
