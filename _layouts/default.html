@@ -7,11 +7,16 @@
 
     {% include header.html %}
 
+    <main class="main-block">
+
       <nav class="nav-block">
         {% include navigation.html context="/" %}
       </nav>
 
+
       {{ content }}
+
+    </main>
 
     {% include footer.html %}
 
