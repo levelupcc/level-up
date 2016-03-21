@@ -1,11 +1,42 @@
-/**
- * Reset some basic elements
- */
-body, h1, h2, h3, h4, h5, h6,
-p, blockquote, pre, hr,
-dl, dd, ol, ul, figure {
-  margin: 0;
-  padding: 0; }
+.menu ul li,
+.menu ul li ul {
+  display: none; }
+
+.menu li:focus li,
+.menu li:hover li,
+.menu ul li:focus ul,
+.menu ul li:hover ul {
+  display: block; }
+
+.menu ul {
+  position: absolute;
+  top: -webkit-calc(12.3%);
+  top: calc(12.3%);
+  left: -webkit-calc(35.1%);
+  left: calc(35.1%);
+  min-width: 61.2%;
+  height: auto;
+  overflow: hidden;
+  z-index: 1; }
+
+.menu ul > li ul {
+  position: relative; }
+
+.menu a {
+  color: #F0A742; }
+
+.menu ul {
+  background-color: #65B2B9;
+  color: #F3B968; }
+
+.menu ul a {
+  background-color: #65B2B9;
+  color: #ffffff; }
+
+.menu ul a:hover,
+.menu ul a:focus {
+  background-color: #ffffff;
+  color: #24929B; }
 
 /**
  * Syntax highlighting styles
