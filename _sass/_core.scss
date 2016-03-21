@@ -31,13 +31,10 @@ h4 { font-size: 1rem; }
 	color: white;
 }
 
-.menu {
+.nav-block > ul {
+	@extend nav;
   font: $serif;
-  line-height: 2;
-}
-.menu ul {
-  @extend nav;
-  font-size: .9rem;
+	font-size: 1.2rem;
   line-height: 2;
 }
 
@@ -81,7 +78,7 @@ h4 { font-size: 1rem; }
 
   min-height: 35rem;
 
-	padding: 15px 25px 30px;
+	padding: 15px 50px 30px;
 }
 
 .site-footer {
@@ -96,7 +93,7 @@ h4 { font-size: 1rem; }
 	margin-right: 2.4rem;
 }
 
-// STYLE
+// STYLES
 
 .site-header,
 .site-header-link {
@@ -111,6 +108,10 @@ h4 { font-size: 1rem; }
 .nav-block,
 .section-block {
 	background-color: #ffffff;
+}
+
+.section-block-link {
+	color: #F0A742;
 }
 
 .site-footer {
