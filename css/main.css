@@ -117,7 +117,8 @@ h4 {
   -webkit-flex-basis: 33%;
       -ms-flex-preferred-size: 33%;
           flex-basis: 33%;
-  margin-bottom: 15px; }
+  margin-bottom: 15px;
+  padding: .5rem; }
 
 .section-block, .section-block_top, .section-block_post {
   -webkit-flex-basis: 100%;
@@ -219,8 +220,8 @@ h4 {
 
 .menu ul {
   position: absolute;
-  top: -webkit-calc(13.4%);
-  top: calc(13.4%);
+  top: -webkit-calc(13.3%);
+  top: calc(13.3%);
   left: -webkit-calc(35%);
   left: calc(35%);
   min-width: 61.3%;
@@ -231,8 +232,8 @@ h4 {
 .menu ul > li ul {
   position: relative; }
 
-.menu ul li {
-  padding: .1rem; }
+.menu > li {
+  padding: .2rem; }
 
 .menu a {
   color: #F0A742; }

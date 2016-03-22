@@ -17,7 +17,7 @@
 }
 .menu ul {
   position: absolute;
-  top: calc(13.4%);
+  top: calc(13.3%);
   left: calc(35%);
   min-width: 61.3%;
   height: auto;
@@ -27,8 +27,8 @@
 .menu ul > li ul {
   position: relative;
 }
-.menu ul li {
-  padding: .1rem;
+.menu > li {
+  padding: .2rem;
 }
 
 // style
