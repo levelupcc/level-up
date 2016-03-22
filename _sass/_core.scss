@@ -82,13 +82,13 @@ h4 { font-size: 1rem; }
 .main-block {
 	display: flex;
 	justify-content: center;
-	height: calc(100%);
+	min-height: 40rem;
 	padding: 15px 50px 30px;
 }
 
 .nav-block {
 	flex-basis: 33%;
-	max-height: 16rem;
+	max-height: 18rem;
 	padding: 1rem;
 	margin-bottom: 15px;
 }
@@ -96,13 +96,14 @@ h4 { font-size: 1rem; }
 .section-block {
 	flex-basis: 100%;
 	margin-bottom: 15px;
+	min-height: 16rem;
 	padding: 2rem;
 }
 
 .section-block_top {
 	@extend .section-block;
 	flex-basis: 66%;
-	max-height: 16rem;
+	max-height: 18rem;
 	margin-left: 11px;
 }
 
@@ -147,6 +148,8 @@ h4 { font-size: 1rem; }
 	background-color: #ffffff;
 }
 
+.page-author,
+.post-author,
 .section-block-link {
 	color: #F0A742;
 }
@@ -156,9 +159,6 @@ h4 { font-size: 1rem; }
 	@extend h2;
 }
 
-.post-author {
-	color: #F0A742;
-}
 
 .site-footer {
   background-color: #24929B;

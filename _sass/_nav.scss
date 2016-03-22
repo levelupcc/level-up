@@ -14,20 +14,20 @@
 .menu li:hover li,
 .menu ul li:focus ul,
 .menu ul li:hover ul {
-	display: block;
+  display: block;
 }
 .menu ul {
   position: absolute;
   top: calc(13.3%);
   left: calc(35%);
+  overflow: hidden;
   min-width: 61.3%;
   overflow: hidden;
 	z-index: 1;
 }
 .menu ul > li ul {
-  position: relative
+  position: relative;
 }
-
 // style
 .menu a {
 	color: #F0A742;
