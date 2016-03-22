@@ -97,10 +97,9 @@ h4 { font-size: 1rem; }
 .nav-block {
 	flex-basis: 33%;
 	margin-bottom: 15px;
-	padding: 2rem;
 }
-.nav-block > .menu li {
-  padding: .5rem;
+.nav-block > .menu > li {
+  padding: 2rem;
 }
 
 .section-block {

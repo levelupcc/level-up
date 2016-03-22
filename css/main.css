@@ -497,11 +497,10 @@ h4 {
   -webkit-flex-basis: 33%;
       -ms-flex-preferred-size: 33%;
           flex-basis: 33%;
-  margin-bottom: 15px;
-  padding: 2rem; }
+  margin-bottom: 15px; }
 
-.nav-block > .menu li {
-  padding: .5rem; }
+.nav-block > .menu > li {
+  padding: 2rem; }
 
 .section-block, .section-block_top, .section-block_post {
   -webkit-flex-basis: 100%;
