@@ -38,9 +38,6 @@ h4 { font-size: 1rem; }
   line-height: 2;
 }
 
-.post-title-link {
-	text-transform: uppercase;
-}
 // BASE
 
 .site-header {
@@ -121,6 +118,11 @@ h4 { font-size: 1rem; }
 	min-width: calc(100%);
 }
 
+.-shift {
+	padding-left: 37%;
+}
+
+
 .site-footer {
 	display: flex;
 	align-items: center;
@@ -150,7 +152,8 @@ h4 { font-size: 1rem; }
 
 .page-author,
 .post-author,
-.section-block-link {
+.section-block-link,
+.curriculum-activity-link {
 	color: #F0A742;
 }
 
