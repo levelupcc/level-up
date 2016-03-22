@@ -20,15 +20,11 @@
   top: calc(13.3%);
   left: calc(35%);
   min-width: 61.3%;
-  height: auto;
   overflow: hidden;
 	z-index: 1;
 }
 .menu ul > li ul {
   position: relative;
-}
-.menu > li {
-  padding: .2rem;
 }
 
 // style
