@@ -60,10 +60,6 @@ h4 { font-size: 1rem; }
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
-	align-items: stretch;
-
-  min-height: 35rem;
-
 	padding: 15px 50px 30px;
 }
 
@@ -85,16 +81,16 @@ h4 { font-size: 1rem; }
 
 .main-block {
 	display: flex;
-	flex-wrap: wrap;
 	justify-content: center;
-	align-items: stretch;
+	height: calc(100%);
 	padding: 15px 50px 30px;
 }
 
 .nav-block {
 	flex-basis: 33%;
-	margin-bottom: 15px;
+	max-height: 16rem;
 	padding: 1rem;
+	margin-bottom: 15px;
 }
 
 .section-block {
@@ -106,6 +102,7 @@ h4 { font-size: 1rem; }
 .section-block_top {
 	@extend .section-block;
 	flex-basis: 66%;
+	max-height: 16rem;
 	margin-left: 11px;
 }
 
@@ -124,12 +121,10 @@ h4 { font-size: 1rem; }
 }
 
 .site-footer {
-	padding: 1rem 6%;
-	height: 4rem;
-
 	display: flex;
-	flex-wrap: wrap;
 	align-items: center;
+	height: 4rem;
+	padding: 1rem 6%;
 }
 .site-footer-link {
 	margin-right: 2.4rem;
@@ -156,7 +151,7 @@ h4 { font-size: 1rem; }
 	color: #F0A742;
 }
 
-.page-header-title-link,
+.post-header-title-link,
 .post-title-link {
 	@extend h2;
 }
