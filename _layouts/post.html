@@ -1,15 +1,38 @@
 ---
 layout: default
 ---
+<section class="section-block_top">
+  <h1>
+    <a href="{{ site.url }}{{ site.baseurl }}news">News + Updates</a>
+  </h1>
+</section>
+
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+  <section class="section-block_post" itemprop="articleBody">
+    <div class="post-meta">
+      {% if page.author %}
+        <p class="post-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+          {{ page.author }}
+        </p>
+      {% endif %}
+      <p class="post-date">
+        <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+          {{ page.date | date: "%b %-d, %Y" }}
+        </time>
+      </p>
+    </div>
 
-  <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
-  </header>
+    <div class="post-content">
+      <h2 itemprop="name headline">
+        <a class="post-title-link" href="{{ post.url | prepend: site.baseurl }}">
+          {{ page.title }}
+        </a>
+      </h2>
 
-  <div class="post-content" itemprop="articleBody">
-    {{ content }}
-  </div>
+      <p class="summary">{{ page.summary }}</p>
 
+      {{ content }}
+
+    </div>
+  </section>
 </article>

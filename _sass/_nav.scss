@@ -2,7 +2,6 @@
 
 .menu ul a {
   font-size: 1rem;
-  line-height: 2;
 }
 // BEHAVIOR
 
@@ -18,9 +17,9 @@
 }
 .menu ul {
   position: absolute;
-  top: calc(17%);
-  left: calc(30.1%);
-  min-width: 63.3%;
+  top: calc(13.4%);
+  left: calc(35%);
+  min-width: 61.3%;
   height: auto;
   overflow: hidden;
 	z-index: 1;
@@ -28,11 +27,11 @@
 .menu ul > li ul {
   position: relative;
 }
+.menu ul li {
+  padding: .1rem;
+}
 
 // style
-.menu li {
-	padding: .7rem;
-}
 .menu a {
 	color: #F0A742;
 }

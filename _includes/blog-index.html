@@ -1,10 +1,14 @@
-<ul class="post-list">
-  {% for post in site.posts %}
-    <li>
-      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-    </li>
-  {% endfor %}
-</ul>
+{% for post in site.posts %}
+  <section class="section-block_post">
+    <div class="post-meta">
+      <p class="post-author">{{ post.author }}</p>
+      <p class="post-date">{{ post.date | date: "%b %-d, %Y" }}<p>
+    </div>
+    <div class="post-content">
+      <h2>
+        <a class="post-title-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </h2>
+      <p class="post-summary"> {{ post.summary }} </p>
+    </div>
+  </section>
+{% endfor %}

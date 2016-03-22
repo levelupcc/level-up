@@ -1,8 +1,6 @@
 ---
 layout: blog
-title: News
+title: News and Updates
 permalink: /news/
 hide: true
 ---
-
-These are updates blah blah
