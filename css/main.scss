@@ -1,7 +1,7 @@
 
 @charset "utf-8";
 // Import partials from `sass_dir` (defaults to `_sass`)
-@import "core",
+@import "reset",
+        "core",
         "nav",
-        "reset",
         "syntax-highlighting";
