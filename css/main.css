@@ -383,10 +383,12 @@ ul {
 :root, .site-header-description {
   font: 16px "Roboto", sans-serif; }
 
-h1, h2, .post-title-link, h3, h4, nav, .nav-block > ul {
+h1, h2, .page-header-title-link,
+.post-title-link, h3, h4, nav, .nav-block > ul {
   font-family: "Arvo", serif; }
 
-h1, h2, .post-title-link, h3, h4, nav, .nav-block > ul {
+h1, h2, .page-header-title-link,
+.post-title-link, h3, h4, nav, .nav-block > ul {
   color: #24929B; }
 
 h4 {
@@ -395,7 +397,8 @@ h4 {
 h1 {
   font-size: 2.4rem; }
 
-h2, .post-title-link {
+h2, .page-header-title-link,
+.post-title-link {
   font-size: 2rem; }
 
 h3 {

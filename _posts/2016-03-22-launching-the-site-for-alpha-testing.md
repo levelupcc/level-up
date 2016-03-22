@@ -11,5 +11,3 @@ Hello testers. This is a sample post for our blog.
 Thanks for taking the time to help us improve the site.
 
 We value your input and we'll work hard to make sure that the next round of testing will be better than the last.
-
-- Dev Team
