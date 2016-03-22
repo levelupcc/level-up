@@ -105,7 +105,8 @@ h4 { font-size: 1rem; }
 .section-block {
 	flex-basis: 100%;
 	margin-bottom: 15px;
-	padding: 2rem 2rem 3rem;
+	min-height: 5rem;
+	padding: 2rem;
 }
 
 .section-block_top {
