@@ -10,9 +10,9 @@ weight: 1.22
 
 ## Developing Shared Agreements (a.k.a. "Ground Rules") ##
 
-We all have been through those painful meetings where one person talks over others or people are having distracting side conversations, right? Well, that is why we always need to invest time in developing shared agreements before we begin a meeting or gathering. Though these are often referred to as â€œground rules,â€ we place importance on the term â€œshared agreements.â€
+We all have been through those painful meetings where one person talks over others or people are having distracting side conversations, right? Well, that is why we always need to invest time in developing shared agreements before we begin a meeting or gathering. Though these are often referred to as “ground rules,” we place importance on the term “shared agreements.”
 
-Firstly, when working with adults, the facilitator has the great importance of recognizing everyoneâ€™s experience, expertise and autonomy. To help establish working agreements as to how the group should best collaborate and work together, you can crowd-source agreements, rather than prescribe them as ground rules.
+Firstly, when working with adults, the facilitator has the great importance of recognizing everyone’s experience, expertise and autonomy. To help establish working agreements as to how the group should best collaborate and work together, you can crowd-source agreements, rather than prescribe them as ground rules.
 
 ## To begin ##
 
@@ -20,11 +20,11 @@ Note to participants that your role as a facilitator is to help the group maximi
 
 Since it is their time, ask participants what agreements would they like to make to each other for the benefit of the group and of the gathering. Naturally, a few will come up, such as no talking over other people or no phones; however, you should plan the ultimate list in advance so you can fill in any gaps that may not arise from within the group.
 
-Once you have a full list assembled, including any essential agreements from your own list, ask everyone to raise their hand if they agree with the final result â€” review each agreement one by one, and take your time. If there are any dissenting voices, facilitate a conversation where perspectives are heard and adapt agreements accordingly as the group desires.
+Once you have a full list assembled, including any essential agreements from your own list, ask everyone to raise their hand if they agree with the final result — review each agreement one by one, and take your time. If there are any dissenting voices, facilitate a conversation where perspectives are heard and adapt agreements accordingly as the group desires.
 
 Hang the final list of agreements prominently on a wall that everyone can see, and keep them up for the duration of the event. Ask participants to determine what the consequences will be if one breaks an agreement (ex: someone who breaks an agreement could go last in line for lunch, have to dance or sing to the group for 30 seconds, or clean up the room at the end of a session).
 
-Once you have the shared agreements, you will be able to refer to them to celebrate great behavior, and likewise if disruptive behavior becomes a problem. Instead of focusing on the individual, you can reference the agreement to start a conversation with the group. If issues persist, you may want to talk to disruptive participants in private to see if theyâ€™re aware of their behavior and can commit to correcting it.
+Once you have the shared agreements, you will be able to refer to them to celebrate great behavior, and likewise if disruptive behavior becomes a problem. Instead of focusing on the individual, you can reference the agreement to start a conversation with the group. If issues persist, you may want to talk to disruptive participants in private to see if they’re aware of their behavior and can commit to correcting it.
 
 ## Guidelines for shared agreements ##
 

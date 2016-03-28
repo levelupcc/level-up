@@ -6,6 +6,7 @@ author: CC
 summary: This is the summary of this page.
 weight: 1.3
 ---
+
 # The "Golden Rules" of Effective Training #
 
 This is a summary of training essentials, based on over a decade of training experience in the field. For more information about specific training techniques, please browse the additional resources throughout this site.

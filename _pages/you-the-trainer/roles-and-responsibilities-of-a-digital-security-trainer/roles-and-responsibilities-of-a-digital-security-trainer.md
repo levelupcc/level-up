@@ -8,9 +8,9 @@ weight: 1.6
 ---
 # Roles and Responsibilities of a Digital Security Trainer #
 
-As digital security trainers, we are looked upon to provide solutions and strategies for our participantsâ€™ digital safety concerns, and to furthermore consider the impact that both these concerns **and** their solutions might have on participants' physical security.
+As digital security trainers, we are looked upon to provide solutions and strategies for our participants’ digital safety concerns, and to furthermore consider the impact that both these concerns **and** their solutions might have on participants' physical security.
 
-These are real challenges and issues - whatever solutions and strategies we â€˜prescribeâ€™ or 'recommend' can either place them at further risk or save them from it.
+These are real challenges and issues - whatever solutions and strategies we ‘prescribe’ or 'recommend' can either place them at further risk or save them from it.
 
 **Therefore, it is our responsibility as digital security trainers to:**
 

@@ -12,18 +12,16 @@ weight: 1.1
 
 The goal of the digital security trainer is to facilitate the participants' understanding of specific topics. In the context of online security training, the main goal of a trainer is to facilitate the participants' understanding of online security risks and solutions, apply it to their real experiences, and make the decision to change their behavior and practices in using the Internet. Below are some common examples of trainer behavior that can impede this goal:
 
-##The Jargon-Monster
+## The Jargon-Monster ##
 
-Jargon is a bit like a â€˜secret language' that is shared among people who are experts in a particular field â€“ a shorthand in which complicated concepts get abbreviated into a single word or phrase. As long as the experts know what the jargon is, they can communicate their ideas clearly and more quickly than they would otherwise.
+Jargon is a bit like a ‘secret language' that is shared among people who are experts in a particular field – a shorthand in which complicated concepts get abbreviated into a single word or phrase. As long as the experts know what the jargon is, they can communicate their ideas clearly and more quickly than they would otherwise.
 
-*But what happens when jargon gets used in a classroom where the participants arenâ€™t experts?*
+*But what happens when jargon gets used in a classroom where the participants aren’t experts?*
 
-Jargon-Monster behavior in training is the over-use of technical terms without explaining what they mean. This behavior assumes that everyone in the room has the same background, experience and level of expertise on the topic. Ultimately, this behavior gets in the way of real learning. An effective trainer shouldnâ€™t shy away from jargon, but s/he should define specific terms during the lessons.
+Jargon-Monster behavior in training is the over-use of technical terms without explaining what they mean. This behavior assumes that everyone in the room has the same background, experience and level of expertise on the topic. Ultimately, this behavior gets in the way of real learning. An effective trainer shouldn’t shy away from jargon, but s/he should define specific terms during the lessons.
 
 
 **Some helpful ways to tame your use of jargon include:**
-
-
 
 - **The Jargon Ball:** Jargon balls let participants sound the alarm when jargon gets used. One or more soft balls (perhaps just a t-shirt wrapped up in tape) are handed out at the start of the class. Participants are invited to toss the ball at anyone who uses jargon (both trainers and other participants) in order to get them to stop and explain what they mean.
 
@@ -32,14 +30,14 @@ Jargon-Monster behavior in training is the over-use of technical terms without e
 - **Use metaphors, and use them often:** Think about the topic you are teaching and try to find practical, common-place analogies that can illustrate the concepts in a clearer way. For example, in a session on using PGP (Pretty Good Protection) to encrypt email, it might be more effective to tell participants that sending an encrypted email is like sending a padlock that only a person with the right key can open, before you try to describe the technology behind it.
 
 
-- **Use multiple and layered metaphors in explaining concepts:** One of the most common metaphors that security trainers use to describe the inherent insecurity of email, for instance, is 'itâ€™s like sending a postcard', where everyone who gets hold of the postcard (from the mailman to post-office workers) can see what the sender has written on it. A layer is added to the metaphor when the trainer explains that using HTTPS in email is like â€œputting the postcard in an envelopeâ€.
+- **Use multiple and layered metaphors in explaining concepts:** One of the most common metaphors that security trainers use to describe the inherent insecurity of email, for instance, is 'it’s like sending a postcard', where everyone who gets hold of the postcard (from the mailman to post-office workers) can see what the sender has written on it. A layer is added to the metaphor when the trainer explains that using HTTPS in email is like “putting the postcard in an envelope”.
 
 
 - **Draw it!:** Don't dismiss the effectiveness of a few stick drawings to illustrate a concept. They are more powerful teaching tools than a paragraph of words on the same topic. The challenge here for trainers is not whether or not you can draw like an artist, the challenge here is organizing how you will teach a concept. What are the processes involved in a specific session? How can you illustrate them in such a way that each process is clear to everyone?
 
-##The PowerPoint-Freak
+## The PowerPoint-Freak ##
 
-Preparing presentations for workshops is part of the standard trainerâ€™s routine, and there is undeniable value in using PowerPoint (or OpenOffice Present) in a training context. For one thing, if a trainer is dealing with a mixed-language group of participants (very common in regional and international training workshops), then having a prepared visual presentation to support the lecture can be an effective way to address language differences. Presentations coupled with a lecture also address two learner types: the visual and the auditory learners. This makes for a more effective training session.
+Preparing presentations for workshops is part of the standard trainer’s routine, and there is undeniable value in using PowerPoint (or OpenOffice Present) in a training context. For one thing, if a trainer is dealing with a mixed-language group of participants (very common in regional and international training workshops), then having a prepared visual presentation to support the lecture can be an effective way to address language differences. Presentations coupled with a lecture also address two learner types: the visual and the auditory learners. This makes for a more effective training session.
 
 However, good trainers know that a PowerPoint (Or OpenOffice Present) -based session can foster an inequality between The Trainer and The Participant. Unlike other presentation tools (i.e., drawing on butcher paper, mind-mapping on flip chart paper), a PowerPoint presentation is all about what the trainer knows and what s/he feels is important on a specific topic for the participants to know. This one-way The Trainer-to-The Participants approach that PowerPoint presentations can imply might eventually be a hindrance to getting the participants to understand concepts and apply them in their own lives, especially in the context of adult learning, where participants bring with them their own experience and expertise.
 
@@ -48,8 +46,6 @@ Generally, the way a PowerPoint-mediated session goes is that the trainer does a
 Worse, there are trainers who are really bad at preparing PowerPoint presentations. Those that copy + paste a whole bunch of text (usually from books, papers or project documents!) and expect it to explain concepts. Much worse still, those that read that copy + pasted text in place of doing an interactive session. This type of behavior belongs to the PowerPoint-Freak. It may make teaching easier for the trainer, but it definitely does not make learning easier for the participants.
 
 **There are ways of preparing PowerPoint (or OpenOffice Present) presentations that can be effective in for participant-based learning:**
-
-
 
 - **Use graphics more than text:** If you really want to use your presentation to address visual and auditory learner needs, use images on your slides coupled with a spoken lecture.
 Use text in chunks and sparingly. Presentations are not meant to be read. They are meant to support what you are saying. Don't ever copy a wall of text on your presentation.
@@ -60,7 +56,7 @@ Use text in chunks and sparingly. Presentations are not meant to be read. They a
 
 These are some guidelines, but in general PowerPoint presentations should be kept to a minimum. If you spend more time preparing PowerPoint presentations than you do preparing questions to facilitate discussions, you may want to rethink your strategy. Good trainers must remember that effective teaching methodologies, especially in adult learning, always starts with the participants experience. The ADIDS methodology, which we address in the next module, is a good way to start.
 
-##The Mouse-Dominator
+## The Mouse-Dominator ##
 One of the staples any technical training is the hands-on activity, when participants install and use new software that will enhance their safety.
 
 Every so often, a trainer will get a participant who is not as used to handling a computer as their peers, and this can trigger **Mouse Dominator** behavior. This occurs when the trainer takes over the mouse and *shows* the participant what to do instead of *allowing them to do it themselves*. This approach can easily turn a hands-on activity into a learning barrier, because the participant is left unable to learn by doing.
@@ -70,14 +66,13 @@ Every so often, a trainer will get a participant who is not as used to handling 
 **Here are some tactics to help keep the mouse-domineering behavior at bay:**
 
 
-
-- **Work in teams:** For hands-on exercises, itâ€™s tremendously beneficial to work in training teams. One trainer stands in front, demonstrating the steps in the exercise, and one or more trainers (or assistant trainers recruited from your organizer or even your participants) provide supportive guidance to the participants as they follow the steps.
+- **Work in teams:** For hands-on exercises, it’s tremendously beneficial to work in training teams. One trainer stands in front, demonstrating the steps in the exercise, and one or more trainers (or assistant trainers recruited from your organizer or even your participants) provide supportive guidance to the participants as they follow the steps.
 
 - **Define the steps in the hands-on activity:** List the steps for the hands-on activity on butcher paper, a flip chart or a slide that you can project. In many cases, you will probably need to chunk these steps into task-based activities, and then go through the different chunks one by one.
 
-- **Show, do, then check:** Show your participants the steps in an activity before you ask them to replicate them. Using a projector at the front of the room, with additional instructors or helpers at the back, walk through each step and ask the participants if they are with you: Asking â€œis this what you can see you on your screen?â€ is a good way to know if everyone is following your demonstration, and if others are falling behind.
+- **Show, do, then check:** Show your participants the steps in an activity before you ask them to replicate them. Using a projector at the front of the room, with additional instructors or helpers at the back, walk through each step and ask the participants if they are with you: Asking “is this what you can see you on your screen?” is a good way to know if everyone is following your demonstration, and if others are falling behind.
 
-##The Fear-Mongerer
+## The Fear-Mongerer ##
 In digital security trainings, sometimes a little bit of fear-mongering can be necessary. Conveying the dangers of the online/digital world can be challenging as the associated risks are largely "virtual" and therefore not seen to be "real" by many people. For example, showing someone how easy it is to hack into a social network account can encourage participants to consider risk and danger in ways that a lecture never could.
 
 However, responsible and ethical digital security trainers need to know when to stop. Sometimes fear-mongering is so "effective" that it fosters a feeling of dis-empowerment among trainees - the issue is perceived as 'too big' for them to handle, and therefore paralyses them when it comes to thinking of and practicing solutions.
@@ -92,7 +87,7 @@ However, responsible and ethical digital security trainers need to know when to 
 
 A good trainer never wants to scare participants to the point that the only solution they can think of is to disconnect from the internet entirely - *that's not the point of digital security trainings!* The point is to make them aware of the risks so they can be conscious and conscientious when it comes to their online communications and technology use practices.
 
-##The Monologuer
+## The Monologuer ##
 Monologues are, if we count lectures, a normal part of training. Trainers are asked to speak about specific topics because they are knowledgeable on those topics; however, sometimes a trainer becomes so comfortable lecturing (or monologue-ing) that they become ineffective in actually *teaching* that topic. When a training becomes dominated by trainer monologue, trainees' inability to be active participants in their own learning process leads to  disengagement from, and even disillusionment in, the trainer.
 
 **So, how can a trainer maintain the right balance of monologue and participation during a training?**
@@ -111,4 +106,4 @@ Monologues are, if we count lectures, a normal part of training. Trainers are as
 
 - **Distracted behavior:** Feet tapping, pen tapping, hair fixing, nail checking. This behavior lets you know that people are not really paying attention.
 
-If you recognize any of these indicators, you should stop and ask questions. If you are not recognizing these indicators, it's always a good idea any way to ask the participants â€œhow are we feeling? do we need a break?â€.
+If you recognize any of these indicators, you should stop and ask questions. If you are not recognizing these indicators, it's always a good idea any way to ask the participants “how are we feeling? do we need a break?”.

@@ -6,6 +6,7 @@ author: CC
 summary: This is the summary of this page.
 weight: 1.5
 ---
+
 # Icebreakers, Energizers, and Other Interactive Exercises #
 Including interactive exercises as part of training sessions can be a powerful teaching tool - whereas all people learn differently (in addition to cultural and regional differences), making training workshops fun and interactive is an effective training approach for most participants.
 
@@ -40,7 +41,7 @@ Before building certain exercises into your training plan, selecting specific ex
 ## Icebreakers ##
 
 
-Icebreakersâ€”as the name impliesâ€”are meant to "break the ice" and are usually fun "getting to know you" games and activities. These help participants become more familiar with each other, get to know one another, and help them feel comfortable in the training space. Often, the co-trainers and co-facilitators will illustrate the first steps of the game - or, if training solo, you may choose to work with a willing participant to demonstrate for the rest of the group.
+Icebreakers—as the name implies—are meant to "break the ice" and are usually fun "getting to know you" games and activities. These help participants become more familiar with each other, get to know one another, and help them feel comfortable in the training space. Often, the co-trainers and co-facilitators will illustrate the first steps of the game - or, if training solo, you may choose to work with a willing participant to demonstrate for the rest of the group.
 
 <br><br>
 **Two Truths and a Lie**
@@ -74,7 +75,7 @@ The object of this game is for participants to introduce themselves to the rest 
 	- The assumption here is that everyone has brought a bag or pack of some kind to the training space - **check first before choosing this Icebreaker!**
 
 <br><br>
-**Line-up According Toâ€¦**
+**Line-up According To…**
 <br>
 The object of this game is to have participants arrange themselves in the provided space according to certain facts about themselves.
 
@@ -119,9 +120,9 @@ The object of this game is to get people who have things in common identify each
 
 - **Instructions:**
 	- This needs a big space and chairs in a circle. There should be one chair per participant, but no chair for the starter (most of the time, the starter is you, the trainer!).
-	- You, as the starter, will stand in the middle of the circle and say: "The wind blows for people whoâ€¦", then think about something that you like or something that is true of you.
+	- You, as the starter, will stand in the middle of the circle and say: "The wind blows for people who…", then think about something that you like or something that is true of you.
 	- Everyone who likes the same thing (including yourself) or shares the same quality will have to stand and transfer seats.
-	- By the end of one round, one person will be left standing. That person will be the one to start the next round by saying "The wind blows for people whoâ€¦".
+	- By the end of one round, one person will be left standing. That person will be the one to start the next round by saying "The wind blows for people who…".
 <br><br>
 - **Trainer Notes:**
 	- This may not be appropriate if you have participants who have problems with mobility.
@@ -155,7 +156,7 @@ The object of this game is to give participants a chance to **safely** step outs
 - **Instructions:**
 	- Have everyone in a circle (standing or sitting up).
 	- Each person takes turns saying their first name, a name of an animal that has the first letter of their name, and a sound associated with that animal. (For example, "I'm Dana, a dog, woof woof!").
-	- After the first person starts, the person next to them will need to start with the previous person's name, animal and sound before saying their own name, animal and sound (for example, "Dana, a dog, woof woof! I'm Charlie, a cat, meowâ€¦")
+	- After the first person starts, the person next to them will need to start with the previous person's name, animal and sound before saying their own name, animal and sound (for example, "Dana, a dog, woof woof! I'm Charlie, a cat, meow…")
 	- The third person after the second person will have to start with the first person's name, animal and sound, **and** the second person's name, animal and sound before stating their own name animal and sound (for example, Dana, a dog, woof woof! Charlie, a cat, meow... I'm Barbara, a bird, chirp chirp").
 	- The steps above repeat until the game once again reaches the first person, who now has to do **everyone's** names, animals and sounds!
 <br><br>

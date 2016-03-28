@@ -7,15 +7,16 @@ summary: This is a summary for this page.
 updated: 2016-03-00
 weight: 1.23
 ---
+
 # Sharing Your Story: Creative Introductions and Perspectives #
-Nametags are helpful, but they donâ€™t stimulate the necessary engagement and energy that starts off an effective gathering. For that, we turn to creative exercises to help participants and trainers learn about each other, our motivations for our attendance and our perspectives on relevant issues.
+Nametags are helpful, but they don’t stimulate the necessary engagement and energy that starts off an effective gathering. For that, we turn to creative exercises to help participants and trainers learn about each other, our motivations for our attendance and our perspectives on relevant issues.
 
 
 ## Creative Introductions ##
 
-Though you can invite people to introduce themselves in a way that theyâ€™re familiar with â€”their name, where they come from, and their affiliation â€” we encourage more creative introductions to jump-start your event. By starting with a creative introduction, youâ€™re setting the tone to show that this will be a fun, engaging and participatory event.
+Though you can invite people to introduce themselves in a way that they’re familiar with —their name, where they come from, and their affiliation — we encourage more creative introductions to jump-start your event. By starting with a creative introduction, you’re setting the tone to show that this will be a fun, engaging and participatory event.
 
-Remember that this is often the first opportunity someone has to speak and share with the larger group, and it can be very stressful for some. Before you begin, make sure you set-up the room in order to maximize eye-to-eye connection and respect for each person while theyâ€™re speaking. If you have participants who go by pseudonymns or aliases, communicate to participants that they do not have to share their real name before the event begins.
+Remember that this is often the first opportunity someone has to speak and share with the larger group, and it can be very stressful for some. Before you begin, make sure you set-up the room in order to maximize eye-to-eye connection and respect for each person while they’re speaking. If you have participants who go by pseudonymns or aliases, communicate to participants that they do not have to share their real name before the event begins.
 
 ## Exercises for Self Introductions ##
 
@@ -33,12 +34,12 @@ Remember that this is often the first opportunity someone has to speak and share
 	- **Index finger:** Where they want to go / are headed
 	- **Middle finger:** What irks them / frustrates them
 	- **Ring finger:** What do they really love
-	- **Pinkie finger:** Whatâ€™s their hidden skill or talent
+	- **Pinkie finger:** What’s their hidden skill or talent
 	<br><br>
 
 - **Each person** gets a piece of paper and draws an introduction of themselves that they will present to the group. They should share at least five key details of their lives. One way to augment this is to prompt the group for five key events in their life that brought them into their work and this room today.
 
-	**Key with this exercise,** which is great for staff meetings or gatherings with folks who collaborate already, is to *not* have people's names on their papers. Have all of the participants bring up their papers and hang them around the room. Invite people to go around the room as if they are observing a gallery, and encourage people to guess whose hand and attributes theyâ€™ve described by guessing names on a piece of paper next to the hand. Then review as a group (ideal for groups under 15).
+	**Key with this exercise,** which is great for staff meetings or gatherings with folks who collaborate already, is to *not* have people's names on their papers. Have all of the participants bring up their papers and hang them around the room. Invite people to go around the room as if they are observing a gallery, and encourage people to guess whose hand and attributes they’ve described by guessing names on a piece of paper next to the hand. Then review as a group (ideal for groups under 15).
 
 ## Exercise for Pair Introductions ##
 
@@ -63,8 +64,8 @@ Remember that this is often the first opportunity someone has to speak and share
 	- Draw a straight line in the middle of the room, going from one wall or barrier to the opposite; or, encourage everyone to imagine a line.
 	- Invite everyone to stand on the line in relation to how far they travelled to get to the event (ex: one side of the wall is one block, and the other is 10,000 kilometers).
 	- Ask a few people to note their name and where they came from. Celebrate and thank those who came from far away, and give thanks to everyone who has invested their time with the group for the gathering.
-	- Introduce the Spectrogram exercise. Note to participants that they will be asked their views on a number of statements and be invited to physically place themselves in relation to one wall, which is â€œStrongly Agreeâ€ and the opposite wall, which is â€œStrongly Disagree.â€
-	- Have ***statements*** (not questions!) prepared in advance, and written out on large paper so everyone can see them clearly. They should be short, memorable, engaging and relevant to both everyone in attendance and the content of the gathering (ex: if the gathering was for human rights advocates, a good statement would be â€œThe International Criminal Court is a great tool for justice.â€).
+	- Introduce the Spectrogram exercise. Note to participants that they will be asked their views on a number of statements and be invited to physically place themselves in relation to one wall, which is “Strongly Agree” and the opposite wall, which is “Strongly Disagree.”
+	- Have ***statements*** (not questions!) prepared in advance, and written out on large paper so everyone can see them clearly. They should be short, memorable, engaging and relevant to both everyone in attendance and the content of the gathering (ex: if the gathering was for human rights advocates, a good statement would be “The International Criminal Court is a great tool for justice.”).
 	- Once participants have arranged themselves along the line, or "spectrum", you can ask people from throughout the range of perspectives to briefly explain to the larger group why they are standing where they are.
 	- Invite people to shift their placing when they hear a compelling point.
 
@@ -72,13 +73,13 @@ Remember that this is often the first opportunity someone has to speak and share
 
 	Organizers or facilitators can create the spectrogram statements in advance, or they can crowd-source them at the event. To do this, get participants into small groups of 3 to 5 people and provide each group 5 to 10 minutes to list out as many statements that relate to the gathering as they can think of. Once their time is up, they should choose their favorite three statements and be prepared to share them with the group.
 
-	Additionally, you can use the Spectrogram exercise to gauge interests or commitments for moving forward. One favorite statement for this exercise is, â€œI know exactly what I want to accomplish during this gatheringâ€, which helps tease out motivations and give facilitators an idea of how intentional or prepared participants are. Another fun one is, â€œI will take shareable notes during the eventâ€.
+	Additionally, you can use the Spectrogram exercise to gauge interests or commitments for moving forward. One favorite statement for this exercise is, “I know exactly what I want to accomplish during this gathering”, which helps tease out motivations and give facilitators an idea of how intentional or prepared participants are. Another fun one is, “I will take shareable notes during the event”.
 
 
 
-- **When the Wind Blows** is a fast way to gauge participantsâ€™ experience, interests and background. Start with everyone against one wall and explain that there are strong wind gusts coming from the wall. Whenever the wind blows for a particular skill, experience or attribute, the persons with that attribute will blow into the room and then back to the wall.
+- **When the Wind Blows** is a fast way to gauge participants’ experience, interests and background. Start with everyone against one wall and explain that there are strong wind gusts coming from the wall. Whenever the wind blows for a particular skill, experience or attribute, the persons with that attribute will blow into the room and then back to the wall.
 
-	For example, the facilitator would say, â€œThereâ€™s a great wind for all of the parents,â€ and all of the parents would move forward from the wall into the room and then back to the wall.
+	For example, the facilitator would say, “There’s a great wind for all of the parents,” and all of the parents would move forward from the wall into the room and then back to the wall.
 
 	Some examples of wind gusts that may be good to explore: The wind blows for brothers / sisters / artists / technologists / singers / people who can ride a bike / people who think there are aliens / people who sing in the shower
 

@@ -6,6 +6,7 @@ author: DJ, Nick Sera-Leyva
 summary: This is the summary of this page.
 weight: 1.7
 ---
+
 # Setting Expectations for Trainings #
 
 ## Accepting your own limitations before managing the expectations of others ##
@@ -31,13 +32,13 @@ Managing the expectations of participants effectively can be either very easy or
 
 For this reason, it's best to **always be prepared** with ways to create this involvement at the *start* of a workshop, regardless of how much or how little communication you've had with participants ahead of time. One way to ensure that participants are immediately involved in your event is to start by utilizing an activity that helps you check in with the participants' expectations and negotiate with them about their expectations and agenda.
 
-**Giving participants a say in what youâ€™ll cover has at least two benefits:**
+**Giving participants a say in what you’ll cover has at least two benefits:**
 
 
-- Youâ€™ll avoid devoting your time and energy to a workshop that won't be useful for your participants.
-- Participants will understand at the outset that they wonâ€™t know (or be expected to know) everything there is to know about digital security by the end of the event. Ideally this will also illuminate the reality that understanding and improving security in all its aspects (digital, physical, and psycho-social) is an ongoing process of learning and implementation.
+- You’ll avoid devoting your time and energy to a workshop that won't be useful for your participants.
+- Participants will understand at the outset that they won’t know (or be expected to know) everything there is to know about digital security by the end of the event. Ideally this will also illuminate the reality that understanding and improving security in all its aspects (digital, physical, and psycho-social) is an ongoing process of learning and implementation.
 
-This second benefit is especially important for digital security trainings. Trainers must be able to manage participantsâ€™ expectations about their digital safety, because the belief that everything they will learn from your workshop is all that they need to know about digital security will put them at risk.
+This second benefit is especially important for digital security trainings. Trainers must be able to manage participants’ expectations about their digital safety, because the belief that everything they will learn from your workshop is all that they need to know about digital security will put them at risk.
 
 Similarly, if you overpromise (intentionally or accidentally, by not managing expectations), participants may develop a negative impression of digital safety that can make them more vulnerable in the long run when those heightened expectations are not met.
 
@@ -45,7 +46,7 @@ Similarly, if you overpromise (intentionally or accidentally, by not managing ex
 
 - **There is no such thing as perfect security:** However, this doesn't mean the situation is hopeless or that taking steps to increase your digital safety doesn't make a difference.  A good example of this is the case for strong passwords. The "security" provided by strong passwords has much less to do with *unbreakability* and more to do with *resilience*: the more effort and resource it takes for an adversary to crack a password, the more time it will take. By pairing a strong password with strong password *practices* (i.e. periodically changing them), you've already changed over to a new password by the time this same adversary has come anywhere *close* to cracking the previous one.
 
-- **There is no such thing as a permanent digital security solution:** The tools, services, and devices we use will change. Governments and hostile actors have a stake in defeating secure tools and software, and will always employ considerable resources to do so. The popular digital services (e.g., Google, Facebook, etc.) will continue to change their security and privacy policies, usually in ways that reduce protections for their users. The ways we use digital tools and services will always change too â€” and every change usually brings more or different security risks.
+- **There is no such thing as a permanent digital security solution:** The tools, services, and devices we use will change. Governments and hostile actors have a stake in defeating secure tools and software, and will always employ considerable resources to do so. The popular digital services (e.g., Google, Facebook, etc.) will continue to change their security and privacy policies, usually in ways that reduce protections for their users. The ways we use digital tools and services will always change too — and every change usually brings more or different security risks.
 
 - **You are as secure as the most "un-secure" person you connect with online:** Secure communications, for instance, depend on everyone involved for them to provide privacy from end-to-end. If you encrypt a document, but the person who will receive it is not ready for encryption, then your encryption won't work. No matter how much you try to protect your information on social media, your 'friends' will tag your photos, reveal your locations, or divulge things about you.
 
@@ -68,7 +69,7 @@ At the outset, you should explain to organizers what makes a successful training
 
 - **Balance of Participants to Trainers:** Similarly, the more participants there are who will attend a training that includes hands-on tools training, the bigger the training team required. In an ideal world, there is 1 trainer for every 3 - 4 participants - this means that 4 participants is the ideal maximum that 1 solo trainer can focus on to ensure maximum learning for each participant. More in-depth, technical trainings require more hands-on exercises and sessions; it is impossible to expect a single trainer to pay attention to 12 participants during such intensive sessions. The further you get away from a ratio of 1 trainer for every 4 participant in a hands-on training, the more you risk leaving participants behind.
 
-	Situations like this will invariably require that less material be covered overall, to ensure that the quality of learning on what *can* be covered remains as high as possible. **This is where having a co-trainer is especially important:** a co-trainer can be a participant or a member of the community whoâ€™s technically proficient and perhaps familiar with the material youâ€™re teaching. This person can be enlisted to help assist participants during hands-on sessions.
+	Situations like this will invariably require that less material be covered overall, to ensure that the quality of learning on what *can* be covered remains as high as possible. **This is where having a co-trainer is especially important:** a co-trainer can be a participant or a member of the community who’s technically proficient and perhaps familiar with the material you’re teaching. This person can be enlisted to help assist participants during hands-on sessions.
 
 
 
