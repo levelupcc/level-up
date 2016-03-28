@@ -1,28 +1,19 @@
 ---
-layout: page
+layout: curriculum
 title: Basics of Mobile Devices
+author: Alix, Carol, StoryMaker Content Authors
+updated: 2014-03-00
+
+activity: Where Am I?
+input: Mobile Devices: How Do They Work?
+
 permalink: /curriculum/mobile-devices/basics-of-mobile-devices/
 weight: 3.91
-<<<<<<< HEAD
----
-=======
-updated: March 2014
-author: Alix, Carol, StoryMaker Content Authors
 ---
 ##Learning Goals
 - learn the basics of mobile telephony and how mobile networks function
 - understand the implications of mobile telephony infrastructure for information and personal security
 - learn how to mitigate the vulnerabilities of feature phones
-
-##Activities & Discussions: Where Am I?
-
-**Duration:** 20 - 30 minutes
-
-
-**Credits:** Alix
-
-
-**Last Updated:** March 2014
 
 ####Materials to Prepare
 - Make sure you have a big enough space for the activity where participants can spread out and see each other. Ensure you don't have anything that can block visibility (e.g., pillars).
@@ -58,8 +49,6 @@ To close, mention to participants that mobile phones ask a more complex digital 
 - Did it match their understanding of how our mobile devices communicate with the network, or was it different?
 - Did they understand how the triangulation of a rough location of the phone works with at least three or more points?
 - Explain that with more "towers" in contact with the mobile phone, they have even more accuracy to pinpoint its location, which becomes even more detailed if the towers are closer to the phone, which is typically in urban environments.
-
-##Inputs: Mobile Devices: How Do They Work?
 
 ####Materials to Prepare
 
