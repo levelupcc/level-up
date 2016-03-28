@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 layout: content-page
 title: Golden Rules of Effective Training
 permalink: /you-the-trainer/golden-rules-of-effective-training/
@@ -42,3 +43,10 @@ Most importantly, remember to stick to the following guidelines:
 - Do not divulge the list of training participants online, or the names of any individual participants.
 - Keep the personal details of the participants (passport numbers, full names, addresses) offline and secure no matter what.
 - If possible, either try to include the organizers in discussions about post-training communication with participants, or conduct a separate session specifically to discuss secure communication practices with them.
+=======
+layout: page
+title: Golden Rules of Effective Training
+permalink: /you-the-trainer/golden-rules-of-effective-training/
+weight: 1.2
+---
+>>>>>>> 16a22f1a2827e4eddfc089d7e2423b046879a4ce

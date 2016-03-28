@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // TYPOGRAPHY
 
 .menu ul a {
@@ -40,14 +41,43 @@
   left: calc(26%);
   overflow: hidden;
   min-width: 69.6%;
+=======
+// base
+.menu > li {
+  padding: .7rem;
+}
+
+// behavior
+.menu ul li,
+.menu ul li ul {
+  display: none;
+}
+.menu li:focus li,
+.menu li:hover li,
+.menu ul li:focus ul,
+.menu ul li:hover ul {
+	display: block;
+}
+.menu ul {
+  position: absolute;
+  top: calc(12.3%);
+  left: calc(35.1%);
+  min-width: 61.2%;
+  height: auto;
+  overflow: hidden;
+>>>>>>> 16a22f1a2827e4eddfc089d7e2423b046879a4ce
 	z-index: 1;
 }
 .menu ul > li ul {
   position: relative;
 }
 
+<<<<<<< HEAD
 // STYLE
 
+=======
+// style
+>>>>>>> 16a22f1a2827e4eddfc089d7e2423b046879a4ce
 .menu a {
 	color: #F0A742;
 }

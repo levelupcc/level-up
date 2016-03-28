@@ -83,7 +83,11 @@ gulp.task('minify-images', function () {
  */
 gulp.task('jekyll-build-prod', ['minify-images'], function (done) {
     browserSync.notify(messages.jekyllBuild);
+<<<<<<< HEAD
     return cp.spawn('jekyll.bat', ['build'], {stdio: 'inherit'})
+=======
+    return cp.spawn('jekyll', ['build'], {stdio: 'inherit'})
+>>>>>>> 16a22f1a2827e4eddfc089d7e2423b046879a4ce
         .on('close', done);
 });
 

@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 layout: content-page
 title: Setting Expectations For Participants Organizers And Yourself
 permalink: /you-the-trainer/setting-expectations-for-participants-organizers-and-yourself/
@@ -106,3 +107,10 @@ At the outset, you should explain to organizers what makes a successful training
 - Will there be a local qualified individual that the trainees can go to for help after the training? If not, what is a reasonable ongoing support and follow-up plan given your other commitments and the resources of the organization? Can you call on other organizations and individuals in your network if necessary?
 
 From here, the negotiation can go a number of ways as you work with the organizers to create a training that is as good as it can be given various goals and limitations. Remember to be clear with what you can and cannot do, and what the outcomes of the training are likely to be. For similar guidance and advice, please see the event planning and agenda planning guides.
+=======
+layout: page
+title: Setting Expectations For Participants, Organizers and Yourself
+permalink: /you-the-trainer/setting-expectations-for-participants-organizers-and-yourself/
+weight: 1.4
+---
+>>>>>>> 16a22f1a2827e4eddfc089d7e2423b046879a4ce

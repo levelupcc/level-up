@@ -1,8 +1,15 @@
 {% capture html %}
+<<<<<<< HEAD
 <ul class="menu">
     {% if include.context == "/_pages/" %}
         <li class="{% if page.url == "/" %}active{% endif %}">
             <a href="{{ site.baseurl }}/">{{ site.title }}</a>
+=======
+  <ul class="menu">
+    {% if include.context == "/_pages/" %}
+        <li class="{% if page.url == "/" %}active{% endif %}">
+          <a href="{{ site.baseurl }}/">{{ site.title }}</a>
+>>>>>>> 16a22f1a2827e4eddfc089d7e2423b046879a4ce
         </li>
     {% endif %}
 
@@ -13,14 +20,26 @@
         {% capture current %}{{ entry.url | remove: slug | remove: "//" | append: "/" }}{% endcapture %}
 
         {% if current == include.context %}
+<<<<<<< HEAD
           {% unless entry.hide == true %}
+=======
+          {%  unless page.exclude_from_nav %}
+>>>>>>> 16a22f1a2827e4eddfc089d7e2423b046879a4ce
             <li class="{% if page.url contains entry.url %}active{% endif %}">
                 <a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
                 {% include navigation.html context=entry.url %}
             </li>
+<<<<<<< HEAD
           {% endunless %}
         {% endif %}
 
     {% endfor %}
 </ul>
+=======
+          {%  endunless %}
+        {% endif %}
+
+    {% endfor %}
+  </ul>
+>>>>>>> 16a22f1a2827e4eddfc089d7e2423b046879a4ce
 {% endcapture %}{{ html | strip_newlines | replace:'    ','' | replace:'    ','' | replace:'  ',' ' }}
