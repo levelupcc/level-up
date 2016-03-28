@@ -1,11 +1,17 @@
 ---
 layout: curriculum
+
 title: Basics of Mobile Devices
 author: Alix, Carol, StoryMaker Content Authors
 updated: 2014-03-00
 
 activity: Where Am I?
 input: Mobile Devices: How Do They Work?
+input-url: ""
+deepening: 
+deepening-url: ""
+synthesis: 
+synthesis-url: ""
 
 permalink: /curriculum/mobile-devices/basics-of-mobile-devices/
 weight: 3.91
