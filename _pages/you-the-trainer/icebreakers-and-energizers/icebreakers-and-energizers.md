@@ -1,5 +1,4 @@
 ---
-<<<<<<< HEAD
 layout: content-page
 title: Icebreakers, Energizers, and Other Interactive Exercises
 permalink: /you-the-trainer/ice-breakers-and-energizers/
@@ -240,10 +239,3 @@ See examples of Topic-Based Interactive Games as the "Activities" in our Trainin
 - P2PU's Warm-up Exercises has an number of Icebreakers and Energizers.
 - The KSToolkit Wiki has a range of resources for all types of workshops, including Icebreakers, Engergizers, and other types of activities that can be adapted or used as is.
 - Wilderdom has additional basic Icebreakers and Energizers.
-=======
-layout: page
-title: Icebreakers and Energizers
-permalink: /you-the-trainer/icebreakers-and-energizers/
-weight: 1.7
----
->>>>>>> 16a22f1a2827e4eddfc089d7e2423b046879a4ce

@@ -1,8 +1,2 @@
-<<<<<<< HEAD
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://localhost:3000/" # the base hostname & protocol for your site
-=======
-# Site settings (dev)
-baseurl: ""
-url: "http://localhost:3000/"
->>>>>>> 16a22f1a2827e4eddfc089d7e2423b046879a4ce
