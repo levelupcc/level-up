@@ -6,29 +6,48 @@
 
 // BEHAVIOR
 
-.menu ul li,
-.menu ul li ul {
+.menu:first-of-type > li > .menu,
+.menu:first-of-type > li > .menu > li > .menu > li {
   display: none;
 }
-.menu li:focus li,
-.menu li:hover li,
-.menu ul li:focus ul,
-.menu ul li:hover ul {
+.menu:first-of-type > li:hover,
+.menu:first-of-type > li:focus {
+  border-right: 2rem #65B2B9 solid;
+}
+.menu:first-of-type > li:hover > .menu,
+.menu:first-of-type > li:focus > .menu,
+.menu:first-of-type > li > .menu > li:hover > .menu > li,
+.menu:first-of-type > li > .menu > li:focus > .menu > li {
   display: block;
+}
+.menu:first-of-type > li:hover > .menu > li,
+.menu:first-of-type > li:focus > .menu > li {
+  display: block;
+  padding: .2rem;
+  border-right: none;
+}
+.menu:first-of-type > li:nth-of-type(4):hover > .menu,
+.menu:first-of-type > li:nth-of-type(5):hover > .menu {
+  border-bottom: 13rem #65B2B9 solid;
+}
+.menu:first-of-type > li:hover > .menu > li > .menu {
+  display: block;
+  border-bottom: none;
 }
 .menu ul {
   position: absolute;
-  top: calc(13.3%);
-  left: calc(35%);
+  top: calc(14.2%);
+  left: calc(26%);
   overflow: hidden;
-  min-width: 61.3%;
-  overflow: hidden;
+  min-width: 69.6%;
 	z-index: 1;
 }
 .menu ul > li ul {
   position: relative;
 }
-// style
+
+// STYLE
+
 .menu a {
 	color: #F0A742;
 }

@@ -468,11 +468,11 @@ h4 {
       -ms-flex-align: center;
           align-items: center;
   height: 5rem;
-  padding: 1rem 6%; }
+  padding: 1rem 8%; }
 
 .site-header-title {
   font-size: 2.5rem;
-  margin-right: 32rem; }
+  margin-right: 31rem; }
 
 .main-block {
   display: -webkit-box;
@@ -483,10 +483,6 @@ h4 {
   -webkit-justify-content: center;
       -ms-flex-pack: center;
           justify-content: center;
-  -webkit-box-align: center;
-  -webkit-align-items: center;
-      -ms-flex-align: center;
-          align-items: center;
   min-height: 40rem;
   padding: 20px 60px 30px; }
 
@@ -551,7 +547,7 @@ h4 {
       -ms-flex-align: center;
           align-items: center;
   height: 4rem;
-  padding: 1rem 6%; }
+  padding: 1rem 8%; }
 
 .site-footer-link {
   margin-right: 2.4rem; }
@@ -589,25 +585,42 @@ h4 {
 .menu ul a {
   font-size: 1rem; }
 
-.menu ul li,
-.menu ul li ul {
+.menu:first-of-type > li > .menu,
+.menu:first-of-type > li > .menu > li > .menu > li {
   display: none; }
 
-.menu li:focus li,
-.menu li:hover li,
-.menu ul li:focus ul,
-.menu ul li:hover ul {
+.menu:first-of-type > li:hover,
+.menu:first-of-type > li:focus {
+  border-right: 2rem #65B2B9 solid; }
+
+.menu:first-of-type > li:hover > .menu,
+.menu:first-of-type > li:focus > .menu,
+.menu:first-of-type > li > .menu > li:hover > .menu > li,
+.menu:first-of-type > li > .menu > li:focus > .menu > li {
   display: block; }
+
+.menu:first-of-type > li:hover > .menu > li,
+.menu:first-of-type > li:focus > .menu > li {
+  display: block;
+  padding: .2rem;
+  border-right: none; }
+
+.menu:first-of-type > li:nth-of-type(4):hover > .menu,
+.menu:first-of-type > li:nth-of-type(5):hover > .menu {
+  border-bottom: 13rem #65B2B9 solid; }
+
+.menu:first-of-type > li:hover > .menu > li > .menu {
+  display: block;
+  border-bottom: none; }
 
 .menu ul {
   position: absolute;
-  top: -webkit-calc(13.3%);
-  top: calc(13.3%);
-  left: -webkit-calc(35%);
-  left: calc(35%);
+  top: -webkit-calc(14.2%);
+  top: calc(14.2%);
+  left: -webkit-calc(26%);
+  left: calc(26%);
   overflow: hidden;
-  min-width: 61.3%;
-  overflow: hidden;
+  min-width: 69.6%;
   z-index: 1; }
 
 .menu ul > li ul {
