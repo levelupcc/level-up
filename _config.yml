@@ -6,28 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-<<<<<<< HEAD
 title: LevelUp
 description: Resources for the global digital safety training community.
 baseurl: "/level-up" # the subpath of your site, e.g. /blog
-url: "http://hedr.github.io" # the base hostname & protocol for your site
+url: "http://the-engine-room.github.io" # the base hostname & protocol for your site
 
 exclude: ["node_modules", "gulpfile.js", "package.json"]
 include: ["_pages"]
 
 # Build settings
 markdown: kramdown
-=======
-title: Level Up
-email:
-description: >
-  Resources for the global digital safety training community.
-baseurl: "/level-up" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-
-# Build settings
-markdown: kramdown
-
-exclude: ["node_modules", "gulpfile.js", "package.json"]
-include: ["_pages"]
->>>>>>> 16a22f1a2827e4eddfc089d7e2423b046879a4ce
