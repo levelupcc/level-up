@@ -57,7 +57,7 @@ h4 { font-size: 1rem; }
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
-	padding: 15px 50px 30px;
+	padding: 20px 70px 35px;
 }
 
 
@@ -80,11 +80,11 @@ h4 { font-size: 1rem; }
 	display: flex;
 	justify-content: center;
 	min-height: 40rem;
-	padding: 15px 50px 30px;
+	padding: 20px 60px 30px;
 }
 
 .nav-block {
-	flex-basis: 33%;
+	flex-basis: 24%;
 	max-height: 18rem;
 	padding: 1rem;
 	margin-bottom: 15px;
@@ -94,14 +94,15 @@ h4 { font-size: 1rem; }
 	flex-basis: 100%;
 	margin-bottom: 15px;
 	min-height: 16rem;
-	padding: 2rem;
+	padding: 2rem 4rem;
 }
 
 .section-block_top {
 	@extend .section-block;
-	flex-basis: 66%;
+	flex-basis: 75%;
 	max-height: 18rem;
 	margin-left: 11px;
+	padding: 3rem;
 }
 
 .section-block_post {
@@ -119,7 +120,7 @@ h4 { font-size: 1rem; }
 }
 
 .-shift {
-	padding-left: 37%;
+	padding-left: 29%;
 }
 
 
