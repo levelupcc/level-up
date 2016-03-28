@@ -1,11 +1,10 @@
 ---
-layout: page
+layout: content-page
 title: Planning Your Training Agenda
 permalink: /pre-training/planning-your-training-agenda/
 weight: 2.7
 ---
-<<<<<<< HEAD
-=======
+
 ##Introduction
 Each event will require crafting an agenda (or agendas, depending on scope of the event). It’s important to keep in mind that even the most carefully considered agenda will more than likely have to change during the training. The decisions in the event planning stage will become input parameters in the agenda planning process. The major inputs include:
 Participants (number, diversity, roles and competencies)
@@ -143,4 +142,3 @@ Aspiration Tech has a Facilitation Wiki with relevant sections for security work
 Seeds for Change has a number of resources, including those focused on facilitation and faciliation tools.
 
 Although Tactical Technology Collective's Source Camps are a larger type of event than most security workshops, their resources on faciliation and agendas are useful.
->>>>>>> 16a22f1a2827e4eddfc089d7e2423b046879a4ce
