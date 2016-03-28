@@ -1,5 +1,4 @@
 ---
-<<<<<<< HEAD
 layout: curriculum
 
 title: Creating and Managing Strong Passwords
@@ -99,10 +98,3 @@ Passwords are primarily tools for accessing information from the point of view o
 Two-factor authentication is a powerful at reducing compromised accounts. If you are at high-risk of being targeted by an adversary with resources who wants to access your account, using two-factor authentication for services that offer it is highly recommended. Google has stated that the use of two-factor authentication has drastically reduced the number of compromised accounts. Other services that offer two-factor authentication include Facebook, Dropbox, and Twitter. Be careful of two-factor authentication systems that rely on text messages if you travel often and change your phone number when you do. Otherwise you may become locked out of your own account.
 
 When you are asked to provide answers to personal "privacy questions" that are used to authenticate you as well as allow you to reset your password, consider not answering them truthfully. You may devise a system for how you answer these that is memorable, or a recommended step is to also store them in your password manager, particularly for you most sensitive accounts.
-=======
-layout: page
-title: Creating and Managing Strong Passwords
-permalink: /curriculum/creating-and-managing-strong-passwords/
-weight: 3.4
----
->>>>>>> 16a22f1a2827e4eddfc089d7e2423b046879a4ce

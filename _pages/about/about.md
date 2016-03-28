@@ -1,5 +1,4 @@
 ---
-<<<<<<< HEAD
 layout: about
 title: About LevelUp
 permalink: /about/
@@ -19,11 +18,3 @@ We'd like to thank all the contributors and supporters of this project (both pub
 ### Internews
 
 Internews is an international non-profit organization whose mission is to empower local media worldwide to give people the news and information they need, the ability to connect and the means to make their voices heard.
-=======
-layout: page
-title: About
-permalink: /about/
-weight: 6
-exclude_from_nav: true
----
->>>>>>> 16a22f1a2827e4eddfc089d7e2423b046879a4ce
