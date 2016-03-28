@@ -1,5 +1,4 @@
 ---
-<<<<<<< HEAD
 layout: about
 title: About LevelUp
 permalink: /about/
