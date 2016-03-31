@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about
 title: Creative Commons License
 permalink: /license/
 hide: true
