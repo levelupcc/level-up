@@ -396,7 +396,7 @@ h1, h2, .post-header-title-link,
 .post-title-link, h3, h4, nav, .nav-block > ul {
   color: #24929B; }
 
-h4 {
+h4, a {
   color: #F0A742; }
 
 h1 {

@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: other-content-page
 title: About LevelUp
 permalink: /about/
 hide: true
