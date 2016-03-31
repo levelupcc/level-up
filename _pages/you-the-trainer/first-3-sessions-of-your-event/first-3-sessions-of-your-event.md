@@ -21,22 +21,22 @@ Though the order and duration may differ per event, these three discussions are 
 
 **Note:** If you are doing an awareness-raising event or only training on a few topics in one day, you may use aspects of these sessions, but will probably not have time. They are primarily designed for a more comprehensive multi-day training.
 
-## [Sharing Your Story: Creative Introductions and Perspectives](../first-3-sessions-of-your-event/sharing-your-story/) ##
+## Sharing Your Story: Creative Introductions and Perspectives ##
 Nametags are helpful, but they don’t stimulate the necessary engagement and energy that starts off an effective gathering. For that, we turn to creative exercises to help participants and trainers learn about each other, our motivations for our attendance and our perspectives on relevant issues.
 
 By starting with a creative introduction, you’re setting the tone to show this will be a fun, engaging and participatory event. This is recommended as the **first session** to open a multi-day event, to be followed by developing shared agreements (commonly known as "Ground Rules") and assessing and managing expectations (developing a "Shared Brain").
 
-**Continue to full resource>**
+**[Continue to full resource >> ](../first-3-sessions-of-your-event/sharing-your-story/)**
 
-## [Developing Shared Agreements (a.k.a. "Ground Rules")](../first-3-sessions-of-your-event/developing-shared-agreements/) ##
+## Developing Shared Agreements (a.k.a. "Ground Rules") ##
 We all have been through those painful meetings where one person talks over others or people are having distracting side conversations, right? Well, that is why we always need to invest time in developing shared agreements before we begin a meeting or gathering. Though these are often referred to as “ground rules,” we place importance on the term “shared agreements.”
 
-**Continue to full resource>**
+**[Continue to full resource >> ](../first-3-sessions-of-your-event/developing-shared-agreements/)**
 
 
-## [Developing a Shared Brain: Assessing and Managing Expectations](../first-3-sessions-of-your-event/developing-a-shared-brain/) ##
+## Developing a Shared Brain: Assessing and Managing Expectations ##
 As a trainer, one of the most fundamental aspects of leading a great event is assessing and managing participants’ expectations as early as possible. By doing this, you will build an agenda and develop exercises that help ensure their time and the group’s time is well spent.
 
  This is the **third recommended session** for starting multi-day trainings, to follow shared stories and shared agreements.
 
-**Continue to full resource>**
+**[Continue to full resource >> ](../first-3-sessions-of-your-event/developing-a-shared-brain/)**
