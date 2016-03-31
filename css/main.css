@@ -484,7 +484,8 @@ h4 {
       -ms-flex-pack: center;
           justify-content: center;
   min-height: 40rem;
-  padding: 20px 60px 30px; }
+  padding: 20px 60px 30px;
+  overflow: hidden; }
 
 .nav-block {
   -webkit-flex-basis: 25%;
@@ -500,7 +501,8 @@ h4 {
           flex-basis: 100%;
   margin-bottom: 15px;
   min-height: 16rem;
-  padding: 3rem 4rem; }
+  padding: 3rem 4rem;
+  width: 30rem; }
 
 .section-block_top {
   -webkit-flex-basis: 74%;
