@@ -2,7 +2,7 @@
 <ul class="menu">
     {% if include.context == "/_pages/" %}
         <li class="{% if page.url == "/" %}active{% endif %}">
-            <a href="{{ site.baseurl }}/">{{ site.title }}</a>
+            <a class="menu-link" href="{{ site.baseurl }}/">{{ site.title }}</a>
         </li>
     {% endif %}
 
@@ -15,7 +15,7 @@
         {% if current == include.context %}
           {% unless entry.hide == true %}
             <li class="{% if page.url contains entry.url %}active{% endif %}">
-                <a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
+                <a class="menu-link" href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
                 {% include navigation.html context=entry.url %}
             </li>
           {% endunless %}
