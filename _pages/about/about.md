@@ -20,6 +20,6 @@ We'd like to thank all the contributors and supporters of this project (both pub
 
 Internews is an international non-profit organization whose mission is to empower local media worldwide to give people the news and information they need, the ability to connect and the means to make their voices heard.
 
-[How To Use This Site](https://the-engine-room/level-up/about#how-to-use-this-site)
+[How To Use This Site](https://the-engine-room.github.io/level-up/about#how-to-use-this-site)
 
 Some stuff about using this site blah blah yakkity yak yap yap yap.
