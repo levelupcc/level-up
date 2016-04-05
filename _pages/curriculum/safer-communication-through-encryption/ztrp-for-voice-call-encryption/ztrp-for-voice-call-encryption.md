@@ -13,7 +13,6 @@ synthesis: Some Synthesis
 synthesis-url: ""
 
 permalink: /curriculum/safer-communication-through-encryption/ztrp-for-voice-call-encryption/
-weight: 3.63
 hide: true
 ---
 # Undis praebentem seque sospes Hoc linguaque ora

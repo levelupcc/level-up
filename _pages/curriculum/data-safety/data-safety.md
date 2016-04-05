@@ -2,7 +2,6 @@
 layout: other-content-page
 title: Data Safety
 permalink: /curriculum/data-safety/
-weight: 3.3
 ---
 ## Pages in this section include: ##
 - [Data Backup Basics](../data-safety/data-backup-basics/)

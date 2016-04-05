@@ -13,7 +13,6 @@ synthesis: Some Synthesis
 synthesis-url: ""
 
 permalink: /curriculum/basics-of-safer-browsing/
-weight: 3.51
 hide: true
 ---
 # Undis praebentem seque sospes Hoc linguaque ora

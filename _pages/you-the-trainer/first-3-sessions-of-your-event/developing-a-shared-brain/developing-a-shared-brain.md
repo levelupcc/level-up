@@ -5,7 +5,6 @@ permalink: /you-the-trainer/first-3-sessions-of-your-event/developing-a-shared-b
 author: Chris Michael for Tactical Tech
 summary: This is a summary for this page.
 updated: 2016-03-00
-weight: 1.21
 
 hide: true
 ---

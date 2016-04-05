@@ -7,7 +7,6 @@ recessit bene et spatium litora. Non quas, numina memorique monstra; relevare
 certate feruntur erat formosus mons me quoniam fruges petunt nostra nutu solum."
 updated: 2016-03-00
 permalink: /before-an-event/training-organizing-and-logistics/
-weight: 2.1
 ---
 # Gutture convertit caerulaque undas nomen morsibus crepuscula
 

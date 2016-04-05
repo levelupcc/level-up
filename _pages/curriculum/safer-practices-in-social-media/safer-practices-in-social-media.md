@@ -13,7 +13,6 @@ synthesis: Some Synthesis
 synthesis-url: ""
 
 permalink: /curriculum/safer-practices-in-social-media/
-weight: 3.8
 ---
 # Undis praebentem seque sospes Hoc linguaque ora
 

@@ -5,7 +5,6 @@ permalink: /you-the-trainer/be-a-better-trainer/
 author: DJ
 summary: This is the summary of this page.
 updated: 2016-03-00
-weight: 1.1
 ---
 
 # Be a Better Trainer #

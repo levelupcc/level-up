@@ -4,7 +4,6 @@ title: Icebreakers, Energizers, and Other Interactive Exercises
 permalink: /you-the-trainer/ice-breakers-and-energizers/
 author: CC
 summary: This is the summary of this page.
-weight: 1.5
 ---
 
 # Icebreakers, Energizers, and Other Interactive Exercises #

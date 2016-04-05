@@ -13,7 +13,6 @@ synthesis: Some Synthesis
 synthesis-url: ""
 
 permalink: /curriculum/safer-anonymous/browsers-for-anonymity-and-circumvention/
-weight: 3.71
 hide: true
 ---
 # Undis praebentem seque sospes Hoc linguaque ora

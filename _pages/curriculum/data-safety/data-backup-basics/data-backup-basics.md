@@ -13,7 +13,6 @@ synthesis: Some Synthesis
 synthesis-url: ""
 
 permalink: /curriculum/data-safety/data-backup-basics/
-weight: 3.31
 hide: true
 ---
 # Undis praebentem seque sospes Hoc linguaque ora

@@ -13,7 +13,6 @@ synthesis: Some Synthesis
 synthesis-url: ""
 
 permalink: /curriculum/mobile-devices/basics-of-mobile-devices/
-weight: 3.91
 hide: true
 ---
 

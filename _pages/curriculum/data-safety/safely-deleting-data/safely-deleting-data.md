@@ -13,7 +13,6 @@ synthesis: Some Synthesis
 synthesis-url: ""
 
 permalink: /curriculum/data-safety/safely-deleting-data/
-weight: 3.32
 hide: true
 ---
 # Undis praebentem seque sospes Hoc linguaque ora

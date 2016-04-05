@@ -13,7 +13,6 @@ synthesis: Some Synthesis
 synthesis-url: ""
 
 permalink: /curriculum/mobile-devices/smartphone-safety-and-privacy/
-weight: 3.92
 hide: true
 ---
 # Undis praebentem seque sospes Hoc linguaque ora

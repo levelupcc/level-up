@@ -13,7 +13,6 @@ synthesis: Some Synthesis
 synthesis-url: ""
 
 permalink: /curriculum/safer-anonymous/using-tails-for-safer-anonymous-workspaces/
-weight: 3.72
 hide: true
 ---
 # Undis praebentem seque sospes Hoc linguaque ora

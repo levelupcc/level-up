@@ -4,7 +4,6 @@ title: Setting Expectations For Participants Organizers And Yourself
 permalink: /you-the-trainer/setting-expectations-for-participants-organizers-and-yourself/
 author: DJ, Nick Sera-Leyva
 summary: This is the summary of this page.
-weight: 1.7
 ---
 
 # Setting Expectations for Trainings #

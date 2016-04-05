@@ -13,7 +13,6 @@ synthesis: Some Synthesis
 synthesis-url: ""
 
 permalink: /curriculum/data-safety/storing-and-securing-sensitive-data/
-weight: 3.33
 hide: true
 ---
 # Undis praebentem seque sospes Hoc linguaque ora

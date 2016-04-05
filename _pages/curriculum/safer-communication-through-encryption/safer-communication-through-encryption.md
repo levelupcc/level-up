@@ -2,7 +2,6 @@
 layout: other-content-page
 title: Safer Communication Through Encryption
 permalink: /curriculum/safer-communication-through-encryption/
-weight: 3.6
 ---
 ## Pages in this section include: ##
 - [OTR For Instant Messaging and SMS Encryption](../safer-communication-through-encryption/otr-for-instant-messaging-and-sms-encryption/)

@@ -4,7 +4,6 @@ title: Golden Rules of Effective Training
 permalink: /you-the-trainer/golden-rules-of-effective-training/
 author: CC
 summary: This is the summary of this page.
-weight: 1.3
 ---
 
 # The "Golden Rules" of Effective Training #

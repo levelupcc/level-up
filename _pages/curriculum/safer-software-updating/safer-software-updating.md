@@ -13,7 +13,6 @@ synthesis: Some Synthesis
 synthesis-url: ""
 
 permalink: /curriculum/safer-software-updating/
-weight: 3.2
 ---
 # Undis praebentem seque sospes Hoc linguaque ora
 

@@ -13,7 +13,6 @@ synthesis: Some Synthesis
 synthesis-url: ""
 
 permalink: /curriculum/safer-communication-through-encryption/otr-for-instant-messaging-and-sms-encryption/
-weight: 3.62
 hide: true
 ---
 # Undis praebentem seque sospes Hoc linguaque ora
