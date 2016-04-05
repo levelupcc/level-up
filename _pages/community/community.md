@@ -5,5 +5,16 @@ permalink: /community/
 weight: 5
 ---
 ## Pages in this section include: ##
-- [Contribute and Collaborate](../community/contribute-and-collaborate/)
-- [Community Resources and Tools](../community/community-resources-and-tools/)
+Something something something about this page. Words words blah blah blabbity blah blah blah. Yap yap yappity yap.
+
+### Contribute and Collaborate ###
+
+Something something something about this page. Words words blah blah blabbity blah blah blah. Yap yap yappity yap.
+
+**[Continue to full resource >> ](../community/contribute-and-collaborate/)**
+
+### Community Resources and Tools ###
+
+Something something something about this page. Words words blah blah blabbity blah blah blah. Yap yap yappity yap.
+
+**[Continue to full resource >> ](../community/community-resources-and-tools/)**
