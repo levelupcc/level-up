@@ -12,8 +12,7 @@ Something something something about this page. Words words blah blah blabbity bl
 
 Something something something about this page. Words words blah blah blabbity blah blah blah. Yap yap yappity yap.
 
-**[Continue to full resource >> ](../community/community-resources-and-tools/)**
-(../before-an-event/training-organizing-and-logistics/)
+**[Continue to full resource >> ](../before-an-event/training-organizing-and-logistics/)**
 
 ### Psychosocial Underpinnings of Security Training ###
 
