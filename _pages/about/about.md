@@ -4,6 +4,7 @@ title: About LevelUp
 permalink: /about/
 hide: true
 ---
+## About LevelUp ##
 
 LevelUp supports individuals and groups providing digital security trainings and support worldwide. It is a living project by and for the training community for the benefit of all trainers and training organizations, and invites contributions and feedback from trainers, as well as re-use, re-mixes, and creative adaptation as needed in the training room. LevelUp's resources and events will continue to reflect the feedback, input, and contributions of the wider digital safety training community as well as subject matter experts.
 
@@ -15,6 +16,10 @@ This website is the result of over a year of work by members of the digital safe
 
 We'd like to thank all the contributors and supporters of this project (both public and unnamed) -- the resources here aren't possible without your insight, work, and support. We'd also like to thank the RFK Centre in Florence for providing LevelUp with housing and a venue for two events during its pilot year.
 
-### Internews
+### Internews ###
 
 Internews is an international non-profit organization whose mission is to empower local media worldwide to give people the news and information they need, the ability to connect and the means to make their voices heard.
+
+## <a href="#how-to-use-this-site">How To Use This Site</a> ##
+
+Some stuff about using this site blah blah yakkity yak yap yap yap.
