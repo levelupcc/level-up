@@ -488,6 +488,10 @@ body {
   width: inherit;
   height: 88px; }
 
+.header-logo {
+  width: 200px;
+  height: 36px; }
+
 .nav-block {
   -webkit-flex-basis: 245px;
       -ms-flex-preferred-size: 245px;
