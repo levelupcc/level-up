@@ -182,6 +182,26 @@ h4, a {
 	background-color: #ffffff;
 }
 
+.nav-block > .menu > .active > .menu-link {
+	color: #24929B;
+}
+.nav-block > .menu > .active > .menu-link::after {
+	content: "";
+	display: block;
+	position: relative;
+	left: 1.3rem;
+	width: 10rem;
+	height: 4px;
+	background-color: #F0A742;
+}
+.nav-block > .menu > .active:nth-of-type(0n+3) > .menu-link::after,
+.nav-block > .menu > .active:nth-of-type(0n+5) > .menu-link::after {
+	width: 8rem;
+}
+.nav-block > .menu > .active:nth-of-type(0n+4) > .menu-link::after {
+	width: 9rem;
+}
+
 .page-author,
 .post-author,
 .section-block-link,
