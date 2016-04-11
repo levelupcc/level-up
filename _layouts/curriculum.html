@@ -3,21 +3,41 @@ layout: default
 ---
 <section class="section-block _top">
   <h1>{{ page.title }}</h1>
-  <p><span class="page-author">author: {{ page.author }} </span>
+  <p><span class="page-author"> {{ page.author }} </span>
     last updated: {{ page.updated }}
   </p>
 </section>
 
 <section class="section-block -shift">
-  <h3>Activity + Discussion: {{ page.activity }}</h3>
-  <ul>
-    <li><a class="curriculum-activity-link" href="{{ page.input-url }}">Input: {{ page.input }}</a></li>
-    <li><a class="curriculum-activity-link" href="{{ page.deepening-url }}">Deepening: {{ page.deepening }}</a></li>
-    <li><a class="curriculum-activity-link" href="{{ page.synthesis-url }}">Synthesis: {{ page.synthesis }}</a></li>
-  </ul>
-
+  {{ content }}
 </section>
 
 <section class="section-block -shift">
-  {{ content }}
+  <ul class="session">
+    <h3>Activity and Discussion: </h3>
+    {% for item in page.activity %}
+      <li><a href="{{ item.url }}" class="session-link">{{ item.name }}</a></li>
+    {% endfor %}
+  </ul>
+
+  <ul class="session">
+    <h3>Input: </h3>
+    {% for item in page.input %}
+      <li><a href="{{ item.url }}" class="session-link">{{ item.name }}</a></li>
+    {% endfor %}
+  </ul>
+
+  <ul class="session">
+    <h3>Deepening: </h3>
+    {% for item in page.deepening %}
+      <li><a href="{{ item.url }}" class="session-link">{{ item.name }}</a></li>
+    {% endfor %}
+  </ul>
+
+  <ul class="session">
+    <h3>Synthesis: </h3>
+    {% for item in page.synthesis %}
+      <li><a href="{{ item.url }}" class="session-link">{{ item.name }}</a></li>
+    {% endfor %}
+  </ul>
 </section>
