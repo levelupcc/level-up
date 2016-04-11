@@ -1,0 +1,79 @@
+// TYPOGRAPHY
+.menu ul a {
+  font-size: 1rem;
+}
+
+// BASE & BEHAVIOR
+
+.menu:first-of-type > li > .menu,
+.menu:first-of-type > li > .menu > li > .menu > li {
+  display: none;
+}
+.menu:first-of-type > li:hover > .menu,
+.menu:first-of-type > li:focus > .menu,
+.menu:first-of-type > li > .menu > li:hover > .menu > li,
+.menu:first-of-type > li > .menu > li:focus > .menu > li {
+  display: block;
+}
+.menu:first-of-type > li:hover > .menu,
+.menu:first-of-type > li:focus > .menu {
+  border: 11px solid #ffffff;
+}
+.menu:first-of-type > li:hover > .menu > li,
+.menu:first-of-type > li:focus > .menu > li {
+  display: block;
+  padding: .2rem;
+}
+.menu:first-of-type > li:nth-of-type(4):hover > .menu,
+.menu:first-of-type > li:nth-of-type(5):hover > .menu {
+  padding-bottom: 13rem;
+}
+.menu ul {
+  position: absolute;
+  top: calc(14.3%);
+  left: calc(37%);
+  overflow: hidden;
+  min-width: 600px;
+	z-index: 1;
+}
+.menu ul > li ul {
+  visibility: hidden;
+}
+
+// STYLE
+
+.menu a {
+	color: #F0A742;
+}
+.menu ul {
+  background-color: #65B2B9;
+	color: #F3B968;
+}
+.menu ul a {
+  background-color: #65B2B9;
+  color: #ffffff;
+}
+
+.nav-block > .menu > li:hover > a,
+.nav-block > .menu > li:focus > a {
+	background-color: #65B2B9;
+  color: #ffffff;
+}
+
+.menu ul a:hover,
+.menu ul a:focus {
+	background-color: #ffffff;
+  color: #24929B;
+}
+
+// ARROWS
+.nav-block > .menu > li > a:before {
+  display: inline-block;
+  content: "\25ba";
+  vertical-align: middle;
+  padding: 5px;
+}
+
+.nav-block > .menu > li:hover > a:before {
+  transform: rotate(90deg);
+}

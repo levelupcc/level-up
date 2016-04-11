@@ -1,0 +1,14 @@
+{% for post in site.posts %}
+  <section class="section-block _post">
+    <div class="post-meta">
+      <p class="post-author">{{ post.author }}</p>
+      <p class="post-date">{{ post.date | date: "%b %-d, %Y" }}<p>
+    </div>
+    <div class="post-content">
+      <h2>
+        <a class="post-title-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </h2>
+      <p class="post-summary"> {{ post.summary }} </p>
+    </div>
+  </section>
+{% endfor %}
