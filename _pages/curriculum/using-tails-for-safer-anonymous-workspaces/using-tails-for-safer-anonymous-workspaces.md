@@ -1,60 +1,78 @@
 ---
 layout: curriculum
-title: Using Tails For Safer Anonymous Workspaces
-author: Mx. Author
-updated: 2016-03-00
+title: Safer, Anonymous Workspaces using Tails
+updated: 2015-05-00
+author: "Michael Carbone, Lindsay Beck, Chris Walker, Carol, Nick Sera-Leyva"
 
-activity: Activity Name
-input: Input Link
-input-url: ""
-deepening: Deepening Link
-deepening-url: ""
-synthesis: Some Synthesis
-synthesis-url: ""
+activity:
+  - name: Offline Circumvention
+    url: /curriculum/using-tails-for-safer-anonymous-workspaces/activity-and-discussion/offline-circumvention/
+
+input:
+ - name: Staying Anonymous with Tails
+   url: /curriculum/using-tails-for-safer-anonymous-workspaces/input/staying-anonymous-with-tails/
+ - name: How Censorship and Circumvention Work
+   url: /curriculum/using-tails-for-safer-anonymous-workspaces/input/how-censorship-and-circumvention-work/
+
+deepening:
+ - name: Installing, Launching, and Replicating Tails
+   url: /curriculum/using-tails-for-safer-anonymous-workspaces/deepening/installing-tails/
+ - name: Using Tails to Store Confidential Information
+   url: /curriculum/using-tails-for-safer-anonymous-workspaces/deepening/storing-confidential-info/
+
+synthesis:
+ - name: "Synthesis: Safer, Anonymous Workspaces using Tails"
+   url: /curriculum/using-tails-for-safer-anonymous-workspaces/synthesis/
+
+platforms: Linux, Mac OS, Windows
+level: Advanced
+prerequisites: Safer Browsing for Anonymity and Circumvention
 
 permalink: /curriculum/using-tails-for-safer-anonymous-workspaces/
 ---
-# Undis praebentem seque sospes Hoc linguaque ora
 
-## A relinquam ipsum
+**Tails** (The Amnesic Incognito Live System) is a a *live* operating system, or an operating system which can be run directly from an external media storage device such as a USB stick or SD card. In addition to being portable, Tails leaves no trace of itself once disconnected from a machine, and routes all internet traffic through the Tor network.
 
-Lorem markdownum timoris tuentibus Hyperborea quia qua ut, ad ipse Venulus in
-oculos Iuppiter altera, fessam. Tamen prior, excipit tenens, merui limine
-paulatim utque.
+**If this is your first time using our curriculum, please visit** **How To: Using LevelUp's Trainer's Curriculum [LINK]**
 
-- Pastor in nervis nollet rebus visaque pictis sibi rogari caede depressaque
-- freta gentisque iamque antro volentem. Putas [ab qua](http://imgur.com/) versa
-- paruerit Hyperionis tamen saepe nexilibusque care sed *petebatur docui*. Ossa
-- quoque hebetarat tumulos! Nec ludit condidit viro illi genitore aliena
-- volucri.
+##Learning Goals for Participants##
+- Understand how Internet censorship works.
+- Introduce Tails (The Amnesic Incognito Live System), a live operating system that can be booted on any computer using external media such as USB drive, DVD, or SD card.
+- Learn to download and install the Tails operating system bundle safely.
+- Learn to use Tails and the included applications for productivity tasks.
+- Understand the anonymity and digital safety concepts behind the design of Tails.
+<br><br>
 
-Hoc scelus? Sibi excita Medusae, at retia os *iuvenis rogata*. Rebus ut falsam
-fecisti, temeraria aquis, **simul**? Est nec quoque caelo ait, aegra hoc, cum
-nec *saepe*.
+## Session Elements ##
 
-## Venerisque vidit tenus alta concumbere
+### Activities & Discussions ###
 
-Fulgebant recepto, per aevi Iasonis in obvius imbres Nescierat dedit opes
-incursus. Rogus medius peregrinaeque ipsa capillos orant.
 
-Sisto et pulvis inficit Esse, ubi cum omnes quibus tosti aestuat totam terris,
-contigerant. Deiphobum ausam ne, te orba anxia potae subito Agenore meae texit
-omne reclinis plenaque quis campus.
+- "Offline" Circumvention
 
-## Quoque unda solebat hic quorum utendum sonum
+### Inputs ###
 
-Cernenda thalamis quid concilio recessu Saturno triformis raptor ipsa, telum.
-Illo adduxit arma rubor, [cur abrumpit effugit](http://www.metafilter.com/)
-lucis ipsis suos in *nunc certe* ante sulphura baculi; caput! Indoluit ait in
-*Pallade violave ideoque*. Aliquando melior maneant a potest [mollit
-videtur](http://www.lipsum.com/): pati aut sub iunctorum sub et retexi bibat:
-Elin motis?
 
-- Orbem extrema illas. Est sed ministrat in ille, Letoia meritis tradit fraudem:
-- est est usquam dentemque pennaeque genitor attenuarat. Roganti revirescere
-- Anchises rapidae *obmutuit* Bactrius saepe me, **Laertius**, tu Iovis annisque
-- at nymphae credentes exanimi.
+- Staying Anonymous with Tails
+- How Censorship and Circumvention Work
 
-Illis colla! Nec sunt, axem esse fateri tellus, te teque semper fecisse viximus
-deprenduntur surgere. Aether in intrare, non at infelix **tenebat**: est nomine
-tectas, de.
+### Deepenings ###
+
+
+- Installing, Launching, and Replicating Tails
+- Storing Confidential Information Using Tails
+
+### Syntheses ###
+
+- Synthesis: Safer, Anonymous Workspaces using Tails
+
+
+## Important Notes ##
+
+
+
+- The countries where the use of encryption is illegal and that law is enforced has decreased, but it is still a very real concern for some participants. **Before a training, review the laws of where your participants live and work, as well as the laws of where you're conducting the training.**
+
+
+
+- At minimum, a basic understanding of Tor, a technology built into Tails that provides an encrypted, anonymizing connection for users, is key to using and understanding Tails. The **Safer Browsing for Anonymity and Circumvention [LINK]** module with the **Using the Tor Browser Bundle  [LINK]** Deepening is a pre-requisite for this module, and should be covered before moving on to any session which incorporates the use of Tails.

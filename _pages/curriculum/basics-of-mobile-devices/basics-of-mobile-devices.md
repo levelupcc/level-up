@@ -1,61 +1,68 @@
 ---
 layout: curriculum
 title: Basics of Mobile Devices
-author: Mx. Author
-updated: 2016-03-00
+updated: 2014-03-00
 
-activity: Activity Name
-input: Input Link
-input-url: ""
-deepening: Deepening Link
-deepening-url: ""
-synthesis: Some Synthesis
-synthesis-url: ""
+activity:
+  - name: Where Am I?
+    url: /curriculum/basics-of-mobile-devices/activity-and-discussion/where-am-i/
+
+input:
+ - name: "Mobile Devices: How Do They Work?"
+   url: /curriculum/basics-of-mobile-devices/input/where-am-i/
+
+deepening:
+ - name:
+   url: /curriculum/basics-of-mobile-devices/
+
+synthesis:
+ - name:
+   url: /curriculum/basics-of-mobile-devices/
+
+platforms:
+level: Fundamental
 
 permalink: /curriculum/basics-of-mobile-devices/
 ---
 
-# Undis praebentem seque sospes Hoc linguaque ora
+This module is meant to serve as very introductory-level overview of **how mobile devices function using mobile telephony networks**. While certain feature-based strategies and solutions for safety and privacy will be discussed, this is largely to set the stage for then moving onward to more advanced topics of mobile security.
 
-## A relinquam ipsum
+This subtopic covers the fundamentals of all mobile phones and devices for when a trainer is leading a training for participants who do **not** have smartphones, and does not go in depth on smartphone-specific concerns and apps.
 
-Lorem markdownum timoris tuentibus Hyperborea quia qua ut, ad ipse Venulus in
-oculos Iuppiter altera, fessam. Tamen prior, excipit tenens, merui limine
-paulatim utque.
+**If this is your first time using our curriculum, please visit** **How To: Using LevelUp's Trainer's Curriculum [LINK]**
 
-- Pastor in nervis nollet rebus visaque pictis sibi rogari caede depressaque
-- freta gentisque iamque antro volentem. Putas [ab qua](http://imgur.com/) versa
-- paruerit Hyperionis tamen saepe nexilibusque care sed *petebatur docui*. Ossa
-- quoque hebetarat tumulos! Nec ludit condidit viro illi genitore aliena
-- volucri.
+##Learning Goals for Participants##
 
-Hoc scelus? Sibi excita Medusae, at retia os *iuvenis rogata*. Rebus ut falsam
-fecisti, temeraria aquis, **simul**? Est nec quoque caelo ait, aegra hoc, cum
-nec *saepe*.
+- Learn the basics of mobile telephony and how mobile networks function.
+- Understand the implications of mobile telephony infrastructure for information and personal security.
+- Learn how to mitigate the vulnerabilities of feature phones
+<br><br>
 
-## Venerisque vidit tenus alta concumbere
+## Session Elements ##
 
-Fulgebant recepto, per aevi Iasonis in obvius imbres Nescierat dedit opes
-incursus. Rogus medius peregrinaeque ipsa capillos orant.
+### Activities & Discussions ###
 
-Sisto et pulvis inficit Esse, ubi cum omnes quibus tosti aestuat totam terris,
-contigerant. Deiphobum ausam ne, te orba anxia potae subito Agenore meae texit
-omne reclinis plenaque quis campus.
 
-## Quoque unda solebat hic quorum utendum sonum
+- Where Am I?
 
-Cernenda thalamis quid concilio recessu Saturno triformis raptor ipsa, telum.
-Illo adduxit arma rubor, [cur abrumpit effugit](http://www.metafilter.com/)
-lucis ipsis suos in *nunc certe* ante sulphura baculi; caput! Indoluit ait in
-*Pallade violave ideoque*. Aliquando melior maneant a potest [mollit
-videtur](http://www.lipsum.com/): pati aut sub iunctorum sub et retexi bibat:
-Elin motis?
+### Inputs ###
 
-- Orbem extrema illas. Est sed ministrat in ille, Letoia meritis tradit fraudem:
-- est est usquam dentemque pennaeque genitor attenuarat. Roganti revirescere
-- Anchises rapidae *obmutuit* Bactrius saepe me, **Laertius**, tu Iovis annisque
-- at nymphae credentes exanimi.
 
-Illis colla! Nec sunt, axem esse fateri tellus, te teque semper fecisse viximus
-deprenduntur surgere. Aether in intrare, non at infelix **tenebat**: est nomine
-tectas, de.
+- Mobile Devices: How Do They Work?
+
+
+## Important Notes ##
+
+- Arriving at a training to discover that the participants all use feature phones (instead of smart phones) is a surprise to try and avoid. In your pre-training interviews or survey, or in your conversations with your main contact, make sure to ask:
+	- What kind of phone participants use, and its operating system if it's a smartphone.
+
+	- What they typically use their phone for, such as work communications, data collection at work, personal life, etc.
+
+	- Which are the apps they use on it the most.
+<br><br>
+
+- If you're going to lead a training for participants who use feature phones, consider switching to a feature phone for a while to re-familiarize yourself with the experience and update yourself generally on the current vulnerabilities and concerns for feature phone users.
+
+- If you have a mixed group of feature phone and smartphone users, consider how you can meet their needs without making anyone feel left out. Be aware that this may also be a very sensitive social issue (are the smartphone owners wealthier, of a different social class, or have more senior positions in an organization?)
+
+- If you choose to train on smartphone-specific elements (e.g., privacy/security apps), consider splitting the group and having a co-trainer lead a parallel training for feature phone users on a relevant high-priority topic. This could be something you haven't been able to dive into with the group as a whole (like the hardware of a phone), a feature phone app or tool they use heavily in their work, a tailored session focused on a particular element of security that wasn't covered for the group as a whole, or a brainstorming session on how they can use mobiles safely in a project they're considering or working on.
