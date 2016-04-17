@@ -633,6 +633,12 @@ h4, a {
 .site-footer-link:hover {
   color: #F0A742; }
 
+.leading-arrow {
+  padding: 1px 10px;
+  border: 1px solid #F0A742;
+  -webkit-border-radius: 4px;
+          border-radius: 4px; }
+
 .menu ul a {
   font-size: 1rem; }
 
