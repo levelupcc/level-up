@@ -1,7 +1,7 @@
 ---
 layout: content-page
 title: How Censorship and Circumvention Work
-updated: 2014-03-00
+date: 03/00/2014
 author: "Chris Walker, Lindsay Beck, Carol"
 
 summary: "Many tools and strategies to circumvent Internet restrictions are in existence today. However, some tools offer more security features than others, and may be better for your unique needs for security than others. Thus, it’s important to know the difference between the most common types of circumvention technologies.

@@ -1,7 +1,7 @@
 ---
 layout: content-page
 title: "Where Am I?"
-updated: 2014-03-00
+date: 03/00/2014
 author: Alix Dunn
 
 summary: "This is an activity that illustrates how mobile devices communicate with mobile networks, highlighting how locations of mobile devices are triangulated as part of routine communication with these networks.This leads into a discussion that will get participants thinking critically about the implications of the geolocation and tracking capabilities of mobile devices."

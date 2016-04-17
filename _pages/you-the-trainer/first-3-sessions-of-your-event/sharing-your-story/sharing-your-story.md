@@ -4,7 +4,7 @@ title: Sharing Your Story
 permalink: /you-the-trainer/first-3-sessions-of-your-event/sharing-your-story/
 author: Chris Michael for Tactical Tech
 summary: This is a summary for this page.
-updated: 2016-03-00
+date: 03/00/2016
 
 hide: true
 ---

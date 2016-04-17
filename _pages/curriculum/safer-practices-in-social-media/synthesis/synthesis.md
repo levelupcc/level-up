@@ -1,7 +1,7 @@
 ---
 layout: content-page
 title: "Synthesis: Social Media Safety"
-updated: 2014-03-00
+date: 03/00/2014
 author: "Ali Ravi, Daniel O'Clunaigh, Samir Nassar, DJ, Lindsay Beck"
 
 summary: "A final review of the session module on Social Media Safety, and an opportunity for final questions and concerns to be addressed."

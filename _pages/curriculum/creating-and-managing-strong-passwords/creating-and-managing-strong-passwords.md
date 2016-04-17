@@ -3,7 +3,7 @@ layout: curriculum
 
 title: Creating and Managing Strong Passwords
 author: CC
-updated: 2016-03-00
+date: 03/00/2016
 
 activity: Password Reverse Race
 input: Safer Password practices

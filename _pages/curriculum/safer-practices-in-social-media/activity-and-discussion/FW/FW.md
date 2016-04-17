@@ -1,7 +1,7 @@
 ---
 layout: content-page
 title: FW
-updated: 2014-03-00
+date: 03/00/2014
 author: "Daniel O'Clunaigh, Ali Ravi, and Samir Nassar"
 
 summary: "This activity will help illustrate which kinds of information participants may not want to share on social media, and their inability to control information once it's been posted and reused by someone else. Shared information might be altered by others in uncontrollable ways, and that those who receive the information you share may be untrustworthy."

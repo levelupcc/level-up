@@ -1,7 +1,7 @@
 ---
 layout: content-page
 title: 15 Minutes of Fame
-updated: 2014-03-00
+date: 03/00/2014
 author: "Ali Ravi, Daniel O’Clunaigh, and Samir Nassar"
 
 summary: "This exercise helps illustrate to participants just how much information about an individual can be found online - especially if we publicly share it ourselves."

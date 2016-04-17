@@ -1,9 +1,10 @@
 ---
 layout: content-page
 title: Icebreakers, Energizers, and Other Interactive Exercises
-permalink: /you-the-trainer/ice-breakers-and-energizers/
+date: 03/00/2014
 author: CC
 summary: This is the summary of this page.
+permalink: /you-the-trainer/ice-breakers-and-energizers/
 ---
 
 # Icebreakers, Energizers, and Other Interactive Exercises #

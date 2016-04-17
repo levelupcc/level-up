@@ -1,7 +1,7 @@
 ---
 layout: curriculum
 title: Safer, Anonymous Workspaces using Tails
-updated: 2015-05-00
+date: 05/00/2015
 author: "Michael Carbone, Lindsay Beck, Chris Walker, Carol, Nick Sera-Leyva"
 
 activity:

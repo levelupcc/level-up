@@ -1,9 +1,10 @@
 ---
 layout: content-page
 title: Golden Rules of Effective Training
-permalink: /you-the-trainer/golden-rules-of-effective-training/
+date: 03/00/2016
 author: CC
 summary: This is the summary of this page.
+permalink: /you-the-trainer/golden-rules-of-effective-training/
 ---
 
 # The "Golden Rules" of Effective Training #

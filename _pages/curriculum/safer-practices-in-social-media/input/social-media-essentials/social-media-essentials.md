@@ -1,7 +1,7 @@
 ---
 layout: content-page
 title: Social Media Essentials
-updated: 2014-03-00
+date: 03/00/2014
 author: "Dan O'Clunaigh, Carol, Ali Ravi, Samir Nassar, and Lindsay Beck"
 
 summary: "This input session covers essential components to impart to participants, about the use of social networking services and applications.

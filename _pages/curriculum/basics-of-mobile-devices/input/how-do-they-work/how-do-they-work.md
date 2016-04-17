@@ -1,7 +1,7 @@
 ---
 layout: content-page
 title: "Mobile Devices: How Do They Work?"
-updated: 2014-03-00
+date: 03/00/2014
 author: Alix Dunn
 
 summary: "The content you choose for this section will vary based on your participants, their devices (feature phone vs smartphone), their interest or concern with the topic, and time. Mobile alone could constitute a typical multi-day training, however what's provided here is a summary of the fundamentals of mobile devices and mobile networks."

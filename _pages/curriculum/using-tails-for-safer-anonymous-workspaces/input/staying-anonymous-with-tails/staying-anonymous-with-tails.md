@@ -1,7 +1,7 @@
 ---
 layout: content-page
 title: Staying Anonymous with Tails
-updated: 2015-05-00
+date: 05/00/2015
 author: "Michael Carbone, Nick Sera-Leyva"
 
 summary: "Participants learn how to use Tails features properly in order to stay anonymous, beginning with the essential terminology of Tails, machine booting, and system partition schemes."

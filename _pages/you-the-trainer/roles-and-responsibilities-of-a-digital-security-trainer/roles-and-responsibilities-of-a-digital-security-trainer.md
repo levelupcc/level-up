@@ -1,9 +1,10 @@
 ---
 layout: content-page
 title: Roles and Responsibilities of a Digital Security Trainer
-permalink: /you-the-trainer/roles-and-responsibilities-of-a-digital-security-trainer/
+date: 03/00/2016
 author: CC
 summary: This is the summary of this page.
+permalink: /you-the-trainer/roles-and-responsibilities-of-a-digital-security-trainer/
 ---
 # Roles and Responsibilities of a Digital Security Trainer #
 

@@ -1,7 +1,7 @@
 ---
 layout: content-page
 title: Installing, Launching, and Replicating Tails
-updated: 2015-05-00
+date: 05/00/2015
 author: "Michael Carbone, Nick Sera-Leyva"
 
 summary: "Participants learn how to download Tails, confirm the authenticity of the Tails .iso file (the original file that must be downloaded from the Tails website), install Tails on external media, and create a new Tails USB stick or DVD from an existing Tails installation."

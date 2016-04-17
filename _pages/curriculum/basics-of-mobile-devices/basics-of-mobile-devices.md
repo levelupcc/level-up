@@ -1,7 +1,7 @@
 ---
 layout: curriculum
 title: Basics of Mobile Devices
-updated: 2014-03-00
+date: 03/04/2015
 
 activity:
   - name: Where Am I?

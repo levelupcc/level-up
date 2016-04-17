@@ -1,7 +1,7 @@
 ---
 layout: content-page
 title: Using Tails to Store Confidential Information
-updated: 2015-05-00
+date: 05/00/2015
 author: "Michael Carbone, Nick Sera-Leyva"
 
 summary: "Participants learn to enable persistence, and/or create and access an encrypted USB in order to save settings and store documents within Tails."

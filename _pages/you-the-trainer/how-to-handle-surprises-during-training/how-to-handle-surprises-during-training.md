@@ -1,9 +1,10 @@
 ---
 layout: content-page
 title: How To Handle Surprises During Training
-permalink: /you-the-trainer/how-to-handle-surprises-during-training/
+date: 03/00/2016
 author: DJ
 summary: This is the summary of this page.
+permalink: /you-the-trainer/how-to-handle-surprises-during-training/
 ---
 
 # How to Handle Surprises During a Training #

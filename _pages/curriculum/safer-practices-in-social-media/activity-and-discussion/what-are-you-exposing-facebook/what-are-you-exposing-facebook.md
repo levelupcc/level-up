@@ -1,7 +1,7 @@
 ---
 layout: content-page
 title: "What Are You Exposing on Facebook?"
-updated: 2014-03-00
+date: 03/00/2014
 author: "Lindsay Beck, Daniel O'Clunaigh, DJ"
 
 summary: "This activity, built around a quiz handout that participants complete in-session, is designed to help trainees come to better understand how much information they actively share on social networking services. An important outcome, and talking point for the **Discussion**, is a firmer grasp of the impact that certain kinds of sharing behavior may have on your privacy, and that of others."

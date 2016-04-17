@@ -5,7 +5,7 @@ author: Lorem Ipsum Sr.
 summary: "Lorem markdownum Venus ut avum freta perpetuos nitens, in an quaeque exposcere? Tum ferebat
 recessit bene et spatium litora. Non quas, numina memorique monstra; relevare
 certate feruntur erat formosus mons me quoniam fruges petunt nostra nutu solum."
-updated: 2016-03-00
+updated: 03/00/2015
 permalink: /before-an-event/creating-safe-spaces/
 ---
 # Gutture convertit caerulaque undas nomen morsibus crepuscula

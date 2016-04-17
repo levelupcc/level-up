@@ -1,7 +1,7 @@
 ---
 layout: content-page
 title: "Synthesis: Safer, Anonymous Workspaces using Tails"
-updated: 2015-05-00
+date: 05/00/2015
 author: "Michael Carbone, Nick Sera-Leyva"
 
 summary: "A final review of Tails and its features, and wrap-up of the Safer, Anonymous Workspaces using Tails session module."

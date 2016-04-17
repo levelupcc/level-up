@@ -1,9 +1,10 @@
 ---
 layout: content-page
 title: Setting Expectations For Participants Organizers And Yourself
-permalink: /you-the-trainer/setting-expectations-for-participants-organizers-and-yourself/
+date: 03/00/2014
 author: DJ, Nick Sera-Leyva
 summary: This is the summary of this page.
+permalink: /you-the-trainer/setting-expectations-for-participants-organizers-and-yourself/
 ---
 
 # Setting Expectations for Trainings #

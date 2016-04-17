@@ -1,7 +1,7 @@
 ---
 layout: content-page
 title: Offline Circumvention
-updated: 2014-03-00
+date: 03/00/2014
 author: Lindsay Beck
 
 summary: "This Activity and Discussion will outline how internet proxies work to disguise IP addresses, moving through three different scenarios: traffic routed over HTTP, traffic routed through a VPN, and traffic routed over the Tor network."
