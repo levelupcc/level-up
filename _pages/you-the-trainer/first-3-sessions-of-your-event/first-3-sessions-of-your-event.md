@@ -4,6 +4,7 @@ title: First 3 Sessions of Your Event
 permalink: /you-the-trainer/first-3-sessions-of-your-event/
 author: Chris Michael for Tactical Tech
 summary: Quick summary for this section.
+parent: "You, The Trainer"
 ---
 
 # The First Three Sessions of Your Event #

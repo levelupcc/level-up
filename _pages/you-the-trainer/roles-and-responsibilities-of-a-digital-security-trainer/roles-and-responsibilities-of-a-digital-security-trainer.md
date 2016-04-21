@@ -5,6 +5,7 @@ date: 03/00/2016
 author: CC
 summary: This is the summary of this page.
 permalink: /you-the-trainer/roles-and-responsibilities-of-a-digital-security-trainer/
+parent: "You, The Trainer"
 ---
 # Roles and Responsibilities of a Digital Security Trainer #
 

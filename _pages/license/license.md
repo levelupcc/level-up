@@ -2,6 +2,7 @@
 layout: other-content-page
 title: Creative Commons License
 permalink: /license/
+weight: 8
 hide: true
 ---
 ## creative commons

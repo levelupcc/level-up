@@ -14,6 +14,7 @@ synthesis: Secure Password Synthesis
 synthesis-url: "https://www.level-up.cc/leading-trainings/training-curriculum/synthesis/passwords"
 
 permalink: /curriculum/creating-and-managing-strong-passwords/
+parent: Curriculum
 ---
 
 ## Why are passwords important? ##

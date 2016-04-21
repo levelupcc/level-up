@@ -5,6 +5,7 @@ author: Sandra Ljubinkovic
 summary: "Caring for myself is not self-indulgence, it is self-preservation and that is an act of political warfare - Audre Lord"
 updated: 08/00/2014
 permalink: /before-an-event/creating-safe-spaces/
+parent: Before an Event
 ---
 
 ***Please note that this content is licensed to (and should be attributed to) Sandra Ljubinkovic for Tactical Tech (not LevelUp), under the same CC license in the footer.***

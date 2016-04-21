@@ -5,6 +5,7 @@ permalink: /you-the-trainer/be-a-better-trainer/
 author: DJ
 summary: This is the summary of this page.
 date: 03/00/2016
+parent: "You, The Trainer"
 ---
 
 # Be a Better Trainer #

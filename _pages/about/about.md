@@ -2,6 +2,7 @@
 layout: other-content-page
 title: About LevelUp
 permalink: /about/
+weight: 6
 hide: true
 ---
 ## About LevelUp

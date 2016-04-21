@@ -7,6 +7,7 @@ summary: "Core to LevelUp and its created by trainers, for trainers curriculum i
 This resource explains both the unique needs of adult learners, and how LevelUp has adapted this approach into its curriculum structure for digital security education."
 date: 03/00/2016
 permalink: /before-an-event/levelups-approach-to-adult-learning/
+parent: Before an Event
 ---
 
 Licence:

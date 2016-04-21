@@ -13,6 +13,7 @@ synthesis: Some Synthesis
 synthesis-url: ""
 
 permalink: /curriculum/basics-of-safer-browsing/
+parent: Curriculum
 ---
 # Undis praebentem seque sospes Hoc linguaque ora
 

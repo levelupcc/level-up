@@ -13,6 +13,7 @@ synthesis: Some Synthesis
 synthesis-url: ""
 
 permalink: /curriculum/safer-browsing-for-identity-protection/
+parent: Curriculum
 ---
 # Undis praebentem seque sospes Hoc linguaque ora
 

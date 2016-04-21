@@ -9,6 +9,7 @@ LevelUp uses the **Activity-Discussion-Inputs-Deepening-Synthesis**, or **ADIDS*
 
 ADIDS has been used effectively in advocacy and skills training on human rights issues, and we have found it to be useful in helping participants with minimal technical knowledge better understand the complexities of digital security and online safety. For trainers, it can also provide a useful framework when creating lesson plans."
 permalink: /before-an-event/preparing-training-sessions/
+parent: Before an Event
 ---
 
 ***This How-To resource expands on the individual ADIDS session Elements and their distinct purposes, with guidance on using them to plan the individual sessions within your event agenda.***

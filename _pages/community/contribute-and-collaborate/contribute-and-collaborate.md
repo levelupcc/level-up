@@ -7,6 +7,7 @@ recessit bene et spatium litora. Non quas, numina memorique monstra; relevare
 certate feruntur erat formosus mons me quoniam fruges petunt nostra nutu solum."
 date: 03/00/2015
 permalink: /community/contribute-and-collaborate/
+parent: Community
 ---
 # Induit spectari currendo hospite sacri genitor eveniet
 

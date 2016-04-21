@@ -5,6 +5,7 @@ date: 03/00/2014
 author: CC
 summary: This is the summary of this page.
 permalink: /you-the-trainer/ice-breakers-and-energizers/
+parent: "You, The Trainer"
 ---
 
 # Icebreakers, Energizers, and Other Interactive Exercises #

@@ -5,6 +5,7 @@ date: 03/00/2014
 author: DJ, Nick Sera-Leyva
 summary: This is the summary of this page.
 permalink: /you-the-trainer/setting-expectations-for-participants-organizers-and-yourself/
+parent: "You, The Trainer"
 ---
 
 # Setting Expectations for Trainings #

@@ -13,6 +13,7 @@ synthesis: Some Synthesis
 synthesis-url: ""
 
 permalink: /curriculum/browsers-for-anonymity-and-circumvention/
+parent: Curriculum
 ---
 # Undis praebentem seque sospes Hoc linguaque ora
 

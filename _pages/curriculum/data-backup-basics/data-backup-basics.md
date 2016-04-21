@@ -13,6 +13,7 @@ synthesis: Some Synthesis
 synthesis-url: ""
 
 permalink: /curriculum/data-backup-basics/
+parent: Curriculum
 ---
 # Undis praebentem seque sospes Hoc linguaque ora
 

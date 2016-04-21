@@ -23,6 +23,7 @@ platforms:
 level: Fundamental
 
 permalink: /curriculum/basics-of-mobile-devices/
+parent: Curriculum
 ---
 
 This module is meant to serve as very introductory-level overview of **how mobile devices function using mobile telephony networks**. While certain feature-based strategies and solutions for safety and privacy will be discussed, this is largely to set the stage for then moving onward to more advanced topics of mobile security.

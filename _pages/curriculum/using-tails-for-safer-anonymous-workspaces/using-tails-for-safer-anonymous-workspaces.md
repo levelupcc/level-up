@@ -29,6 +29,7 @@ level: Advanced
 prerequisites: Safer Browsing for Anonymity and Circumvention
 
 permalink: /curriculum/using-tails-for-safer-anonymous-workspaces/
+parent: Curriculum
 ---
 
 **Tails** (The Amnesic Incognito Live System) is a a *live* operating system, or an operating system which can be run directly from an external media storage device such as a USB stick or SD card. In addition to being portable, Tails leaves no trace of itself once disconnected from a machine, and routes all internet traffic through the Tor network.

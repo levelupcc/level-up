@@ -1,10 +1,11 @@
 ---
 layout: content-page
 title: Using LevelUp's Trainer Curriculum
-author: 
+author:
 summary: "Core to LevelUp and its created by trainers, for trainers curriculum is fostering an environment for our events and workshops that is open and participatory for our audiences. For those who support others with training on digital security, the audiences and learners we engage with the most consistently are adults."
 date: 03/00/2016
 permalink: /before-an-event/using-levelups-trainer-curriculum/
+parent: Before an Event
 ---
 
 LevelUp uses the **Activity-Discussion-Inputs-Deepening-Synthesis**, or **ADIDS** approach, to adult learning and has organized its curriculum for training sessions according to this design.

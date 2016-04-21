@@ -7,6 +7,7 @@ recessit bene et spatium litora. Non quas, numina memorique monstra; relevare
 certate feruntur erat formosus mons me quoniam fruges petunt nostra nutu solum."
 date: 03/00/2016
 permalink: /before-an-event/physical-and-operational-security/
+parent: Before an Event
 ---
 # Gutture convertit caerulaque undas nomen morsibus crepuscula
 

@@ -1,0 +1,14 @@
+---
+layout: page
+---
+<section class="section-block -shift">
+<h2>Pages in this section include: </h2>
+<p>{{ page.summary }}</p>
+  {% for node in site.pages %}
+    {% if page.title == node.parent %}
+      <h2>{{ node.title }}</h2>
+      <p>{{ node.summary }}</p>
+      <a href="{{ node.url }}"><strong>Continue to full resource >></strong></a>
+    {% endif %}
+  {% endfor %}
+</section>

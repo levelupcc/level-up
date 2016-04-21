@@ -13,6 +13,7 @@ synthesis: Some Synthesis
 synthesis-url: ""
 
 permalink: /curriculum/safer-communication-through-encryption/pgp-for-email-encryption/
+parent: Safer Communication Through Encryption
 ---
 # Undis praebentem seque sospes Hoc linguaque ora
 

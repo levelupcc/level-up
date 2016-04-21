@@ -29,6 +29,7 @@ level: Fundamental
 prerequisites: Creating and Managing Strong Passwords
 
 permalink: /curriculum/safer-practices-in-social-media/
+parent: Curriculum
 ---
 
 **If this is your first time using our curriculum, please visit** **How To: Using LevelUp's Trainer's Curriculum [LINK]**

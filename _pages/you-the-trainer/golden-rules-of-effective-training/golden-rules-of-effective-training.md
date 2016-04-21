@@ -5,6 +5,7 @@ date: 03/00/2016
 author: CC
 summary: This is the summary of this page.
 permalink: /you-the-trainer/golden-rules-of-effective-training/
+parent: "You, The Trainer"
 ---
 
 # The "Golden Rules" of Effective Training #
