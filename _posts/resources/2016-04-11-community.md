@@ -1,7 +1,7 @@
 ---
 layout: resource
 title: Does This Work?
-date: 04/11/2016
+date: 2016-04-11
 author: Dev
 summary: Testing
 published: true

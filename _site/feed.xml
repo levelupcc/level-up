@@ -5,9 +5,35 @@
     <description>Resources for the global digital safety training community.</description>
     <link>http://localhost:3000//</link>
     <atom:link href="http://localhost:3000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 22 Apr 2016 15:16:12 +0800</pubDate>
-    <lastBuildDate>Fri, 22 Apr 2016 15:16:12 +0800</lastBuildDate>
+    <pubDate>Fri, 22 Apr 2016 18:47:59 +0800</pubDate>
+    <lastBuildDate>Fri, 22 Apr 2016 18:47:59 +0800</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Does This Work?</title>
+        <description>&lt;p&gt;Test. Test. Test.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 11 Apr 2016 00:00:00 +0800</pubDate>
+        <link>http://localhost:3000//community/community-resources-and-tools/2016-04-11-community/</link>
+        <guid isPermaLink="true">http://localhost:3000//community/community-resources-and-tools/2016-04-11-community/</guid>
+        
+        
+        <category>resources</category>
+        
+      </item>
+    
+      <item>
+        <title>Does This Work?</title>
+        <description>&lt;p&gt;Test. Test. Test.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 11 Apr 2016 00:00:00 +0800</pubDate>
+        <link>http://localhost:3000//news/2016-04-11-test/</link>
+        <guid isPermaLink="true">http://localhost:3000//news/2016-04-11-test/</guid>
+        
+        
+        <category>news</category>
+        
+      </item>
     
   </channel>
 </rss>
