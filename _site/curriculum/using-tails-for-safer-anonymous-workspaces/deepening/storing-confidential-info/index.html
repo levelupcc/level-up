@@ -14,6 +14,7 @@
   <script
 type="text/javascript">window.liveSettings={api_key:"9fa8aae90c864b609e215c01848beab0"}</script>
   <script type="text/javascript" src="//cdn.transifex.com/live.js"></script>
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/3.1.0/anchor.min.js"></script>
   <script async defer src="https://hypothes.is/embed.js"></script>
 </head>
 
@@ -90,17 +91,17 @@ type="text/javascript">window.liveSettings={api_key:"9fa8aae90c864b609e215c01848
 </section>
 
 <section class="section-block -shift">
-  <h2>Materials to Prepare</h2>
+  <h2 id="materials-to-prepare">Materials to Prepare</h2>
 
-<p>Live USB or DVD with Tails.<br />
-External DVD reader if necessary.<br />
-Laptop and projector for demonstration.<br />
+<p>Live USB or DVD with Tails.
+External DVD reader if necessary.
+Laptop and projector for demonstration.
 Blank USB flash drives (or SD cards).</p>
 
-<h2>Storing Information in Persistent Volumes on Tails</h2>
+<h2 id="storing-information-in-persistent-volumes-on-tails">Storing Information in Persistent Volumes on Tails</h2>
 <p>Tails is a relatively easy-to-use and hard-to-misuse workspace for handling confidential documents. By enabling a feature called persistence, users can configure Tails to save created data within the operating system in what’s called a persistent folder.</p>
 
-<h3>Step 1: Background</h3>
+<h3 id="step-1-background">Step 1: Background</h3>
 
 <p>Tails is a relatively easy-to-use and hard-to-misuse workspace for handling confidential documents.</p>
 
@@ -122,16 +123,16 @@ Blank USB flash drives (or SD cards).</p>
     <p>Creating a second-generation installation of Tails allows the user to create a persistence folder where some settings and documents can be remembered.</p>
   </li>
   <li>
-    <p>Installing Tails to a writeable USB flash memory stick also allows Tails to update the operating system, without requiring a fresh installation.<br />
+    <p>Installing Tails to a writeable USB flash memory stick also allows Tails to update the operating system, without requiring a fresh installation.
 <br /><br /></p>
   </li>
 </ul>
 
-<h3>Step 2: Enabling Persistence and Persistent Folders on a Tails USB</h3>
+<h3 id="step-2-enabling-persistence-and-persistent-folders-on-a-tails-usb">Step 2: Enabling Persistence and Persistent Folders on a Tails USB</h3>
 
 <p>Begin by demonstrating to the group how to enable persistence within Tails, with participants following along on their own machines with their own live Tails USBs.</p>
 
-<h4>Creating and Configuring a Persistent Folder</h4>
+<h4 id="creating-and-configuring-a-persistent-folder">Creating and Configuring a Persistent Folder</h4>
 
 <ul>
   <li>Boot Tails from a live USB on your laptop and projector setup;</li>
@@ -157,12 +158,12 @@ Blank USB flash drives (or SD cards).</p>
     <p>Once complete, restart Tails to apply the changes.</p>
   </li>
   <li>
-    <p>When you arrive at the Tails Greeter, make sure to enable persistence as prompted by inputting your persistence passphrase.<br />
+    <p>When you arrive at the Tails Greeter, make sure to enable persistence as prompted by inputting your persistence passphrase.
 <br /><br /></p>
   </li>
 </ul>
 
-<h4>Opening and Testing a Persistent Folder</h4>
+<h4 id="opening-and-testing-a-persistent-folder">Opening and Testing a Persistent Folder</h4>
 
 <p>Now when you are in Tails, you can navigate to the Persistent folder, where any file you store will be locally encrypted on the USB and accessible across Tails sessions <em>as long as you activate persistence in the Tails Greeter</em>.</p>
 
@@ -184,12 +185,12 @@ Blank USB flash drives (or SD cards).</p>
     <p>Boot Tails again (activating persistence and entering the passphrase).</p>
   </li>
   <li>
-    <p>Confirm that the amnesiac folder file is <em>gone</em>, while the Persistence folder file <em>remains</em>.<br />
+    <p>Confirm that the amnesiac folder file is <em>gone</em>, while the Persistence folder file <em>remains</em>.
 <br /><br /></p>
   </li>
 </ul>
 
-<h3>Step 3: Creating an Encrypted, Removable USB Drive Accessible via Tails</h3>
+<h3 id="step-3-creating-an-encrypted-removable-usb-drive-accessible-via-tails">Step 3: Creating an Encrypted, Removable USB Drive Accessible via Tails</h3>
 
 <p>In this step, explain that participants will learn how to create a <strong>separate, encrypted USB drive</strong> that can be used for storing documents without altering Tails.</p>
 
@@ -202,7 +203,7 @@ Blank USB flash drives (or SD cards).</p>
   </li>
 </ul>
 
-<h4>Creating and Formatting an Encrypted USB</h4>
+<h4 id="creating-and-formatting-an-encrypted-usb">Creating and Formatting an Encrypted USB</h4>
 
 <p><strong>Begin the exercise by asking participants to do the following:</strong></p>
 
@@ -242,12 +243,12 @@ Blank USB flash drives (or SD cards).</p>
     <p>Click the <strong>Create</strong> button; on the next screen, instruct participants to select a passphrase that they will use to decrypt their partition.</p>
   </li>
   <li>
-    <p>Once the process completes, users will be able to see the newly created partition within the volume of their USB device.<br />
+    <p>Once the process completes, users will be able to see the newly created partition within the volume of their USB device.
 <br /><br /></p>
   </li>
 </ul>
 
-<h4>Mounting and Testing the Encrypted USB</h4>
+<h4 id="mounting-and-testing-the-encrypted-usb">Mounting and Testing the Encrypted USB</h4>
 
 <p>In this next part of the exercise, walk participants through the process of accessing their encrypted USB within Tails, identifying the device in subsequent Tails sessions, and testing that the encrypted partition and device are working properly.</p>
 
@@ -277,12 +278,12 @@ Blank USB flash drives (or SD cards).</p>
     <p>Have participants mount their encrypted device using their passphrase, at which point it will revert to its originally given name and be open for use.</p>
   </li>
   <li>
-    <p>Confirm that the dummy file created earlier is still present on the encrypted external volume.<br />
+    <p>Confirm that the dummy file created earlier is still present on the encrypted external volume.
 <br /><br /></p>
   </li>
 </ul>
 
-<h3>Step 4: Conclusion and Summary</h3>
+<h3 id="step-4-conclusion-and-summary">Step 4: Conclusion and Summary</h3>
 
 <p>Wrap this section of the module, reviewing that these are two methods in which Tails can be used to store sensitive documents in a protected manner.</p>
 
@@ -312,5 +313,9 @@ Blank USB flash drives (or SD cards).</p>
 </footer>
 
     </div>
+    <script>
+    anchors.options.visible = 'always';
+    anchors.add('h2');
+    </script>
   </body>
 </html>

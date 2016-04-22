@@ -5,6 +5,7 @@
   "main": "gulpfile.js",
   "license": "ISC",
   "devDependencies": {
+    "anchor-js": "^3.1.0",
     "browser-sync": "2.11.1",
     "gulp": "3.9.1",
     "gulp-autoprefixer": "3.1.0",

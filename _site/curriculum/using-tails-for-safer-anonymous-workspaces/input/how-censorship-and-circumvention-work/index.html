@@ -14,6 +14,7 @@
   <script
 type="text/javascript">window.liveSettings={api_key:"9fa8aae90c864b609e215c01848beab0"}</script>
   <script type="text/javascript" src="//cdn.transifex.com/live.js"></script>
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/3.1.0/anchor.min.js"></script>
   <script async defer src="https://hypothes.is/embed.js"></script>
 </head>
 
@@ -90,28 +91,28 @@ type="text/javascript">window.liveSettings={api_key:"9fa8aae90c864b609e215c01848
 </section>
 
 <section class="section-block -shift">
-  <h2>Materials to Prepare</h2>
+  <h2 id="materials-to-prepare">Materials to Prepare</h2>
 
 <ul>
   <li>Flipchart or whiteboard with markers (flipchart preferable)</li>
   <li>Projector for any videos you choose to show</li>
 </ul>
 
-<h2>Input Session</h2>
+<h2 id="input-session">Input Session</h2>
 
 <p>Explain that you will begin by describing a typical Internet transaction or, if you’ve already offered a general session on how the internet works using the <strong>We Are The Internet [LINK] activity</strong>, then a brief review should suffice.</p>
 
 <p>After that, you will address how requests for certain content can be blocked. Finally, you will explain how to bypass Internet censorship using proxies and other tools.</p>
 
-<h3>How the Internet is <em>Supposed</em> to Work:</h3>
+<h3 id="how-the-internet-is-supposed-to-work">How the Internet is <em>Supposed</em> to Work:</h3>
 <p>Explain that you will begin by describing a typical Internet transaction. We suggest using the whiteboard to draw out the process by which a browser requests a webpage; however, if you prefer, you can show a favorite video, discuss a pre-made diagram, etc. Regardless, it is not uncommon for participants to have questions about this introductory material.</p>
 
 <p>The example below starts with a computer on a local area network (LAN), but applies equally well to any Internet-connected device. If your training is focused on mobiles, you should probably use a smartphone in your example - you can either explain that the device is connecting through WiFi, or modify a few of the terms below to account for the differences between mobile data services (3G, Edge, GPRS, etc.) and traditional ISP connections.</p>
 
-<h4>What’s Happening on your Device</h4>
+<h4 id="whats-happening-on-your-device">What’s Happening on your Device</h4>
 <p>In this scenario, you are requesting a webpage with your browser. You click on a link and wait for the page to load. Meanwhile, your request is “routed” to the webserver that “hosts” the page you’ve requested. The server then sends you the content of that webpage, and your browser displays it for you.</p>
 
-<h4>Internet Protocol (IP) Addresses</h4>
+<h4 id="internet-protocol-ip-addresses">Internet Protocol (IP) Addresses</h4>
 <p>Each Internet-connected device has a public IP address, assigned by its ISP, that it uses to send and receive data. This includes personal computers, Internet-connected smartphones, printers, game consoles, webpages and online services such as email providers and social networking sites.</p>
 
 <ul>
@@ -125,7 +126,7 @@ type="text/javascript">window.liveSettings={api_key:"9fa8aae90c864b609e215c01848
 
 <p>That said, you will rarely request content using a server’s IP address directly. Instead, your Web browser will typically ask a domain name service (DNS) server to look up the domain name of the URL in the link you clicked (say, level-up.cc) and translate it into a public IP address (say, 88.80.189.190). Your browser will then request the specific content you want (say, “leading-training/training-curriculum/input/circumvention”) from the server at that public IP address.</p>
 
-<h4>Local Area Networks &amp; Local IP Addresses</h4>
+<h4 id="local-area-networks--local-ip-addresses">Local Area Networks &amp; Local IP Addresses</h4>
 <p>Most of the devices you will use directly, such as laptops and smartphones, have <em>local</em> IP addresses that are unreachable from the public Internet. Devices on the same Local Area Network (LAN) frequently share the same public IP address.</p>
 
 <ul>
@@ -139,7 +140,7 @@ type="text/javascript">window.liveSettings={api_key:"9fa8aae90c864b609e215c01848
 
 <p>Assuming you share a home with other people, however, your name becomes important once the envelope arrives at your door.</p>
 
-<h4>Your Internet Traffic</h4>
+<h4 id="your-internet-traffic">Your Internet Traffic</h4>
 <p>Depending on where you live and what type of Internet connection you have, both your request and the corresponding response will pass through a number of different computers along their respective “routes.”</p>
 
 <ul>
@@ -148,7 +149,7 @@ type="text/javascript">window.liveSettings={api_key:"9fa8aae90c864b609e215c01848
 
 <p>Different packets may travel along different routes even if they are part of the same request, response or data submission (such as a when you submit a Web search or an email message).</p>
 
-<h4>Routing</h4>
+<h4 id="routing">Routing</h4>
 <p>These routes will vary depending on where you live and where the webpage you’re requesting is located, among other factors. Your request will typically pass through your local <em>router</em>, then on to your <em>ISP</em>. After that, things get a bit complicated.</p>
 
 <ul>
@@ -163,10 +164,10 @@ type="text/javascript">window.liveSettings={api_key:"9fa8aae90c864b609e215c01848
   </li>
 </ul>
 
-<p>When it arrives at your local router, it will be forwarded to your local IP address, then  (finally) displayed in your Web browser.<br />
+<p>When it arrives at your local router, it will be forwarded to your local IP address, then  (finally) displayed in your Web browser.
 <br /><br /></p>
 
-<h3>When the Internet is <em>Censored</em>:</h3>
+<h3 id="when-the-internet-is-censored">When the Internet is <em>Censored</em>:</h3>
 
 <p>Your access to information online may be blocked for a variety of reasons. Parents and school administrators frequently try to control the material to which children are exposed; companies have regulations about acceptable use of the Internet in the workplace; countries pass laws and establish policies that not only criminalize the publication of certain content within their jurisdiction, but that prohibit access to similar content published elsewhere.</p>
 
@@ -185,7 +186,7 @@ type="text/javascript">window.liveSettings={api_key:"9fa8aae90c864b609e215c01848
   </li>
 </ul>
 
-<h4><em>Where</em> Internet Censorship Happens</h4>
+<h4 id="where-internet-censorship-happens"><em>Where</em> Internet Censorship Happens</h4>
 
 <p>Internet filtering usually takes place at one of five locations:</p>
 
@@ -202,13 +203,13 @@ type="text/javascript">window.liveSettings={api_key:"9fa8aae90c864b609e215c01848
 
 <p>A national censorship regime might have influence over any of these, though we typically focus on (3) and (4) when discussing <strong>state-level</strong> filtering.</p>
 
-<h4>What’s Happening on Your Device</h4>
+<h4 id="whats-happening-on-your-device-1">What’s Happening on Your Device</h4>
 <p>Many comptuers in schools, libraries and Internet cafes (and even some in homes and businesses) contain software that directly prohibits requests for certain content. This sort of filtering is often associated with shared, publicly accessible devices or personal devices that are administered by someone in a position of authority (such as a parent or a corporate IT department).</p>
 
-<h4>At Public or Private Internet Access Points</h4>
+<h4 id="at-public-or-private-internet-access-points">At Public or Private Internet Access Points</h4>
 <p>There could be locally installed internet filtering software at your workplace, library, Internet cafe, etc. Technically, such software could be installed on any of the routers between you and the server you are trying to access, but we typically associate access point filtering with businesses, shared computers and publicly accessible (freely available or for-fee) Intenet connections.</p>
 
-<h4>At ISP and Country Level</h4>
+<h4 id="at-isp-and-country-level">At ISP and Country Level</h4>
 <p>Your ISP, which naturally has the ability to see any direct requests you make online, can implement filtering either by preventing your request from reaching its destination, or (less frequently) by preventing the response from reaching you.</p>
 
 <ul>
@@ -222,7 +223,7 @@ type="text/javascript">window.liveSettings={api_key:"9fa8aae90c864b609e215c01848
 
 <p>Many national filtering policies are implemented at the ISP level - in fact, many ISPs are government-owned and operated.</p>
 
-<h4>On the Server You’re Attempting to Access</h4>
+<h4 id="on-the-server-youre-attempting-to-access">On the Server You’re Attempting to Access</h4>
 <p>Online services are sometimes “defaced,” in order to prevent them from responding to requests for content, regardless of where those requests might be coming from.</p>
 
 <ul>
@@ -236,11 +237,11 @@ type="text/javascript">window.liveSettings={api_key:"9fa8aae90c864b609e215c01848
 
 <p>Finally, while we don’t usually think of it as a “blocking” or “filtering,” a service can prevent you from accessing its own content based on any number of things: your IP address, the country from which your request was sent, the preferred language specified by your browser, etc.</p>
 
-<h3><em>How</em> Internet Censorship Happens:</h3>
+<h3 id="how-internet-censorship-happens"><em>How</em> Internet Censorship Happens:</h3>
 
 <p>Besides using legal or socio-cultural means to curtail access to particular types of information online, the following are common technical methods used to prevent access to online content.</p>
 
-<h4>Internet Protocol (IP) Address Blocking</h4>
+<h4 id="internet-protocol-ip-address-blocking">Internet Protocol (IP) Address Blocking</h4>
 <p><strong>Access to a particular IP address is denied.</strong> When information is sent over the Internet, it is broken up into a number of packets. In addition to the actual data being sent, each packet contains information about how to route the packet itself.</p>
 
 <ul>
@@ -254,7 +255,7 @@ type="text/javascript">window.liveSettings={api_key:"9fa8aae90c864b609e215c01848
 
 <p>If the target is on a “shared hosting” server (one of the more affordable ways to put up a website), then <strong>all</strong> sites on that server will be blocked. Similarly, IP blocking <strong>cannot</strong> be used to filter a particular video or Facebook profile.</p>
 
-<h4>Domain Name System (DNS) Filtering</h4>
+<h4 id="domain-name-system-dns-filtering">Domain Name System (DNS) Filtering</h4>
 <p><strong>If a DNS server is configured to filter content, it consults a “blacklist” of blocked domain names.</strong> When you enter a URL in a Web browser, the first thing the Web browser does is ask a DNS server to look up the domain name referenced in the URL and supply the corresponding IP address.</p>
 
 <ul>
@@ -268,7 +269,7 @@ type="text/javascript">window.liveSettings={api_key:"9fa8aae90c864b609e215c01848
 
 <p>DNS filtering has limitations similar to those of IP filtering, and also tends toward unintentional <em>over-blocking</em>.</p>
 
-<h4>Uniform Resource Locator (URL) Filtering</h4>
+<h4 id="uniform-resource-locator-url-filtering">Uniform Resource Locator (URL) Filtering</h4>
 <p><strong>When requesting content over HTTP, versus encrypted HTTPS, the entire URL can be scanned for banned keywords.</strong> Regardless of the actual domain name or IP address you are trying to reach, filtering software can prevent access based on the presence of these keywords.</p>
 
 <ul>
@@ -282,7 +283,7 @@ type="text/javascript">window.liveSettings={api_key:"9fa8aae90c864b609e215c01848
 
 <p>This process is often called “deep packet inspection” and refers to the process of monitoring traffic and censoring requests for banned content by performing a “deep inspection” of the content of individual data packets sent as part of a request.</p>
 
-<h4>Port Blocking</h4>
+<h4 id="port-blocking">Port Blocking</h4>
 <p><strong>Servers listen on different numbered “ports” in order to provide different services.</strong> Ports are infrastructure within the larger communication framework of the internet, that serve as channels for different protocols or traffic types - each is referred to by a number.</p>
 
 <ul>
@@ -296,18 +297,18 @@ type="text/javascript">window.liveSettings={api_key:"9fa8aae90c864b609e215c01848
 
 <p>These ports are generally consistent, so blacklisting a given port number will block a particular type of traffic, regardless of the actual server to which a request is being sent.</p>
 
-<h4>Portal Censorship</h4>
+<h4 id="portal-censorship">Portal Censorship</h4>
 <p>Major international Web platforms that serve content to people all over the world—such as Google’s search engine, YouTube, Twitter and Facebook—have at times complied with requests from governments to remove certain content from their portals.</p>
 
 <p>This renders content invisible to people who do not know where else to find it. Unfortunately, censorship circumvention tools are generally unable to get around this sort of blocking.</p>
 
-<h4>Internet Shutdown</h4>
+<h4 id="internet-shutdown">Internet Shutdown</h4>
 <p>In extreme cases, such as during a popular uprising, some governments have been known to disable their citizens’ access to the Internet entirely. Once again, there is little that traditional circumvention solutions can do to address this form of censorship.</p>
 
-<p>Fortunately, such blockades tend to be extremely unpopular, and are rarely left in place for long.<br />
+<p>Fortunately, such blockades tend to be extremely unpopular, and are rarely left in place for long.
 <br /><br /></p>
 
-<h3>Bypassing Censorship using ‘Proxies’</h3>
+<h3 id="bypassing-censorship-using-proxies">Bypassing Censorship using ‘Proxies’</h3>
 
 <p>To get around technical website filters, most circumvention tools simply ask a server in some other country to fetch blocked websites for them. This server is known as a <strong>proxy</strong>.</p>
 
@@ -315,7 +316,7 @@ type="text/javascript">window.liveSettings={api_key:"9fa8aae90c864b609e215c01848
 
 <p><strong><em>That said, there are a few other considerations to keep in mind when choosing circumvention software.</em></strong></p>
 
-<h4>Choosing a Proxy</h4>
+<h4 id="choosing-a-proxy">Choosing a Proxy</h4>
 <p>Before choosing a proxy, it is important make sure that it meets the following critieria:</p>
 
 <ol>
@@ -336,12 +337,12 @@ type="text/javascript">window.liveSettings={api_key:"9fa8aae90c864b609e215c01848
   </li>
 </ol>
 
-<h4>Types of Proxies</h4>
+<h4 id="types-of-proxies">Types of Proxies</h4>
 
 <ol>
   <li>
-    <p><strong>Virtual Private Networks (VPNs)</strong><br />
-<br /><br />
+    <p><strong>Virtual Private Networks (VPNs)</strong>
+<br />
 VPN software, which you may have to install on your PC or mobile device, provides a secure tunnel between you and a VPN server on the Internet. All of your Internet traffic will be sent through that tunnel before being routed to its destination.</p>
 
     <p>As long as your VPN server is located somewhere that is not subject to filtering, this will allow you to access blocked content. Trust is still important, as your VPN provider could easily maintain a list of the websites you visit, but at least they will not be able to access the traffic send to (or receive from) encrypted services like HTTPS websites.</p>
@@ -353,14 +354,14 @@ VPN software, which you may have to install on your PC or mobile device, provide
         <p>As with all proxies, <strong>your connection is not fully secure unless you are visiting a secure service</strong>, such as an HTTPS-encrypted website.</p>
       </li>
       <li>
-        <p><strong>Your connection is not anonymous.</strong> Your VPN service can see and record what you are requesting.<br />
+        <p><strong>Your connection is not anonymous.</strong> Your VPN service can see and record what you are requesting.
 <br /><br /></p>
       </li>
     </ul>
   </li>
   <li>
-    <p><strong>Anonymizing Proxies</strong><br />
-<br /><br />
+    <p><strong>Anonymizing Proxies</strong>
+<br />
 Anonymity networks typically “bounce” your Internet traffic between various secure proxies in order to disguise where you are coming from and what you are trying to access.</p>
 
     <p><strong>Tor is the most well tested and widely used anonymizing proxy network.</strong> By tunneling your traffic through a randomly selected series of encrypted relays, Tor offers a secure, reliable, publicly accessible means of circumvention that saves you from having to worry quite so much about the extent to which you trust your ISP, the organization that runs your proxy servers, or the the filtered websites themselves.</p>
@@ -372,14 +373,14 @@ Anonymity networks typically “bounce” your Internet traffic between various 
         <p>You must still ensure that you have an encrypted, HTTPS connection to a secure website before exchanging sensitive information, <em>even if you are using Tor.</em></p>
       </li>
       <li>
-        <p>Unfortunately, in countries where Internet speeds are slow to begin with, some users find that Tor has a <em>significant impact on the performance of complex websites</em> and other Internet services.<br />
+        <p>Unfortunately, in countries where Internet speeds are slow to begin with, some users find that Tor has a <em>significant impact on the performance of complex websites</em> and other Internet services.
 <br /><br /></p>
       </li>
     </ul>
   </li>
 </ol>
 
-<h2>Additional Resources</h2>
+<h2 id="additional-resources">Additional Resources</h2>
 
 <ul>
   <li><a href="http://www.eff.org">Electronic Frontier Foundation</a>’s resource on using <a href="https://www.eff.org/pages/tor-and-https">Tor vs. HTTPS</a></li>
@@ -399,5 +400,9 @@ Anonymity networks typically “bounce” your Internet traffic between various 
 </footer>
 
     </div>
+    <script>
+    anchors.options.visible = 'always';
+    anchors.add('h2');
+    </script>
   </body>
 </html>

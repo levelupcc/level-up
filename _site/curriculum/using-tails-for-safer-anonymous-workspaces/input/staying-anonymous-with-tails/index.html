@@ -14,6 +14,7 @@
   <script
 type="text/javascript">window.liveSettings={api_key:"9fa8aae90c864b609e215c01848beab0"}</script>
   <script type="text/javascript" src="//cdn.transifex.com/live.js"></script>
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/3.1.0/anchor.min.js"></script>
   <script async defer src="https://hypothes.is/embed.js"></script>
 </head>
 
@@ -90,16 +91,16 @@ type="text/javascript">window.liveSettings={api_key:"9fa8aae90c864b609e215c01848
 </section>
 
 <section class="section-block -shift">
-  <h2>Materials to Prepare</h2>
+  <h2 id="materials-to-prepare">Materials to Prepare</h2>
 
 <ul>
   <li>Laptop and projector for showing webpages below.</li>
   <li><strong>Optional</strong>: Handout with defined terms and links to resources mentioned below.</li>
 </ul>
 
-<h2>Input Session</h2>
+<h2 id="input-session">Input Session</h2>
 
-<h3>Anonymity &amp; Endpoint Security</h3>
+<h3 id="anonymity--endpoint-security">Anonymity &amp; Endpoint Security</h3>
 
 <p>Being anonymous can mean different things depending on who or what you want to be anonymous <strong>from</strong>:</p>
 
@@ -118,7 +119,7 @@ type="text/javascript">window.liveSettings={api_key:"9fa8aae90c864b609e215c01848
   <li>Qubes OS (<a href="https://wiki.qubes-os.org/wiki/UserDoc/TorVM">https://wiki.qubes-os.org/wiki/UserDoc/TorVM</a>)</li>
 </ul>
 
-<h3>Defining Terms</h3>
+<h3 id="defining-terms">Defining Terms</h3>
 
 <p>This training session will focus on <strong>Tails</strong>, which stands for <strong>T</strong>he <strong>A</strong>mnesic <strong>I</strong>ncognito <strong>L</strong>ive <strong>S</strong>ystem - <em>what does this name mean?</em></p>
 
@@ -140,64 +141,64 @@ type="text/javascript">window.liveSettings={api_key:"9fa8aae90c864b609e215c01848
 
 <p><strong>In order to understand how Tails functions, and to use it properly, it will be useful to define some further vocabulary for the group:</strong></p>
 
-<h4>Linux</h4>
+<h4 id="linux">Linux</h4>
 <p>Linux is an operating system similar to Windows or Mac, the major difference being that it is distributed as free and open-source software. Because of this, there are many different adapted distributions of Linux available - Debian, one of the more popular distributions, forms the foundation for Tails.</p>
 
-<h4>Boot(able) Device</h4>
+<h4 id="bootable-device">Boot(able) Device</h4>
 <p>A Boot (or Bootable) Device is a device or drive from which a computer loads files in order to actually start. For example, on many computers the hard drive is the boot device from which an operating system (such as Windows) is loaded when you turn a computer on. Aside from hard drives, media like CDs, DVDs, SD Cards, and USB flash drives are also boot(able) devices.</p>
 
-<h4>BIOS</h4>
+<h4 id="bios">BIOS</h4>
 <p>BIOS (Basic Input/Output System) is the first software many computers run when they are switched on, used to run self-tests on systems and hardware to ensure they are working properly, and to initiate the load sequence for software (like an operating system) located on available bootable devices. BIOS has an interface, but users cannot access it unless they take specific action during startup to access it directly.</p>
 
-<h4>UEFI</h4>
+<h4 id="uefi">UEFI</h4>
 <p>UEFI (Unified Extensible Firmware Interface) is a newer and more flexible version of BIOS, increasingly available on many newer computers, that functions in much the same way.</p>
 
-<h4>Boot Sequence</h4>
+<h4 id="boot-sequence">Boot Sequence</h4>
 <p>The boot sequence, which can be accessed through BIOS (or UEFI) during startup on a computer, is a list of the bootable devices on a computer - it is used to determine the order in which a computer attempts to load information from these devices. Normally, a computer’s hard drive is the first device in the boot sequence, from which the operating system is loaded. However, the boot sequence can be changed to first load information from external, removeable devices like DVDs or USBs.</p>
 
-<h4>RAM</h4>
+<h4 id="ram">RAM</h4>
 <p>RAM (Random Access Memory) is the most commoly used type of computer memory, and allows for any one unit of information within that memory to be accessed without affecting any of the others. It is the memory which software and applications occupy in order to run while a computer is in use, and is erased each time a computer is shut down.</p>
 
-<h4>Partition</h4>
+<h4 id="partition">Partition</h4>
 <p>On a given device, such as a hard drive or USB flash drive with a set amount of memory, users have the option of dividing the total memory into smaller, divided containers. These containers, known as partitions, can be used to store data, applications, or even whole operating systems. A partition can also be the entire device memory - in that case, a device would have only one partition.</p>
 
-<h4>Partition Scheme</h4>
-<p>When a device has one or more partitions, it still needs to have a way to actually load or boot those partitions and allow them to be accessed and used. There are several different ways that devices can do this, and these are each called partition schemes. Partition schemes (similar to a boot sequence) are essentially an index of all the partitions on a device, as well as code required to start each one up, like the keys to a car.<br />
+<h4 id="partition-scheme">Partition Scheme</h4>
+<p>When a device has one or more partitions, it still needs to have a way to actually load or boot those partitions and allow them to be accessed and used. There are several different ways that devices can do this, and these are each called partition schemes. Partition schemes (similar to a boot sequence) are essentially an index of all the partitions on a device, as well as code required to start each one up, like the keys to a car.
 <br /><br /></p>
 
-<h3>What does this have to do with Tails?</h3>
+<h3 id="what-does-this-have-to-do-with-tails">What does this have to do with Tails?</h3>
 <p>Remind the group, after going through the above terms, that live operating systems such as Tails run off of external media like DVDs and USBs - but how does a computer know when to run Tails and when to run its normally installed operating system?</p>
 
-<p>Explain that during this session, participants will learn how to make use of their computer’s BIOS and boot sequence to automatically load Tails if it detects that a bootable device (such as USB drive) containing Tails is inserted into the machine. Again, remind the group that Tails leaves no trace of itself, or any activity performed while using it, once disconnected from a machine - this is because it runs on a computer’s RAM which, as they’ve just learned, is automatically erased whenever a computer shuts down.<br />
+<p>Explain that during this session, participants will learn how to make use of their computer’s BIOS and boot sequence to automatically load Tails if it detects that a bootable device (such as USB drive) containing Tails is inserted into the machine. Again, remind the group that Tails leaves no trace of itself, or any activity performed while using it, once disconnected from a machine - this is because it runs on a computer’s RAM which, as they’ve just learned, is automatically erased whenever a computer shuts down.
 <br /><br /></p>
 
-<h2>Next Steps for Trainers</h2>
+<h2 id="next-steps-for-trainers">Next Steps for Trainers</h2>
 
 <p>If participants have never encountered Tails before, and will be installing and using it for the first time, the Installing, Launching, and Replicating Tails Deepening is required material before moving on to any of the other more topic-specific Deepening sessions.</p>
 
 <p>The other Deepening sessions available for Tails, which are also relevant to other topics and sub-topics within the LevelUp training curriculum, are largely built around a specific use case for Tails. To aid in structuring your training session, the relevant sub-topics are listed below with the appropriate Deepening(s) included for each:</p>
 
-<h4>Private Communications</h4>
+<h4 id="private-communications">Private Communications</h4>
 
 <ul>
-  <li><strong>Deepening:</strong> <strong>Private Communications with Tails (Basic) [LINK]</strong><br />
+  <li><strong>Deepening:</strong> <strong>Private Communications with Tails (Basic) [LINK]</strong>
 <br /></li>
   <li><strong>Deepening:</strong> <strong>Private Communications with Tails (Advanced) [LINK]</strong></li>
 </ul>
 
-<h4>Malware</h4>
+<h4 id="malware">Malware</h4>
 
 <ul>
   <li><strong>Deepening:</strong> <strong>Using Tails to Test Suspicious Files [LINK]</strong></li>
 </ul>
 
-<h4>Secure Data Storage</h4>
+<h4 id="secure-data-storage">Secure Data Storage</h4>
 
 <ul>
   <li><strong>Deepening:</strong> <strong>Storing Confidential Information in Tails [LINK]</strong></li>
 </ul>
 
-<h4>Destroying Data</h4>
+<h4 id="destroying-data">Destroying Data</h4>
 
 <ul>
   <li><strong>Deepening: Viewing and Deleting Metadata in Tails with MAT [LINK]</strong></li>
@@ -215,5 +216,9 @@ type="text/javascript">window.liveSettings={api_key:"9fa8aae90c864b609e215c01848
 </footer>
 
     </div>
+    <script>
+    anchors.options.visible = 'always';
+    anchors.add('h2');
+    </script>
   </body>
 </html>
