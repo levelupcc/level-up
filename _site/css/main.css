@@ -468,9 +468,7 @@ body {
   -webkit-justify-content: center;
       -ms-flex-pack: center;
           justify-content: center;
-  margin-bottom: 30px;
-  width: 900px;
-  min-height: 100vh; }
+  width: 900px; }
 
 .site-header {
   display: -webkit-box;
@@ -498,7 +496,7 @@ body {
   width: inherit;
   height: 3rem;
   padding: 0rem 3.3rem;
-  margin-bottom: 15px; }
+  margin-bottom: 25px; }
 
 .nav-block > .menu {
   display: -webkit-box;
@@ -520,8 +518,8 @@ body {
       -ms-flex-preferred-size: 800px;
           flex-basis: 800px;
   max-width: 800px;
-  min-height: 236px;
-  margin-bottom: 15px;
+  min-height: 246px;
+  margin-bottom: 20px;
   padding: 2rem 5rem 3rem 7rem; }
 
 .section-block_home {
@@ -531,10 +529,10 @@ body {
   display: block;
   position: absolute;
   content: "";
-  left: 23.8%;
+  left: 23.2%;
   width: 11px;
   height: 72px;
-  margin-top: 45px;
+  margin: 40px 2px;
   background-color: #F0A742; }
 
 ._post {
@@ -574,7 +572,8 @@ body {
           justify-content: space-around;
   width: 800px;
   height: 65px;
-  padding: 38px; }
+  padding: 38px;
+  margin-top: 2%; }
 
 body {
   background-color: #F3B968; }
@@ -664,10 +663,12 @@ h4, a {
 
 .menu ul {
   color: #F3B968;
-  background-color: #65B2B9; }
+  background-color: #65B2B9;
+  padding: 0; }
 
 .menu ul a {
   background-color: #65B2B9;
+  padding-left: 3rem;
   color: #ffffff; }
 
 .menu ul a:hover,
