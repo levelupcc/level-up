@@ -13,7 +13,9 @@ Explore advice from fellow digital safety trainers and experienced facilitators,
 The website was built by [the engine room](www.theengineroom.org) in the spring of 2016.
 
 User Experience - Julie Lorch
+
 Designer - Dimitris Stamatis
+
 Developer - Hannah Edrosa
 
 ###How can I contribute?
@@ -21,4 +23,3 @@ Developer - Hannah Edrosa
 If you want to contribute:
 - email the community maintainer
 - fork the repo, edit and submit a pull request
-
