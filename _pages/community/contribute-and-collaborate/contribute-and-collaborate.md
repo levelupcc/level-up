@@ -9,13 +9,16 @@ parent: Community
 ---
 
 ## How to contribute to the content
+
 [This tutorial](https://github.com/the-engine-room/level-up/wiki/How-to-Contribute-to-Level-Up-Community-Resources-Page) explains how you can contribute to the [community resources section](https://the-engine-room.github.io/level-up/community/community-resources-and-tools/) of the Level Up website.
 
-[ ADD MORE CONTENT ON HOW TO ADD/EDIT FILES]
+If you want to update or add a new page, you can follow [this tutorial](https://github.com/the-engine-room/level-up/wiki/How-to-Edit-or-Add-a-New-Page).
 
 ## How to use Hypothesis
 
-[Photos on how to use hypothesis] and/or link to Github wiki
+Level Up is using a web annotator called [Hypothesis](https://hypothes.is). You may have noticed the Hypothesis panel on the right side of the Level Up website. You need to create an account in order to comment on and save hightlights on the website.
+
+Check out this tutorial on [how to use the annotator](https://github.com/the-engine-room/level-up/wiki/How-to-Use-Hypothesis).
 
 ## How to contribute to localization efforts
 
