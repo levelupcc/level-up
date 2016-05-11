@@ -4,13 +4,21 @@ title: Basics of Safer Browsing
 author: Mx. Author
 date: 03/00/2016
 
-activity: Activity Name
-input: Input Link
-input-url: ""
-deepening: Deepening Link
-deepening-url: ""
-synthesis: Some Synthesis
-synthesis-url: ""
+activity:
+  - name: 
+    url:
+
+input:
+ - name:
+   url:
+
+deepening:
+ - name:
+   url:
+
+synthesis:
+ - name:
+   url:
 
 permalink: /curriculum/basics-of-safer-browsing/
 parent: Curriculum
