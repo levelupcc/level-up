@@ -10,9 +10,11 @@ parent: Community
 
 ## How to contribute to the content
 
-[This tutorial](https://github.com/the-engine-room/level-up/wiki/How-to-Contribute-to-Level-Up-Community-Resources-Page) explains how you can contribute to the [community resources section](https://the-engine-room.github.io/level-up/community/community-resources-and-tools/) of the Level Up website.
+[This tutorial](https://github.com/the-engine-room/level-up/wiki/How-to-Add-Content#adding-a-new-community-resource) explains how you can contribute to the [community resources section](https://the-engine-room.github.io/level-up/community/community-resources-and-tools/) of the Level Up website.
 
-If you want to update or add a new page, you can follow [this tutorial](https://github.com/the-engine-room/level-up/wiki/How-to-Edit-or-Add-a-New-Page).
+If you want to update an existing page, you can follow [this tutorial](https://github.com/the-engine-room/level-up/wiki/How-to-Edit-Content).
+
+If you want to add a new page, you can follow [this tutorial](https://github.com/the-engine-room/level-up/wiki/How-to-Add-Content#adding-a-new-page).
 
 ## How to comment on the content
 
@@ -22,4 +24,4 @@ Check out this tutorial on [how to use the annotator](https://github.com/the-eng
 
 ## How to contribute to localization efforts
 
-[Write about Transifex and give details on what languages we need and how to get on the team]
+We want Level Up to be accessible in many different ways. It is crucial that the content is localized. In an effort to suppor that goal, Level Up is taking advantage of a translation platform called [Transifex](https://www.transifex.com/) which is free for open source projects. If you would like to translate the content of Level Up, please get in contact with the [site administrator].
