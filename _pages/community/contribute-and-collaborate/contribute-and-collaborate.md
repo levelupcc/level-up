@@ -2,13 +2,11 @@
 layout: content-page
 title: Contribute and Collaborate
 author: Level Up
-summary: "We want to encourage more sharing within the Level Up community and so have created a page specifically for aggregating community resources. This page explains how one can get involved, submit resources and interact on the webpage."
+summary: "LevelUp’s content has been developed by a group of dedicated digital security trainers that are willingly sharing their knowledge in order to protect individuals working for greater rights and social justice. They also hope to improve their own training skills and content by interacting with other trainers who may modify and adapt the content that is available on this website. Our ask is that if you use the content in anyway, please provide comment and feedback on what you’ve used. We would also love to get new content connected to digital security training - if you have something you’d like to contribute to the site, please follow the instrutions below."
 date: 05/01/2015
 permalink: /community/contribute-and-collaborate/
 parent: Community
 ---
-
-LevelUp’s content has been developed by a group of dedicated digital security trainers that are willingly sharing their knowledge in order to protect individuals working for greater rights and social justice. They also hope to improve their own training skills and content by interacting with other trainers who may modify and adapt the content that is available on this website. Our ask is that if you use the content in anyway, please provide comment and feedback on what you’ve used.  We would also love to get new content connected to digital security training - if you have something you’d like to contribute to the site, please follow the instrutions below.
 
 ## How to contribute to the content
 
