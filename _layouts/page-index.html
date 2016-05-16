@@ -7,7 +7,7 @@ layout: content-page
     {% if page.title == node.parent %}
       <h3>{{ node.title }}</h3>
       <p>{{ node.summary }}</p>
-      <a href="{{ node.url }}"><strong>Continue to full resource >></strong></a>
+      <a href="{{ site.baseurl }}{{ node.url }}"><strong>Continue to full resource >></strong></a>
     {% endif %}
   {% endfor %}
 </section>
