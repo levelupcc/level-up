@@ -1,59 +1,27 @@
 ---
 layout: content-page
 title: Contribute and Collaborate
-author: Lorem Ipsum Sr.
-summary: "Lorem markdownum Venus ut avum freta perpetuos nitens, in an quaeque exposcere? Tum ferebat
-recessit bene et spatium litora. Non quas, numina memorique monstra; relevare
-certate feruntur erat formosus mons me quoniam fruges petunt nostra nutu solum."
-date: 03/00/2015
+author: Level Up
+summary: "LevelUp’s content has been developed by a group of dedicated digital security trainers that are willingly sharing their knowledge in order to protect individuals working for greater rights and social justice. They also hope to improve their own training skills and content by interacting with other trainers who may modify and adapt the content that is available on this website. Our ask is that if you use the content in anyway, please provide comment and feedback on what you’ve used. We would also love to get new content connected to digital security training - if you have something you’d like to contribute to the site, please follow the instrutions below."
+date: 05/01/2015
 permalink: /community/contribute-and-collaborate/
 parent: Community
 ---
-# Induit spectari currendo hospite sacri genitor eveniet
 
-## Animum ipso aut hoc
+## How to contribute to the content
 
-Lorem markdownum prima haec corpore habentem pestifera enim forma, domitae
-vinci. [Cum urbe](http://tumblr.com/) conscia missa tepidique temploque tempora,
-et Ismario magno, aut? Alte fratrem *cornua duo lucifer* quia corpore nisi.
+[This tutorial](https://github.com/the-engine-room/level-up/wiki/How-to-Add-Content#adding-a-new-community-resource) explains how you can contribute to the [community resources section](https://the-engine-room.github.io/level-up/community/community-resources-and-tools/) of the Level Up website.
 
-## Incrementa spatio te
+If you want to update an existing page, you can follow [this tutorial](https://github.com/the-engine-room/level-up/wiki/How-to-Edit-Content).
 
-Inpune *totumque subvectaque trahoque* Nilus. Luce quam consilioque tamen.
-Minitantem austrum prorumpit et est Aetnen cunctae illuc auferat loquendi.
-Patria volat in purpureis sceleri. [Visu nemus
-sic](http://www.uselessaccount.com/) edita optantemque mersa currus calet sors
-validum ante per rotatis brevis nimiique.
+If you want to add a new page, you can follow [this tutorial](https://github.com/the-engine-room/level-up/wiki/How-to-Add-Content#adding-a-new-page).
 
-## Durata meritis ne verbis vix nymphae torvo
+## How to comment on the content
 
-Et at funda. Totiens animi; colla [tigridis in
-platanus](http://textfromdog.tumblr.com/) Samius: **medio ferarum**, pulsatus
-Lycetum. Vestigia operosa domos pennisque nostrae sperat.
+Level Up is using a web annotator called [Hypothesis](https://hypothes.is). You may have noticed the Hypothesis panel on the right side of the Level Up website. You need to create an account in order to comment on and save hightlights on the website.
 
-Annis cura una Palaemona et miseram pietas cornua furiisque semivir incaluitque
-satis, habenas et [animas gladii](http://www.uselessaccount.com/) spectatam
-nequiquam. Quam Dauni parce, staminaque donec caelumque petat frondescere: telum
-et. Terga duro tela viros indicet, sole. Inseris admonitus cadunt Pagasaeus
-mitisque voluntas diffugiunt tutum peraguntque quam lupis veneno qua; vincla.
-Virens Agre partes religata aurea, ulterius Agenorides miles pignus.
+Check out this tutorial on [how to use the annotator](https://github.com/the-engine-room/level-up/wiki/How-to-Use-Hypothesis).
 
-## Iunctum sunt
+## How to contribute to localization efforts
 
-Montibus progenies rictus ceratis amor siluere, oscula, mille
-[gelido](http://www.mozilla.org/) aspera, Ide voces speciosoque illo. Interdum
-unus tollit adflixit: et imbres coget adspexisse **si meorum** anno Priapi
-**herba mores**. Et vox hoc, *in* quam inter isset Laurenti Hesperio micantia
-in. Superbum terris intus.
-
-## Quam ora
-
-[Ita quam Dorylas](http://jaspervdj.be/) ut **sui** ferro excubias Silvius
-patruo motura modo feliciter rostro. Ibi nostris simul, opus autumnum femina
-meus, verba terra, auditaque foedumque ille. Ait siccam cunctatus, suis colla
-non puraque quidem satae, placatoque telum in mortalis semilacerque inque artus
-summum illic. [Reposcunt et](http://www.reddit.com/r/haskell) voce teneraque ad
-occasus! Adclinataque opus gaudia una salute vellet, linguae ne quoque.
-
-Modo reperire elidite genus, inquit tenus. Miratur talibus alto. Oculos habendum
-*et* quorum vita, funereus peregit, inquit ora sanguine in cursus velit.
+We want Level Up to be accessible in many different ways. It is crucial that the content is localized. In an effort to suppor that goal, Level Up is taking advantage of a translation platform called [Transifex](https://www.transifex.com/) which is free for open source projects. If you would like to translate the content of Level Up, please get in contact with the [site administrator].
