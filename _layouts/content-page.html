@@ -11,12 +11,21 @@ layout: default
   {% endunless %}
 </section>
 
-{% unless page.summary == nil %}
+{% if page.adids != nil %}
+<section class="section-block">
+  <div class="metabox">
+    <p><h3>AdIDS Category: </h3>{{ page.adids }}</p>
+    <p><h3>Parent Sub-topic(s): </h3>{{ page.parent }}</p>
+    <p><h3>Duration: </h3>{{ page.duration }}</p>
+    <p><h3>Summary: </h3></p>{{ page.summary }}
+  </div>
+</section>
+{% else %}
 <section class="section-block">
   <h3>Summary</h3>
   <p class="summary">{{ page.summary }}</p>
 </section>
-{% endunless %}
+{% endif %}
 
 <section class="section-block">
   {{ content }}
