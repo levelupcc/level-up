@@ -30,7 +30,7 @@ breadcrumb: Anonymity and Circumvention
 **If this is your first time using our curriculum, please visit** **How To: Using LevelUp's Trainer's Curriculum [LINK]**
 
 
-##Learning Goals for Participants##
+## Learning Goals for Participants ##
 
 
 - Understand how Internet censorship works, and at what levels it can occur;

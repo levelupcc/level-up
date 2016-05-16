@@ -11,7 +11,7 @@ breadcrumb: Be A Better Trainer
 
 The goal of the digital security trainer is to facilitate the participants' understanding of specific topics. In the context of online security training, the main goal of a trainer is to facilitate the participants' understanding of online security risks and solutions, apply it to their real experiences, and make the decision to change their behavior and practices in using the Internet. Below are some common examples of trainer behavior that can impede this goal:
 
-##The Jargon-Monster
+## The Jargon-Monster
 
 Jargon is a bit like a ‘secret language' that is shared among people who are experts in a particular field – a shorthand in which complicated concepts get abbreviated into a single word or phrase. As long as the experts know what the jargon is, they can communicate their ideas clearly and more quickly than they would otherwise.
 
@@ -36,7 +36,7 @@ Jargon-Monster behavior in training is the over-use of technical terms without e
 
 - **Draw it!:** Don't dismiss the effectiveness of a few stick drawings to illustrate a concept. They are more powerful teaching tools than a paragraph of words on the same topic. The challenge here for trainers is not whether or not you can draw like an artist, the challenge here is organizing how you will teach a concept. What are the processes involved in a specific session? How can you illustrate them in such a way that each process is clear to everyone?
 
-##The PowerPoint-Freak
+## The PowerPoint-Freak
 
 Preparing presentations for workshops is part of the standard trainer’s routine, and there is undeniable value in using PowerPoint (or OpenOffice Present) in a training context. For one thing, if a trainer is dealing with a mixed-language group of participants (very common in regional and international training workshops), then having a prepared visual presentation to support the lecture can be an effective way to address language differences. Presentations coupled with a lecture also address two learner types: the visual and the auditory learners. This makes for a more effective training session.
 
@@ -59,7 +59,7 @@ Use text in chunks and sparingly. Presentations are not meant to be read. They a
 
 These are some guidelines, but in general PowerPoint presentations should be kept to a minimum. If you spend more time preparing PowerPoint presentations than you do preparing questions to facilitate discussions, you may want to rethink your strategy. Good trainers must remember that effective teaching methodologies, especially in adult learning, always starts with the participants experience. The ADIDS methodology, which we address in the next module, is a good way to start.
 
-##The Mouse-Dominator
+## The Mouse-Dominator
 One of the staples any technical training is the hands-on activity, when participants install and use new software that will enhance their safety.
 
 Every so often, a trainer will get a participant who is not as used to handling a computer as their peers, and this can trigger **Mouse Dominator** behavior. This occurs when the trainer takes over the mouse and *shows* the participant what to do instead of *allowing them to do it themselves*. This approach can easily turn a hands-on activity into a learning barrier, because the participant is left unable to learn by doing.
@@ -76,7 +76,7 @@ Every so often, a trainer will get a participant who is not as used to handling 
 
 - **Show, do, then check:** Show your participants the steps in an activity before you ask them to replicate them. Using a projector at the front of the room, with additional instructors or helpers at the back, walk through each step and ask the participants if they are with you: Asking “is this what you can see you on your screen?” is a good way to know if everyone is following your demonstration, and if others are falling behind.
 
-##The Fear-Mongerer
+## The Fear-Mongerer
 In digital security trainings, sometimes a little bit of fear-mongering can be necessary. Conveying the dangers of the online/digital world can be challenging as the associated risks are largely "virtual" and therefore not seen to be "real" by many people. For example, showing someone how easy it is to hack into a social network account can encourage participants to consider risk and danger in ways that a lecture never could.
 
 However, responsible and ethical digital security trainers need to know when to stop. Sometimes fear-mongering is so "effective" that it fosters a feeling of dis-empowerment among trainees - the issue is perceived as 'too big' for them to handle, and therefore paralyses them when it comes to thinking of and practicing solutions.
@@ -91,7 +91,7 @@ However, responsible and ethical digital security trainers need to know when to 
 
 A good trainer never wants to scare participants to the point that the only solution they can think of is to disconnect from the internet entirely - *that's not the point of digital security trainings!* The point is to make them aware of the risks so they can be conscious and conscientious when it comes to their online communications and technology use practices.
 
-##The Monologuer
+## The Monologuer
 Monologues are, if we count lectures, a normal part of training. Trainers are asked to speak about specific topics because they are knowledgeable on those topics; however, sometimes a trainer becomes so comfortable lecturing (or monologue-ing) that they become ineffective in actually *teaching* that topic. When a training becomes dominated by trainer monologue, trainees' inability to be active participants in their own learning process leads to  disengagement from, and even disillusionment in, the trainer.
 
 **So, how can a trainer maintain the right balance of monologue and participation during a training?**
