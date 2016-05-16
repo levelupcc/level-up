@@ -3,18 +3,16 @@ layout: content-page
 title: Icebreakers, Energizers, and Other Interactive Exercises
 date: 03/00/2014
 author: CC
-summary: This is the summary of this page.
+summary: "A practical, and growing, guide to interactive activities digital security trainers can use during their events to keep energy high, discussion flowing, and participants comfortable."
 permalink: /you-the-trainer/ice-breakers-and-energizers/
 parent: "You, The Trainer"
+breadcrumb: Icebreakers, Energizers, and Other Interactive Exercises
 ---
-
-# Icebreakers, Energizers, and Other Interactive Exercises #
 Including interactive exercises as part of training sessions can be a powerful teaching tool - whereas all people learn differently (in addition to cultural and regional differences), making training workshops fun and interactive is an effective training approach for most participants.
 
 
 ## Why Interactive Exercises? ##
 These are exercises that facilitators and trainers can employ to encourage participants to be more relaxed with each other, become (re-) energised and engaged, and to help break up the pace of the day. There are 3 main types of interactive exercises that are used frequently during digital security trainings:
-
 
 
 - **Icebreakers**

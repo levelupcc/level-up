@@ -3,14 +3,11 @@ layout: content-page
 title: First 3 Sessions of Your Event
 permalink: /you-the-trainer/first-3-sessions-of-your-event/
 author: Chris Michael for Tactical Tech
-summary: Quick summary for this section.
+summary: "This multi-part guide, written by Chris Michael of Tactical Tech, covers 3 individual sessions that together can set the stage for a training events that are effective, productive, and more participatory from the beginning."
+date:
 parent: "You, The Trainer"
+breadcrumb: First 3 Sessions of Your Event
 ---
-
-# The First Three Sessions of Your Event #
-
-**by Chris Michael for Tactical Tech**
-
 *Please note that this content is licensed to (and should be attributed to) Chris Michael for Tactical Tech (not LevelUp), under the same CC license in the footer.*
 
 Though the order and duration may differ per event, these three discussions are critical to ensuring you have an effective, engaging event. They will help you answer the following questions:

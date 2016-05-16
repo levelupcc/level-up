@@ -3,16 +3,11 @@ layout: content-page
 title: Sharing Your Story
 permalink: /you-the-trainer/first-3-sessions-of-your-event/sharing-your-story/
 author: Chris Michael for Tactical Tech
-summary: This is a summary for this page.
+summary: "Nametags are helpful, but they don’t stimulate the necessary engagement and energy that starts off an effective gathering. For that, we turn to creative exercises to help participants and trainers learn about each other, our motivations for our attendance and our perspectives on relevant issues."
 date: 03/00/2016
-
 hide: true
+breadcrumb: Sharing Your Story
 ---
-
-# Sharing Your Story: Creative Introductions and Perspectives #
-Nametags are helpful, but they don’t stimulate the necessary engagement and energy that starts off an effective gathering. For that, we turn to creative exercises to help participants and trainers learn about each other, our motivations for our attendance and our perspectives on relevant issues.
-
-
 ## Creative Introductions ##
 
 Though you can invite people to introduce themselves in a way that they’re familiar with —their name, where they come from, and their affiliation — we encourage more creative introductions to jump-start your event. By starting with a creative introduction, you’re setting the tone to show that this will be a fun, engaging and participatory event.

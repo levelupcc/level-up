@@ -3,17 +3,13 @@ layout: content-page
 title: Developing a Shared Brain
 permalink: /you-the-trainer/first-3-sessions-of-your-event/developing-a-shared-brain/
 author: Chris Michael for Tactical Tech
-summary: This is a summary for this page.
+summary: "As a trainer, one of the most fundamental aspects of leading a great event is assessing and managing participants’ expectations as early as possible. By doing this, you will build an agenda and develop exercises that help ensure their time and the group’s time is well spent.
+
+Let’s face it: We’re all busy. We’re often over committed and juggling multiple responsibilities in our work and personal lives. As a facilitator, one of the most fundamental aspects of leading a great event is assessing and managing participants’ expectations as early as possible. By doing this, you will build an agenda and develop exercises that help ensure their time and the group’s time is well spent."
 date: 03/00/2016
-
 hide: true
+breadcrumb: Developing a Shared Brain
 ---
-
-# Developing a Shared Brain: Assessing and Managing Expectations #
-As a trainer, one of the most fundamental aspects of leading a great event is assessing and managing participants’ expectations as early as possible. By doing this, you will build an agenda and develop exercises that help ensure their time and the group’s time is well spent.
-
-Let’s face it: We’re all busy. We’re often over committed and juggling multiple responsibilities in our work and personal lives. As a facilitator, one of the most fundamental aspects of leading a great event is assessing and managing participants’ expectations as early as possible. By doing this, you will build an agenda and develop exercises that help ensure their time and the group’s time is well spent.
-
 ## In an ideal world... ##
 In an ideal world, you and the event’s organizing team would have conducted a series of pre-event interviews with all stakeholders involved weeks in advance of the event. Conversations and questionnaires conducted with other organizers, participants, funders and allies would yield critical insight and inform the content you would cover, the agenda you would design and the flow of experiences you would create throughout the event. Weeks before the event, you would have started an event email chain in which all participants introduced themselves and their affiliations, shared their hopes for the event and one or two topics or skills they were eager to cover.
 

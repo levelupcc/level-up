@@ -1,12 +1,11 @@
 ---
-layout: page
+layout: content-page
 ---
-<section class="section-block -shift">
-<h2>Pages in this section include: </h2>
-<p>{{ page.summary }}</p>
+<section class="section-block">
+<h2>Resources: </h2>
   {% for node in site.pages %}
     {% if page.title == node.parent %}
-      <h2>{{ node.title }}</h2>
+      <h3>{{ node.title }}</h3>
       <p>{{ node.summary }}</p>
       <a href="{{ node.url }}"><strong>Continue to full resource >></strong></a>
     {% endif %}

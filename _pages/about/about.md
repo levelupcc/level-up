@@ -1,5 +1,5 @@
 ---
-layout: other-content-page
+layout: content-page
 title: About LevelUp
 permalink: /about/
 weight: 6

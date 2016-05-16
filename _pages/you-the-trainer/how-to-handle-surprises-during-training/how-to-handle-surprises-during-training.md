@@ -3,22 +3,18 @@ layout: content-page
 title: How To Handle Surprises During Training
 date: 03/00/2016
 author: DJ
-summary: This is the summary of this page.
+summary: "From internet outages to uninvited guests, this resource explores tips and advice from fellow trainers on ways to expect the unexpected during your training events."
 permalink: /you-the-trainer/how-to-handle-surprises-during-training/
 parent: "You, The Trainer"
+breadcrumb: How To Handle Surprises During Training
 ---
-
-# How to Handle Surprises During a Training #
-
-There's no way to predict everything that will happen in a digital security training (or any kind of training, for that matter), but you can still prepare yourself for surprises that may come up from time to time!
+There's no way to predict everything that will happen in a digital security training (or any kind of workshop or event, for that matter), but you can still prepare yourself for surprises that may come up from time to time!
 
 ## Surprises with...Training Materials ##
 Have you run out of markers, flipchart paper, post-its, or another important training aid, with no way to obtain more due to time or location? You can avoid this unpleasant surprise if you:
 
 
-
 - **Bring your own training kit:** A good trainer is a prepared trainer, and a prepared trainer always has their own training kit ready to go. While it may take up precious suitcase space, your own training kit guarantees that you’ll have the materials you need, when you need them. Some materials you would likely want to include:
-
 
 
 		- Butcher / flipchart paper

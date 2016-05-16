@@ -3,18 +3,13 @@ layout: content-page
 title: Developing Shared Agreements
 permalink: /you-the-trainer/first-3-sessions-of-your-event/developing-shared-agreements/
 author: Chris Michael for Tactical Tech
-summary: This is a summary for this page.
+summary: "We all have been through those painful meetings where one person talks over others or people are having distracting side conversations, right? Well, that is why we always need to invest time in developing shared agreements before we begin a meeting or gathering. Though these are often referred to as “ground rules,” we place importance on the term “shared agreements.”
+
+Firstly, when working with adults, the facilitator has the great importance of recognizing everyone’s experience, expertise and autonomy. To help establish working agreements as to how the group should best collaborate and work together, you can crowd-source agreements, rather than prescribe them as ground rules."
 date: 03/00/2016
-
 hide: true
+breadcrumb: Developing Shared Agreements
 ---
-
-## Developing Shared Agreements (a.k.a. "Ground Rules") ##
-
-We all have been through those painful meetings where one person talks over others or people are having distracting side conversations, right? Well, that is why we always need to invest time in developing shared agreements before we begin a meeting or gathering. Though these are often referred to as “ground rules,” we place importance on the term “shared agreements.”
-
-Firstly, when working with adults, the facilitator has the great importance of recognizing everyone’s experience, expertise and autonomy. To help establish working agreements as to how the group should best collaborate and work together, you can crowd-source agreements, rather than prescribe them as ground rules.
-
 ## To begin ##
 
 Note to participants that your role as a facilitator is to help the group maximizes its time in order to reach its shared objectives. Along the way, your job is to keep activities on track and on time, making sure everyone is fully engaged and participating in the ways they are most comfortable.

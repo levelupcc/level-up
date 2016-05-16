@@ -2,13 +2,15 @@
 layout: content-page
 title: Creating Safe Spaces
 author: Sandra Ljubinkovic
-summary: "Caring for myself is not self-indulgence, it is self-preservation and that is an act of political warfare - Audre Lord"
-updated: 08/00/2014
+summary: "Training can be an emotional experience, in particular for participants experiencing constant stress or trauma. As a trainer, creating a safe space is the basis for your work, crucial for creating a sense of physical safety as well as a sense of confidence in a group."
+date: 08/00/2014
 permalink: /before-an-event/creating-safe-spaces/
 parent: Before an Event
+breadcrumb: Creating Safe Spaces
 ---
-
 ***Please note that this content is licensed to (and should be attributed to) Sandra Ljubinkovic for Tactical Tech (not LevelUp), under the same CC license in the footer.***
+
+*"Caring for myself is not self-indulgence, it is self-preservation and that is an act of political warfare"* - **Audre Lord**
 
 ## Why is a "safe space" crucial for digital security trainings? ##
 

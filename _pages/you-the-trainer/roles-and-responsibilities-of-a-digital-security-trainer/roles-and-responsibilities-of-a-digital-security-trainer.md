@@ -3,12 +3,11 @@ layout: content-page
 title: Roles and Responsibilities of a Digital Security Trainer
 date: 03/00/2016
 author: CC
-summary: This is the summary of this page.
+summary: "As trainers of digital security, we have certain obligations not only to our participants but to ourselves - this resource summarizes some of the most essential among these duties."
 permalink: /you-the-trainer/roles-and-responsibilities-of-a-digital-security-trainer/
 parent: "You, The Trainer"
+breadcrumb: Roles and Responsibilities of a Digital Security Trainer
 ---
-# Roles and Responsibilities of a Digital Security Trainer #
-
 As digital security trainers, we are looked upon to provide solutions and strategies for our participants’ digital safety concerns, and to furthermore consider the impact that both these concerns **and** their solutions might have on participants' physical security.
 
 These are real challenges and issues - whatever solutions and strategies we ‘prescribe’ or 'recommend' can either place them at further risk or save them from it.

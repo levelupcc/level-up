@@ -1,5 +1,5 @@
 ---
-layout: other-content-page
+layout: content-page
 title: Creative Commons License
 permalink: /license/
 weight: 8

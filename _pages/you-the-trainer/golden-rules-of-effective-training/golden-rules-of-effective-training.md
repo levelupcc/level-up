@@ -3,15 +3,11 @@ layout: content-page
 title: Golden Rules of Effective Training
 date: 03/00/2016
 author: CC
-summary: This is the summary of this page.
+summary: "How can we as trainers provide solutions to the digital safety concerns of our participants, and communicate about the challenges and realities of these concerns, both responsibly and effectively?"
 permalink: /you-the-trainer/golden-rules-of-effective-training/
 parent: "You, The Trainer"
+breadcrumb: Golden Rules of Effective Training
 ---
-
-# The "Golden Rules" of Effective Training #
-
-This is a summary of training essentials, based on over a decade of training experience in the field. For more information about specific training techniques, please browse the additional resources throughout this site.
-
 ## "Golden Rule" 1 ##
 **Always explain why a tool, strategy, or habit is important *before* you start training on it.**
 

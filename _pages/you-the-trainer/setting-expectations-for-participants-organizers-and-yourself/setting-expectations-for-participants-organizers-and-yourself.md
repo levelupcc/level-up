@@ -3,13 +3,11 @@ layout: content-page
 title: Setting Expectations For Participants Organizers And Yourself
 date: 03/00/2014
 author: DJ, Nick Sera-Leyva
-summary: This is the summary of this page.
+summary: "The task of putting yourself, your training participants, and (sometimes) training event organizers on the same page early on *before* an event can be a difficult one - this resource contains some helpful approaches for facilitating those discussions."
 permalink: /you-the-trainer/setting-expectations-for-participants-organizers-and-yourself/
 parent: "You, The Trainer"
+breadcrumb: Setting Expectations For Participants Organizers And Yourself
 ---
-
-# Setting Expectations for Trainings #
-
 ## Accepting your own limitations before managing the expectations of others ##
 
 Setting expectations for organizers and participants is possibly only after accepting the first set of expectations you need to have in place: **What you can reasonably expect *yourself* to be able to do?**
