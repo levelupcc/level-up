@@ -6,6 +6,7 @@ summary: "LevelUp’s content has been developed by a group of dedicated digital
 date: 05/01/2015
 permalink: /community/contribute-and-collaborate/
 parent: Community
+breadcrumb: Contribute and Collaborate
 ---
 
 ## How to contribute to the content

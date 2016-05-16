@@ -4,4 +4,5 @@ title: News and Updates
 permalink: /news/
 weight: 7
 hide: true
+breadcrumb: News and Updates
 ---

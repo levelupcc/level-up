@@ -4,15 +4,19 @@ layout: default
 <section class="section-block _top">
   {% include breadcrumb.html %}
   <h1>{{ page.title }}</h1>
+  {% unless page.author == nil or page.date == nil %}
   <p><span class="page-author"> {{ page.author }} </span>
     last updated:  {{ page.date | date: "%m/%d/%Y" }}
   </p>
+  {% endunless %}
 </section>
 
+{% unless page.summary == nil %}
 <section class="section-block">
   <h3>Summary</h3>
   <p class="summary">{{ page.summary }}</p>
 </section>
+{% endunless %}
 
 <section class="section-block">
   {{ content }}

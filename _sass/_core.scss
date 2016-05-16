@@ -54,16 +54,17 @@ body {
 	display: flex;
 	flex-direction: column;
 	align-items: center;
+	padding: 0;
+	margin: 0;
+	border: 0;
 }
 
-.outer-wrapper {
-	margin-bottom: 0;
-}
 .outer-wrapper {
 	display: flex;
 	flex-direction: column;
 	align-items: center;
 	width: 900px;
+	margin-bottom: -50px;
 }
 
 .inner-wrapper {

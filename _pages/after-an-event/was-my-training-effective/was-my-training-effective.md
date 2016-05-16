@@ -7,8 +7,8 @@ recessit bene et spatium litora. Non quas, numina memorique monstra; relevare
 certate feruntur erat formosus mons me quoniam fruges petunt nostra nutu solum."
 date: 03/00/2016
 permalink: /after-an-event/was-my-training-effective/
-
 parent: After an Event
+breadcrumb: "Was My Training Effective?"
 ---
 # Gutture convertit caerulaque undas nomen morsibus crepuscula
 

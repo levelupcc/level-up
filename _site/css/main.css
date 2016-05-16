@@ -438,10 +438,10 @@ body {
   -webkit-box-align: center;
   -webkit-align-items: center;
       -ms-flex-align: center;
-          align-items: center; }
-
-.outer-wrapper {
-  margin-bottom: 0; }
+          align-items: center;
+  padding: 0;
+  margin: 0;
+  border: 0; }
 
 .outer-wrapper {
   display: -webkit-box;
@@ -457,7 +457,8 @@ body {
   -webkit-align-items: center;
       -ms-flex-align: center;
           align-items: center;
-  width: 900px; }
+  width: 900px;
+  margin-bottom: -50px; }
 
 .inner-wrapper {
   display: -webkit-box;

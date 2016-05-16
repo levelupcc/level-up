@@ -4,6 +4,7 @@ title: About LevelUp
 permalink: /about/
 weight: 6
 hide: true
+breadcrumb: About
 ---
 ## About LevelUp
 
