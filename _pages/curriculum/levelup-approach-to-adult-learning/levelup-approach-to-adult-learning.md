@@ -5,8 +5,8 @@ author: Pedagogy for Adult Learners, adapted from SaferJourno, by Manisha Aryal 
 summary: "LevelUp uses the Activity-Discussion-Inputs-Deepening-Synthesis, or the ADIDS approach to learning and has organized its curriculum for training sessions according to this approach - where does this approach come from, and why was it chosen?"
 date: 03/00/2016
 permalink: /curriculum/how-to-use-levelup-trainers-curriculum/
-parent: Curriculum
 breadcrumb: "LevelUp's Approach to Adult Learning"
+weight: 3.2
 ---
 Licence:
 

@@ -18,4 +18,5 @@ Keep in mind that this guide represents advice, input, and experience of the aut
 date: 2016-05-00
 permalink: /curriculum/planning-an-event-agenda/
 breadcrumb: Planning An Event Agenda
+weight: 3.3
 ---

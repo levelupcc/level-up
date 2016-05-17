@@ -5,8 +5,8 @@ author: CC, a trainer with 10+ years of training experience based in Manila.
 summary: "How can trainers build LevelUp training sessions into their agendas, or even begin to create new session modules using ADIDS that are based on their own experience? This resource explains how ADIDS lends itself to a more flexible agenda design experience."
 date: 03/00/2016
 permalink: /curriculum/preparing-sessions-using-adids/
-parent: Curriculum
 breadcrumb: Preparing Sessions Using ADIDS
+weight: 3.4
 ---
 
 Core to LevelUp and its *created by trainers, for trainers* curriculum is fostering an environment for our events and workshops that is **open and participatory** for our audiences. For those who support others with training on digital security, the audiences and learners we engage with the most consistently are adults

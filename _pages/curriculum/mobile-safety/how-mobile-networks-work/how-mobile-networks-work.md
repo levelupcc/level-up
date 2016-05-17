@@ -41,19 +41,6 @@ This subtopic covers the fundamentals of all mobile phones and devices for when 
 - Learn how to mitigate the vulnerabilities of feature phones
 <br><br>
 
-## Session Elements ##
-
-### Activities & Discussions ###
-
-
-- Where Am I?
-
-### Inputs ###
-
-
-- Mobile Devices: How Do They Work?
-
-
 ## Important Notes ##
 
 - Arriving at a training to discover that the participants all use feature phones (instead of smart phones) is a surprise to try and avoid. In your pre-training interviews or survey, or in your conversations with your main contact, make sure to ask:
