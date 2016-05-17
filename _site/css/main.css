@@ -712,8 +712,8 @@ h4, a {
   .site-header-description {
     display: none; }
   .nav-block {
-    height: auto;
-    background-color: #E7E7ED; }
+    width: 100%;
+    height: auto; }
   .nav-block > .menu {
     display: -webkit-box;
     display: -webkit-flex;
@@ -727,16 +727,15 @@ h4, a {
     -webkit-box-align: center;
     -webkit-align-items: center;
         -ms-flex-align: center;
-            align-items: center; }
-  .nav-block > .menu {
-    background-color: #ffffff; }
+            align-items: center;
+    background-color: #fff; }
   .section-block, .section-block_home {
-    width: 30rem;
+    width: 100%;
     min-height: 123px;
     margin-bottom: 10px;
     padding: 2rem 5rem 3rem 7rem; }
   .site-footer {
-    width: 40rem;
+    width: 100%;
     height: auto;
     display: -webkit-box;
     display: -webkit-flex;
@@ -749,11 +748,10 @@ h4, a {
             flex-direction: column;
     padding: 10px; }
   .menu ul {
-    position: absolute;
-    top: 21rem;
-    left: 0;
-    overflow: hidden;
-    min-width: 400px; } }
+    position: static;
+    width: 400px; }
+  .inner-wrapper {
+    width: 400px; } }
 
 /**
  * Syntax highlighting styles

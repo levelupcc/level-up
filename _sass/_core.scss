@@ -294,35 +294,33 @@ h4, a {
 		display: none;
 	}
 	.nav-block {
+	  width: 100%;
 		height: auto;
-		background-color: #E7E7ED;
 	}
 	.nav-block > .menu {
 		display: flex;
 		flex-direction: column;
 		align-items: center;
-	}
-	.nav-block > .menu {
-		background-color: #ffffff;
+		background-color: #fff;
 	}
 	.section-block {
-		width: 30rem;
+		width: 100%;
 		min-height: 123px;
 		margin-bottom: 10px;
 		padding: 2rem 5rem 3rem 7rem;
 	}
 	.site-footer {
-		width: 40rem;
+		width: 100%;
 		height: auto;
 		display: flex;
 		flex-direction: column;
 		padding: 10px;
 	}
 	.menu ul {
-	  position: absolute;
-	  top: 21rem;
-	  left: 0;
-	  overflow: hidden;
-	  min-width: 400px;
+	  position: static;
+	  width: 400px;
+	}
+	.inner-wrapper {
+		width: 400px;
 	}
 }
