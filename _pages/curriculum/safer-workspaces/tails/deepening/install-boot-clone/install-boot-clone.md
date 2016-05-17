@@ -1,5 +1,5 @@
 ---
-layout: adids
+layout: content-page
 title: "Deepening: Installing, Launching, and Replicating Tails"
 author: Michael Carbone, Nick Sera-Leyva
 parent: "Safer, Anonymous Workspaces using Tails"

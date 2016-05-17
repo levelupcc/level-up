@@ -1,5 +1,5 @@
 ---
-layout: adids
+layout: content-page
 title: "Synthesis: Anonymity & Circumvention"
 author:
 summary: "A final review and closeout of Anonymity & Circumvention session; adjust your closing takeaways and questions to the tools focused on during the session, in addition to the concepts covered."

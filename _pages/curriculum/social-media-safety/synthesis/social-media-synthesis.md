@@ -1,5 +1,5 @@
 ---
-layout: adids
+layout: content-page
 title: "Synthesis: Social Media Safety"
 author: Ali Ravi, Daniel O'Clunaigh, Samir Nassar, DJ, Lindsay Beck
 parent: "Social Media Safety"

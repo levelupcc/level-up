@@ -6,6 +6,7 @@ date: 03/00/2016
 permalink: /curriculum/planning-an-event-agenda/the-participant-driven-agenda/
 parent: Curriculum
 breadcrumb: "The Participant-Driven Agenda"
+hide: true
 ---
 While there are certain minimums and limitations that should be observed in order for an event to be a successful one, in general **participants should be given as much control of the agenda as possible.**
 

@@ -1,5 +1,5 @@
 ---
-layout: adids
+layout: content-page
 title: "Activty & Discussion: Romeo and Juliet - An Encrypted Love Story"
 author: Ali Ravi
 summary: "In this Activity, trainers will use props and themes from the story of Shakespeare's Romeo and Juliet to help participants understand the concept of PGP encryption. Note that this Activity addresses the concept of encryption through metaphor only."

@@ -1,5 +1,5 @@
 ---
-layout: adids
+layout: content-page
 title: "Activity & Discussion: 15 Minutes of Fame"
 author: Ali Ravi, Daniel O’Clunaigh, and Samir Nassar
 parent: "Social Media Safety"

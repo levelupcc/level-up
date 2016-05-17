@@ -6,6 +6,7 @@ date: 03/00/2016
 permalink: /curriculum/planning-an-event-agenda/agenda-checklist/
 parent: Curriculum
 breadcrumb: The Agenda Checklist
+hide: true
 ---
 ## Starting from Scratch ##
 

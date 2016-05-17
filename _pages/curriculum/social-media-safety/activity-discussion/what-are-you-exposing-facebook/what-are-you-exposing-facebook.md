@@ -1,5 +1,5 @@
 ---
-layout: adids
+layout: content-page
 title: "Activity & Discussion: What Are You Exposing on Facebook?"
 author: Lindsay Beck, Daniel O'Clunaigh, DJ
 parent: "Social Media Safety"

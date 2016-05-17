@@ -1,11 +1,11 @@
 ---
-layout: adids
+layout: content-page
 title: "Input: How Do Mobile Devices Work?"
 author: Alix Dunn
 summary: "The content you choose for this section will vary based on your participants, their devices (feature phone vs smartphone), their interest or concern with the topic, and time. Mobile alone could constitute a typical multi-day training, however what's provided here is a summary of the fundamentals of mobile devices and mobile networks."
 permalink: /curriculum/mobile-safety/how-mobile-networks-work/input/how-do-mobile-devices-work/
 breadcrumb: "I:  How Do Mobile Devices Work"
-updated: 2014-03-00
+date: 2014-03-00
 adids: Activity and Discussion
 parent: Basics of Mobile Devices
 duration: 45-70 minutes

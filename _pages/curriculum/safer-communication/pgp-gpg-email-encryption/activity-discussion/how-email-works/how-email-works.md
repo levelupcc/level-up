@@ -1,5 +1,5 @@
 ---
-layout: adids
+layout: content-page
 title: "Activity & Discussion: How Does Email Work?"
 author:
 summary: "Using props and the participants as nodes in the Internet, this activity walks through the delivery of email, both with and without encryption, while describing the nuances of packet data as it passes through a network. This can also serve as an activity to help illustrate the concepts of a country-level ISP, Deep Packet Inspection (DPI), gateways, email content filtering, non web-based emails (enterprise servers), and encryption (PGP/GPG)."

@@ -1,5 +1,5 @@
 ---
-layout: adids
+layout: content-page
 title: "Deepening: Using the Tor Bundle"
 author: Lindsey Beck, Chris Walker
 summary: "In this Deepening section, participants will learn how to use the Tor Browser Bundle for anonymity and circumvention for safer browsing actions."

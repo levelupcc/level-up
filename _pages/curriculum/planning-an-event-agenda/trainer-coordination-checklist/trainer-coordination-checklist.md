@@ -6,6 +6,7 @@ date: 03/00/2016
 permalink: /curriculum/planning-an-event-agenda/trainer-coordination-checklist/
 parent: Curriculum
 breadcrumb: Trainer Coordination Checklist
+hide: true
 ---
 ## Behind the Scenes ##
 

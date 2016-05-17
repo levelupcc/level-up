@@ -1,5 +1,5 @@
 ---
-layout: adids
+layout: content-page
 title: "Activity & Discussion: Offline Circumvention"
 author:
 summary:

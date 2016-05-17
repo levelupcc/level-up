@@ -1,7 +1,6 @@
 ---
 layout: content-page
 ---
-<section class="section-block">
 <h2>Resources: </h2>
   {% for node in site.pages %}
     {% if page.title == node.parent %}
@@ -10,4 +9,3 @@ layout: content-page
       <a href="{{ site.baseurl }}{{ node.url }}"><strong>Continue to full resource >></strong></a>
     {% endif %}
   {% endfor %}
-</section>

@@ -1,5 +1,5 @@
 ---
-layout: adids
+layout: content-page
 title: "Input: Staying Anonymous with Tails"
 author: Michael Carbone, Nick Sera-Leyva
 parent: "Anonymous Workspaces using Tails"

@@ -1,11 +1,11 @@
 ---
-layout: adids
+layout: content-page
 title: "Activity & Discussion: Where Am I?"
 author: Alix Dunn
 summary: "This is an activity that illustrates how mobile devices communicate with mobile networks, highlighting how locations of mobile devices are triangulated as part of routine communication with these networks.This leads into a discussion that will get participants thinking critically about the implications of the geolocation and tracking capabilities of mobile devices."
 permalink: /curriculum/mobile-safety/how-mobile-networks-work/activity-discussion/where-am-i/
 breadcrumb: "AD: Where Am I?"
-updated: 2014-03-00
+date: 2014-03-00
 adids: Activity and Discussion
 parent: Basics of Mobile Devices
 duration: 30-45 minutes

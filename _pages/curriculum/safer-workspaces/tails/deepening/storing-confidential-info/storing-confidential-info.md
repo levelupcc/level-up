@@ -1,5 +1,5 @@
 ---
-layout: adids
+layout: content-page
 title: "Using Tails to Store Confidential Information"
 author: Michael Carbone, Nick Sera-Leyva
 parent: "Safer, Anonymous Workspaces using Tails; Storing and Securing Sensitive Data"

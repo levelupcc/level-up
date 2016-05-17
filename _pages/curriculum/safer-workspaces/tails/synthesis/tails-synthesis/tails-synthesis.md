@@ -1,5 +1,5 @@
 ---
-layout: adids
+layout: content-page
 title: "Synthesis: Safer, Anonymous Workspaces using Tails"
 author: Michael Carbone, Nick Sera-Leyva
 parent: "Safer, Anonymous Workspaces using Tails"

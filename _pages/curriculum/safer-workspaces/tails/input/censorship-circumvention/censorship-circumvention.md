@@ -1,5 +1,5 @@
 ---
-layout: adids
+layout: content-page
 title: "Input: How Censorship Circumvention Works"
 author: Chris Walker, Lindsay Beck, Carol
 parent: "Safer, Anonymous Workspaces using Tails, Safer Browsing for Anonymity and Circumvention"

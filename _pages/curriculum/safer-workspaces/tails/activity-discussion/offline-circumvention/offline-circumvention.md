@@ -1,5 +1,5 @@
 ---
-layout: adids
+layout: content-page
 title: "Activity & Discussion: Offline Circumvention"
 author: Lindsay Beck
 parent: "Safer Browsing for Anonymity and Circumvention; Safer, Anonymous Workspaces using Tails"

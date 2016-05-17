@@ -1,5 +1,5 @@
 ---
-layout: adids
+layout: content-page
 title: "Input: Social Media Essentials"
 author: Dan O'Clunaigh, Carol, Ali Ravi, Samir Nassar, and Lindsay Beck
 parent: "Social Media Safety"

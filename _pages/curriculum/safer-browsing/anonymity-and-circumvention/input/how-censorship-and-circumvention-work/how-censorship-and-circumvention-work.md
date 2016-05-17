@@ -1,5 +1,5 @@
 ---
-layout: adids
+layout: content-page
 title: "Input: How Censorship and Circumvention"
 author:
 summary:

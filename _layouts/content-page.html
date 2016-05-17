@@ -21,10 +21,12 @@ layout: default
   </div>
 </section>
 {% else %}
-<section class="section-block">
-  <h3>Summary</h3>
-  <p class="summary">{{ page.summary }}</p>
-</section>
+  {% unless page.summary == nil %}
+  <section class="section-block">
+    <h3>Summary</h3>
+    <p class="summary">{{ page.summary }}</p>
+  </section>
+  {% endunless %}
 {% endif %}
 
 <section class="section-block">

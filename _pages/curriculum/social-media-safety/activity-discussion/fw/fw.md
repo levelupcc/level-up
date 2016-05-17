@@ -1,5 +1,5 @@
 ---
-layout: adids
+layout: content-page
 title: "Activity & Discussion: FW"
 author: Daniel O'Clunaigh, Ali Ravi, and Samir Nassar
 parent: "Social Media Safety"
