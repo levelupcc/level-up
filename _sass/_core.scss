@@ -69,6 +69,7 @@ body {
 	flex-wrap: wrap;
 	justify-content: center;
 	width: 900px;
+	position: relative;
 }
 
 .site-header {
@@ -215,112 +216,4 @@ h4, a {
 .site-footer-link:focus,
 .site-footer-link:hover  {
   color: #F0A742;
-}
-
-// TYPOGRAPHY
-.menu ul a {
-  font-size: 1rem;
-}
-
-// BASE & BEHAVIOR
-.menu:first-of-type > li > .menu,
-.menu:first-of-type > li > .menu > li > .menu > li {
-  display: none;
-}
-.menu:first-of-type > li:hover > .menu,
-.menu:first-of-type > li:focus > .menu,
-.menu:first-of-type > li > .menu > li:hover > .menu > li,
-.menu:first-of-type > li > .menu > li:focus > .menu > li {
-  display: block;
-	background-color: #111;
-}
-.menu:first-of-type > li:hover > .menu,
-.menu:first-of-type > li:focus > .menu {
-  border-top: .5rem solid #65B2B9;
-  border-bottom: 1rem solid #65B2B9;
-}
-.menu ul {
-  position: absolute;
-  top: 8.5rem;
-  left: calc(20.35%);
-  overflow: hidden;
-  min-width: 800px;
-}
-
-.menu ul > li ul {
-  visibility: hidden;
-}
-
-// STYLE
-.menu a {
-	color: #F0A742;
-}
-.menu ul {
-	color: #F3B968;
-  background-color: #65B2B9;
-  padding: 0;
-}
-.menu ul a {
-  background-color: #65B2B9;
-  padding-left: 3rem;
-  color: #ffffff;
-}
-.menu ul a:hover,
-.menu ul a:focus {
-	background-color: #ffffff;
-  color: #24929B;
-}
-.nav-block > .menu > li:hover > a,
-.nav-block > .menu > li:focus > a {
-  color: #65B2B9;
-}
-
-// ARROWS
-.nav-block > .menu > li > a:before {
-  display: inline-block;
-  content: "\25ba";
-  vertical-align: middle;
-  padding: .5rem;
-  font-size: .8rem;
-}
-.nav-block > .menu > li:hover > a:before {
-  transform: rotate(90deg);
-}
-
-// RESPONSIVENESS
-// mobile
-@media (min-width: 147px) and (max-width: 480px) {
-	.site-header-description {
-		display: none;
-	}
-	.nav-block {
-	  width: 100%;
-		height: auto;
-	}
-	.nav-block > .menu {
-		display: flex;
-		flex-direction: column;
-		align-items: center;
-		background-color: #fff;
-	}
-	.section-block {
-		width: 100%;
-		min-height: 123px;
-		margin-bottom: 10px;
-		padding: 2rem 5rem 3rem 7rem;
-	}
-	.site-footer {
-		width: 100%;
-		height: auto;
-		display: flex;
-		flex-direction: column;
-		padding: 10px;
-	}
-	.menu ul {
-	  position: static;
-	  width: 400px;
-	}
-	.inner-wrapper {
-		width: 400px;
-	}
 }

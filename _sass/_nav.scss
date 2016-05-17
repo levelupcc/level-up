@@ -1,0 +1,66 @@
+// TYPOGRAPHY
+.menu ul a {
+  font-size: 1rem;
+}
+
+// BASE & BEHAVIOR
+.menu:first-of-type > li > .menu,
+.menu:first-of-type > li > .menu > li > .menu > li {
+  display: none;
+}
+.menu:first-of-type > li:hover > .menu,
+.menu:first-of-type > li:focus > .menu,
+.menu:first-of-type > li > .menu > li:hover > .menu > li,
+.menu:first-of-type > li > .menu > li:focus > .menu > li {
+  display: block;
+}
+.menu:first-of-type > li:hover > .menu,
+.menu:first-of-type > li:focus > .menu {
+  border-top: .5rem solid #65B2B9;
+  border-bottom: 1rem solid #65B2B9;
+}
+.menu ul {
+  position: absolute;
+  overflow: hidden;
+  min-width: unset;
+}
+
+.menu ul > li ul {
+  visibility: collapse;
+}
+
+// STYLE
+.menu a {
+	color: #F0A742;
+}
+.menu ul {
+	color: #F3B968;
+  background-color: #65B2B9;
+  padding: 0;
+}
+.menu ul a {
+  background-color: #65B2B9;
+  padding-left: 3rem;
+  color: #ffffff;
+}
+.menu ul a:hover,
+.menu ul a:focus {
+	background-color: #ffffff;
+  color: #24929B;
+}
+.nav-block > .menu > li:hover > a,
+.nav-block > .menu > li:focus > a {
+  color: #65B2B9;
+}
+
+// ARROWS
+.nav-block > .menu > li > a:before {
+  display: inline-block;
+  content: "\25ba";
+  vertical-align: middle;
+  padding: .5rem;
+  font-size: .8rem;
+}
+.nav-block > .menu > li:hover > a:before {
+  transform: rotate(90deg);
+}

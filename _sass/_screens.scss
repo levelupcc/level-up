@@ -1,0 +1,51 @@
+
+// RESPONSIVENESS
+// larger screens
+@media (min-width: 481px) {
+	.menu ul {
+		position: absolute;
+		left: 5%;
+		right: 5%;
+	}
+}
+// mobile
+@media (max-width: 480px) {
+	.site-header-description {
+		display: none;
+	}
+	.nav-block {
+	  width: 100%;
+		height: auto;
+	}
+	.nav-block > .menu {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		background-color: #fff;
+	}
+	.section-block {
+		width: 100%;
+		min-height: 123px;
+		margin-bottom: 10px;
+	}
+	.site-footer {
+		width: 100%;
+		height: auto;
+		display: flex;
+		flex-direction: column;
+		padding: 10px;
+	}
+	.menu ul {
+	  position: static;
+	}
+	.inner-wrapper {
+		width: 400px;
+	}
+	.outer-wrapper {
+		padding: 0;
+		margin:0;
+		width: auto;
+		height: auto;
+		position: static;
+	}
+}
