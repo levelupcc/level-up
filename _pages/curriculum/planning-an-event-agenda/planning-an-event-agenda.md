@@ -17,6 +17,7 @@ Make sure you allot yourself enough time for crafting an agenda as well the prep
 Keep in mind that this guide represents advice, input, and experience of the authors. The suggested guidelines below are designed to reduce common mistakes and encourage trainers to design workshops that are fun, safe, and effective. Each trainer has his or her own style and approach, which evolves over time and prioritizes the safety of participants. This is a living document - please send us feedback and suggestions! Email levelup [at] riseup.net"
 date: 2016-05-00
 permalink: /curriculum/planning-an-event-agenda/
+parent: Curriculum
 breadcrumb: Planning An Event Agenda
 weight: 3.3
 ---

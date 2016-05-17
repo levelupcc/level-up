@@ -6,6 +6,7 @@ summary: "How can trainers build LevelUp training sessions into their agendas, o
 date: 03/00/2016
 permalink: /curriculum/preparing-sessions-using-adids/
 breadcrumb: Preparing Sessions Using ADIDS
+parent: Curriculum
 weight: 3.4
 ---
 

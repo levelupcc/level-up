@@ -4,7 +4,7 @@ title: Trainer Coordination Checklist
 author: Daniel O'Clunaigh, Carol, Ali Ravi, Lindsay Beck, Chris Doten, Nick Sera-Leyva
 date: 03/00/2016
 permalink: /curriculum/planning-an-event-agenda/trainer-coordination-checklist/
-parent: Curriculum
+parent: Planning An Event Agenda
 breadcrumb: Trainer Coordination Checklist
 hide: true
 ---

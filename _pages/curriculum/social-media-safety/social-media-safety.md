@@ -28,7 +28,7 @@ platforms: Linux, Mac OS, Windows
 level: Fundamental
 prerequisites: Creating and Managing Strong Passwords
 permalink: /curriculum/social-media-safety/
-parent:
+parent: Curriculum
 breadcrumb: Social Media Safety
 ---
 

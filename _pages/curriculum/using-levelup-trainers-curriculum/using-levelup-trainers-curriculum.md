@@ -5,6 +5,7 @@ author:
 summary: "Each of LevelUp's curriculum modules is designed around a topic-based training session, which is in turn composed of a number of  distinct parts - this resource explains the basic structure of a session module, and the logic behind this structure."
 date: 03/00/2016
 permalink: /curriculum/using-levelup-trainers-curriculum/
+parent: Curriculum
 breadcrumb: Using LevelUp Trainers Curriculum
 weight: 3.1
 ---
