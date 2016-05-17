@@ -1,9 +1,9 @@
 ---
 layout: page-index
 title: Mobile Safety
-author: To be updated
-summary: To be updated
-date: 2016-05-00
+author: Level Up
+summary: This page aggregates modules on the topic of Mobile Safety.
+date: 2016-05-17
 permalink: /curriculum/mobile-safety/
 parent: Curriculum
 breadcrumb: Mobile Safety
