@@ -483,9 +483,6 @@ body {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  -webkit-flex-wrap: wrap;
-      -ms-flex-wrap: wrap;
-          flex-wrap: wrap;
   -webkit-justify-content: space-around;
       -ms-flex-pack: distribute;
           justify-content: space-around;
@@ -509,6 +506,9 @@ body {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
   -webkit-justify-content: space-around;
       -ms-flex-pack: distribute;
           justify-content: space-around;
@@ -549,7 +549,8 @@ body {
           flex-basis: 70%; }
 
 .post {
-  width: 800px; }
+  margin-left: 10%;
+  min-width: 100%; }
 
 .metabox {
   padding: 2rem 4rem;
@@ -571,8 +572,8 @@ body {
   -webkit-justify-content: space-around;
       -ms-flex-pack: distribute;
           justify-content: space-around;
-  height: 65px;
-  padding: 38px;
+  height: auto;
+  padding: 1.5rem;
   margin-top: 2%; }
 
 body {
@@ -696,37 +697,18 @@ h4, a {
       -ms-transform: rotate(90deg);
           transform: rotate(90deg); }
 
-@media (min-width: 481px) {
+@media (min-width: 375px) {
   .menu ul {
     position: absolute;
     left: 5%;
     right: 5%; } }
 
-@media (max-width: 480px) {
-  .site-header-description {
-    display: none; }
-  .nav-block {
-    width: 100vw;
-    height: auto; }
-  .nav-block > .menu {
-    display: -webkit-box;
-    display: -webkit-flex;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-    -webkit-flex-direction: column;
-        -ms-flex-direction: column;
-            flex-direction: column; }
-  .nav-block > .menu > li {
-    width: 100vw; }
-  .section-block, .section-block_home {
-    width: 100vw;
-    min-height: 123px;
-    margin-bottom: 10px; }
+@media (max-width: 768px) {
+  .inner-wrapper, .outer-wrapper {
+    width: 100%; } }
+
+@media (max-width: 634px) {
   .site-footer {
-    width: 100vw;
-    height: auto;
     display: -webkit-box;
     display: -webkit-flex;
     display: -ms-flexbox;
@@ -736,45 +718,41 @@ h4, a {
     -webkit-flex-direction: column;
         -ms-flex-direction: column;
             flex-direction: column;
-    padding: 10px; }
-  .menu ul {
-    position: static; }
-  .inner-wrapper {
-    width: 400px; }
+    -webkit-flex-wrap: wrap;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap; } }
+
+@media (max-width: 450px) {
+  .nav-block {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-flex-wrap: nowrap;
+        -ms-flex-wrap: nowrap;
+            flex-wrap: nowrap;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+        -ms-flex-align: center;
+                -ms-grid-row-align: center;
+            align-items: center; }
+  .section-block, .section-block_home {
+    width: 100vw; }
   .outer-wrapper {
     padding: 0;
     margin: 0;
     width: auto;
     height: auto;
-    position: static; }
-    .outer-wrapper .site-footer {
-      height: auto;
-      padding: 1rem; } }
+    position: static; } }
 
-@media (min-width: 481px) and (max-width: 600px) {
+@media (max-width: 530px) {
+  .site-header-description {
+    display: none; } }
+
+@media (min-width: 800px) and (max-width: 1024px) {
   .outer-wrapper {
-    width: auto;
-    height: auto;
-    margin-bottom: -50px; }
-  .inner-wrapper {
-    width: 600px;
-    position: relative; }
-  .site-header {
-    -webkit-flex-wrap: nowrap;
-        -ms-flex-wrap: nowrap;
-            flex-wrap: nowrap; }
-  .nav-block > .menu {
-    -webkit-flex-wrap: wrap;
-        -ms-flex-wrap: wrap;
-            flex-wrap: wrap;
-    -webkit-box-pack: center;
-    -webkit-justify-content: center;
-        -ms-flex-pack: center;
-            justify-content: center; }
-  .section-block, .section-block_home {
-    width: 100%; }
-  .site-footer {
-    height: auto; } }
+    width: 90%; } }
 
 /**
  * Syntax highlighting styles
