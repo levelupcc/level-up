@@ -5,9 +5,9 @@
     <description>Resources for the global digital safety training community.</description>
     <link>http://localhost:3000//</link>
     <atom:link href="http://localhost:3000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 18 May 2016 00:03:01 +0800</pubDate>
-    <lastBuildDate>Wed, 18 May 2016 00:03:01 +0800</lastBuildDate>
-    <generator>Jekyll v3.0.1</generator>
+    <pubDate>Fri, 20 May 2016 21:23:44 +0800</pubDate>
+    <lastBuildDate>Fri, 20 May 2016 21:23:44 +0800</lastBuildDate>
+    <generator>Jekyll v3.1.5</generator>
     
       <item>
         <title>Does This Work?</title>

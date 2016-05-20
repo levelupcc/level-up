@@ -14,19 +14,13 @@
 .menu:first-of-type > li > .menu > li:focus > .menu > li {
   display: block;
 }
-.menu:first-of-type > li:hover > .menu,
-.menu:first-of-type > li:focus > .menu {
-  border-top: .5rem solid #65B2B9;
-  border-bottom: 1rem solid #65B2B9;
-}
 .menu ul {
   position: absolute;
-  overflow: hidden;
   min-width: unset;
 }
 
 .menu ul > li ul {
-  visibility: collapse;
+  visibility: hidden;
 }
 
 // STYLE

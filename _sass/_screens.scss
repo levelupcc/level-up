@@ -1,4 +1,3 @@
-
 // RESPONSIVENESS
 // larger screens
 @media (min-width: 481px) {
@@ -14,22 +13,23 @@
 		display: none;
 	}
 	.nav-block {
-	  width: 100%;
+	  width: 100vw;
 		height: auto;
 	}
 	.nav-block > .menu {
 		display: flex;
 		flex-direction: column;
-		align-items: center;
-		background-color: #fff;
+	}
+	.nav-block > .menu > li {
+		width: 100vw;
 	}
 	.section-block {
-		width: 100%;
+		width: 100vw;
 		min-height: 123px;
 		margin-bottom: 10px;
 	}
 	.site-footer {
-		width: 100%;
+		width: 100vw;
 		height: auto;
 		display: flex;
 		flex-direction: column;
@@ -47,5 +47,40 @@
 		width: auto;
 		height: auto;
 		position: static;
+
+	.site-footer {
+		height: auto;
+		padding: 1rem;
+	 }
+	}
+}
+// tablet
+@media (min-width: 481px) and (max-width: 600px) {
+
+	.outer-wrapper {
+		width: auto;
+		height: auto;
+		margin-bottom: -50px;
+	}
+
+	.inner-wrapper {
+		width: 600px;
+		position: relative;
+	}
+
+	.site-header {
+		flex-wrap: nowrap;
+	}
+
+	.nav-block > .menu {
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+	.section-block {
+		width: 100%;
+	}
+
+	.site-footer {
+		height: auto;
 	}
 }
