@@ -1,7 +1,7 @@
 // TYPOGRAPHY
 
 @import url(https://fonts.googleapis.com/css?family=Arvo:400,400italic);
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,300);
+@import url(https://fonts.googleapis.com/css?family=Roboto:500,400,300);
 
 $serif: "Arvo", serif;
 $sans-serif: "Roboto", sans-serif;
@@ -12,7 +12,7 @@ $sans-serif: "Roboto", sans-serif;
 	color: #666666;
 }
 
-h1, h2, h3, h4, nav, footer {
+h1, h2, h3, h4, h5, nav, header, footer {
 	font-family: $serif;
 }
 h1 {
@@ -28,24 +28,36 @@ h3 {
 	line-height: 2rem;
 }
 h4 {
+	font-size: 1.25rem;
+	line-height: 1.625rem;
+}
+h5 {
 	font-size: 1rem;
-	line-height: 2.25rem;
+	line-height: 1.625rem;
+}
+
+blockquote {
+	font-weight: lighter;
+	font-style: italic;
+	font-size: 1.25rem;
+	line-height: 26px;
+}
+
+li strong {
+	@extend h4;
 }
 
 .site-header-title {
 	font-size: 2.5rem;
 }
 .site-header-description {
-	font-family: $serif;
 	font-style: italic;
 }
-
 .nav-block > .menu > li > a {
-	font-size: 1.1rem;
+	font-size: 1rem;
 }
 .menu-link {
 	@extend nav;
-  font: $serif;
   line-height: 2.7;
 }
 
@@ -92,7 +104,6 @@ body {
 
 .nav-block {
 	height: auto;
-	padding: 0rem 3.3rem;
 	margin-bottom: 25px;
 }
 .nav-block > .menu {
@@ -100,24 +111,22 @@ body {
 	flex-wrap: wrap;
 	justify-content: space-around;
 	align-items: center;
-	padding: 0;
+	padding: 0 4%;
 	margin: 0;
 }
 .section-block {
 	width: 90%;
 	min-height: 246px;
 	margin-bottom: 20px;
-  padding: 2rem 5rem 3rem 7rem;
+	padding: 5% 10%;
 }
 .section-block_home {
 	@extend .section-block;
-	padding-left: 5.2rem;
 }
 ._post {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-	padding: 1rem 2rem 1rem 6rem;
 }
 .post-content {
 	flex-basis: 70%;
@@ -127,7 +136,7 @@ body {
 	min-width: 100%;
 }
 .metabox {
-	padding: 2rem 4rem;
+	padding: 2%;
 	border: 3px #24929B solid;
 }
 .site-footer {
@@ -145,11 +154,44 @@ body {
 	background-color: #F3B968;
 }
 
-h1, h2, h3, nav {
+h1, h2, h3, h4, h5, nav,
+strong, blockquote {
 	color: #24929B;
 }
-h4, a {
+
+a {
 	color: #F0A742;
+}
+
+// list marker styling hacks
+ul:not(.menu):not(.session):not(.map) > li:before {
+	position: absolute;
+	content: "\25ba";
+	left: 16%;
+	right: 16%;
+	color: #F0A742;
+}
+
+ol:not(.breadcrumb) {
+	counter-reset: li;
+}
+ol:not(.breadcrumb) > li {
+	position: relative;
+	margin: 0 0 6px 2em;
+	padding: 4px 8px;
+	list-style:none;
+}
+ol:not(.breadcrumb) > li:before {
+	content: counter(li, decimal);
+	counter-increment:li;
+	position: absolute;
+	top: 1rem;
+	left: -2rem;
+	margin-right: 1rem;
+	padding: .3rem;
+	color: #F0A742;
+	font-size: 1.8rem;
+	font-family: $serif;
 }
 
 .outer-wrapper,
@@ -158,10 +200,12 @@ h4, a {
 }
 
 .breadcrumb {
-	list-style-type: none;
-	padding-left: 0;
 	display: flex;
 	flex-wrap: wrap;
+	line-height: 1.2;
+	list-style-type: none;
+	padding-left: 0;
+	margin-bottom: -2%;
 }
 .breadcrumb a:after {
 	display: inline-block;
@@ -175,6 +219,10 @@ h4, a {
 .site-header-link {
 	background-color: #F0A742;
 	color: #ffffff;
+}
+
+.continue-to-resource-link {
+	font-weight: bold;
 }
 
 .nav-block,

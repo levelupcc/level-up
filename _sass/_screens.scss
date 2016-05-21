@@ -1,48 +1,95 @@
-// RESPONSIVENESS
-// larger screens
-@media (min-width: 375px) {
+// WRAPPER
+// stretches the entire site to full width in smaller screens
+@media (max-width: 868px) {
+	.inner-wrapper, .outer-wrapper {
+		width: 100%;
+	}
+}
+// retains original site dimensions in desktop and bigger screens
+@media (min-width: 850px) {
+	.inner-wrapper, .outer-wrapper {
+	  width: 900px;
+	}
+	.nav-block {
+		width: 100%;
+	}
+}
+
+// HEADER
+// removes header description in tiny screens
+@media (max-width: 530px) {
+	.site-header-description {
+		display: none;
+	}
+}
+
+// MENU
+// centers menu in larger screen sizes
+@media (min-width: 541px) {
 	.menu ul {
 		position: absolute;
 		left: 5%;
 		right: 5%;
 	}
 }
-@media (max-width: 768px) {
-	.inner-wrapper, .outer-wrapper {
-		width: 100%;
+
+// stretches menu to full width in smaller screens
+@media (max-width: 565px) {
+	.menu ul {
+		width: 100vw;
+		position: relative;
+	}
+	.nav-block > .menu > li {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+	}
+	.nav-block > .menu {
+ 	 flex-direction: column;
+ 	 flex-wrap: nowrap;
+ 	 align-items: center;
+  }
+}
+
+// some more adjustments for smaller in-between sizes
+@media (min-width: 541px) and (max-width: 762px) {
+	.nav-block > .menu {
+		justify-content: center;
+		flex-wrap: nowrap;
+		padding: 0;
+		margin: 0;
 	}
 }
+@media (min-width: 565px) and (max-width: 700px) {
+	.nav-block > .menu > li > a:before {
+	  display: inline-block;
+	  content: "\25ba";
+	  vertical-align: middle;
+	  padding: .5rem;
+	  font-size: .5rem;
+	}
+	.nav-block > .menu > li > a {
+	  font-size: .8rem;
+	}
+	.menu ul {
+    position: absolute;
+		width: 100vw;
+	}
+}
+
+// CONTENT
+// stretches content area to full width in smaller screens
+@media (max-width: 520px) {
+	.section-block {
+		width: 100vw;
+	}
+}
+
+// FOOTER
 @media (max-width: 634px) {
 	.site-footer {
 		display: flex;
 		flex-direction: column;
 		flex-wrap: wrap;
-	}
-}
-@media (max-width: 450px) {
- .nav-block {
-	 flex-direction: column;
-	 flex-wrap: nowrap;
-	 align-items: center;
- }
- .section-block {
-	 width: 100vw;
- }
- .outer-wrapper {
-	 padding: 0;
-	 margin:0;
-	 width: auto;
-	 height: auto;
-	 position: static;
- }
-}
-@media (max-width: 530px) {
-	.site-header-description {
-		display: none;
-	}
-}
-@media (min-width: 800px) and (max-width: 1024px) {
-	.outer-wrapper {
-		width: 90%;
 	}
 }

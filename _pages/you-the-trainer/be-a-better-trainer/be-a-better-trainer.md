@@ -15,26 +15,24 @@ The goal of the digital security trainer is to facilitate the participants' unde
 
 Jargon is a bit like a ‘secret language' that is shared among people who are experts in a particular field – a shorthand in which complicated concepts get abbreviated into a single word or phrase. As long as the experts know what the jargon is, they can communicate their ideas clearly and more quickly than they would otherwise.
 
-*But what happens when jargon gets used in a classroom where the participants aren’t experts?*
+> But what happens when jargon gets used in a classroom where the participants aren’t experts?
 
 Jargon-Monster behavior in training is the over-use of technical terms without explaining what they mean. This behavior assumes that everyone in the room has the same background, experience and level of expertise on the topic. Ultimately, this behavior gets in the way of real learning. An effective trainer shouldn’t shy away from jargon, but s/he should define specific terms during the lessons.
 
 
-**Some helpful ways to tame your use of jargon include:**
+#### Some helpful ways to tame your use of jargon include:
+
+1. **The Jargon Ball:** Jargon balls let participants sound the alarm when jargon gets used. One or more soft balls (perhaps just a t-shirt wrapped up in tape) are handed out at the start of the class. Participants are invited to toss the ball at anyone who uses jargon (both trainers and other participants) in order to get them to stop and explain what they mean.
+
+2. **The Jargon Jar:** Another idea is to start a tech workshop by having a Jargon Jar session. You can use an actual jar (a big one), and then ask the participants to write down on small pieces of paper the technical jargon that they have heard or read before the training (one jargon or concept per piece of paper). Then collect the pieces of paper. The trainer then goes through each one and specifies in which session in the workshop these jargon / concepts will be covered. Of course the trainer has to remember to cover these topics in the appropriate session! Another way to do this is to draw a jar on a big piece of butcher paper and ask the participants to call out the jargon they have heard or read. Again, the trainer should go and specify when the jargon / concept will be tackled.
+
+3. **Use metaphors, and use them often:** Think about the topic you are teaching and try to find practical, common-place analogies that can illustrate the concepts in a clearer way. For example, in a session on using PGP (Pretty Good Protection) to encrypt email, it might be more effective to tell participants that sending an encrypted email is like sending a padlock that only a person with the right key can open, before you try to describe the technology behind it.
 
 
-
-- **The Jargon Ball:** Jargon balls let participants sound the alarm when jargon gets used. One or more soft balls (perhaps just a t-shirt wrapped up in tape) are handed out at the start of the class. Participants are invited to toss the ball at anyone who uses jargon (both trainers and other participants) in order to get them to stop and explain what they mean.
-
-- **The Jargon Jar:** Another idea is to start a tech workshop by having a Jargon Jar session. You can use an actual jar (a big one), and then ask the participants to write down on small pieces of paper the technical jargon that they have heard or read before the training (one jargon or concept per piece of paper). Then collect the pieces of paper. The trainer then goes through each one and specifies in which session in the workshop these jargon / concepts will be covered. Of course the trainer has to remember to cover these topics in the appropriate session! Another way to do this is to draw a jar on a big piece of butcher paper and ask the participants to call out the jargon they have heard or read. Again, the trainer should go and specify when the jargon / concept will be tackled.
-
-- **Use metaphors, and use them often:** Think about the topic you are teaching and try to find practical, common-place analogies that can illustrate the concepts in a clearer way. For example, in a session on using PGP (Pretty Good Protection) to encrypt email, it might be more effective to tell participants that sending an encrypted email is like sending a padlock that only a person with the right key can open, before you try to describe the technology behind it.
+4. **Use multiple and layered metaphors in explaining concepts:** One of the most common metaphors that security trainers use to describe the inherent insecurity of email, for instance, is 'it’s like sending a postcard', where everyone who gets hold of the postcard (from the mailman to post-office workers) can see what the sender has written on it. A layer is added to the metaphor when the trainer explains that using HTTPS in email is like “putting the postcard in an envelope”.
 
 
-- **Use multiple and layered metaphors in explaining concepts:** One of the most common metaphors that security trainers use to describe the inherent insecurity of email, for instance, is 'it’s like sending a postcard', where everyone who gets hold of the postcard (from the mailman to post-office workers) can see what the sender has written on it. A layer is added to the metaphor when the trainer explains that using HTTPS in email is like “putting the postcard in an envelope”.
-
-
-- **Draw it!:** Don't dismiss the effectiveness of a few stick drawings to illustrate a concept. They are more powerful teaching tools than a paragraph of words on the same topic. The challenge here for trainers is not whether or not you can draw like an artist, the challenge here is organizing how you will teach a concept. What are the processes involved in a specific session? How can you illustrate them in such a way that each process is clear to everyone?
+5. **Draw it!:** Don't dismiss the effectiveness of a few stick drawings to illustrate a concept. They are more powerful teaching tools than a paragraph of words on the same topic. The challenge here for trainers is not whether or not you can draw like an artist, the challenge here is organizing how you will teach a concept. What are the processes involved in a specific session? How can you illustrate them in such a way that each process is clear to everyone?
 
 ## The PowerPoint-Freak
 
@@ -46,9 +44,7 @@ Generally, the way a PowerPoint-mediated session goes is that the trainer does a
 
 Worse, there are trainers who are really bad at preparing PowerPoint presentations. Those that copy + paste a whole bunch of text (usually from books, papers or project documents!) and expect it to explain concepts. Much worse still, those that read that copy + pasted text in place of doing an interactive session. This type of behavior belongs to the PowerPoint-Freak. It may make teaching easier for the trainer, but it definitely does not make learning easier for the participants.
 
-**There are ways of preparing PowerPoint (or OpenOffice Present) presentations that can be effective in for participant-based learning:**
-
-
+#### There are ways of preparing PowerPoint (or OpenOffice Present) presentations that can be effective in for participant-based learning:
 
 - **Use graphics more than text:** If you really want to use your presentation to address visual and auditory learner needs, use images on your slides coupled with a spoken lecture.
 Use text in chunks and sparingly. Presentations are not meant to be read. They are meant to support what you are saying. Don't ever copy a wall of text on your presentation.

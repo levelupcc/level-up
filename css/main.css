@@ -4,7 +4,7 @@
  * 2. Prevent adjustments of font size after orientation changes in IE and iOS.
  */
 @import url(https://fonts.googleapis.com/css?family=Arvo:400,400italic);
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,300);
+@import url(https://fonts.googleapis.com/css?family=Roboto:500,400,300);
 html {
   font-family: sans-serif;
   /* 1 */
@@ -391,7 +391,7 @@ ul {
   color: #666666; }
 
 h1, h2, .post-header-title-link,
-.post-title-link, h3, h4, nav, .menu-link, footer {
+.post-title-link, h3, h4, li strong, h5, nav, .menu-link, header, footer {
   font-family: "Arvo", serif; }
 
 h1 {
@@ -407,22 +407,30 @@ h3 {
   font-size: 1.75rem;
   line-height: 2rem; }
 
-h4 {
+h4, li strong {
+  font-size: 1.25rem;
+  line-height: 1.625rem; }
+
+h5 {
   font-size: 1rem;
-  line-height: 2.25rem; }
+  line-height: 1.625rem; }
+
+blockquote {
+  font-weight: lighter;
+  font-style: italic;
+  font-size: 1.25rem;
+  line-height: 26px; }
 
 .site-header-title {
   font-size: 2.5rem; }
 
 .site-header-description {
-  font-family: "Arvo", serif;
   font-style: italic; }
 
 .nav-block > .menu > li > a {
-  font-size: 1.1rem; }
+  font-size: 1rem; }
 
 .menu-link {
-  font: "Arvo", serif;
   line-height: 2.7; }
 
 body {
@@ -498,7 +506,6 @@ body {
 
 .nav-block {
   height: auto;
-  padding: 0rem 3.3rem;
   margin-bottom: 25px; }
 
 .nav-block > .menu {
@@ -516,17 +523,14 @@ body {
   -webkit-align-items: center;
       -ms-flex-align: center;
           align-items: center;
-  padding: 0;
+  padding: 0 4%;
   margin: 0; }
 
 .section-block, .section-block_home {
   width: 90%;
   min-height: 246px;
   margin-bottom: 20px;
-  padding: 2rem 5rem 3rem 7rem; }
-
-.section-block_home {
-  padding-left: 5.2rem; }
+  padding: 5% 10%; }
 
 ._post {
   display: -webkit-box;
@@ -540,8 +544,7 @@ body {
   -webkit-box-align: center;
   -webkit-align-items: center;
       -ms-flex-align: center;
-          align-items: center;
-  padding: 1rem 2rem 1rem 6rem; }
+          align-items: center; }
 
 .post-content {
   -webkit-flex-basis: 70%;
@@ -553,7 +556,7 @@ body {
   min-width: 100%; }
 
 .metabox {
-  padding: 2rem 4rem;
+  padding: 2%;
   border: 3px #24929B solid; }
 
 .site-footer {
@@ -580,26 +583,57 @@ body {
   background-color: #F3B968; }
 
 h1, h2, .post-header-title-link,
-.post-title-link, h3, nav, .menu-link {
+.post-title-link, h3, h4, li strong, h5, nav, .menu-link,
+strong, blockquote {
   color: #24929B; }
 
-h4, a {
+a {
   color: #F0A742; }
+
+ul:not(.menu):not(.session):not(.map) > li:before {
+  position: absolute;
+  content: "\25ba";
+  left: 16%;
+  right: 16%;
+  color: #F0A742; }
+
+ol:not(.breadcrumb) {
+  counter-reset: li; }
+
+ol:not(.breadcrumb) > li {
+  position: relative;
+  margin: 0 0 6px 2em;
+  padding: 4px 8px;
+  list-style: none; }
+
+ol:not(.breadcrumb) > li:before {
+  content: counter(li, decimal);
+  counter-increment: li;
+  position: absolute;
+  top: 1rem;
+  left: -2rem;
+  margin-right: 1rem;
+  padding: .3rem;
+  color: #F0A742;
+  font-size: 1.8rem;
+  font-family: "Arvo", serif; }
 
 .outer-wrapper,
 .inner-wrapper {
   background-color: #E7E7ED; }
 
 .breadcrumb {
-  list-style-type: none;
-  padding-left: 0;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
   -webkit-flex-wrap: wrap;
       -ms-flex-wrap: wrap;
-          flex-wrap: wrap; }
+          flex-wrap: wrap;
+  line-height: 1.2;
+  list-style-type: none;
+  padding-left: 0;
+  margin-bottom: -2%; }
 
 .breadcrumb a:after {
   display: inline-block;
@@ -612,6 +646,9 @@ h4, a {
 .site-header-link {
   background-color: #F0A742;
   color: #ffffff; }
+
+.continue-to-resource-link {
+  font-weight: bold; }
 
 .nav-block,
 .section-block,
@@ -673,8 +710,8 @@ h4, a {
 
 .menu ul a {
   background-color: #65B2B9;
-  padding-left: 3rem;
-  color: #ffffff; }
+  color: #ffffff;
+  padding: 0 5%; }
 
 .menu ul a:hover,
 .menu ul a:focus {
@@ -697,15 +734,87 @@ h4, a {
       -ms-transform: rotate(90deg);
           transform: rotate(90deg); }
 
-@media (min-width: 375px) {
+@media (max-width: 868px) {
+  .inner-wrapper, .outer-wrapper {
+    width: 100%; } }
+
+@media (min-width: 850px) {
+  .inner-wrapper, .outer-wrapper {
+    width: 900px; }
+  .nav-block {
+    width: 100%; } }
+
+@media (max-width: 530px) {
+  .site-header-description {
+    display: none; } }
+
+@media (min-width: 541px) {
   .menu ul {
     position: absolute;
     left: 5%;
     right: 5%; } }
 
-@media (max-width: 768px) {
-  .inner-wrapper, .outer-wrapper {
-    width: 100%; } }
+@media (max-width: 565px) {
+  .menu ul {
+    width: 100vw;
+    position: relative; }
+  .nav-block > .menu > li {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+        -ms-flex-align: center;
+            align-items: center; }
+  .nav-block > .menu {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-flex-wrap: nowrap;
+        -ms-flex-wrap: nowrap;
+            flex-wrap: nowrap;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+        -ms-flex-align: center;
+                -ms-grid-row-align: center;
+            align-items: center; } }
+
+@media (min-width: 541px) and (max-width: 762px) {
+  .nav-block > .menu {
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-flex-wrap: nowrap;
+        -ms-flex-wrap: nowrap;
+            flex-wrap: nowrap;
+    padding: 0;
+    margin: 0; } }
+
+@media (min-width: 565px) and (max-width: 700px) {
+  .nav-block > .menu > li > a:before {
+    display: inline-block;
+    content: "\25ba";
+    vertical-align: middle;
+    padding: .5rem;
+    font-size: .5rem; }
+  .nav-block > .menu > li > a {
+    font-size: .8rem; }
+  .menu ul {
+    position: absolute;
+    width: 100vw; } }
+
+@media (max-width: 520px) {
+  .section-block, .section-block_home {
+    width: 100vw; } }
 
 @media (max-width: 634px) {
   .site-footer {
@@ -721,38 +830,6 @@ h4, a {
     -webkit-flex-wrap: wrap;
         -ms-flex-wrap: wrap;
             flex-wrap: wrap; } }
-
-@media (max-width: 450px) {
-  .nav-block {
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-    -webkit-flex-direction: column;
-        -ms-flex-direction: column;
-            flex-direction: column;
-    -webkit-flex-wrap: nowrap;
-        -ms-flex-wrap: nowrap;
-            flex-wrap: nowrap;
-    -webkit-box-align: center;
-    -webkit-align-items: center;
-        -ms-flex-align: center;
-                -ms-grid-row-align: center;
-            align-items: center; }
-  .section-block, .section-block_home {
-    width: 100vw; }
-  .outer-wrapper {
-    padding: 0;
-    margin: 0;
-    width: auto;
-    height: auto;
-    position: static; } }
-
-@media (max-width: 530px) {
-  .site-header-description {
-    display: none; } }
-
-@media (min-width: 800px) and (max-width: 1024px) {
-  .outer-wrapper {
-    width: 90%; } }
 
 /**
  * Syntax highlighting styles

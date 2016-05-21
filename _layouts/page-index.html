@@ -6,6 +6,6 @@ layout: content-page
     {% if page.title == node.parent %}
       <h3>{{ node.title }}</h3>
       <p>{{ node.summary }}</p>
-      <a href="{{ site.baseurl }}{{ node.url }}"><strong>Continue to full resource >></strong></a>
+      <a class="continue-to-resource-link" href="{{ site.baseurl }}{{ node.url }}">Continue to full resource >></a>
     {% endif %}
   {% endfor %}
