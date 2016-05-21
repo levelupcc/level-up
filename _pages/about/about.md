@@ -17,11 +17,3 @@ LevelUp emerged at a time when the demand for digital security trainers has far 
 This website is the result of over a year of work by members of the digital safety training community (and supporting subject experts) volunteering their time, energy, expertise, and insight to create a shared repository for all trainers.
 
 We'd like to thank all the contributors and supporters of this project (both public and unnamed) -- the resources here aren't possible without your insight, work, and support. We'd also like to thank the RFK Centre in Florence for providing LevelUp with housing and a venue for two events during its pilot year.
-
-### Internews
-
-Internews is an international non-profit organization whose mission is to empower local media worldwide to give people the news and information they need, the ability to connect and the means to make their voices heard.
-
-## How To Use This Site <a name="how-to-use-this-site"></a>
-
-Some stuff about using this site blah blah yakkity yak yap yap yap.
