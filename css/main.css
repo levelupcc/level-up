@@ -590,7 +590,7 @@ strong, blockquote {
 a {
   color: #F0A742; }
 
-ul:not(.menu):not(.session):not(.map) > li:before {
+ul:not(.menu):not(.session):not(.map):not(#tx-live-lang-picker) > li:before {
   position: absolute;
   content: "\25ba";
   left: 16%;
