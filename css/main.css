@@ -595,8 +595,6 @@ ul:not(.menu) {
   padding: 0 1rem;
   list-style: none; }
 
-.annotator-frame :not(ul) > li:before,
-.annotator-toolbar :not(ul) > li:before,
 ul:not(.menu):not(.session):not(.map):not(#tx-live-lang-picker) > li:before {
   content: "";
   border-color: transparent #F0A742;
@@ -609,6 +607,10 @@ ul:not(.menu):not(.session):not(.map):not(#tx-live-lang-picker) > li:before {
   left: -1rem;
   top: 0px;
   position: relative; }
+
+.annotator-toolbar ul > li:before {
+  content: "";
+  border: none; }
 
 ol:not(.breadcrumb) {
   counter-reset: li; }
@@ -670,6 +672,15 @@ ol:not(.breadcrumb) > li:before {
 
 .nav-block > .menu > .active > .menu-link {
   color: #24929B; }
+
+.home-content-wrapper {
+  padding: 0 1rem;
+  border-style: solid;
+  -webkit-border-image: -webkit-gradient(linear, left top, left bottom, color-stop(32%, #fff), color-stop(32%, #F0A742), color-stop(60%, #F0A742), color-stop(60%, #fff), to(#fff)) 0 0 0 100%/0 0 0 12px stretch;
+  -webkit-border-image: -webkit-linear-gradient(top, #fff 32%, #F0A742 32%, #F0A742 60%, #fff 60%, #fff 100%) 0 0 0 100%/0 0 0 12px stretch;
+       -o-border-image: linear-gradient(to bottom, #fff 32%, #F0A742 32%, #F0A742 60%, #fff 60%, #fff 100%) 0 0 0 100%/0 0 0 12px stretch;
+          border-image: -webkit-gradient(linear, left top, left bottom, color-stop(32%, #fff), color-stop(32%, #F0A742), color-stop(60%, #F0A742), color-stop(60%, #fff), to(#fff)) 0 0 0 100%/0 0 0 12px stretch;
+          border-image: linear-gradient(to bottom, #fff 32%, #F0A742 32%, #F0A742 60%, #fff 60%, #fff 100%) 0 0 0 100%/0 0 0 12px stretch; }
 
 .leading-arrow {
   padding: 1px 10px;
