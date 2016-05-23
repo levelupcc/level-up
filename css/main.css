@@ -597,6 +597,13 @@ ul:not(.menu):not(.session):not(.map):not(#tx-live-lang-picker) > li:before {
   right: 16%;
   color: #F0A742; }
 
+.annotator-toolbar > ul:not > li:before {
+  position: absolute;
+  content: "\25ba";
+  left: 16%;
+  right: 16%;
+  color: #F0A742; }
+
 ol:not(.breadcrumb) {
   counter-reset: li; }
 
