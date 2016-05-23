@@ -15,15 +15,15 @@ Including interactive exercises as part of training sessions can be a powerful t
 These are exercises that facilitators and trainers can employ to encourage participants to be more relaxed with each other, become (re-) energised and engaged, and to help break up the pace of the day. There are 3 main types of interactive exercises that are used frequently during digital security trainings:
 
 
-- **Icebreakers**
+**Icebreakers**
 <br>
 	As the name implies, **Icebreakers** are meant to "break the ice" and are usually fun "getting to know you" games and activities - they also help participants get to know their commonalities and differences in a fun way. Participants who are relaxed with each other and their trainer(s) learn better. When you have participants who are less inhibited and more comfortable in the training space, you can expect to have a training that has maximum participation and interactivity.
 
-- **Energizers**
+**Energizers**
 <br>
 	Trainers can help break up the pace of the day with fun interactive sessions called **Energizers**. Energizers are especially useful after lunch or long periods of sitting, when the group energy is frequently at its lowest and/or participants can seem  to be the most disengaged. Energizers are also useful when the group, trainer included, simply needs a fun break from training sessions.
 
-- **Topic-Based Interactive Games (or Activities)**
+**Topic-Based Interactive Games (or Activities)**
 <br>
 	More customised activities relevant to specific training topics are known as **Topic-Based Interactive Games** (or **Activities** in the ADIDS methodology). When using ADIDS to design your training sessions for adult learners, you will need to design or use pre-existing Activities based on the topic of your session. These will then lead into a **Discussion** about that particular activity, which is one of the main things that distinguishes these activities from Icebreakers and Energizers.
 
