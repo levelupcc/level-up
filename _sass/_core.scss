@@ -170,7 +170,7 @@ ul:not(.menu) {
 	list-style: none;
 }
 
-.annotator-toolbar > :not(ul) > li:before,
+.annotator-toolbar :not(ul) > li:before,
 ul:not(.menu):not(.session):not(.map):not(#tx-live-lang-picker) > li:before {
 	content: "";
 	border-color: transparent #F0A742;
