@@ -165,14 +165,15 @@ a {
 
 // list marker styling hack
 ul:not(.menu) {
-	margin: 0.75em 0;
-	padding: 0 1em;
+	margin: 0.75rem 0;
+	padding: 0 1rem;
 	list-style: none;
 }
 
+.annotator-toolbar li:before,
 ul:not(.menu):not(.session):not(.map):not(#tx-live-lang-picker) > li:before {
 	content: "";
-	border-color: transparent orange;
+	border-color: transparent #F0A742;
 	border-style: solid;
 	border-width: 0.35rem 0 0.35rem 0.45rem;
 	display: inline-block;
@@ -180,7 +181,7 @@ ul:not(.menu):not(.session):not(.map):not(#tx-live-lang-picker) > li:before {
 	width: 0;
 	text-align: center;
 	left: -1rem;
-	top: 10px;
+	top: 0px;
 	position: relative;
 }
 
