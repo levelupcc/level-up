@@ -18,7 +18,7 @@ ADIDS has been used effectively in advocacy and skills training on human rights 
 
 ***This How-To resource expands on the individual ADIDS session Elements and their distinct purposes, with guidance on using them to plan the individual sessions within your event agenda.***
 
-##The Basics of Session Planning##
+## The Basics of Session Planning ##
 
 When considering where to begin when planning a digital security training or workshop, think about the overall structure as a set of tiers, starting from the very general and  becoming gradually more specific:
 
@@ -38,7 +38,7 @@ The overall structure and plan for all the sessions within a training or worksho
 <br><br>
 
 
-##Looking at Individual Sessions##
+## Looking at Individual Sessions ##
 
 When it comes to planning for these individual Topic-level sessions, LevelUp's Trainer's Curriculum includes the following planning considerations and parameters for each:
 
@@ -135,11 +135,9 @@ A good training habit is to always summarize the session  - the Synthesis provid
 
 ## Questions for Trainers Preparing ADIDS Sessions ##
 
-
-
-- What are the learning goals of this session?
-- What topic(s) will this session cover? Can you outline the flow of the topics based on the easiest to the most complex?
-- Can you think of an activity that will introduce the main topic to the participants? Can you appropriate any of the interactive exercises you've seen in past trainings to fit your session?
-- How will you debrief on this activity? What questions will you ask the participants to get them to connect the activity with the main topic of your session?
-- How will you deepen the participants' understanding on the topic? What's the outline of your lecture / input?
-- What are the steps in your hands-on exercise in the deepening?
+* What are the learning goals of this session?
+* What topic(s) will this session cover? Can you outline the flow of the topics based on the easiest to the most complex?
+* Can you think of an activity that will introduce the main topic to the participants? Can you appropriate any of the interactive exercises you've seen in past trainings to fit your session?
+* How will you debrief on this activity? What questions will you ask the participants to get them to connect the activity with the main topic of your session?
+* How will you deepen the participants' understanding on the topic? What's the outline of your lecture / input?
+* What are the steps in your hands-on exercise in the deepening?
