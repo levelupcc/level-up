@@ -590,13 +590,23 @@ strong, blockquote {
 a {
   color: #F0A742; }
 
+ul:not(.menu) {
+  margin: 0.75em 0;
+  padding: 0 1em;
+  list-style: none; }
+
 ul:not(.menu):not(.session):not(.map):not(#tx-live-lang-picker) > li:before {
-  position: absolute;
-  content: "\25ba";
-  left: 16%;
-  right: 16%;
-  color: #F0A742;
-  list-style-position: inside; }
+  content: "";
+  border-color: transparent orange;
+  border-style: solid;
+  border-width: 0.35rem 0 0.35rem 0.45rem;
+  display: inline-block;
+  height: 0;
+  width: 0;
+  text-align: center;
+  left: -1rem;
+  top: 10px;
+  position: relative; }
 
 ol:not(.breadcrumb) {
   counter-reset: li; }
