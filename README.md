@@ -23,3 +23,29 @@ Developer - Hannah Edrosa
 If you want to contribute:
 - email the community maintainer
 - fork the repo, edit and submit a pull request
+
+### Building the source code
+- Clone the repo
+- Install Jekyll 3
+
+```
+cd level-up
+jekyll build
+```
+
+The compiled code can be found in the _site folder. If you want to build it with a different baseurl, change the baseurl value in _config.yml.
+
+```
+# Site settings
+title: LevelUp
+description: Resources for the global digital safety training community.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+
+```
+
+Or change it on the fly when you run the serve command with the baseurl of your choosing.
+
+```
+jekyll serve --baseurl ''
+```
