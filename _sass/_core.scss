@@ -43,10 +43,6 @@ blockquote {
 	line-height: 26px;
 }
 
-li strong {
-	@extend h4;
-}
-
 .site-header-title {
 	font-size: 2.5rem;
 }
@@ -170,6 +166,7 @@ ul:not(.menu) {
 	list-style: none;
 }
 
+.annotator-frame :not(ul) > li:before,
 .annotator-toolbar :not(ul) > li:before,
 ul:not(.menu):not(.session):not(.map):not(#tx-live-lang-picker) > li:before {
 	content: "";

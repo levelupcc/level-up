@@ -85,6 +85,24 @@
 	}
 }
 
+// for blog posts
+@media (max-width: 480px) {
+	._post {
+		width: 100vw;
+		flex-direction: column;
+		align-items: flex-start;
+	}
+	.post {
+		margin: 0;
+	}
+	.post-meta {
+		margin-bottom: -4rem;
+	}
+	.post-content {
+		flex-basis: 100%;
+	}
+}
+
 // FOOTER
 @media (max-width: 634px) {
 	.site-footer {
