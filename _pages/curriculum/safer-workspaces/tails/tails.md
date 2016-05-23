@@ -22,7 +22,7 @@ deepening:
 
 synthesis:
  - name: Tails Synthesis
-   url: /curriculum/safer-workspaces/tails/synthesis/tails/
+   url: /curriculum/safer-workspaces/tails/synthesis/tails-synthesis/
 
 platforms: Linux, Mac OS, Windows
 level: Advanced
