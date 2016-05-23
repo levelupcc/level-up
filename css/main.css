@@ -590,13 +590,13 @@ strong, blockquote {
 a {
   color: #F0A742; }
 
-ul:not(.annotator-toolbar > ul) > li:before,
 ul:not(.menu):not(.session):not(.map):not(#tx-live-lang-picker) > li:before {
   position: absolute;
   content: "\25ba";
   left: 16%;
   right: 16%;
-  color: #F0A742; }
+  color: #F0A742;
+  list-style-position: inside; }
 
 ol:not(.breadcrumb) {
   counter-reset: li; }

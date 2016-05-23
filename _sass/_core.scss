@@ -164,12 +164,14 @@ a {
 }
 
 // list marker styling hack
+
 ul:not(.menu):not(.session):not(.map):not(#tx-live-lang-picker) > li:before {
 	position: absolute;
 	content: "\25ba";
 	left: 16%;
 	right: 16%;
 	color: #F0A742;
+	list-style-position: inside;
 }
 
 ol:not(.breadcrumb) {
@@ -179,7 +181,7 @@ ol:not(.breadcrumb) > li {
 	position: relative;
 	margin: 0 0 6px 2em;
 	padding: 4px 8px;
-	list-style:none;
+	list-style: none;
 }
 ol:not(.breadcrumb) > li:before {
 	content: counter(li, decimal);

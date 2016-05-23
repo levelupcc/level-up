@@ -15,24 +15,21 @@ Have you run out of markers, flipchart paper, post-its, or another important tra
 
 
 - **Bring your own training kit:** A good trainer is a prepared trainer, and a prepared trainer always has their own training kit ready to go. While it may take up precious suitcase space, your own training kit guarantees that you’ll have the materials you need, when you need them. Some materials you would likely want to include:
-
-
-		- Butcher / flipchart paper
-		- Colored paper
-		- Markers in different colors
-		- Rubbing alcohol (for markers, and a good eraser for white boards)
-		- Rolls of masking tape and scotch tape
-		- A few packs of post-it notes in different colors
-		- A few notebooks and a bundle of pens
-		- Sticky putty, thumbtacks and pins (for mounting paper on walls or boards)
+	- Butcher / flipchart paper
+	- Colored paper
+	- Markers in different colors
+	- Rubbing alcohol (for markers, and a good eraser for white boards)
+	- Rolls of masking tape and scotch tape
+	- A few packs of post-it notes in different colors
+	- A few notebooks and a bundle of pens
+	- Sticky putty, thumbtacks and pins (for mounting paper on walls or boards)
 
 
 
 - **Have “Side-B” Solutions:** If you've run out of training materials, or are running low on supplies in your training kit, you can often stretch the usefulness of what you have. For example:
-
-		- Use the reverse side of your butcher / flipchart paper to save space or create new space.
-		- Extend the life of markers that have dried up or run out of ink by removing the marker tip with tissue and pouring rubbing alcohol into the well.
-		- To re-energize water-based markers, seal them in a zip-bag and freeze overnight. In the morning, thaw the markers and the ink will be restored.
+	- Use the reverse side of your butcher / flipchart paper to save space or create new space.
+	- Extend the life of markers that have dried up or run out of ink by removing the marker tip with tissue and pouring rubbing alcohol into the well.
+	- To re-energize water-based markers, seal them in a zip-bag and freeze overnight. In the morning, thaw the markers and the ink will be restored.
 
 Can you think of other materials that can get a good second use?
 
@@ -60,7 +57,6 @@ Digital security trainers address sensitive topics and issues that could potenti
 - **Get to know your participants before the event:** You will need to work with the organizers to make sure that participants are who they say they are, and not “monitors” sent to report on training activities to outside parties. If it's a local workshop, this becomes easier as organizers and training team members may be able to pay participants in-person visits to get to know them better. In regional and / or international contexts, you may need to have people you know and trust to verify participants’ identities and vouch for them.
 
 If, when the training begins, you find that one or more of the people in the room were neither invited nor vouched for, you need to consider the possibility that they have been sent to monitor the class for an outside organization. In this situation, it is recommended that you hold a meeting with the organizers and the training team to talk about the following:
-
 
 
 - **Where are these new participants from?** Are they from the local government or another authority?
