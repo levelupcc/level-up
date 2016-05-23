@@ -163,8 +163,8 @@ a {
 	color: #F0A742;
 }
 
-// list marker styling hacks
-.annotator-toolbar > ul:not > li:before,
+// list marker styling hack
+ul:not(.annotator-toolbar > ul) > li:before,
 ul:not(.menu):not(.session):not(.map):not(#tx-live-lang-picker) > li:before {
 	position: absolute;
 	content: "\25ba";

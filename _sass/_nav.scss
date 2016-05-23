@@ -19,10 +19,11 @@
   min-width: unset;
 }
 
-.menu ul > li ul {
+.nav-block > .menu > li > ul li ul {
   visibility: hidden;
+  height: 0;
+  width: 0;
 }
-
 // STYLE
 .menu a {
 	color: #F0A742;

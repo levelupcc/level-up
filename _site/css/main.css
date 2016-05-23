@@ -590,7 +590,7 @@ strong, blockquote {
 a {
   color: #F0A742; }
 
-.annotator-toolbar > ul:not > li:before,
+ul:not(.annotator-toolbar > ul) > li:before,
 ul:not(.menu):not(.session):not(.map):not(#tx-live-lang-picker) > li:before {
   position: absolute;
   content: "\25ba";
@@ -698,8 +698,10 @@ ol:not(.breadcrumb) > li:before {
   position: absolute;
   min-width: unset; }
 
-.menu ul > li ul {
-  visibility: hidden; }
+.nav-block > .menu > li > ul li ul {
+  visibility: hidden;
+  height: 0;
+  width: 0; }
 
 .menu a {
   color: #F0A742; }
