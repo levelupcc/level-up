@@ -25,13 +25,10 @@ If you want to contribute:
 - fork the repo, edit and submit a pull request
 
 ### Building the source code
-- Clone the repo
-- Install Jekyll 3
 
-```
-cd level-up
-jekyll build
-```
+- Install Jekyll 3
+- Install Git
+- Clone the repo
 
 The compiled code can be found in the _site folder. If you want to build it with a different baseurl, change the baseurl value in _config.yml.
 
@@ -44,8 +41,15 @@ url: "" # the base hostname & protocol for your site
 
 ```
 
+Once you've added the baseurl you want, run the build command.
+
+```
+jekyll build
+```
+
+
 Or change it on the fly when you run the serve command with the baseurl of your choosing.
 
 ```
-jekyll serve --baseurl ''
+jekyll serve --baseurl '' --watch
 ```
