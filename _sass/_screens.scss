@@ -96,7 +96,11 @@
 		margin: 0;
 	}
 	.post-meta {
-		margin-bottom: 1rem;
+		display: flex;
+		margin-bottom: -2rem;
+	}
+	.post-date {
+		margin-left: .5rem;
 	}
 	.post-content {
 		flex-basis: 100%;

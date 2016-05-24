@@ -855,7 +855,13 @@ ol:not(.breadcrumb) > li:before {
   .post {
     margin: 0; }
   .post-meta {
-    margin-bottom: 1rem; }
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    margin-bottom: -2rem; }
+  .post-date {
+    margin-left: .5rem; }
   .post-content {
     -webkit-flex-basis: 100%;
         -ms-flex-preferred-size: 100%;
