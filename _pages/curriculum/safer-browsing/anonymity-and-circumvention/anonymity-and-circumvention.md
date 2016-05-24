@@ -32,13 +32,8 @@ breadcrumb: Anonymity and Circumvention
 
 ## Learning Goals for Participants ##
 
-
 - Understand how Internet censorship works, and at what levels it can occur;
-
 - Understand what **Anonymity** ***is and isn't***, as well as what it provides users;
-
 - Likewise, understand what **Circumvention** ***is and isn't***, and how it's different from Anonymity;
-
 - Understand the difference between a Proxy, a VPN, and an Anonymizing Proxy (such as Tor);
-
 - How to access blocked content, and prevent websites you visit from knowing your location.
