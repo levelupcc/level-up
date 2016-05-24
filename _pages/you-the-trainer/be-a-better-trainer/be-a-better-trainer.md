@@ -87,9 +87,7 @@ Monologues are, if we count lectures, a normal part of training. Trainers are as
 **So, how can a trainer maintain the right balance of monologue and participation during a training?**
 
 
-
 - **Prepare to stop before you start:** Outline your lecture in such a way where you know at which points to stop and ask questions from the participants. See **The Powerpoint-Freak** section above for some tips on how to build these stops into the lecture portion of your session(s).
-
 - **Be OK with being interrupted:** Keeping yourself from the monologuer behavior is more than what you do *during* a training. At the start of your training, you need to negotiate with the participants about acceptable behavior during the event. Let them know that it is **not** acceptable for *you* to be speaking the entire time, and ask them to interrupt you when they feel that they no longer have the bandwidth or attention span to listen to more.
 - **Be aware of the room:** Try to 'read' the energy level of participants. This is not an exact science, but rather an art based on experience. The more you train, the better you get at feeling the room. If you sense the energy in the room is low, and the participants are not paying attention, address it and do something about it by either taking a quick break or doing an energizer activity.
 
