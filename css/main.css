@@ -590,12 +590,12 @@ strong, blockquote {
 a {
   color: #F0A742; }
 
-ul:not(.menu) {
+.section-block ul:not(.menu), .section-block_home ul:not(.menu) {
   margin: 0.75rem 0;
   padding: 0 1rem;
   list-style: none; }
 
-ul:not(.menu):not(.session):not(.map):not(#tx-live-lang-picker) > li:before {
+.section-block ul:not(.session):not(.map) > li:before, .section-block_home ul:not(.session):not(.map) > li:before {
   content: "";
   border-color: transparent #F0A742;
   border-style: solid;
@@ -607,10 +607,6 @@ ul:not(.menu):not(.session):not(.map):not(#tx-live-lang-picker) > li:before {
   left: -1rem;
   top: 0px;
   position: relative; }
-
-.annotator-toolbar ul > li:before {
-  content: "";
-  border: none; }
 
 ol:not(.breadcrumb) {
   counter-reset: li; }
@@ -674,7 +670,7 @@ ol:not(.breadcrumb) > li:before {
   color: #24929B; }
 
 .home-content-wrapper {
-  padding: 0 1rem;
+  padding: 0 1.5rem;
   border-style: solid;
   -webkit-border-image: -webkit-gradient(linear, left top, left bottom, color-stop(32%, #fff), color-stop(32%, #F0A742), color-stop(60%, #F0A742), color-stop(60%, #fff), to(#fff)) 0 0 0 100%/0 0 0 12px stretch;
   -webkit-border-image: -webkit-linear-gradient(top, #fff 32%, #F0A742 32%, #F0A742 60%, #fff 60%, #fff 100%) 0 0 0 100%/0 0 0 12px stretch;
@@ -858,7 +854,7 @@ ol:not(.breadcrumb) > li:before {
   .post {
     margin: 0; }
   .post-meta {
-    margin-bottom: -4rem; }
+    margin-bottom: 1rem; }
   .post-content {
     -webkit-flex-basis: 100%;
         -ms-flex-preferred-size: 100%;
