@@ -24,26 +24,23 @@ duration: 30-45 minutes
 
 **Note:** Images are optional.
 
-###Step 1###
+### Step 1 ###
 
  Ask if anyone has seen and can describe what a **mobile network tower** looks like. Expand from their answer to describe (and optionally show) that what we commonly call "towers" can indeed look like towers ([example image](http://canadianspectrumpolicyresearch.org/wp-content/uploads/2012/07/Free-Standing-Tower-Pinwheel-Arms.jpg)), but can also involve different types of hardware. This system of hardware works together to provide the service we think of when we say our mobile devices communicate with the network via "towers."
 
 - The hardware of mobile network "towers" that our devices communicate with can present as panels, antennas and small dishes on buildings and other structures, especially in urban environments (example images [here](http://canadianspectrumpolicyresearch.org/wp-content/uploads/2012/07/P10309941-e1343547762878.jpg), [here](http://canadianspectrumpolicyresearch.org/wp-content/uploads/2012/07/P10400011.jpg), and [here](http://canadianspectrumpolicyresearch.org/wp-content/uploads/2012/07/Q2_P1040009.jpg)).
-
 - Some of them are only pointed in one direction, and others can receive and send signals 360 degrees. Mention that you'll be calling them "towers" for the sake of simplicity, but you wanted to explain that they are made of different types of hardware and *may not look like towers.*
 
-###Step 2 ###
+### Step 2 ###
 Ask for **one** volunteer to be your mobile phone moving through the mobile network. Then ask for **three more** volunteers to be "cell phone towers," and ask them to stand at different points around the cell phone, with some being closer and others farther away.
 
 **Optional:** Ask participants what it was like when they first saw a cell phone. They thought it was amazing, right? They didn't have to go to a physical location to use a phone, or wait for a call. They could go anywhere, and the phone was right with them.
 
 - Remind them how our calls go through quite quickly, especially if they are local (vs. international) calls. Even international calls are amazing, even though we take them for granted.
-
 - Someone in a far away city or country can dial my number on their cell phone, and my phone will being to ring in a matter of seconds after they've dialed or requested a connection to my phone, which is associated with my phone number.
-
 -  Remind the group that coast-to-coast or otherwise long-distance calls via land lines in large countries used to take several minutes to set up, with the assistance of operators; people would make the request to the operator on the phone, and then wait quite a while for the call to be "put through" before they finally got through to the number they'd requested.
 
-###Step 3###
+### Step 3 ###
 
 Describe to the group how we can sometimes take this comparatively immediate access and service for granted, and the recent growing awareness that mobile network providers can also see a LOT of information about us via our cell phones makes many people nervous.
 
@@ -51,16 +48,15 @@ We need to remember the reason why mobile network operators can do this: *it's b
 
 **Ask:** Why would that then keep track of that information? **Answer:** So they can bill us!
 
-###Step 4###
-Explain that is a *very simplified* version of how our devices "talk" to the mobile network, but the principle is the same - our phones are constantly communicating to the mobile network that is closest to it.
+### Step 4 ###
+Explain that is a *very simplified* version of how our devices "talk" to the mobile network, but the principle is the same 
 
+- our phones are constantly communicating to the mobile network that is closest to it.
 - To illustrate this, the person in role of the **cell phone** will ask "*Where am I?*"
-
 -  In response, the closest person in the role of a **tower** will say "*Marco*," the second closest will say "*Polo*," and the third closest will say either "*was a famous adventurer,*" or "*was a traveling man*". The first two are more fun as tongue twisters, but if you're working with a group who are less comfortable with the language of the training, make this third response as short as possible.
-
 -  Have participants run through this more than once if necessary, to ensure that the purpose and setup is clear to everyone.
 
-###Step 5###
+### Step 5 ###
 
 **In this step, you'll simulate this process with the group in the context of a variety of locations and scenarios, where mobiles are interacting with the network in different ways.**
 
@@ -68,9 +64,7 @@ Explain that is a *very simplified* version of how our devices "talk" to the mob
 Now have **more towers** come stand near by the first cluster of towers - approximately half to two-thirds of the participants if you can.
 
 - Mention that sometimes we stay in one place, but most of the time, we're on the move. Therefore, the mobile network needs to stay in contact with us and know where we are in case it needs to route a call or a text message to or from us.
-
 - Have the **cell phone** participant start at one side of the cluster of mobile towers, and walk in until they have a few **towers** around them - have them ask "*Where am I?*" then have the **closest** towers respond. If two towers are equidistant, allow them to say "*Marco,*" together, then the next closest say "*Polo,*" and so forth.
-
 - Have the **cell phone** participant walk even further through the group, and stop a few more times to ask "*Where am I?*" until they are through the group of towers.
 
 Congratulate them on helping the cell phone participant stay in touch with their network, while also **"triangulating"** their approximate location for the network, which lets them know (and log) approximately where the cell phone is, even if the phone does not have GPS.
@@ -79,9 +73,7 @@ Congratulate them on helping the cell phone participant stay in touch with their
 Now ask the entire group to think of a time when they've experienced a **strong** signal (or full "bars") and then a **weak** signal (low "bars") for their mobile devices.
 
 - Expand from their answer to describe how how mobile network operators (MNOs) spend money to provide more infrastructure in more populated areas than rural areas, due to the greater density of customers.
-
 - So, there tend to be more **towers** in urban environments than in rural environments -  the other challenge in rural environments is providing service over large areas of land where there may only be a few mobile customers.
-
 - Explain that the demonstration they just saw was more akin to a **denser, more urban** environment, but now we're going to demonstrate what the rural experience would look like as well.
 
 #### III. Rural Network: ####
