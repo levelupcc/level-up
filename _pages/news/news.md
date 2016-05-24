@@ -1,8 +1,8 @@
 ---
 layout: news-updates
-title: News and Updates
+title: News & Updates
 permalink: /news/
 weight: 7
 hide: true
-breadcrumb: News and Updates
+breadcrumb: "News & Updates"
 ---

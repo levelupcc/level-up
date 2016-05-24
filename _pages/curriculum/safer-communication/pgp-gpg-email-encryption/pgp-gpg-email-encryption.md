@@ -44,26 +44,6 @@ This session module covers email encryption using the PGP (Pretty Good Privacy) 
 - Understand the importance of keeping your private key secure, and how to revoke your public key.
 <br><br>
 
-## Session Elements ##
-
-### Activities & Discussions ###
-
-- How Does Email Work?
-- Romeo and Juliet: An Encrypted Love Story
-
-### Inputs ###
-
-- Why Advanced Email Security (GPG/PGP) Matters
-
-### Deepenings ###
-
-- Thunderbird and GnuPG
-
-### Syntheses ###
-
-- Synthesis: GPG/PGP Email Encryption
-
-
 ## Important Notes ##
 
 - Be sure you have a discussion about using encryption for participants who live and/or work in countries where using PGP/GPG may be a concern. They may need to use other tools or tactics in addition to PGP/GPG, or may not feel comfortable using it given the local situation or legal status of encryption technology.
