@@ -2,7 +2,7 @@
 layout: module
 title: How Mobile Networks Work
 author:
-date: 03/00/2016
+date: 05/31/2016
 
 activity:
   - name: "Where Am I?"
