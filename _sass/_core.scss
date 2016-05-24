@@ -57,6 +57,9 @@ blockquote {
   line-height: 2.7;
 }
 
+.home-call-to-action {
+	font-size: 1.2rem;
+}
 // BASE
 body {
 	display: flex;
@@ -244,9 +247,9 @@ ol:not(.breadcrumb) > li:before {
 }
 
 .home-content-wrapper {
-	padding: 0 1.5rem;
+	padding: 0 3rem;
 	border-style: solid;
-  border-image: linear-gradient(to bottom	, #fff 32%, #F0A742 32%, #F0A742 60%, #fff 60%, #fff 100%)
+  border-image: linear-gradient(to bottom, #fff 40px, #F0A742 40px, #F0A742 105px, #fff 105px, #fff 100%)
 	0 0 0 100%/0 0 0 12px stretch;
 }
 

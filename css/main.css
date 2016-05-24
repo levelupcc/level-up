@@ -433,6 +433,9 @@ blockquote {
 .menu-link {
   line-height: 2.7; }
 
+.home-call-to-action {
+  font-size: 1.2rem; }
+
 body {
   display: -webkit-box;
   display: -webkit-flex;
@@ -670,13 +673,11 @@ ol:not(.breadcrumb) > li:before {
   color: #24929B; }
 
 .home-content-wrapper {
-  padding: 0 1.5rem;
+  padding: 0 3rem;
   border-style: solid;
-  -webkit-border-image: -webkit-gradient(linear, left top, left bottom, color-stop(32%, #fff), color-stop(32%, #F0A742), color-stop(60%, #F0A742), color-stop(60%, #fff), to(#fff)) 0 0 0 100%/0 0 0 12px stretch;
-  -webkit-border-image: -webkit-linear-gradient(top, #fff 32%, #F0A742 32%, #F0A742 60%, #fff 60%, #fff 100%) 0 0 0 100%/0 0 0 12px stretch;
-       -o-border-image: linear-gradient(to bottom, #fff 32%, #F0A742 32%, #F0A742 60%, #fff 60%, #fff 100%) 0 0 0 100%/0 0 0 12px stretch;
-          border-image: -webkit-gradient(linear, left top, left bottom, color-stop(32%, #fff), color-stop(32%, #F0A742), color-stop(60%, #F0A742), color-stop(60%, #fff), to(#fff)) 0 0 0 100%/0 0 0 12px stretch;
-          border-image: linear-gradient(to bottom, #fff 32%, #F0A742 32%, #F0A742 60%, #fff 60%, #fff 100%) 0 0 0 100%/0 0 0 12px stretch; }
+  -webkit-border-image: -webkit-linear-gradient(top, #fff 40px, #F0A742 40px, #F0A742 105px, #fff 105px, #fff 100%) 0 0 0 100%/0 0 0 12px stretch;
+       -o-border-image: linear-gradient(to bottom, #fff 40px, #F0A742 40px, #F0A742 105px, #fff 105px, #fff 100%) 0 0 0 100%/0 0 0 12px stretch;
+          border-image: linear-gradient(to bottom, #fff 40px, #F0A742 40px, #F0A742 105px, #fff 105px, #fff 100%) 0 0 0 100%/0 0 0 12px stretch; }
 
 .leading-arrow {
   padding: 1px 10px;
