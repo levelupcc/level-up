@@ -38,14 +38,10 @@ Remember that this is often the first opportunity someone has to speak and share
 
 ## Exercise for Group Introductions ##
 
-
-
 - **The Spectrogram** is one of the most versatile exercises a facilitator can incorporate. Great for introductions, the Spectrogram furthermore combines movement with participants taking a physical stand on their perspectives.
 	Allen Gunn and the folks at **Aspiration Tech** have a detailed description of how to facilitate the Spectrogram, and it is included as an activity in the LevelUp curriculum, but here below are some simple guidelines to get you started.
 	The Spectrogram is designed to elicit perspectives and insight from participants. Without intentional facilitation, it can easily lose focus or inspire arguments or confrontation. Make sure you provide clear instructions and are a proactive, engaged facilitator.
-
 	***Here is a step-by-step guide for using the Spectrogram exercise as an introduction exercise:***
-
 	- Draw a straight line in the middle of the room, going from one wall or barrier to the opposite; or, encourage everyone to imagine a line.
 	- Invite everyone to stand on the line in relation to how far they travelled to get to the event (ex: one side of the wall is one block, and the other is 10,000 kilometers).
 	- Ask a few people to note their name and where they came from. Celebrate and thank those who came from far away, and give thanks to everyone who has invested their time with the group for the gathering.
@@ -57,7 +53,6 @@ Remember that this is often the first opportunity someone has to speak and share
 	Organizers or facilitators can create the spectrogram statements in advance, or they can crowd-source them at the event. To do this, get participants into small groups of 3 to 5 people and provide each group 5 to 10 minutes to list out as many statements that relate to the gathering as they can think of. Once their time is up, they should choose their favorite three statements and be prepared to share them with the group.
 	Additionally, you can use the Spectrogram exercise to gauge interests or commitments for moving forward. One favorite statement for this exercise is, “I know exactly what I want to accomplish during this gathering”, which helps tease out motivations and give facilitators an idea of how intentional or prepared participants are. Another fun one is, “I will take shareable notes during the event”.
 - **When the Wind Blows** is a fast way to gauge participants’ experience, interests and background. Start with everyone against one wall and explain that there are strong wind gusts coming from the wall. Whenever the wind blows for a particular skill, experience or attribute, the persons with that attribute will blow into the room and then back to the wall.
-
 	For example, the facilitator would say, “There’s a great wind for all of the parents,” and all of the parents would move forward from the wall into the room and then back to the wall.
 
 	Some examples of wind gusts that may be good to explore: The wind blows for brothers / sisters / artists / technologists / singers / people who can ride a bike / people who think there are aliens / people who sing in the shower
