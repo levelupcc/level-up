@@ -40,17 +40,8 @@ From working the last 10 years with activists from around the world on self care
 
 
 - **Safe Spaces:** Truly safe spaces—physically, emotionally, and spiritually safe—are where they can come, rest, and allow themselves to FEEL. They can connect to themselves and each other and the world around them with a new awareness of their thoughts, actions, perceptions and judgments.  This is about creating a safe space to come together and get a break from the intensity inherent in their work.
-
-
-
 - **Building Relationships:** We have provided workshops and trainings for activists to work on self-care, well-being, and their connection to activism. Participants have highlighted that in the safe spaces we’ve created at these events, they managed to take their masks off and connect on a deeper level with themselves and their activist community. It brings them to authentic solidarity, and support without judgment, agendas, or strings attached.
-
-
-
 - **Participants' Belief in Their Own Value:** It is common for human rights defenders to prioritize their work over themselves, including their well-being and even their sense of self-worth. This deprioritization of self can (and often does) lead participants taking greater risks, becoming burnt out, and other negative consequences. Therefore, there is a need to help participants nurture (or re-establish) a belief in their own value, their self-worth, and a commitment to caring for and protecting themselves as part of their work instead of at the cost of their work. This is one of the greatest challenges to establishing a culture of safety and self-care—instilling and sustaining the idea that it is worth taking the time and effort for participants to care for themselves. Participants should recognize that they have the right to live and work securely.
-
-
-
 - **Time:**  Participants need time to slow down, stop, reflect, rest, and assess their personal lives, work, safety, and well-being.
 
 ***Safe space is fundamental to an integrated approach to security.*** Creating a safe space is crucial for creating a sense of physical safety as well as a sense of confidence in a group. It is important for participants who usually have no time to relax to feel comfortable and enjoy simple things­. And if they live in a country where their lives are in danger it is even more crucial to make sure that they feel physically safe.
@@ -79,13 +70,9 @@ Many crucial tips, advice, and guidance can be found in the Integrated Security 
 The workshop venue should be safe! All parts of the workshop venue should be assessed for security. Questions to consider when selecting a workshop venue include:
 
 - **Who is running the venue?** Do they understand that the workshop is meant to offer a safe space for participants, which means that the venue must be off-limits to other guests who may be staying at the same location–ideally a venue will be reserved only for workshop participants.
-
 - **Who else is sharing the venue?** If it is a shared space, will participants feel comfortable in their rooms and lobby and communal areas (for example, a venue that also caters to groups that may stay up late drinking, with loud music, would be inappropriate).
-
 - **How safe are the surrounding areas?** can participants walk in the area during the day and in the evening? It is particularly important that participants feel free to take walks and explore the town or natural surroundings without feeling threatened.
-
 - **Is the region safe?** The venue must be located in a geographical area that is appropriate for all participants. This is particularly relevant to high-risk participants working amidst repressive regimes or in some zones of armed conflict (especially if there are participants from different "sides" of a conflict) who may not be able to meet in their own country. In these cases, a venue should be chosen in a safe third country. (For example,  groups coming from different parts of a region, or participants working in contexts with repressive regimes, a third country is the best option.)
-
 - **Do the workshop organisers/venue owners have access to good health services in case of a medical emergency?** Do they have the numbers of the ambulance service, local doctors, a pharmacy and a good health facility to hand? Is there someone at the venue who can assist with an emergency response? Some participants may have medical conditions, an unanticipated illness or in some cases, an emergency that could require an immediate intervention.
 
 ### Combined Workshop Space and Accommodation ###
