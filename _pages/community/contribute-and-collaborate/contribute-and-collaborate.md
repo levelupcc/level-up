@@ -11,7 +11,7 @@ breadcrumb: Contribute and Collaborate
 
 ## How to contribute to the content
 
-[This tutorial](https://github.com/the-engine-room/level-up/wiki/How-to-Add-Content#adding-a-new-community-resource) explains how you can contribute to the [community resources section](https://the-engine-room.github.io/level-up/community/community-resources-and-tools/) of the Level Up website.
+[This tutorial](https://github.com/the-engine-room/level-up/wiki/How-to-Add-Content#adding-a-new-community-resource) explains how you can contribute to the [community resources section](https://levelupcc.github.io/level-up/community/community-resources-and-tools/) of the Level Up website.
 
 If you want to update an existing page, you can follow [this tutorial](https://github.com/the-engine-room/level-up/wiki/How-to-Edit-Content).
 
