@@ -187,8 +187,5 @@ It might feel difficult at first to grow your roots deeply. Repeat the exercise 
 - **Mudras (and postures)**
 <br>
 Mudras refer to the positions of fingers, hands and arms, which activate vibrational-energetic processes in persons. A .pdf of basic mudra exercises is available to download **[here](https://www.level-up.cc/sites/default/files/sites/default/files/BASIC%20MUDRAS.pdf)**.
-
-
-
 - **Qi Gong, Yoga, and Tai Chi**<br>
 Any of the practices of Qi Gong, Yoga, Tai Chi, and other healing movements can be very beneficial for creating space and opening up participants, either as a morning exercises, a starting group exercise, or as an optional evening exercise.
