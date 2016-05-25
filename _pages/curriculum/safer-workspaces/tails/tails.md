@@ -47,5 +47,4 @@ breadcrumb: Using Tails
 ## Important Notes ##
 
 - The countries where the use of encryption is illegal and that law is enforced has decreased, but it is still a very real concern for some participants. **Before a training, review the laws of where your participants live and work, as well as the laws of where you're conducting the training.**
-
 - At minimum, a basic understanding of Tor, a technology built into Tails that provides an encrypted, anonymizing connection for users, is key to using and understanding Tails. The **Safer Browsing for Anonymity and Circumvention [LINK]** module with the **Using the Tor Browser Bundle  [LINK]** Deepening is a pre-requisite for this module, and should be covered before moving on to any session which incorporates the use of Tails.
