@@ -39,7 +39,7 @@ Antennas, which permit communication between a mobile device and external networ
 
 Aside from the antenna responsible for communicating with the mobile network, there may also be antennas for WiFi; some manufacturers combine these functions into one antenna for the entire device.
 
-####Battery####
+#### Battery####
 A battery is what stores energy in order to power a mobile device; in most phones, batteries are easy to remove. In some newer smartphones (notably **iPhones** and later **Samsung Galaxy S** models), batteries are not designed for removal and can be hard to access.Removable batteries are preferable for users who use tactics to increase their security.
 
 #### Baseband Microprocessor ####
@@ -59,10 +59,10 @@ Removable media are any kind of external memory storage that can be inserted int
 Most phones now have cameras that can take pictures and/or video, in particular smartphones. Many also feature cameras mounted to both the back and *front* of the device, frequently for use in tandem with video chat applications such as Facebook Messenger or Skype.
 
 
-####Circuit Board and Chips####
+#### Circuit Board and Chips####
 What this consists of and looks like will vary depending on the phone. There are chips for translating analog/digital signals, read-only memory (ROM), flash memory chips that store data and the phone’s operating system, microprocessors to process data (such as data sent via Bluetooth), and components that manage the power and charging capabilities of the phone.
 
-####Screen####
+#### Screen####
 Screens will range in size and type; some will be monochromatic (black on a single color background), while others can display a wide range of colors at high resolutions. Most older, monochromatic screen displays are LCD (liquid crystal display), but there is now a wider variety of screen types as phones are able to display more graphics and colors (such as 4D and AMOLED), with touchscreens commonplace on nearly all smartphones.
 
 
@@ -103,7 +103,7 @@ Now, switching perspectives from the user to the network, this step provides an 
 #### Network Cell ####
 A network cell is a defined geographic area that can cover any area from a few meters to several kilometers - mobile networks can see the network cell in which a phone is located. Cells are generally larger in rural areas, smaller in urban areas, and even very small cells in buildings that use a repeaters to improve service signals in the immediate area.
 
-####Location####
+#### Location####
 The location of the subscriber within a cell is also visible to the mobile network. This is determined by triangulating the signal from a device according to the location(s) of nearby towers. Again, location accuracy depends on the size of the cell - the more towers in the area, the more accurate the positioning.
 
 #### Usage Data (or Metadata)  ####
