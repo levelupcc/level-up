@@ -9,7 +9,7 @@ breadcrumb: "LevelUp's Approach to Adult Learning"
 parent: Curriculum
 weight: 3.2
 ---
-Licence:
+License:
 
 SaferJourno: Digital Security Resources for Media Trainers is a project of Internews and builds on Internews’ work on SpeakSafe and LevelUp. It is produced and shared under a Creative Commons Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0) License. Authored by Manisha Aryal and Dylan Jones.
 
