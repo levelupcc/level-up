@@ -6,7 +6,7 @@ summary: "The content you choose for this section will vary based on your partic
 permalink: /curriculum/mobile-safety/how-mobile-networks-work/input/how-do-mobile-devices-work/
 breadcrumb: "I:  How Do Mobile Devices Work"
 date: 2014-03-00
-adids: Activity and Discussion
+adids: Input
 parent: Basics of Mobile Devices
 duration: 45-70 minutes
 ---
