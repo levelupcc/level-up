@@ -48,10 +48,10 @@ Since LevelUp was introduced to the concept of ADIDS, we’ve introduced it to f
 
 ADIDS also helps balance the energy and skills between co-trainers. (A week-long workshop with more than 4-5 participants is typically too much for a single trainer to be effective, and can lead to burnout.) When you are co-training at a workshop, the ADIDS methodology allows you to switch up the lead for sections of a training session (such as Deepening, when one trainer should be available in the room to help particpants troubleshoot use of a tool while the other trainer runs the Deepening). This can also allow co-trainers to lead sections that they are either more adept at than their fellow trainer, or allow them to increase their training skills on a particular tool or Activity they want to be better at. It also allows trainers to co-lead when necessary, appropriate, or most effective (e.g., during complex Activities).
 
-See **How to Use LevelUp's Trainer's Curriculum [LINK]** and then **Preparing Sessions using ADIDS [LINK]** for more detailed background on how to make the best use of ADIDS in the preparation of your event and workshop sessions.
+See [**How to Use LevelUp's Trainer's Curriculum**](https://level-up.cc/curriculum/using-levelup-trainers-curriculum/using-levelup-trainers-curriculum.md) and then [**Preparing Sessions using ADIDS**](https://level-up.cc/curriculum/preparing-sessions-using-adids/) for more detailed background on how to make the best use of ADIDS in the preparation of your event and workshop sessions.
 
 ## Additional Resources ##
 
 
-- To learn more about how to organize training session curriculum according to the androgogy-based ADIDS format, please see **Preparing Sessions using ADIDS [LINK]**.
-- We also strongly recommend that you read **How to Use LevelUp's Trainer's Curriculum [LINK]** before diving into the **Trainer's Curriculum [LINK]** section of the website.
+- To learn more about how to organize training session curriculum according to the androgogy-based ADIDS format, please see [**Preparing Sessions using ADIDS**](https://level-up.cc/curriculum/preparing-sessions-using-adids/).
+- We also strongly recommend that you read [**How to Use LevelUp's Trainer's Curriculum**]((https://level-up.cc/curriculum/using-levelup-trainers-curriculum/using-levelup-trainers-curriculum.md)) before diving into the [**Trainer's Curriculum**](https://level-up.cc/curriculum/) section of the website.
