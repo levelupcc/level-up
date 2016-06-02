@@ -6,7 +6,7 @@ date: 05/31/2016
 
 activity:
   - name: Password Reverse Race
-    url: /curriculum/protecting-data/creating-and-managing-strong-passwords/activity/password-reverse-race/
+    url: /curriculum/protecting-data/creating-and-managing-strong-passwords/activity-discussion/password-reverse-race/
 
 input:
  - name: Safer Password Practices
