@@ -3,6 +3,7 @@ layout: content-page
 title: "Deepening: Using a Password Manager"
 author: CC, Carol, Megan
 summary: "Hands-on installation and use of a password manager (in this case, KeePass or KeePassX)."
+permalink: /curriculum/protecting-data/creating-and-managing-strong-passwords/deepening/using-a-password-manager/
 updated: 2016-05-31
 adids: Deepening
 parent: Secure Passwords
