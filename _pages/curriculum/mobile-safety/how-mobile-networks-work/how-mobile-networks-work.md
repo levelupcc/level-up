@@ -32,7 +32,7 @@ This module is meant to serve as very introductory-level overview of **how mobil
 
 This subtopic covers the fundamentals of all mobile phones and devices for when a trainer is leading a training for participants who do **not** have smartphones, and does not go in depth on smartphone-specific concerns and apps.
 
-**If this is your first time using our curriculum, please visit** **How To: Using LevelUp's Trainer's Curriculum [LINK]**
+**If this is your first time using our curriculum, please visit** [**How To: Using LevelUp's Trainer's Curriculum**](https://level-up.cc/curriculum/using-levelup-trainers-curriculum/)
 
 ## Learning Goals for Participants ##
 

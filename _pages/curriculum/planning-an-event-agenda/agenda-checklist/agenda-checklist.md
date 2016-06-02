@@ -10,7 +10,7 @@ hide: true
 ---
 ## Starting from Scratch ##
 
-As detailed in our guide **How To: Preparing Sessions Using ADIDS [LINK]**, its helpful to think of an agenda as a larger image, composed of individual puzzle pieces that are the different sessions, activities, and other components of your event. When considering where to begin when planning the technical **content** of a digital security training or workshop, it helps to think about the overall structure as a set of tiers, ***starting from the very general and  becoming gradually more specific.***
+As detailed in our guide [**How To: Preparing Sessions Using ADIDS**](https://level-up.cc/curriculum/preparing-sessions-using-adids/), its helpful to think of an agenda as a larger image, composed of individual puzzle pieces that are the different sessions, activities, and other components of your event. When considering where to begin when planning the technical **content** of a digital security training or workshop, it helps to think about the overall structure as a set of tiers, ***starting from the very general and  becoming gradually more specific.***
 
 This means beginning with what the overall **context** of the training will be (in this case, Digital Security), gradually honing in next on the required **themes** (or, the **reasons** -- what are participants trying to protect themselves from or improve -- that the event is being gathered) such as "Safer Online Communication" or "Securing Sensitive Data", and then finally arriving upon the individual **topics** that will need to be covered in order to address these.
 
