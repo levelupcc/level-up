@@ -23,7 +23,7 @@ synthesis:
 platforms: Mac OS, Windows
 level: Fundamental
 prerequisites: none
-permalink: /curriculum/protecting-data/creating-and-managing-strong-passwords
+permalink: /curriculum/protecting-data/creating-and-managing-strong-passwords/
 parent: Protecting Data
 breadcrumb: Creating and Managing Strong Passwords
 ---
