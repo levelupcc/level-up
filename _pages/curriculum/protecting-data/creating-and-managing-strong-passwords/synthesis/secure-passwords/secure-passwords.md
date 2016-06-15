@@ -3,7 +3,7 @@ layout: content-page
 title: "Synthesis: Safer Software Updating"
 author: CC
 summary: "Participants ask final questions and review what they have learned."
-permalink: /curriculum/secure-passwords/secure-passwords-synthesis/
+permalink: /curriculum/protecting-data/creating-and-managing-strong-passwords/synthesis/secure-passwords/
 breadcrumb: "S: Secure Passwords"
 updated: 2016-05-31
 adids: Synthesis

@@ -2,7 +2,7 @@
 layout: content-page
 title: "Input: Safer Password Practices"
 author: CC, Carol, Megan
-summary: "Reviewing the implications of a compromised password, how they are commonly compromised, how to create a "stronger" password and develop better password habits."
+summary: "Reviewing the implications of a compromised password, how they are commonly compromised, how to create a stronger password and develop better password habits."
 permalink: /curriculum/protecting-data/creating-and-managing-strong-passwords/input/safer-password-practices/
 breadcrumb: "I: Safer Password Practices"
 date: 2015-05-31
