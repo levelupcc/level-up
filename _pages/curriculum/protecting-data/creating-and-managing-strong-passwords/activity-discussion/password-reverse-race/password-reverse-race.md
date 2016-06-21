@@ -1,18 +1,19 @@
 ---
 layout: content-page
-title: "Activity & Discussion: Password Reverse Race"
+title: "Password Reverse Race"
 author: CC, a trainer with 10+ years of experience based in Manila
 summary: "This is an activity that illustrates how most of us create and use weak passwords on a daily basis, while coming up with stronger passwords we want to use in the future."
 permalink: /curriculum/protecting-data/creating-and-managing-strong-passwords/activity-discussion/password-reverse-race/
 breadcrumb: "AD: Password Reverse Race"
-date: 2016-05-31
+date: 2016-05
 adids: Activity and Discussion
-parent: Secure Passwords
-duration: 20 minutes
+parent: Protecting Data - Creating and Managing Strong Passwords
+duration: 15-20 minutes
 ---
 
 ## Materials to Prepare:
-Identify a space suitable for the activity given the number of participants; clear any chairs and tables as needed.
+- A space suitable for the activity given the number of participants - clear any chairs and tables as needed
+- If running the activity in a larger space, or outdoors, electric tape to indicate "start" and "finish" lines
 <br><br>
 
 
