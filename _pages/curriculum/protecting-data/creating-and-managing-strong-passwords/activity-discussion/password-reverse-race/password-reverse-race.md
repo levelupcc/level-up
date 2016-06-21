@@ -13,7 +13,7 @@ duration: 15-20 minutes
 
 ## Materials to Prepare:
 - A space suitable for the activity given the number of participants - clear any chairs and tables as needed
-- If running the activity in a larger space, or outdoors, electric tape to indicate "start" and "finish" lines
+- If running the activity in a larger space, or outdoors, colored electric tape to indicate "start" and "finish" lines
 <br><br>
 
 
