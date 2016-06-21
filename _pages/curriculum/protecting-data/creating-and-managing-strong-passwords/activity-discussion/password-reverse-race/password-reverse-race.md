@@ -11,16 +11,17 @@ parent: Protecting Data - Creating and Managing Strong Passwords
 duration: 15-20 minutes
 ---
 
-## Materials to Prepare:
+## Materials to Prepare
 - A space suitable for the activity given the number of participants - clear any chairs and tables as needed
 - If running the activity in a larger space, or outdoors, colored electric tape to indicate "start" and "finish" lines
 <br><br>
 
 
-## Running the Activity:
+## Running the Activity
 First ask all the participants to stand on one end of the room in a line. Introduce the race as described above with the goal being to see who gets to the other side of the room first.
 
 Once the group is ready, call out the following instructions:
+
 - If you use your birthday for your password, take 2 steps forward.
 - If you use your [mom's / dad's / child's / sister's / brother's / partner's] name in your password, take 2 steps forward.
 - If you use your phone number or anyone else's phone number for your password, take 2 steps forward.
@@ -31,7 +32,7 @@ Once the group is ready, call out the following instructions:
 <br><br>
 
 
-## Discussion:
+## Discussion
 While everyone is still standing in their places, ask the participants the following questions:
 - What do you think this activity was about?
 - What do you think is a good password?
