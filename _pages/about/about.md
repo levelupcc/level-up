@@ -6,14 +6,29 @@ weight: 6
 hide: true
 breadcrumb: About
 ---
-## About LevelUp
+# About LevelUp
 
-LevelUp supports individuals and groups providing digital security trainings and support worldwide. It is a living project by and for the training community for the benefit of all trainers and training organizations, and invites contributions and feedback from trainers, as well as re-use, re-mixes, and creative adaptation as needed in the training room. LevelUp's resources and events will continue to reflect the feedback, input, and contributions of the wider digital safety training community as well as subject matter experts.
+###What is LevelUp?
+LevelUp is a living project intended to provide support to, and enable creation of resources and sharing of knowledge within, a growing network of individuals providing needed digital safety training and education to users of technology worldwide. LevelUp facilitates opportunities for peer-to-peer exchange both online and offline, engaging trainers and educators to collaboratively build shared values of **what** effective training looks like, **how** we can train effectively, and **why** we understand these practices to be effective. 
 
-During its pilot year, LevelUp was overseen and coordinated by Internews, with support and input from more than 50 individuals and their organizations. We'd like to thank them for seeing the value of this project and supporting its goals (and the larger training community) with their expertise, time, and insight. We'd like to particularly acknowledge NDI's ICT Team and the Tactical Technology Collective, as well as the engine room, who conducted research to inform the project. LevelUp hosted several events in its pilot year, including two training-of-trainer events, a design workshop, writesprints, and more. We plan to hold the first Global Trainers' Retreat in 2014.
+By working to create a thriving global network of trainers, educators, and practitioners who are able to more widely share knowledge, experiences, and resources with other, LevelUp hopes to in turn foster a generation of users who are able to practice digital safety more *effortlessly*, *holistically*, and *mindfully*.
+<br><br>
 
-LevelUp emerged at a time when the demand for digital security trainers has far outstripped the supply. The most experienced digital security trainers are often overworked, overbooked, and under-resourced. They often find themselves as the go-to resource for far more users and organizations in need than they are able to support due to structural support gaps. In addition, a number of individuals are being asked to become digial safety trainers with little to no support, guidance, training experience, or ethical framework. This project aims to help all digial safety trainers, from novices to experts, by supporting the creation of a centralized collection of resources by experienced trainers, creating opportunities for trainers to come together at events, and the development of tools for the training room.
+###How does LevelUp work?
+LevelUp emerged at a time when the demand for digital security trainers has far outstripped the supply - the most experienced digital safety trainers often were, and frequently continue to be, over-worked and under-resourced. Very few trainers had any kind of regular access to other trainers with whom they could share guidance or experience, or to educational resources and curricula speaking specifically to their needs and context.
 
-This website is the result of over a year of work by members of the digital safety training community (and supporting subject experts) volunteering their time, energy, expertise, and insight to create a shared repository for all trainers.
+Increased coordination among trainers improves the *quality* of training support that can be provided to journalists, human rights defenders, and other at-risk individuals needing it most, by creating space for trainers to develop shared standards, collaborative regional networks, and educational resources. LevelUp facilitates this through two key, mission-level mandates:
 
-We'd like to thank all the contributors and supporters of this project (both public and unnamed) -- the resources here aren't possible without your insight, work, and support. We'd also like to thank the RFK Centre in Florence for providing LevelUp with housing and a venue for two events during its pilot year.
+#####Support and promote the creation of training resources *for* trainers.
+A critical gap addressed early on by LevelUp was the near-absence of written resources for trainers of digital safety, a scarcity amid an ever-growing body of exclusively end-user focused digital safety resources. Core to LevelUp is this website, which hosts a repository of training [curriculum resources](), created by trainers for trainers and shared under a [Creative Commons license]().
+
+#####Facilitate and coordinate a global network.
+The global LevelUp network is comprised of actively practicing digital safety trainers, as well as others who contribute effort towards the development of digital safety education, in more than **40 countries** across Latin America, Asia, Eurasia, Africa, and the Middle East. This growing network regularly engages with the project through an [active email list](), [thematic webinar events](), [online privacy and freedom of expression events](), active participation in training-of-trainers (ToT) events, and [content creation and localization sprints]().
+<br><br>
+
+###Who is LevelUp?
+This project, this website, and the body of resources and knowledge within and around them are the result of over nearly 4 years of hard work by a community digital safety trainers, training organizations, technical experts, and volunteers. Together, this community has helped create a shared resource and support network for all trainers. 
+
+####LevelUp was built, and continues to be maintained, by contributions of time, energy, expertise, and insight from the following:
+
+
