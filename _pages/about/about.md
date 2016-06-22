@@ -27,6 +27,6 @@ The global LevelUp network is comprised of actively practicing digital safety tr
 ### Who is LevelUp?
 This project, this website, and the body of resources and knowledge within and around them are the result of over nearly 4 years of hard work by a community digital safety trainers, training organizations, technical experts, and volunteers. Together, this community has helped create a shared resource and support network for all trainers. 
 
-#### LevelUp was built, and continues to be maintained, by contributions of time, energy, expertise, and insight from the following:
+#### LevelUp was built, and continues to be maintained, by the contributions of time, energy, expertise, and insight of:
 
 
