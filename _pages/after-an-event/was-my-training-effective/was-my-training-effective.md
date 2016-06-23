@@ -1,14 +1,14 @@
 ---
 layout: content-page
-title: Evaluating Trainings for Effectiveness
+title: How Are We Evaluating our Trainings?
 author: Dirk Slater, Natasha Msonza, Tawanda Mugari, Erin Murrock
 summary: "This resource is adapted from the synthesis of the first **LevelUp Trainer Webinar**, hosted and faciliated by LevelUp and [FabRiders](https://www.fabriders.net). This webinar, which took place in February 2016, looked at the different methods by which trainers are currently assessing the impact of their workshops on the safe digital behaviors and habits of their participants."
 date: 2016-02
-permalink: /after-an-event/evaluating-trainings-effective/
+permalink: /after-an-event/how-evaluating-trainings/
 parent: After an Event
-breadcrumb: "Evaluating Trainings for Effectiveness"
+breadcrumb: "How Are We Evaluating our Trainings"
 ---
-# Evaluating Trainings for Effectiveness
+# How Are We Evaluating our Trainings?
 
 ##### Trainer's Note
 The original post this resource was adapted from can be found on the [FabRiders FabBlog](https://www.fabriders.net/webinar-notes-evaluating/); the audio recording and slides from the webinar session itself can be found [here](https://cc.readytalk.com/cc/playback/Playback.do?id=7jaw9l).
@@ -43,7 +43,7 @@ We also need to establish indicators of success for providing digital security t
 - Do we want them to consider us an intergral member of their network or community?
 <br><br>
 
-## Real World Examples: Practical Evaluations
+## Real World Examples
 
 ####Example 1: Digital Society Zimbabwe
 **Natasha** and **Tawanda** are the co-founders of [Digital Society of Zimbabwe (DSZ)](http://www.dszim.org/), both digital security trainers who are based in Zimbabwe. DSZ strives to support all citizens in Zimbabwe to be more digitally resilient - their work and their trainings are informed by the specific threats that human rights defenders face daily in their country.
