@@ -1,12 +1,12 @@
 ---
 layout: content-page
-title: Using LevelUp Trainers Curriculum
+title: How To: Using the LevelUp Trainers Curriculum
 author:
 summary: "Each of LevelUp's curriculum modules is designed around a topic-based training session, which is in turn composed of a number of  distinct parts - this resource explains the basic structure of a session module, and the logic behind this structure."
 date: 03/00/2016
 permalink: /curriculum/using-levelup-trainers-curriculum/
 parent: Curriculum
-breadcrumb: Using LevelUp Trainers Curriculum
+breadcrumb: How To: Using LevelUp Trainers Curriculum
 weight: 3.1
 ---
 Core to LevelUp and its *created by trainers, for trainers* curriculum is fostering an environment for our events and workshops that is **open and participatory** for our audiences. For those who support others with training on digital security, the audiences and learners we engage with the most consistently are adults
@@ -108,7 +108,7 @@ Activity/Discussion and Input elements can serve as excellent background on a to
 
 Trainers are also often asked to lead a number of other types of sessions where ADIDS isn’t possible or appropriate. Sometimes an Activity that illustrates a concept will be preferred; other times, trainers are asked to simply lecture then lead a question and answer session. For this grab-bag of needs, trainers can also choose and adapt from the Trainer's Curriculum to create what they need.
 
-Our **You, the Trainer [LINK]** section features more background on some of the **different kinds of events** trainers may be asked to lead, and how to begin preparing accordingly for those.
+Our **[You, the Trainer]()** section features more background on some of the **different kinds of events** trainers may be asked to lead, and how to begin preparing accordingly for those.
 
 
 
@@ -116,4 +116,4 @@ Our **You, the Trainer [LINK]** section features more background on some of the 
 
 All content on LevelUp notes the date on which it was last updated - we will do our best to update on as consistent a basis as possible.
 
-As trainers, one of our **Roles and Responsibilities [LINK]** is to keep up-to-date on the tools we train on - so if there's anything that's crucial for us to update, **please let us know [LINK]**.
+One of the **[Roles and Responsibilities of a Digital Security Trainer]()** is to keep up-to-date on the tools we train on - so if there's anything that's crucial for us to update, let us know by emailing us at [levelup@riseup.net](mailto:levelup@riseup.net)
