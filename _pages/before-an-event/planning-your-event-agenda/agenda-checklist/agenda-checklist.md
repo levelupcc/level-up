@@ -2,9 +2,9 @@
 layout: content-page
 title: The Agenda Checklist
 author: Daniel O'Clunaigh, Carol, Ali Ravi, Lindsay Beck, Chris Doten, Nick Sera-Leyva
-date: 03/00/2016
-permalink: /curriculum/planning-an-event-agenda/agenda-checklist/
-parent: Planning An Event Agenda
+date: 2016-03
+permalink: /before-an-event/planning-your-event-agenda/agenda-checklist/
+parent: Planning Your Event Agenda
 breadcrumb: The Agenda Checklist
 hide: true
 ---
