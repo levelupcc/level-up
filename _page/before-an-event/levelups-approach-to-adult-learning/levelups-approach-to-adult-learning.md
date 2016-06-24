@@ -7,7 +7,6 @@ date: 2016-03
 permalink: /before-an-event/levelups-approach-to-adult-learning/
 breadcrumb: "LevelUp's Approach to Adult Learning"
 parent: Before an Event
-weight: 3.2
 ---
 *This resource is adapted from the [SaferJourno: Digital Security Resources for Media Trainers](http://saferjourno.internews.org/) guide, authored by Manisha Aryal and Dylan Jones. SaferJourno is a project of Internews, produced and shared under a [Creative Commons Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0) License](https://creativecommons.org/licenses/by-nc/3.0/us/).*
 
