@@ -1,10 +1,10 @@
 ---
 layout: page-index
 title: Mobile Safety
-author: Level Up
-summary: This page aggregates modules on the topic of Mobile Safety.
+author: LevelUp
+summary: "This section contains training modules related to safe practices for mobile devices, in particular mobile phones. Topics addressed include how mobile network structures transmit data, how mobile phone technology functions, and strategies for safer communication using mobile devices."
 date: 2016-05-17
 permalink: /curriculum/mobile-safety/
 parent: Curriculum
-breadcrumb: Mobile Safety
+breadcrumb: "Mobile Safety"
 ---
