@@ -2,9 +2,9 @@
 layout: content-page
 title: "The Participant-Driven Agenda"
 author: Daniel O'Clunaigh, Carol, Ali Ravi, Lindsay Beck, Chris Doten, Nick Sera-Leyva
-date: 03/00/2016
-permalink: /curriculum/planning-an-event-agenda/the-participant-driven-agenda/
-parent: Planning An Event Agenda
+date: 2016-03
+permalink: /before-an-event/planning-your-event-agenda/the-participant-driven-agenda/
+parent: Planning Your Event Agenda
 breadcrumb: "The Participant-Driven Agenda"
 hide: true
 ---
