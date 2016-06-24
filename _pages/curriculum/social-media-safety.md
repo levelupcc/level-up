@@ -1,6 +1,6 @@
 ---
 layout: module
-title: Basics of Social Media
+title: Social Media Safety
 author: Ali Ravi, Daniel O'Clunaigh, Samir Nassar, DJ, Lindsay Beck
 date: 2016-03
 
@@ -27,9 +27,9 @@ synthesis:
 platforms: Mac OS, Windows
 level: Fundamental
 prerequisites: Protecting Data - Creating and Managing Strong Passwords
-permalink: /curriculum/social-media-safety/basics-social-media/
-parent: Social Media Safety
-breadcrumb: Basics of Social Media
+permalink: /curriculum/social-media-safety/
+parent: Curriculum
+breadcrumb: Social Media Safety
 ---
 
 An introductory module addressing salient points concerning safe practices and behaviors when using social media apps and services. Included here are some of the most common social networking tools, but it is by no means representative of what is used worldwide.
