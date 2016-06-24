@@ -13,7 +13,17 @@ weight: 3.2
 
 Core to LevelUp and its *created by trainers, for trainers* curriculum is fostering an environment for our events and workshops that is **open and participatory** for our audiences. For those who support others with training on digital security, the audiences and learners we engage with the most consistently are adults. An open and participatory dynamic sets the tone for a training space that is more conducive to learning in general, and specifically to adult learning.
 
-***This resource explains both the unique needs of adult learners, and how LevelUp has adapted this approach into its curriculum structure for digital security education.***
+
+
+##### Trainer's Note
+This resource explains both the unique needs of adult learners, and how LevelUp has adapted this approach into its curriculum structure for digital security education, as a means of introduction and context-setting. 
+<br><br>
+For in-depth walkthroughs on navigating the curriculum and making the best use of ADIDS, in the preparation of your event and workshop sessions, **please refer to our detailed curriculum guides:**
+<br><br>
+[**How To: Using the LevelUp Trainer's Curriculum**]()
+<br>
+[**How-To: Preparing Sessions using ADIDS**]() 
+<br><br>
 
 ## Background ##
 **Malcolm S. Knowles**, whose research helped shape modern approaches to adult learning, says in his book *The Modern Practice of Adult Education: From Pedagogy to Andragogy* that adults learn best when they take responsibility for their own learning.
@@ -45,5 +55,3 @@ This approach creates a comprehensive learning environment by taking into consid
 Since LevelUp was introduced to the concept of ADIDS, we’ve introduced it to fellow trainers at our events and through word-of-mouth. Thus far, trainers have found it useful for structuring training session. It also helps trainers mix up the type of interaction they’re having with participants, while increasing their skills. For instance, one trainer may tend towards lectures (typically “Inputs”) and the hands-on elements of tools (typically “Deepenings”). Using ADIDS helps that trainer learn more activities and helps make their trainings more fun and more effective.
 
 ADIDS also helps balance the energy and skills between co-trainers. (A week-long workshop with more than 4-5 participants is typically too much for a single trainer to be effective, and can lead to burnout.) When you are co-training at a workshop, the ADIDS methodology allows you to switch up the lead for sections of a training session (such as Deepening, when one trainer should be available in the room to help particpants troubleshoot use of a tool while the other trainer runs the Deepening). This can also allow co-trainers to lead sections that they are either more adept at than their fellow trainer, or allow them to increase their training skills on a particular tool or Activity they want to be better at. It also allows trainers to co-lead when necessary, appropriate, or most effective (e.g., during complex Activities).
-
-See [**How To: Using the LevelUp Trainer's Curriculum**]() and then [**Preparing Sessions using ADIDS**]() for more detailed background on how to make the best use of ADIDS in the preparation of your event and workshop sessions.
