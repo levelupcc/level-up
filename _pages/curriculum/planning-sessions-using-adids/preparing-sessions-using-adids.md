@@ -1,11 +1,11 @@
 ---
 layout: content-page
-title: Preparing Sessions Using ADIDS
+title: "How-To: Preparing Sessions Using ADIDS"
 author: CC
-summary: How can trainers build LevelUp training sessions into their agendas, or even begin to create new session modules using ADIDS that are based on their own experience? This resource explains how ADIDS lends itself to a more flexible agenda design experience.
+summary: "How can trainers build LevelUp training sessions into their agendas, or even begin to create new session modules using ADIDS that are based on their own experience? This resource explains how ADIDS lends itself to a more flexible agenda design experience."
 date: 2016-03
 permalink: /curriculum/preparing-sessions-using-adids/
-breadcrumb: Preparing Sessions Using ADIDS
+breadcrumb: "How-To: Preparing Sessions Using ADIDS"
 parent: Curriculum
 weight: 3.4
 ---
