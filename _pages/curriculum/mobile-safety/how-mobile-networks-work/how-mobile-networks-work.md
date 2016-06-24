@@ -30,7 +30,7 @@ breadcrumb: How Mobile Networks Work
 
 This module is meant to serve as very introductory-level overview of **how mobile devices function using mobile telephony networks**. While certain feature-based strategies and solutions for safety and privacy will be discussed, this is largely to set the stage for then moving onward to more advanced topics of mobile security.
 
-This subtopic covers the fundamentals of all mobile phones and devices for when a trainer is leading a training for participants who do **not** have smartphones, and does not go in depth on smartphone-specific concerns and apps.
+Covered here are the fundamentals of all mobile phones and devices, for when a trainer is leading a training for participants who do **not** have smartphones - it does not go in depth on smartphone-specific concerns and apps.
 
 **If this is your first time using our curriculum, please visit** [**How To: Using LevelUp's Trainer's Curriculum**](https://level-up.cc/curriculum/using-levelup-trainers-curriculum/)
 
