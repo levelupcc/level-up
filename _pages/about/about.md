@@ -7,7 +7,9 @@ hide: true
 breadcrumb: About
 ---
 ### What is LevelUp?
-LevelUp is a living project intended to provide support to, and enable creation of resources and sharing of knowledge within, a growing network of individuals providing needed digital safety training and education to users of technology worldwide. LevelUp facilitates opportunities for peer-to-peer exchange both online and offline, engaging trainers and educators to collaboratively build shared values of **what** effective training looks like, **how** we can train effectively, and **why** we understand these practices to be effective. 
+LevelUp is a living project intended to provide support to, and enable creation of resources and sharing of knowledge within, a growing network of individuals providing needed digital safety training and education to users of technology worldwide. 
+
+LevelUp facilitates opportunities for peer-to-peer exchange both online and offline, engaging trainers and educators to collaboratively build shared values of **what** effective training looks like, **how** we can train effectively, and **why** we understand these practices to be effective. 
 <br><br>
 
 ### How does LevelUp work?
@@ -20,7 +22,7 @@ A critical gap addressed early on by LevelUp was the near-absence of written res
 
 ##### Facilitate and coordinate a global network.
 The global LevelUp network is comprised of actively practicing digital safety trainers, as well as others who contribute effort towards the development of digital safety education, in more than **40 countries** across Latin America, Asia, Eurasia, Africa, and the Middle East. This growing network regularly engages with the project through an [active email list](), [thematic webinar events](), [online privacy and freedom of expression events](), active participation in training-of-trainers (ToT) events, and [content creation and localization sprints]().
-
+<br><br>
 By working to create a thriving global network of trainers, educators, and practitioners who are able to more widely share knowledge, experiences, and resources with other, LevelUp hopes to in turn foster a generation of users who are able to practice digital safety more *effortlessly*, *holistically*, and *mindfully*.
 <br><br>
 
