@@ -5,8 +5,8 @@ author: Daniel O'Clunaigh, Ali Ravi, Samir Nassar, Carol Waters
 date: 03/00/2016
 
 activity:
-- name: Data Backup Matrix: Creating an Information Map
-    url: 
+ - name: Data Backup Matrix: Creating an Information Map
+   url: 
 
 input:
  - name: Crafting a Backup Policy
