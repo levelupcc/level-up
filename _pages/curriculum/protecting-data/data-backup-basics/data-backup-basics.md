@@ -1,6 +1,6 @@
 ---
 layout: module
-title: "Protecting Data - Data Backup Basics"
+title: Protecting Data - Data Backup Basics
 author: Daniel O'Clunaigh, Ali Ravi, Samir Nassar, Carol Waters
 date: 03/00/2016
 
