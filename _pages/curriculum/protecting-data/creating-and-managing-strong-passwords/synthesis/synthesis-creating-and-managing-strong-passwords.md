@@ -2,7 +2,7 @@
 layout: content-page
 title: "Synthesis: Protecting Data - Creating and Managing Strong Passwords"
 author: CC
-summary: "Participants ask any final questions about practices for creating and managing strong passwords, and trainers review with participants what they have learned and how they can put these techniques into practice.
+summary: "Participants ask any final questions about practices for creating and managing strong passwords, and trainers review with participants what they have learned and how they can put these techniques into practice."
 permalink: /curriculum/protecting-data/creating-and-managing-strong-passwords/synthesis/synthesis-creating-and-managing-strong-passwords
 breadcrumb: "S: Creating and Managing Strong Passwords"
 updated: 2016-05
