@@ -1,24 +1,24 @@
 ---
 layout: module
-title: Data Backup Basics
+title: Protecting Data - Data Backup Basics
 author: Daniel O'Clunaigh, Ali Ravi, Samir Nassar, Carol Waters
 date: 03-00-2016
 
 activity:
- - name: Data Backup Matrix: Creating an Information Map
-   url: 
+  - name: 
+    url: 
 
 input:
- - name: Crafting a Backup Policy
-   url: 
+  - name: 
+    url: 
 
 deepening:
- - name: Learning How to Backup Your Data
-   url: 
+  - name: 
+    url: 
 
 synthesis:
- - name: Synthesis: Protecting Data - Data Backup Basics
-   url: 
+  - name: 
+    url: 
 
 platforms: Mac OS, Windows
 level: Fundamental
