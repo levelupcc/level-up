@@ -5,7 +5,7 @@ author: Daniel O'Clunaigh, Ali Ravi, Samir Nassar, Carol Waters
 date: 03/00/2016
 
 activity:
-  - name: Data Backup Matrix: Creating an Information Map
+- name: Data Backup Matrix: Creating an Information Map
     url: 
 
 input:
@@ -27,6 +27,7 @@ permalink: /curriculum/protecting-data/data-backup-basics/
 parent: Protecting Data
 breadcrumb: Data Backup Basics
 ---
+
 **If this is your first time using our curriculum, please visit** **How To: Using LevelUp's Trainer's Curriculum [LINK]**
 
 This fundamental level module addresses basic practices for users, at both individual and organizational levels, for successful and safe backup of important information. Similarly, to help participants better visualize their personal "information map", this module also emphasizes the importance for users of understanding the *what* (type or format) and the *where* (storage location) of such valuable or sensitive data.
