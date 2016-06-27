@@ -10,15 +10,15 @@ activity:
 
 input:
   - name: Crafting a Backup Policy
-    url: /curriculum/protecting-data/data-backup-basics/input
+    url: /curriculum/protecting-data/data-backup-basics/input/
 
 deepening:
   - name: Learning How to Backup Your Data
-    url: /curriculum/protecting-data/data-backup-basics/deepening
+    url: /curriculum/protecting-data/data-backup-basics/deepening/
 
 synthesis:
   - name: Synthesis: Protecting Data - Data Backup Basics
-    url: /curriculum/protecting-data/data-backup-basics/synthesis
+    url: /curriculum/protecting-data/data-backup-basics/synthesis/
 
 platforms: Mac OS, Windows
 level: Fundamental
