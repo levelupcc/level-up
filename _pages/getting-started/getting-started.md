@@ -2,17 +2,15 @@
 layout: content-page
 title: Getting Started with LevelUp
 author: LevelUp
-summary: The LevelUp website is a continually growing resource dedicated to sharing knowledge and experience from digital security trainers from around the world - start here to orient yourself with what you'll find on LevelUp, how you can use it, and how you can help it improve.
+summary: LevelUp is a living project intended to provide support to the growing network of individuals providing needed digital safety training and education to users of technology worldwide. We've gathered insight and learnings from trainers around the world, and have distilled these into a collection of helpful resources across a range of topics relevant to the context of digital security trainers.
 date: 2016-06
 permalink: /getting-started
 parent: Home
 breadcrumb: Getting Started with LevelUp
 ---
-LevelUp is a living project intended to provide support to the growing network of individuals providing needed digital safety training and education to users of technology worldwide.
+Every trainer is stronger in some areas than in others; however, the best are constantly seeking new ways to improve their skills. 
 
-Every trainer is stronger in some areas than in others; however, the best are constantly seeking new ways to improve their skills. We've gathered insight and learnings from trainers around the world, and have distilled these into a collection of helpful resources across a range of topics relevant to the context of digital security trainers.
-
-Use our **Getting Started** guide to orient yourself with what you'll find on LevelUp, how you can use it, and how you can help it improve.
+The LevelUp website is a continually growing resource dedicated to sharing knowledge and experience from digital security trainers from around the world - start here to orient yourself with our resources for digital security training, how you can use them, and how you can help improve them.
 <br><br>
 
 ## How You Can Use LevelUp
