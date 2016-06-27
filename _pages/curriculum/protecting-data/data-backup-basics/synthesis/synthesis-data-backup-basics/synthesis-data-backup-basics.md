@@ -4,7 +4,6 @@ title: "Synthesis: Protecting Data - Data Backup Basics"
 author:
 summary: This is a final closing for the Data Backup Basics module, with an optional inclusion or introduction of backup policy planning as needed. 
 permalink: /curriculum/protecting-data/data-backup-basics/synthesis/synthesis-data-backup-basics
-parent: Data Backup Basics
 breadcrumb: "Synthesis: Protecting Data - Data Backup Basics"
 date: 2016-05-00
 adids: Synthesis
