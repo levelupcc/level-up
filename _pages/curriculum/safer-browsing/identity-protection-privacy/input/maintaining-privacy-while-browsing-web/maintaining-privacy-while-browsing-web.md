@@ -3,7 +3,7 @@ layout: content-page
 title: Maintaining Privacy While Browsing the Web
 author: Mallory Knodel, Nick Sera-Leyva
 summary: In this session, participants learn that advertisers (and others) may know more about us than we think, due to the data that we produce when surfing the web.
-permalink: /curriculum/safer-browsing/identity-protection-privacy/input/maintaining-privacy-while-browsing-web
+permalink: /curriculum/safer-browsing/identity-protection-privacy/input/maintaining-privacy-while-browsing-web/
 breadcrumb: Maintaining Privacy While Browsing the Web
 date: 2016-06-00
 adids: Input
