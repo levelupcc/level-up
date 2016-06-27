@@ -2,7 +2,7 @@
 layout: module
 title: Protecting Data - Data Backup Basics
 author: Daniel O'Clunaigh, Ali Ravi, Samir Nassar, Carol Waters
-date: 03-00-2016
+date: 2016-03
 
 activity:
   - name: Data Backup Matrix: Creating an Information Map
