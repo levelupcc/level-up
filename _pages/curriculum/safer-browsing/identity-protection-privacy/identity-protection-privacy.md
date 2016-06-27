@@ -6,15 +6,15 @@ date: 2015-05-00
 
 activity:
  - name: Who Does Big Data Think I Am?
-   url: curriculum/safer-browsing/identity-protection-privacy/activity-discussion/who-does-big-data-think-iam
+   url: /curriculum/safer-browsing/identity-protection-privacy/activity-discussion/who-does-big-data-think-iam/
 
 input:
  - name: Maintaining Privacy While Browsing the Web
-   url: /curriculum/safer-browsing/identity-protection-privacy/input/maintaining-privacy-while-browsing-web
+   url: /curriculum/safer-browsing/identity-protection-privacy/input/maintaining-privacy-while-browsing-web/
 
 deepening:
  - name: Using HTTPS Everywhere
-   url: /curriculum/safer-browsing/identity-protection-privacy/deepening/using-https-everywhere
+   url: /curriculum/safer-browsing/identity-protection-privacy/deepening/using-https-everywhere/
 
 synthesis:
  - name: Synthesis: Protecting Data - Identity Protection and Privacy
