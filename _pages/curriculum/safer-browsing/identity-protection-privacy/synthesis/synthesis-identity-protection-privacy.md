@@ -3,15 +3,15 @@ layout: content-page
 title: Synthesis: Safer Browsing - Identity Protection and Privacy
 author: Mallory Knodel
 summary: A final review and question & answer session for techniques and tools for increased protection of identity and privacy while browsing the web.
-permalink: /curriculum/safer-browsing/identity-protection-privacy/synthesis/synthesis-identity-protection-privacy
+permalink: /curriculum/safer-browsing/identity-protection-privacy/synthesis/synthesis-identity-protection-privacy/
 breadcrumb: Synthesis: Safer Browsing - Identity Protection and Privacy
-date: 2016-06-00
+date: 2016-06
 adids: Synthesis
 parent: Identity Protection and Privacy
 duration: 10-15 minutes
 ---
 
-## Synthesis ##
+## Synthesis
 
 Ask participants if they have questions before completing the session. If time allows, trainers may want to confirm that the participants understood the essential points. 
 
