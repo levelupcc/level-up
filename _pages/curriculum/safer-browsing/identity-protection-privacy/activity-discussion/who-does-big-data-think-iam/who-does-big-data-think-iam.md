@@ -3,7 +3,7 @@ layout: content-page
 title: Who Does Big Data Think I Am?
 author: Mallory Knodel
 summary: Advertising networks look for detailed information about who you are, from your age to your postal code and everything in between. This activity works best if participants are using their personal computers and the browser that they normally use day-to-day. Still, some might not have browser profiles - which is great for their privacy, but boring for this activity. Keep this in mind while planning your agenda.
-permalink: /curriculum/safer-browsing/identity-protection-privacy/activity-discussion/who-does-big-data-think-iam
+permalink: /curriculum/safer-browsing/identity-protection-privacy/activity-discussion/who-does-big-data-think-iam/
 breadcrumb: Who Does Big Data Think I Am?
 date: 2016-06-00
 adids: Activity & Discussion
