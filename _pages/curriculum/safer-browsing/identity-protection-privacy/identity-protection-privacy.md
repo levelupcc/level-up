@@ -5,20 +5,20 @@ author: Mallory Knodel, Nick Sera-Leyva
 date: 2015-05-00
 
 activity:
- - name: 
-   url:
+ - name: Who Does Big Data Think I Am?
+   url: curriculum/safer-browsing/identity-protection-privacy/activity-discussion/who-does-big-data-think-iam
 
 input:
- - name: 
-   url: 
+ - name: Maintaining Privacy While Browsing the Web
+   url: /curriculum/safer-browsing/identity-protection-privacy/input/maintaining-privacy-while-browsing-web
 
 deepening:
- - name: 
-   url: 
+ - name: Using HTTPS Everywhere
+   url: /curriculum/safer-browsing/identity-protection-privacy/deepening/using-https-everywhere
 
 synthesis:
- - name: 
-   url: 
+ - name: Synthesis: Protecting Data - Identity Protection and Privacy
+   url: /curriculum/safer-browsing/identity-protection-privacy/synthesis/synthesis-identity-protection-privacy/
 
 platforms: Mac OS, Windows, Linux, Chrome, Firefox
 level: Fundamental
