@@ -6,19 +6,19 @@ date: 03-00-2016
 
 activity:
   - name: Data Backup Matrix: Creating an Information Map
-    url: /curriculum/protecting-data/data-backup-basics/activity-discussion/
+    url: /curriculum/protecting-data/data-backup-basics/activity-discussion/data-backup-matrix-creating-information-map
 
 input:
   - name: Crafting a Backup Policy
-    url: /curriculum/protecting-data/data-backup-basics/input/
+    url: /curriculum/protecting-data/data-backup-basics/input/crafting-backup-policy
 
 deepening:
   - name: Learning How to Backup Your Data
-    url: /curriculum/protecting-data/data-backup-basics/deepening/
+    url: /curriculum/protecting-data/data-backup-basics/deepening/learning-how-to-backup-your-data
 
 synthesis:
   - name: Synthesis: Protecting Data - Data Backup Basics
-    url: /curriculum/protecting-data/data-backup-basics/synthesis/
+    url: /curriculum/protecting-data/data-backup-basics/synthesis/synthesis-data-backup-basics
 
 platforms: Mac OS, Windows
 level: Fundamental
