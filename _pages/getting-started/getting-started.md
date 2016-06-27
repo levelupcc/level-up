@@ -2,7 +2,7 @@
 layout: content-page
 title: Getting Started with LevelUp
 author: LevelUp
-summary: The LevelUp website is a continually growing resource dedicated to sharing knowledge and experience from digital security trainers from around the world - our Getting Started guide breaks down what you'll find on LevelUp, how you can use it, and how you can help it improve.
+summary: The LevelUp website is a continually growing resource dedicated to sharing knowledge and experience from digital security trainers from around the world - start here to orient yourself with what you'll find on LevelUp, how you can use it, and how you can help it improve.
 date: 2016-06
 permalink: /getting-started
 parent: Home
@@ -12,8 +12,8 @@ LevelUp is a living project intended to provide support to the growing network o
 
 Every trainer is stronger in some areas than in others; however, the best are constantly seeking new ways to improve their skills. We've gathered insight and learnings from trainers around the world, and have distilled these into a collection of helpful resources across a range of topics relevant to the context of digital security trainers.
 
-Use this **Getting Started** guide to orient yourself with what you'll find on LevelUp, how you can use it, and how you can help it improve.
-<br>
+Use our **Getting Started** guide to orient yourself with what you'll find on LevelUp, how you can use it, and how you can help it improve.
+<br><br>
 
 ## How You Can Use LevelUp
 
@@ -28,7 +28,7 @@ Every trainer is stronger in some areas than in others; however, the best are co
 
 [**Before an Event**]()
 Arguably the most critical phase of the training planning process takes place before the event itself. This multi-part resource details the basics, built from the documented experience of several experienced trainers.
-<br>
+<br><br>
 
 #### 2. Craft custom trainings using our shared Training Curriculum
 **Core to LevelUp is its *created by trainers, for trainers* curriculum of shared digital security training modules, developed from the experience of active digital safety trainers, and available to freely remix, reuse, and adapt under a [Creative Commons license]().**
@@ -41,7 +41,7 @@ Each of LevelUp's curriculum modules are designed around a topic-based training 
 
 [**Planning Your Event Agenda**]()
 This resource features advice from a number of experienced digital security trainers on preparing agendas for your training events. It has been broken down into several main resources that can be used as planning aids for workshops.
-<br>
+<br><br>
 
 #### 3. Contribute to and interact with LevelUp content
 **LevelUp relies on contributions and input from members of the training community, like you, to remain an evolving, up-to-date, and most importantly, *shared* resource.**
@@ -58,7 +58,7 @@ Want to share your thoughts on something you read here? See something that needs
 
 [**LevelUp on GitHub**]()
 LevelUp uses GitHub in tandem with [Jekyll](https://jekyllrb.com/) to edit and manage the content of this website - this also means that all LevelUp content can be found in markdown (.md) format via the website's public GitHub repository.
-
+<br><br>
 
 
 
