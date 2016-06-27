@@ -1,31 +1,31 @@
 ---
 layout: module
-title: Safer Browsing - Identity Protection and Privacy
-author: Mallory Knodel, Nick Sera-Leyva
-date: 2015-05-00
+title: "Safer Browsing - Identity Protection and Privacy"
+author: Mallory Knodel, Nick Sera-Leyva, DJ
+date: 2015-06
 
 activity:
- - name: Who Does Big Data Think I Am?
+ - name: "Who Does Big Data Think I Am?"
    url: /curriculum/safer-browsing/identity-protection-privacy/activity-discussion/who-does-big-data-think-iam/
 
 input:
- - name: Maintaining Privacy While Browsing the Web
+ - name: "Maintaining Privacy While Browsing the Web"
    url: /curriculum/safer-browsing/identity-protection-privacy/input/maintaining-privacy-while-browsing-web/
 
 deepening:
- - name: Using HTTPS Everywhere
+ - name: "Using HTTPS Everywhere"
    url: /curriculum/safer-browsing/identity-protection-privacy/deepening/using-https-everywhere/
 
 synthesis:
- - name: Synthesis: Protecting Data - Identity Protection and Privacy
+ - name: "Synthesis: Protecting Data - Identity Protection and Privacy"
    url: /curriculum/safer-browsing/identity-protection-privacy/synthesis/synthesis-identity-protection-privacy/
 
 platforms: Mac OS, Windows, Linux, Chrome, Firefox
 level: Fundamental
 prerequisites:
 permalink: /curriculum/safer-browsing/identity-protection-privacy/
-parent: Safer Browsing
-breadcrumb: Identity Protection and Privacy
+parent: "Safer Browsing"
+breadcrumb: "Identity Protection and Privacy"
 ---
 
 **If this is your first time using our curriculum, please visit** **How To: Using LevelUp's Trainer's Curriculum [LINK]**
