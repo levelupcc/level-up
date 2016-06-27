@@ -2,7 +2,7 @@
 layout: content-page
 title: Using HTTPS Everywhere
 author: DJ
-summary: In this exercise, participants are introduced to the **[HTTPS Everywhere](https://www.eff.org/https-everywhere)** plug-in for Chrome and Firefox browsers. HTTPS Everywhere forces HTTPS for websites that offer such connections but do not automatically route users via HTTPS by default; likewise, if a site does not offer any kind of HTTPS connection, the plug-in alerts users to this fact.
+summary: In this exercise, participants are introduced to the HTTPS Everywhere plug-in for Chrome and Firefox browsers. HTTPS Everywhere forces HTTPS for websites that offer such connections but do not automatically route users via HTTPS by default; likewise, if a site does not offer any kind of HTTPS connection, the plug-in alerts users to this fact.
 permalink: /curriculum/safer-browsing/identity-protection-privacy/deepening/using-https-everywhere
 breadcrumb: Using HTTPS Everywhere
 date: 2016-06-00
