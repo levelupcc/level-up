@@ -1,10 +1,10 @@
 ---
 layout: content-page
-title: Synthesis: Safer Browsing - Identity Protection and Privacy
+title: "Synthesis: Safer Browsing - Identity Protection and Privacy"
 author: Mallory Knodel
-summary: A final review and question & answer session for techniques and tools for increased protection of identity and privacy while browsing the web.
+summary: "A final review and question & answer session for techniques and tools for increased protection of identity and privacy while browsing the web."
 permalink: /curriculum/safer-browsing/identity-protection-privacy/synthesis/synthesis-identity-protection-privacy/
-breadcrumb: Synthesis: Safer Browsing - Identity Protection and Privacy
+breadcrumb: Synthesis - Identity Protection and Privacy
 date: 2016-06
 adids: Synthesis
 parent: Identity Protection and Privacy
