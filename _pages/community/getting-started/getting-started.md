@@ -4,7 +4,7 @@ title: Getting Started with LevelUp
 author: LevelUp
 summary: LevelUp is a living project intended to provide support to the growing network of individuals providing needed digital safety training and education to users of technology worldwide. We've gathered insight and learnings from trainers around the world, and have distilled these into a collection of helpful resources across a range of topics relevant to the context of digital security trainers.
 date: 2016-06
-permalink: /getting-started
+permalink: /community/getting-started
 parent: Community
 breadcrumb: Getting Started with LevelUp
 ---
