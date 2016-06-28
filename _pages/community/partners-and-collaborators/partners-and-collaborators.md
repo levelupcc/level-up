@@ -14,38 +14,38 @@ This project, this website, and the body of resources and knowledge within and a
 
 #####  LevelUp was built, and continues to be maintained, by generous contributions of time, energy, expertise, and insight from...
 
-- [Access Now]()
-- [ACI Participa]()
-- [Article 19]()
-- [Association for Progressive Communications]()
-- [Benetech]()
-- [Center for Victims of Torture]()
-- [CEPPAS]()
-- [Colnodo]()
-- [Confabium]()
-- [Digital Rights Foundation Pakistan]()
-- [Digital Society Zimbabwe]()
-- [East and Horn of Africa Human Rights Defenders Project]()
-- [Engage Media]()
-- [the engine room]()
-- [Enredadas]()
-- [eQualit.ie]()
-- [FabRiders]()
-- [Frontline Defenders]()
-- [Greenhost]()
-- [iilab]()
-- [Internet Society]()
-- [Internews]()
-- [ISC Project]()
-- [Institute for War and Peace Reporting]()
-- [IREX]()
-- [Karisma]()
-- [Localization Lab]()
-- [National Democratic Institute]()
-- [Nova Mexico]()
-- [Security First]()
-- [Small Media Foundation]()
-- [Social Media Exchange]()
-- [SocialTIC]()
-- [Tactical Technology Collective]()
-- [Tibet Action Institute]()
+- Access Now
+- ACI Participa
+- Article 19
+- Association for Progressive Communications
+- Benetech
+- Center for Victims of Torture
+- CEPPAS
+- Colnodo
+- Confabium
+- Digital Rights Foundation Pakistan
+- Digital Society Zimbabwe
+- East and Horn of Africa Human Rights Defenders Project
+- Engage Media
+- the engine room
+- Enredadas
+- eQualit.ie
+- FabRiders
+- Frontline Defenders
+- Greenhost
+- iilab
+- Internet Society
+- Internews
+- ISC Project
+- Institute for War and Peace Reporting
+- IREX
+- Karisma
+- Localization Lab
+- National Democratic Institute
+- Nova Mexico
+- Security First
+- Small Media Foundation
+- Social Media Exchange
+- SocialTIC
+- Tactical Technology Collective
+- Tibet Action Institute
