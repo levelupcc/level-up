@@ -1,12 +1,14 @@
 ---
-layout: resources
-title: Community Resources and Tools
+layout: resource
+title: "Community Resources and Tools"
+date: 2016-06
+author: LevelUp
 summary: This is LevelUp's repository of Community Resources and Tools - this is where you'll find all trainer-contributed content, such as field-tested training modules, facilitation tools and aids, and other useful content. Also found here is our growing index of helpful resources, guides, and tools that you can provide to training participants before, during, or after an event.
-permalink: /resources/community-resources-and-tools/
-breadcrumb: Community Resources and Tools
-parent: Community
+published: true
+category: resources
+permalink: /community/community-resources-and-tools/
+breadcrumb: Resources
 ---
-
 ## Trainer Contributed Resources
 
 ## Resources for Training Participants
