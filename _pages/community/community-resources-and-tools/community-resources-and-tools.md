@@ -1,13 +1,15 @@
 ---
 layout: resources
 title: Community Resources and Tools
-summary: These are resources compiled by the LevelUp community.
+summary: This is LevelUp's repository of Community Resources and Tools - this is where you'll find all trainer-contributed content, such as field-tested training modules, facilitation tools and aids, and other useful content. Also found here is our growing index of helpful resources, guides, and tools that you can provide to training participants before, during, or after an event.
 permalink: /community/community-resources-and-tools/
 breadcrumb: Community Resources and Tools
 parent: Community
 ---
 
-## End User Resources ##
+## Trainer Contributed Resources
+
+## Resources for Training Participants
 
 ###  [Anti-Phishing and Email Hygiene](https://freedom.press/anti-phishing-and-email-hygiene)
 
@@ -69,7 +71,6 @@ The Digital Security First Aid Kit is a basic guide to what steps to take and gr
 ###  [Digital Security and Source Protection For Journalists](http://susanemcg.gitbooks.io/digital-security-for-journalists/content/)
 
 This handbook explores the laws and technologies that have developed in the United States that affect how journalists operate and protect their sources, including basic best digital security practices for journalists  to mitigate these risks. Topics include strategies and tools to use when communicating with linkable and unlinkable sources, the importance of https connections, and email encryption and others.
-
 
 - By [Susan McGregor](http://susanemcgregor.com/) , [Columbia University’s Tow Center for Digital Journalism](http://towcenter.org/)
 - Released June, 2014
