@@ -1,7 +1,8 @@
 ---
 layout: content-page
 title: About LevelUp
-permalink: /about/
+permalink: /community/about/
+parent: Community
 weight: 6
 hide: true
 breadcrumb: About
@@ -21,7 +22,7 @@ Increased coordination among trainers improves the *quality* of training support
 A critical gap addressed early on by LevelUp was the near-absence of written resources for trainers of digital safety, a scarcity amid an ever-growing body of exclusively end-user focused digital safety resources. Core to LevelUp is this website, which hosts a repository of training [curriculum resources](), created by trainers for trainers and shared under a [Creative Commons license]().
 
 ##### Facilitate and coordinate a global network.
-The global LevelUp network is comprised of actively practicing digital safety trainers, as well as others who contribute effort towards the development of digital safety education, in more than **40 countries** across Latin America, Asia, Eurasia, Africa, and the Middle East. This growing network regularly engages with the project through an [active email list](), [thematic webinar events](), [online privacy and freedom of expression events](), active participation in training-of-trainers (ToT) events, and [content creation and localization sprints]().
+The global LevelUp network is comprised of actively practicing digital safety trainers, as well as others who contribute effort towards the development of digital safety education, in more than **40 countries** across Latin America, Asia, Eurasia, Africa, and the Middle East. This growing network regularly engages with the project through an [active email list](), [thematic webinar events](http://www.fabriders.net/levelup-notes-prep/), [online privacy and freedom of expression events](), active participation in training-of-trainers (ToT) events, and [content creation and localization sprints](http://www.localizationlab.org/2016-localization-summit-and-sprint-summary).
 <br><br>
 
 By working to create a thriving global network of trainers, educators, and practitioners who are able to more widely share knowledge, experiences, and resources with other, LevelUp hopes to in turn foster a generation of users who are able to practice digital safety more *effortlessly*, *holistically*, and *mindfully*.
