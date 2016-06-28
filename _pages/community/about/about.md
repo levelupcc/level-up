@@ -1,10 +1,11 @@
 ---
 layout: content-page
 title: About LevelUp
+author: 
+summary: LevelUp is a living project intended to provide support to, and enable creation of resources and sharing of knowledge within, a growing network of individuals providing needed digital safety training and education to users of technology worldwide.
 permalink: /community/about/
 parent: Community
 weight: 6
-hide: true
 breadcrumb: About
 ---
 ### What is LevelUp?
