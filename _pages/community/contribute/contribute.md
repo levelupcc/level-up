@@ -4,7 +4,7 @@ title: Contributing to LevelUp
 author: LevelUp
 summary: LevelUp relies on contributions and input from members of the training community, like you, to remain an evolving, up-to-date, and most importantly, shared resource. We welcome and encourage all users of LevelUp to contribute new training content, provide feedback or updates for current content, and participate in our ongoing localization efforts.
 date: 2016-06
-permalink: /community/contribute-and-collaborate/
+permalink: /community/contribute/
 parent: Community
 breadcrumb: Contributing to LevelUp
 ---
@@ -45,7 +45,7 @@ New users will need to create an account; however, the Hypothes.is team maintain
 ## How Can I Contribute Content?
 There are now a few different ways you can contribute content to LevelUp's growing compendium of digital security training content. We're actively looking into what further options we can make available in the near future; however, please see our current contribution channels below.
 
-*All content on this site is under a [Creative Commons Attribution-ShareAlike 3.0 Unported license](https://creativecommons.org/licenses/by-sa/3.0/) - unless already under another existing license, anything shared through LevelUp is made available under this same license. More specifics on these terms can be found below in the [Creative Commons License & Attribution]() section.*
+*All content on this site is under a [Creative Commons Attribution-ShareAlike 3.0 Unported license](https://creativecommons.org/licenses/by-sa/3.0/) - unless already under another existing license, anything shared through LevelUp is made available under this same license.
 
 #### 1. Submit Content via Email
 
