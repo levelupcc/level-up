@@ -4,24 +4,17 @@ updated: 2016-03-00
 author: Daniel O'Clunaigh, Carol, Ali Ravi, Lindsay Beck, Chris Doten, Nick Sera-Leyva
 published: false
 
-
-# Planning for Trainings | Step 1: Initial Contact and Assessing Need #
-
-***Disclaimer Note to the Reader:***
-
-Keep in mind that this guide represents advice, input, and experience of the authors. The suggested guidelines below are designed to reduce common mistakes and encourage trainers to design workshops that are fun, safe, and effective. Each trainer has his or her own style and approach, which evolves over time and prioritizes the safety of participants. This is a living document - please send us feedback and suggestions! Email levelup [at] riseup.net
-
-
-## Introduction ##
-Generally speaking, the following several steps comprise the process of planning for an event. Planning an event also includes **Agenda Planning [LINK]**, designing training sessions according to the needs and requirements determined beforehand, and adjusting the agenda and training sessions as new information emerges. Conducting a Risk Assessment in order to design and implement operational security protocols for yourself and the training once you have arrived is another crucial step in the process.
- 
-Below is "Step 1" in the larger, rough process of planning of an event. This process includes inputs, their analysis, and the subsequent design, preparation and orientation for the training. Planning itself will actually span the life of the event, continue through the closing of the event, and culminate with a "hand-off" for continuity planning (i.e. follow-up and evaluation stages). We are painfully aware that the number of factors and elements which go into event planning are numerous, complex, and variable. 
-
-We hope this will become a robust living document broadly useful to all trainers, and warmly solicit constructive feedback, suggestions, and supporting documents fellow trainers can contribute in order to make this a vital resource for the larger training community. 
-
-## Initial Contact and Assessing Need ##
-
-### Secure Communication Considerations ###
+---
+layout: content-page
+title: Step 1 - Initial Contact and Assessing Need
+author: Daniel O'Clunaigh, Carol Waters, Ali Ravi, Lindsay Beck, Chris Doten, Nick Sera-Leyva
+summary: "This multi-part resource details the basics of the event planning process, built from the documented experience of several experienced trainers - among these steps are gathering inputs, analyzing these inputs, and their subsequent impact on the design, preparation and orientation of a training event."
+date: 2016-03
+permalink: /before-an-event/planning-your-training-event/1-initial-contact-assessing-need/
+parent: Planning Your Training Event
+breadcrumb: Step 1 - Initial Contact and Assessing Need
+---
+### Secure Communication Considerations
 Ideally, you will be able to carry out a needs assessment, either with the training participants themselves or a member of their representing organization, in order to gather necessary information for the best possible design of the event. Of course, it is **important to bear in mind** that the channels you use initially for communication (e.g. email, telephone or Skype) may not be secure, and your contacts may not be comfortable sharing certain information over these channels. 
 
 This is very difficult for trainers to gauge without previous knowledge of the local contacts' situation and context. If you have a contact in common with whom you can have more reliably secure communications, you may need to depend on this more secure channel to gather information about the candidate training context.
