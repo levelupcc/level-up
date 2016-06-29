@@ -10,11 +10,9 @@ breadcrumb: Planning Your Event Agenda
 ---
 #### *Do you have feedback on this content, or see something that needs updating?*
 ##### Comment directly on any of this page's content, using the [Hypothes.is](https://levelupcc.github.io/level-up/community/contribute/#how-can-i-provide-feedback) toolbar found in the upper right-hand corner of this page.
-<br>
 
 #### *Do you have training content you'd like to share with other trainers?*
 ##### Email us at [levelup@riseup.net](mailto: levelup@riseup.net) ([GPG public key here](http://pgp.mit.edu/pks/lookup?op=get&search=0x207BFB9591A638BE)) or read our guide on [Contributing to LevelUp](https://levelupcc.github.io/level-up/community/contribute/#how-can-i-contribute-content). You can also email us with feedback.
-<br>
 
 Next to figuring out your individual Topics, overall session agenda planning is the probably the most important activity you can spend time on before you get into the classroom. Since many events will require trainers to tweak agendas based on unknown or unforeseen circumstances, thoughtful and thorough pre-event preparation will help you make last-minute adjustments, especially if you're prepared for a second set of potential training sessions.
 
