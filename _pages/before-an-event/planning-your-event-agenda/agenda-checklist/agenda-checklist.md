@@ -9,9 +9,11 @@ breadcrumb: The Agenda Checklist
 hide: true
 ---
 #### *Do you have feedback on this content, or see something that needs updating?*
+
 ##### Comment directly on any of this page's content, using the [Hypothes.is](https://levelupcc.github.io/level-up/community/contribute/#how-can-i-provide-feedback) toolbar found in the upper right-hand corner of this page.
 
 #### *Do you have training content you'd like to share with other trainers?*
+
 ##### Email us at [levelup@riseup.net](mailto: levelup@riseup.net) ([GPG public key here](http://pgp.mit.edu/pks/lookup?op=get&search=0x207BFB9591A638BE)) or read our guide on [Contributing to LevelUp](https://levelupcc.github.io/level-up/community/contribute/#how-can-i-contribute-content). You can also email us with feedback.
 
 As detailed in our guide [**How To: Preparing Sessions Using ADIDS**](https://level-up.cc/curriculum/preparing-sessions-using-adids/), its helpful to think of an agenda as a larger image, composed of individual puzzle pieces that are the different sessions, activities, and other components of your event. When considering where to begin when planning the technical **content** of a digital security training or workshop, it helps to think about the overall structure as a set of tiers, ***starting from the very general and  becoming gradually more specific.***
