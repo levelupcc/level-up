@@ -3,7 +3,7 @@ layout: content-page
 title: Synthesis - HTTPS and SSL
 author: DJ
 summary: A final wrap-up and closing session for participants, for the Safer Browsing - HTTPS and SSL module.
-permalink: /curriculum/safer-browsing/https-ssl/synthesis/synthesis-https-ssl
+permalink: /curriculum/safer-browsing/https-ssl/synthesis/synthesis-https-ssl/
 breadcrumb: Synthesis - HTTPS and SSL
 date: 2015-04
 adids: Activity and Discussion
