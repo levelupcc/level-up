@@ -1,13 +1,14 @@
 ---
 layout: content-page
-title: Step 0: The Go or Don't Go Decision
+title: Step 0 - The Go or Don't Go Decision
 author: Daniel O'Clunaigh, Carol Waters, Ali Ravi, Lindsay Beck, Chris Doten, Nick Sera-Leyva
-summary: This multi-part resource details the basics of the event planning process, built from the documented experience of several experienced trainers - among these steps are gathering inputs, analyzing these inputs, and their subsequent impact on the design, preparation and orientation of a training event.
+summary: "This multi-part resource details the basics of the event planning process, built from the documented experience of several experienced trainers - among these steps are gathering inputs, analyzing these inputs, and their subsequent impact on the design, preparation and orientation of a training event."
 date: 2016-03
 permalink: /before-an-event/planning-your-training-event/0-go-dontgo-decision/
 parent: Planning Your Training Event
-breadcrumb: Step 0: The Go or Don't Go Decision
+breadcrumb: Step 0 - The Go or Don't Go Decision
 ---
+
 #### It is best to think of event planning as starting with the decision whether or not to go ahead with the event. 
 
 Trainers must decide, often in consultation with collaborating organizations and/or their own organization, whether or not conducting a training is advisable based on *initial* information. 
