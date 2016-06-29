@@ -33,7 +33,7 @@ This module illustrates one of the most common Internet encryption protocols - s
 
 ## Learning Goals for Participants
 
-- Learn the difference between unprotected (HTTP) and protected (HTTPS) Internet traffic.
-- Learn what kinds of information can be exposed in both cases.
-- Learn to spot a secure SSL connection in a Web browser.
-- Learn to install and use HTTPS Everywhere.
+-  Learn the difference between unprotected (HTTP) and protected (HTTPS) Internet traffic.
+-  Learn what kinds of information can be exposed in both cases.
+-  Learn to spot a secure SSL connection in a Web browser.
+-  Learn to install and use HTTPS Everywhere.
