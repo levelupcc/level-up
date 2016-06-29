@@ -2,7 +2,7 @@
 layout: module
 title: Safer Browsing - HTTPS and SSL
 author: Mallory Knodel, DJ
-date: 2015-06
+date: 2016-06
 
 activity:
  - name: "The Encrypted (HTTPS) vs. Unencrypted (HTTP) Internet"
