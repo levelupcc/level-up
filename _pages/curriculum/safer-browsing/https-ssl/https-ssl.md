@@ -36,7 +36,7 @@ This module illustrates one of the most common Internet encryption protocols - s
 **If this is your first time using our curriculum, please visit** [**How To: Using LevelUp's Trainer's Curriculum**](https://level-up.cc/curriculum/using-levelup-trainers-curriculum/)
 
 ## Learning Goals for Participants
--  Learn the difference between unprotected (HTTP) and protected (HTTPS) Internet traffic.
+-  Learn the difference between unprotected (HTTP) and protected (HTTPS) traffic.
 -  Learn what kinds of information can be exposed in both cases.
 -  Learn to spot a secure SSL connection in a Web browser.
 -  Learn to install and use HTTPS Everywhere.
