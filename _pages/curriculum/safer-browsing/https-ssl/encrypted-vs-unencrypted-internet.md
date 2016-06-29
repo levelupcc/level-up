@@ -3,7 +3,7 @@ layout: content-page
 title: The Encrypted (HTTPS) vs. Unencrypted (HTTP) Internet
 author: Mallory Knodel
 summary: This demonstration is intended to illustrate for participants that some information they exchange, over a network connection to a website or other server, is exposed along the way if they use unprotected connections.
-permalink: /curriculum/safer-browsing/https-ssl/activity-discussion/encrypted-vs-unencrypted-internet
+permalink: /curriculum/safer-browsing/https-ssl/activity-discussion/encrypted-vs-unencrypted-internet/
 breadcrumb: The Encrypted (HTTPS) vs. Unencrypted (HTTP) Internet
 date: 2015-03
 adids: Activity and Discussion
