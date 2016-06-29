@@ -8,6 +8,10 @@ activity:
  - name: "The Encrypted (HTTPS) vs. Unencrypted (HTTP) Internet"
    url: /curriculum/safer-browsing/https-ssl/activity-discussion/encrypted-vs-unencrypted-internet/
 
+activity:
+ - name: "We Are The Internet"
+   url: /curriculum/safer-browsing/https-ssl/activity-discussion/we-are-the-internet/
+
 input:
  - name: "How the Internet Handles Authenticity and Confidentiality"
    url: /curriculum/safer-browsing/https-ssl/input/internet-authenticity-confidentiality/
@@ -32,7 +36,6 @@ This module illustrates one of the most common Internet encryption protocols - s
 **If this is your first time using our curriculum, please visit** [**How To: Using LevelUp's Trainer's Curriculum**](https://level-up.cc/curriculum/using-levelup-trainers-curriculum/)
 
 ## Learning Goals for Participants
-
 -  Learn the difference between unprotected (HTTP) and protected (HTTPS) Internet traffic.
 -  Learn what kinds of information can be exposed in both cases.
 -  Learn to spot a secure SSL connection in a Web browser.
