@@ -3,7 +3,7 @@ layout: content-page
 title: How the Internet Handles Authenticity and Confidentiality
 author: Mallory Knodel
 summary: In this Input session, participants are introduced to HTTPS and SSL connections and how they maintain confidentiality between a user and a server over a network connection.
-permalink: /curriculum/safer-browsing/https-ssl/input/internet-authenticity-confidentiality
+permalink: /curriculum/safer-browsing/https-ssl/input/internet-authenticity-confidentiality/
 breadcrumb: How the Internet Handles Authenticity and Confidentiality
 date: 2015-04
 adids: Input
