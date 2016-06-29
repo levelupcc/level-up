@@ -4,7 +4,7 @@ title: Step 5 - Orientation and Preparation
 author: Daniel O'Clunaigh, Carol Waters, Ali Ravi, Lindsay Beck, Chris Doten, Nick Sera-Leyva
 summary: This multi-part resource details the basics of the event planning process, built from the documented experience of several experienced trainers - among these steps are gathering inputs, analyzing these inputs, and their subsequent impact on the design, preparation and orientation of a training event.
 date: 2016-03
-permalink: /before-an-event/planning-your-training-event/2-context-risk-analysis/
+permalink: /before-an-event/planning-your-training-event/5-orientation-preparation/
 parent: Planning Your Training Event
 breadcrumb: Step 5 - Orientation and Preparation
 ---
