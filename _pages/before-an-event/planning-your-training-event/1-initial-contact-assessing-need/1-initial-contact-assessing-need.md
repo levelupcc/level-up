@@ -1,9 +1,3 @@
-layout: Trainer
-title: Planning for Trainings | Step 1: Initial Contact and Assessing Need
-updated: 2016-03-00
-author: Daniel O'Clunaigh, Carol, Ali Ravi, Lindsay Beck, Chris Doten, Nick Sera-Leyva
-published: false
-
 ---
 layout: content-page
 title: Step 1 - Initial Contact and Assessing Need
