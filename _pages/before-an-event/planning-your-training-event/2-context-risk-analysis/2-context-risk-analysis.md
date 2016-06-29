@@ -8,6 +8,7 @@ permalink: /before-an-event/planning-your-training-event/2-context-risk-analysis
 parent: Planning Your Training Event
 breadcrumb: Step 2 - Context and Risk Analysis
 ---
+
 ### Cultural, Social, and Political Context ###
 Before planning the training event, and especially if it is in a region or country other than your own, it's important to carry out some research into the cultural, social and political realities of the operating environment. These findings will enhance and clarify your own understanding of the operational realities involved, be highly relevant to the design and execution of the training, and inform your own operational security protocols and approaches in preparation.
 
