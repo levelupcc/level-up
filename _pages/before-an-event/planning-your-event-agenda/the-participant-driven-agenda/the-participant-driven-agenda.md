@@ -1,13 +1,19 @@
 ---
 layout: content-page
-title: "The Participant-Driven Agenda"
+title: The Participant-Driven Agenda
 author: Daniel O'Clunaigh, Carol, Ali Ravi, Lindsay Beck, Chris Doten, Nick Sera-Leyva
 date: 2016-03
 permalink: /before-an-event/planning-your-event-agenda/the-participant-driven-agenda/
 parent: Planning Your Event Agenda
-breadcrumb: "The Participant-Driven Agenda"
+breadcrumb: The Participant-Driven Agenda
 hide: true
 ---
+#### *Do you have feedback on this content, or see something that needs updating?*
+##### Comment directly on any of this page's content, using the [Hypothes.is](https://levelupcc.github.io/level-up/community/contribute/#how-can-i-provide-feedback) toolbar found in the upper right-hand corner of this page.
+
+#### *Do you have training content you'd like to share with other trainers?*
+##### Email us at [levelup@riseup.net](mailto: levelup@riseup.net) ([GPG public key here](http://pgp.mit.edu/pks/lookup?op=get&search=0x207BFB9591A638BE)) or read our guide on [Contributing to LevelUp](https://levelupcc.github.io/level-up/community/contribute/#how-can-i-contribute-content). You can also email us with feedback.
+
 While there are certain minimums and limitations that should be observed in order for an event to be a successful one, in general **participants should be given as much control of the agenda as possible.**
 
 This is consistent with the notion of empowering human rights defenders and marginalized communities with 'horizontal' (rather than vertical) learning spaces, and with the operating principle behind LevelUp's ADIDS approach of supporting adults with learning spaces that allow for both hands-on experience and direct involvement in both the planning and evaluation of their learning.
