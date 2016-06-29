@@ -8,12 +8,10 @@ parent: Planning Your Event Agenda
 breadcrumb: The Agenda Checklist
 hide: true
 ---
-##### *Do you have feedback on this content, or see something that needs updating?*
-
+#### *Do you have feedback on this content, or see something that needs updating?*
 Comment directly on any of this page's content, using the [**Hypothes.is**](https://levelupcc.github.io/level-up/community/contribute/#how-can-i-provide-feedback) toolbar found in the upper right-hand corner of this page.
 
-##### *Do you have training content you'd like to share with other trainers?*
-
+#### *Do you have training content you'd like to share with other trainers?*
 Email us at [**levelup@riseup.net**](mailto: levelup@riseup.net) ([**GPG public key here**](http://pgp.mit.edu/pks/lookup?op=get&search=0x207BFB9591A638BE)) or read our guide on [**Contributing to LevelUp**](https://levelupcc.github.io/level-up/community/contribute/#how-can-i-contribute-content). You can also email us with feedback.
 <br>
 
