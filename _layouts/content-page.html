@@ -5,9 +5,8 @@ layout: default
   {% include breadcrumb.html %}
   <h1>{{ page.title }}</h1>
   {% unless page.author == nil or page.date == nil %}
-  <p><span class="page-author"> {{ page.author }} </span>
-    last updated:  {{ page.date | date: "%m/%d/%Y" }}
-  </p>
+  <p>Credits: <span class="page-author"> {{ page.author }} </span></p>
+  <p>Last Updated:  {{ page.date | date: "%m/%d/%Y" }} </p>
   {% endunless %}
 </section>
 
@@ -25,13 +24,16 @@ layout: default
   <section class="section-block">
     <h3>Summary</h3>
     <p class="summary">{{ page.summary }}</p>
-    <h3>Do you have feedback on this content, or see something that needs updating?</h3>
-    <p>Comment directly on any of this page's content, using the <a href="/level-up/community/contribute/#how-can-i-provide-feedback">Hypothes.is</a> toolbar found in the upper right-hand corner of this page.</p>
-    <h3>Do you have training content you'd like to share with other trainers?</h3>
-    <p>Email us at <a href="mailto:levelup@riseup.net">levelup@riseup.net</a> (<a href="http://pgp.mit.edu/pks/lookup?op=get&search=0x207BFB9591A638BE">GPG public key here</a>) or read our guide on <a href="/level-up/community/contribute/#how-can-i-contribute-content">Contributing to LevelUp</a>. You can also email us with feedback.</p> 
   </section>
   {% endunless %}
 {% endif %}
+
+<section class="section-block">
+    <h4>Do you have feedback on this content, or see something that needs updating?</h3>
+    <p>Comment directly on any of this page's content, using the <a href="/level-up/community/contribute/#how-can-i-provide-feedback">Hypothes.is</a> toolbar found in the upper right-hand corner of this page.</p>
+    <h4>Do you have training content you'd like to share with other trainers?</h3>
+    <p>Email us at <a href="mailto:levelup@riseup.net">levelup@riseup.net</a> (<a href="http://pgp.mit.edu/pks/lookup?op=get&search=0x207BFB9591A638BE">GPG public key here</a>) or read our guide on <a href="/level-up/community/contribute/#how-can-i-contribute-content">Contributing to LevelUp</a>. You can also email us with feedback.</p> 
+</section>
 
 <section class="section-block">
   {{ content }}
