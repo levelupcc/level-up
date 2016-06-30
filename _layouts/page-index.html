@@ -1,11 +1,11 @@
 ---
 layout: content-page
 ---
-<h2>Trainers' Curriculum Modules </h2>
+<h2>Resources</h2>
   {% for node in site.pages %}
     {% if page.title == node.parent %}
       <h3>{{ node.title }}</h3>
       <p>{{ node.summary }}</p>
-      <a class="continue-to-resource-link" href="{{ site.baseurl }}{{ node.url }}">Continue to Full Module >></a>
+      <a class="continue-to-resource-link" href="{{ site.baseurl }}{{ node.url }}">Continue to Full Resource >></a>
     {% endif %}
   {% endfor %}
