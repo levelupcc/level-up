@@ -14,7 +14,7 @@ breadcrumb: Raising and Lowering the Pressure in a Group
 
 ## Raising and Lowering the Pressure in a Group
 Not only can security trainers read the “anxiety pressure” of an individual or group, but skilled facilitators also learn how to raise or lower the pressure so as to achieve the greatest impact. The aim here is to move each participant and the group as a whole into the Green Zone—the zone in which people are motivated and capable of learning. Some activities serve to raise the pressure and can be used to motivate those who are not sufficiently engaged. Other activities can be used to lower the pressure. These are very useful when participants are anxious to the point that their automatic survival responses are interfering with their ability to integrate new information and skills.
-<br>
+<br><br>
 
 ## Raising the Pressure
 It is often assumed that providing people with information about danger will motivate them to make themselves safer. While this is true in some cases, it is clearly not true in others. A good example can be seen when looking at the billions of dollars poured into HIV education and the limited impact on sexual behavior. It is likely that digital threats have much in common with HIV. They are invisible and their consequences are often delayed. Digital security trainers must do more than merely provide information. It is relatively easy to help people understand the threat, but how do we make them feel the danger? Without the emotional response, it is unlikely that people will be motivated to implement acquired digital security practices.
@@ -57,6 +57,7 @@ Many other human emotions can be used to motivate people to protect themselves. 
 Sonja, a digital security trainer, is working with a group of social researchers and would like to encourage them to secure their electronic data more effectively. She begins by telling them that if their data is not adequately protected, it might fall into the wrong hands. The researchers all nod their heads, but Sonja knows that they have not “felt it.” She then tells them a story of a social researcher in a neighboring country that had been conducting research in a related field. She explains a little about the research and then begins to share how the researcher’s unprotected laptop computer was stolen, along with all the data.
 
 **She then asks her class to think about what they would do if this happened to them**. They decide that they would need to meet with each of the research participants individually to explain that confidentiality had been breached. Sonja reflected with the group on how terrible it would be to have to repeat that conversation over and over again. She also gets them to think about how much time and effort would be wasted on this whole enterprise. 
+<br>
 
 ##### Only when she sees that her class is identifying closely with the unfortunate subject of her story, does she begin to ask questions about how this situation might have been prevented.
 <br>
@@ -75,7 +76,8 @@ It is for this reason that trainers need to continually assess the anxiety press
 When trainers feel that participants have become too anxious, they should work on relieving some of that pressure. The obvious approaches of offering reassurance, or telling people to relax, will often have the paradoxical effect of raising their anxiety. Instead, trainers should focus on making people feel safer.
  
 ### A sense of safety in groups is achieved by paying attention to the following four principles:
- 
+<br>
+
 ##### Privacy
 This refers to respecting each person’s right to share as much or as little of their personal experience as they choose. It is usually very helpful for workshop participants to learn from each other’s experiences. However, trainers should be careful not to establish a culture within the group that pressures people to reveal more than they are comfortable sharing. When people experience this kind of pressure, they start to feel unsafe and their ability to learn is compromised. Trainers should inform participants that they can share as much or as little as they like, and should protect members of the group who wish to preserve their privacy.
  
@@ -87,7 +89,7 @@ This refers to people’s ability to make decisions for themselves. It is very i
  
 ##### Dignity
 This refers to the respect due to every human being. If people feel that their dignity is under threat, their anxiety will increase and they will disengage from the training. While most trainers are offended by the suggestion that they might not be respectful of their participants, it is surprising how often workshop participants do in fact feel disrespected. A sarcastic remark to a late-comer, an off-color joke at the expense of a minority group, or a frustrated sigh in response to a question that has just been answered, are all examples of disrespectful facilitation. Also, exercises that cause people to lose their composure in public can also undermine participants’ dignity.
-<br>
+<br><br>
 
 ##### When trainers facilitate their groups in a thoughtful manner that explicitly upholds these four principles, the sense of safety in the group is increased and participants are able to relax and better engage with the material.
 
@@ -104,11 +106,12 @@ When many people in the group are in the Orange Zone, trainers should be careful
 - ...help people confront fears and learn from past experiences in an effective manner?
 - ...allow people to talk about sensitive issues, in a way that doesn't cause distress or fear? 
 
-These are all important questions for security trainers. Most importantly, the distress caused by re-experiencing past traumatic experiences can in fact be harmful. (This will be discussed more in relation to traumatic stress further on.) However, trainers should keep in mind one of the most fundamental ethical tenets:
- 
-##### *Primum non nocere! (Above all else, Do No Harm!)*
+These are all important questions for security trainers. Most importantly, the distress caused by re-experiencing past traumatic experiences can in fact be harmful. (This will be discussed more in relation to traumatic stress further on.) 
+<br><br>
 
-Below is a list of “Dos” and “Don’ts” when facilitating conversations about disturbing material, which will reduce the possibility of causing harm:
+## Primum non nocere! (Above all else, Do No Harm!)
+
+Trainers should keep in mind one of the most fundamental ethical tenets, seen in the title above - Do No Harm! Below is a list of “Dos” and “Don’ts” when facilitating conversations about disturbing material, which will reduce the possibility of causing harm:
 
 ### DO...
 - Create space for people to talk about what is important to them.
