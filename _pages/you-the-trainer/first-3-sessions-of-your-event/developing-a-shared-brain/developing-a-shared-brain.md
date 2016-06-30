@@ -8,6 +8,8 @@ date: 2016-03
 parent: The First 3 Sessions of Your Event
 breadcrumb: Developing a Shared Brain
 ---
+##### Please note that this content is licensed to (and should be attributed to) Chris Michael for [Tactical Tech](https://www.tacticaltech.org) (not LevelUp), under the same Creative Commons license-type shown in the footer.
+
 #### Let’s face it: We’re all busy. 
 
 We’re often over committed and juggling multiple responsibilities in our work and personal lives. As a facilitator, one of the most fundamental aspects of leading a great event is assessing and managing participants’ expectations as early as possible. By doing this, you will build an agenda and develop exercises that help ensure their time and the group’s time is well spent.
@@ -92,4 +94,6 @@ Introduce the agenda alongside this process, noting and inviting commentary on w
 <br><br>
 ##### *Trainer's Note*
 Don’t rush this exercise! By taking time developing a Shared Brain at the beginning of your gathering, you will build clarity on the purpose of the gathering and a shared understanding about participants’ motivations. You will also be able to clearly cover the goals and objectives of the gathering while reviewing the agenda in a clear, engaging way. For a digital safety trainer, this is crucial information about your participants that you will need in order to adjust the agenda as required for the rest of the training.
+<br><br>
+##### Please note that this content is licensed to (and should be attributed to) Chris Michael for [Tactical Tech](https://www.tacticaltech.org) (not LevelUp), under the same Creative Commons license-type shown in the footer.
 <br><br>
