@@ -9,7 +9,6 @@ parent: "You, The Trainer"
 breadcrumb: First 3 Sessions of Your Event
 ---
 ##### Please note that this content is licensed to (and should be attributed to) Chris Michael for [Tactical Tech](https://www.tacticaltech.org) (not LevelUp), under the same Creative Commons license-type shown in the footer.
-<br><br>
 
 #### Position your events to be as open and participatory as possible from the start.
 
