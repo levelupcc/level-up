@@ -121,4 +121,3 @@ Trainers are also often asked to lead a number of other types of sessions where 
 
 Our [You, the Trainer](/levelup/you-the-trainer/)section features more background on some of the **different kinds of events** trainers may be asked to lead, and how to begin preparing accordingly for those.
 <br><br>
-
