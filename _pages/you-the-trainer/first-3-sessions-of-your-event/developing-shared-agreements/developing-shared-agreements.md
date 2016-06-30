@@ -3,7 +3,7 @@ layout: content-page
 title: Developing Shared Agreements
 permalink: /you-the-trainer/first-3-sessions-of-your-event/developing-shared-agreements/
 author: Chris Michael
-summary: "When working with adults, the facilitator has the great importance of recognizing everyone’s experience, expertise and autonomy. To help establish working agreements as to how the group should best collaborate and work together, you can crowd-source agreements, rather than prescribe them as ground rules. Though these are often referred to as “ground rules,” we place importance on the term “shared agreements.”
+summary: "When working with adults, the facilitator has the great importance of recognizing everyone’s experience, expertise and autonomy. To help establish working agreements as to how the group should best collaborate and work together, you can crowd-source agreements, rather than prescribe them as ground rules. Though these are often referred to as “ground rules,” we place importance on the term “shared agreements.”"
 date: 2016-03
 parent: The First 3 Sessions of Your Event
 breadcrumb: Developing Shared Agreements
