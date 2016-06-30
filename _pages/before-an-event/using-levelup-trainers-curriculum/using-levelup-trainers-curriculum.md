@@ -52,9 +52,9 @@ In cases like the above, choose which Activity/Discussion, Input, Deepening, and
 ## Customizing your Agenda
 The LevelUp Trainers' Curriculum is designed to, as it grows, allow trainers to select from increasingly more options for each session Element. Some Elements fit together better than others, or fulfill distinct functions based on the session context, but we've left things flexible to accommodate the inherent need for customization when planning a training.
 
-- Of course, you can always create your own Activity/Discussion, Input, Deepening and Synthesis elements, as needed. If you create anything you think would be useful for your fellow trainers, [please consider contributing it](/level-up/community/contribute/) to be shared back out with them!
+Of course, you can always create your own Activity/Discussion, Input, Deepening and Synthesis elements, as needed. If you create anything you think would be useful for your fellow trainers, [please consider contributing it](/level-up/community/contribute/) to be shared back out with them!
 
-- In many cases, events will not solely comprise session Topics - incorporate components like [Icebreakers, Energizers, and other Interactive Exercises](/level-up/you-the-trainer/ice-breakers-and-energizers/) into the training agenda you've created for more energy and interaction. Likewise, check out [The First 3 Sessions of Your Event](/level-up/you-the-trainer/first-3-sessions-of-your-event/) for effective ways of *starting* your workshops and trainings.
+In many cases, events will not solely comprise session Topics - incorporate components like [Icebreakers, Energizers, and other Interactive Exercises](/level-up/you-the-trainer/ice-breakers-and-energizers/) into the training agenda you've created for more energy and interaction. Likewise, check out [The First 3 Sessions of Your Event](/level-up/you-the-trainer/first-3-sessions-of-your-event/) for effective ways of *starting* your workshops and trainings.
 <br><br>
 
 ## Material and Resource Needs
