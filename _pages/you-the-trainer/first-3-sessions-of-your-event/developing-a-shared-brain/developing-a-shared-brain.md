@@ -13,7 +13,7 @@ breadcrumb: Developing a Shared Brain
 We’re often over committed and juggling multiple responsibilities in our work and personal lives. As a facilitator, one of the most fundamental aspects of leading a great event is assessing and managing participants’ expectations as early as possible. By doing this, you will build an agenda and develop exercises that help ensure their time and the group’s time is well spent.
 <br><br>
 
-## In an ideal world...
+## In an Ideal World...
 In an ideal world, you and the event’s organizing team would have conducted a series of pre-event interviews with all stakeholders involved weeks in advance of the event. Conversations and questionnaires conducted with other organizers, participants, funders and allies would yield critical insight and inform the content you would cover, the agenda you would design and the flow of experiences you would create throughout the event. Weeks before the event, you would have started an event email chain in which all participants introduced themselves and their affiliations, shared their hopes for the event and one or two topics or skills they were eager to cover.
 
 If you were able to gather this information in advance, you would share highlights and major themes in communication with participants before the event and in the first session of your gathering. Sharing back this information helps to ensure everyone in attendance begins to develop a “Shared Brain” – a shared understanding as to the why we are gathering, why now, why they were chosen as participants, what we will collectively cover, what we aim to accomplish while we are together and, where applicable, action plans moving forward.
@@ -23,7 +23,7 @@ If you were able to gather this information in advance, you would share highligh
 This Shared Brain is useful to develop in advance; however, that is not always possible. Consequently, here are a few tips to help you develop a Shared Brain in real-time on the first morning of your event. Whether a short, multi-hour or long, multi-day gathering, this process is highly recommended as one of your first sessions. Once you establish the Shared Brain through conversations and documentation on flipchart paper or butcher block, you can refer back to it throughout your event and note your progress.
 
 #### This process will help ensure we collectively learn and clarify how we will make the most of our time together, allow us to:
-<br><br>
+<br>
 
 ##### Learn
 ...participants’ motivations for their attendance.
