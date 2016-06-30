@@ -81,7 +81,7 @@ The more days there are for the workshop, the more prep days you'll need. Each f
 
 ...and again, as with other parameters - **the more days for the training, the bigger the training team should be.** In addition to ensuring the best training possible for participants, this also provides humane working conditions for trainers. Having a single trainer covering a 4-day workshop will drain their physical and mental energy very quickly. When a trainer is exhausted, the less they are able to maintain the patience and energy needed to support participant learning and maximize their engagement.
 
-#### Language of Training:
+#### Language of Training
 Ideally, as a trainer you will speak the same language as the training participants; if not, suggest that organizers find a qualified trainer who does. But if the training *must* be translated, it's important to establish well ahead of time what kind of translation is available. Translation will cut the amount of time you have for the training in half, as everything that is spoken must then be spoken once more for translation purposes. It is also advisable to find local qualified co-trainers who can also help you for hands-on sessions.
 <br><br>
 
