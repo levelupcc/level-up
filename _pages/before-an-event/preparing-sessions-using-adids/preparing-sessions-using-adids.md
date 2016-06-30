@@ -1,11 +1,11 @@
 ---
 layout: content-page
-title: How-To: Preparing Sessions Using ADIDS
+title: "How-To: Preparing Sessions Using ADIDS"
 author: CC
 summary: How can trainers build LevelUp training sessions into their agendas, or even begin to create new session modules using ADIDS that are based on their own experience? This resource explains how ADIDS lends itself to a more flexible agenda design experience.
 date: 2016-03
 permalink: /before-an-event/preparing-sessions-using-adids/
-breadcrumb: How-To: Preparing Sessions Using ADIDS
+breadcrumb: "How-To: Preparing Sessions Using ADIDS"
 parent: Before an Event
 weight: 3.4
 ---
@@ -13,7 +13,7 @@ weight: 3.4
 
 Core to LevelUp and its *created by trainers, for trainers* curriculum is fostering an environment for our events and workshops that is **open and participatory** for our audiences. For those who support others with training on digital security, the audiences and learners we engage with the most consistently are adults.
 
-LevelUp uses the **Activity-Discussion-Inputs-Deepening-Synthesis**, or **ADIDS** approach, to adult learning and has organized its curriculum for training sessions according to this design. ADIDS has been used effectively in advocacy and skills training on human rights issues, and we have found it to be useful in helping participants with minimal technical knowledge better understand the complexities of digital security and online safety. For trainers, it can also provide a useful framework when creating lesson plans.
+LevelUp uses the **Activity-Discussion-Inputs-Deepening-Synthesis**, or [ADIDS approach](/level-up/before-an-event/levelups-approach-to-adult-learning/), to adult learning and has organized its curriculum for training sessions according to this design. ADIDS has been used effectively in advocacy and skills training on human rights issues, and we have found it to be useful in helping participants with minimal technical knowledge better understand the complexities of digital security and online safety. For trainers, it can also provide a useful framework when creating lesson plans.
 <br><br>
 
 ## A Tiered Approach
