@@ -31,7 +31,7 @@ The findings that emerge from an initial risk analysis will surface a basic idea
 ### Step 4 - Communications and Content Planning
 Given what you now know about the operating environment, what will be the most appropriate means of communicating with participants before and after the training?
 
-### [Step 5 - Orientation and Preparation](/before-an-event/planning-your-training-event/5-orientation-preparation/)
+### [Step 5 - Orientation and Preparation](/level-up/before-an-event/planning-your-training-event/5-orientation-preparation/)
 Often, an event such as a training is geared towards participants within a specific context. Orientation and preparation steps for trainers are essential, in order to be ready for last-minute changes to your agenda, or even to handle an emergency situation.
 
 
