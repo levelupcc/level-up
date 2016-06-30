@@ -30,7 +30,7 @@ To help us visualize anxiety in the training room, we should imagine a pressure 
 
 ##### The Red Zone
 ...on the far right represents those participants who are overwhelmed with anxiety, or seriously traumatized. These people should most likely not be participants in the security training.
-<br>
+<br><br>
 
 When “reading” the pressure gauge to assess the anxiety of participants, it is important to remember that anxiety is dynamic. Different people in the training group will enter the training at different levels. It is useful to get a reading of the group as a whole, as well as for each individual. 
 
@@ -90,7 +90,7 @@ It is useful to pay conscious attention to what each person says, how they hold 
 - Slow to return from breaks
 - Leaves the room often for different reasons
 - Possibly engaged in other activities during the training
-<br>
+<br><br>
 
 ### Green Zone
 *Level of anxiety is appropriate for effective security training.*
@@ -119,7 +119,7 @@ It is useful to pay conscious attention to what each person says, how they hold 
 - Clarifies questions and instructions
 - Asks questions
 - Contributes experiences and thoughts
-<br>
+<br><br>
 
 ### Orange Zone
 *More anxious; may easily be triggered to a level where they are unable to learn.*
@@ -152,7 +152,7 @@ It is useful to pay conscious attention to what each person says, how they hold 
 - Contributes experiences and ideas in a guarded fashion.
 - Leaves the room often for various reasons.
 - More active in small groups that in the larger group.
-<br>
+<br><br>
 
 ### Red Zone
 *Participants who are overwhelmed with anxiety, or seriously traumatized.*
@@ -184,18 +184,19 @@ It is useful to pay conscious attention to what each person says, how they hold 
 - Refusal to particate in some activities and general low participation.
 - Inappropriate emotional outpouring in response to some questions.
 - May remove themselves from the training entirely.
-<br>
+<br><br>
 
 ## Mixed Signals
 It will quickly become apparent that some participants do not fit easily into any of the zones described above. These people are sending mixed signals. Human beings communicate with mixed signals for a variety of reasons. Sometimes we try to hide our true feelings in order to maintain our privacy, and other times we do this to protect other peoples’ feelings. Consider the following examples:
 
 ##### John’s non-verbal communications suggest that he is in the **Orange Zone**.
-He sits quietly on his own, seems unable to relax, and constantly rubs the side of his forehead. And yet, when you ask him how he feels today, he replies in a bright voice that he is excited to be attending the workshop and looking forward to what you have to teach—classic Green Zone behavior. We can speculate that John is actually quite anxious about attending the workshop, but is trying to present himself as a good workshop participant. If this is true, for John to get the full benefit of the workshop you must help John feel safer and more confident*.
+He sits quietly on his own, seems unable to relax, and constantly rubs the side of his forehead. And yet, when you ask him how he feels today, he replies in a bright voice that he is excited to be attending the workshop and looking forward to what you have to teach—classic Green Zone behavior. We can speculate that John is actually quite anxious about attending the workshop, but is trying to present himself as a good workshop participant. If this is true, for John to get the full benefit of the workshop you must help John feel safer and more confident.
 
 ##### Mary also speaks like someone in the **Green Zone**. 
-She spontaneously tells you that she has been looking forward to this training, and has some ideas that you might find interesting. And yet you notice that during the first session she is responding to texts on her mobile phone, and her participation is minimal. This is the behavior you would expect from someone in the Blue Zone. One possibility is that Mary does not truly want to be at the workshop and that she is just trying to be nice. For her to get the full benefit of the workshop, you will need to find a way to help her appreciate the threats associated with her work and the value of what you have to teach.*
+She spontaneously tells you that she has been looking forward to this training, and has some ideas that you might find interesting. And yet you notice that during the first session she is responding to texts on her mobile phone, and her participation is minimal. This is the behavior you would expect from someone in the Blue Zone. One possibility is that Mary does not truly want to be at the workshop and that she is just trying to be nice. For her to get the full benefit of the workshop, you will need to find a way to help her appreciate the threats associated with her work and the value of what you have to teach.
+<br><br>
 
 If you are finding it difficult to analyze the mixed communication of a particular person, trust your gut! As a social species, human beings have evolved a wonderfully sophisticated ability to read the emotions of the people around us. As a healthy, sensitive human being, you might get the feeling that a person is angry, sad, or anxious. You are probably correct, even if you are unable to explain how it is that you know this.
 
-##### Nonverbal communication often reveals the actual anxiety that a person is experiencing, while verbal communication reveals how he or she wishes to be seen. Both are useful information to the perceptive trainer.***
+##### Nonverbal communication often reveals the actual anxiety that a person is experiencing, while verbal communication reveals how he or she wishes to be seen. Both are useful information to the perceptive trainer.
 
