@@ -15,7 +15,7 @@ The impact of any training program depends upon the participants’ ability to i
  
 Security training emotionally challenges both trainers and trainees in many interesting ways. The study of fear is a deep and thought-provoking area, and as trainers, we learn about ourselves and about those we teach. 
  
-This module covers five broad areas seen in the menu below. We encourage you to initially read these in order, as they build upon each other, and later refer to the most useful sections as needed:
+##### This module covers five broad areas seen in the menu below. We encourage you to initially read these in order, as they build upon each other, and later refer to the most useful sections as needed:
 <br>
 
 ### 1. Getting to Grips with Fear 
@@ -32,8 +32,8 @@ A natural part of the way human beings respond to challenge and danger.
 
 ### 5. Building your Own Emotional Resilience as a Security Trainer
 Avoid the pitfalls of burnout and vicarious traumatization.
+<br><br>
 
 ## About the Author
-
 **Craig Higson-Smith** is a researcher and trainer with the Center for Victims of Torture. Originally an anti-apartheid activist, Higson-Smith has a MA in Research Psychology and has spent the last two decades working on issues relating to violence and traumatic stress in the developing world. He is the author of multiple scientific papers and editor of several books in the field. During his career he has worked in many countries including Bosnia and Herzegovina, Cambodia, Cameroon, Ethiopia, Haiti, Kenya, Liberia, Sierra Leone, South Africa, Uganda, and Zimbabwe. 
 
