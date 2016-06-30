@@ -22,7 +22,8 @@ If you were able to gather this information in advance, you would share highligh
 ## Objectives of Establishing a Shared Brain
 This Shared Brain is useful to develop in advance; however, that is not always possible. Consequently, here are a few tips to help you develop a Shared Brain in real-time on the first morning of your event. Whether a short, multi-hour or long, multi-day gathering, this process is highly recommended as one of your first sessions. Once you establish the Shared Brain through conversations and documentation on flipchart paper or butcher block, you can refer back to it throughout your event and note your progress.
 
-#### This process will help ensure we collectively learn and clarify how we will make the most of our time together.
+#### This process will help ensure we collectively learn and clarify how we will make the most of our time together, allow us to:
+<br><br>
 
 ##### Learn
 ...participants’ motivations for their attendance.
@@ -56,10 +57,10 @@ Post-It Notes (two colors) and thick markers.
 
 ### Step-by-Step Process
 
-##### Introduction
+#### Introduction
 Introduce yourself and invite one of the organizers to give a very short welcome to the gathering, outlining a few of the key goals that the organizers envision, and sharing why participants were invited. **This very brief introduction should take no more than five minutes.**
 
-##### Considering Motivations
+#### Considering Motivations
 Distribute post-it notes and markers (everyone should take 1 of one color, and 2 of another color – 1 pink and 2 blue, for example). Introduce the exercise, noting that it is designed to help the group develop a Shared Brain – an understanding as to our motivations as individuals that will be reviewed as a group. **Encourage participants to be open and honest.**
 
 Write the question prompt out visibly, and ensure everyone can see it - they should write their answer(s) out on their post-it notes in one sentence or less. **Here are a few example statements participants could complete:**
@@ -71,7 +72,7 @@ Have each person work alone for 5 minutes to finish their notes. The lone colore
 
 **Pause:** Ask someone to repeat the instructions for the exercise before participants begin. Invite any clarifying questions.
 
-##### Sharing Motivations
+#### Sharing Motivations
 With their notes, each participant should introduce themselves to the group with their name, brief affiliation and read their top three motivations, placing each post-it note on the wall once they’ve read it. To help manage time, stress that each person should **just read and not elaborate or explain their reasoning.**
 
 **Pause:** Ask someone to repeat the instructions for the exercise before participants begin. Invite any clarifying questions.
@@ -80,7 +81,7 @@ As each participant finishes, have them move towards a “gallery wall” where 
 
 Invite the group to cluster post-its into themes, such as all notes that deal with “Learning to use encryption” or "Better protecting my online identity", etc. Once all of the post-its are clustered, and you’ve had a group discussion on any themes that have emerged from participants' clustering, invite everyone to sit down.
 
-##### Introducing the Agenda
+#### Introducing the Agenda
 Introduce the agenda alongside this process, noting and inviting commentary on where the agenda is in-line with participants’ needs or motivations.** Ask participants if there are any gaps, especially if there are common themes of expectations that are not currently in the agenda. Address these gaps with the reasoning for the agenda, or plans for adapting the agenda to address the lack of time allocated for themes missing.
 
 *To wrap-up this exercise, the facilitator should note what motivations or needs will not be covered.* This is essential in order to manage expectations. Communicate if needs or desires cannot be met due to the goal of the gathering, time constraints or lack of expertise in the room.
