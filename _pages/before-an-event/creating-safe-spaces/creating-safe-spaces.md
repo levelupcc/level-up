@@ -8,7 +8,10 @@ permalink: /before-an-event/creating-safe-spaces/
 parent: Before an Event
 breadcrumb: Creating Safe Spaces
 ---
-#####"Caring for myself is not self-indulgence, it is self-preservation and that is an act of political warfare" - Audre Lord
+##### Please note that this content is licensed to (and should be attributed to) Sandra Ljubinkovic for [Tactical Tech](https://www.tacticaltech.org) (not LevelUp), under the same Creative Commons license-type shown in the footer.
+<br><br>
+
+##### "Caring for myself is not self-indulgence, it is self-preservation and that is an act of political warfare" - Audre Lord
 
 ## Why Is a "Safe Space" Crucial for Digital Security Trainings?
 
@@ -20,16 +23,19 @@ Training is an emotional experience, not simply a rational display by facilitato
 
 ## Here's How “Safe Space” Resonates with Participants
 
-##### "From my point of view, safe space for me is a place when we are talking and sharing with others our personal stories of “risk,” stress, and trauma, the difficulties that we are facing in our activism.And for sharing these most sensitive topics for me, I personally need people in the group, whom I really trust and that are not a threat for me. Moreover, one of the important parts of the workshop is our own well-being, and I can feel myself [as] good, when I am who I am and I don't pretend to be someone else in [a] non-judgmental and understanding atmosphere."
+*"From my point of view, safe space for me is a place when we are talking and sharing with others our personal stories of “risk,” stress, and trauma, the difficulties that we are facing in our activism.And for sharing these most sensitive topics for me, I personally need people in the group, whom I really trust and that are not a threat for me. Moreover, one of the important parts of the workshop is our own well-being, and I can feel myself [as] good, when I am who I am and I don't pretend to be someone else in [a] non-judgmental and understanding atmosphere."*
 
-##### "Safe space is crucial because it provides the atmosphere needed to test our boundaries and to get to know our true selves. Without a safe space, I don’t think that moving from our comfort zones will be possible. Vulnerability is something that cannot be easily afforded in everyday life, and yet we cannot grow without experiencing it."
-<br>
+*"Safe space is crucial because it provides the atmosphere needed to test our boundaries and to get to know our true selves. Without a safe space, I don’t think that moving from our comfort zones will be possible. Vulnerability is something that cannot be easily afforded in everyday life, and yet we cannot grow without experiencing it."*
+<br><br>
 
 **The culture of activism—in most parts of the world—is the culture of "sacrifice.** We are sacrificing our time, space, colleagues, organizations, and emotions by being on the "front lines" and fighting for change "against" others. Activists are misattuned to being really present in their own lives, interpersonal relationships, families, and organizations by focusing on solving all the outer problems of the world.
 
-An integrated mind-body approach is necessary for connecting all aspects of our lives: physical, mental, emotional and spiritual. Many activists are overwhelmed by extended working hours, conflicts, loss, and saving the world. They are exposed to violence, harassment, and countless stressful and traumatic events. These events are about loss of connection—to our selves, our bodies, our families, and the world around us. This loss of connection is often hard to recognize because it doesn't happen all at once. It can happen slowly, over time, and we adapt to subtle changes—sometimes without even noticing them.
+##### An integrated mind-body approach is necessary for connecting all aspects of our lives: physical, mental, emotional and spiritual. 
+
+Many activists are overwhelmed by extended working hours, conflicts, loss, and saving the world. They are exposed to violence, harassment, and countless stressful and traumatic events. These events are about loss of connection—to our selves, our bodies, our families, and the world around us. This loss of connection is often hard to recognize because it doesn't happen all at once. It can happen slowly, over time, and we adapt to subtle changes—sometimes without even noticing them.
 
 From working the last 10 years with activists from around the world on self care and well-being, activists themselves have been slowly defining their own needs, and what do they do in order to stay safe and well.
+<br><br>
 
 ### The [Integrated Security Manual](http://www.integratedsecuritymanual.org/) identifies four core elements for workshops:
 
@@ -39,14 +45,15 @@ Truly safe spaces—physically, emotionally, and spiritually safe—are where th
 ##### Building Relationships
 We have provided workshops and trainings for activists to work on self-care, well-being, and their connection to activism. Participants have highlighted that in the safe spaces we’ve created at these events, they managed to take their masks off and connect on a deeper level with themselves and their activist community. It brings them to authentic solidarity, and support without judgment, agendas, or strings attached.
 
-##### Participants' Belief in Their Own Value
-It is common for human rights defenders to prioritize their work over themselves, including their well-being and even their sense of self-worth. This deprioritization of self can (and often does) lead participants taking greater risks, becoming burnt out, and other negative consequences. Therefore, there is a need to help participants nurture (or re-establish) a belief in their own value, their self-worth, and a commitment to caring for and protecting themselves as part of their work instead of at the cost of their work. This is one of the greatest challenges to establishing a culture of safety and self-care—instilling and sustaining the idea that it is worth taking the time and effort for participants to care for themselves. Participants should recognize that they have the right to live and work securely.
-
 ##### Time
 Participants need time to slow down, stop, reflect, rest, and assess their personal lives, work, safety, and well-being.
+
+##### Participants' Belief in Their Own Value
+It is common for human rights defenders to prioritize their work over themselves, including their well-being and even their sense of self-worth. This deprioritization of self can (and often does) lead participants taking greater risks, becoming burnt out, and other negative consequences. Therefore, there is a need to help participants nurture (or re-establish) a belief in their own value, their self-worth, and a commitment to caring for and protecting themselves as part of their work instead of at the cost of their work. This is one of the greatest challenges to establishing a culture of safety and self-care—instilling and sustaining the idea that it is worth taking the time and effort for participants to care for themselves. Participants should recognize that they have the right to live and work securely.
 <br><br>
 
-***Safe space is fundamental to an integrated approach to security.*** Creating a safe space is crucial for creating a sense of physical safety as well as a sense of confidence in a group. It is important for participants who usually have no time to relax to feel comfortable and enjoy simple things­. And if they live in a country where their lives are in danger it is even more crucial to make sure that they feel physically safe.
+##### Safe space is fundamental to an integrated approach to security.
+Creating a safe space is crucial for creating a sense of physical safety as well as a sense of confidence in a group. It is important for participants who usually have no time to relax to feel comfortable and enjoy simple things­. And if they live in a country where their lives are in danger it is even more crucial to make sure that they feel physically safe.
 
 Safe space in a group means a space to feel comfortable and speak openly and freely about feelings, challenges, and emotions as they may arise. In the workshops where issues personally affect people (whether those are physical, emotional, or spiritual threats and challenges), participants may have strong emotions as they do their own inner work facing their own oppression, privilege, anger, hurt, pain and suffering.
 
@@ -86,15 +93,19 @@ The venue must be located in a geographical area that is appropriate for all par
 
 ##### Do the workshop organisers/venue owners have access to good health services in case of a medical emergency?
 Do they have the numbers of the ambulance service, local doctors, a pharmacy and a good health facility to hand? Is there someone at the venue who can assist with an emergency response? Some participants may have medical conditions, an unanticipated illness or in some cases, an emergency that could require an immediate intervention.
+<br><br>
 
 ### 2. Combined Workshop Space and Accommodation
 For safety, comfort, and convenience, it is best that participants are accommodated in the same place as the workshop, ideally in a natural setting. Past experience demonstrates consistently that a venue located outside of an urban area, with access to nature (forest, mountains or ocean) is ideal for an integrated security workshop. Rural and more secluded areas can also offer a safer atmosphere (particularly for women, allowing them to walk around the venue without fear).
+<br><br>
 
 ### 3. Seating Arrangements
 Always ask in advance if workshop participants have particular seating preferences. Keep in mind that some people may be uncomfortable in admitting physical challenges that could affect their comfort, such as hearing challenges, back problems, difficulty in sitting for long periods.
+<br><br>
 
 ### 4. Comfortable Atmosphere
 Pay attention to the establishment of a comfortable atmosphere and feel free to be creative. Encourage participants to be creative and have fun as well. Some may choose relaxing or more upbeat music, sharing participant photos, have flowers and the opportunity to create art—imagine what would feel good for you and offer it to the group.
+<br><br>
 
 ### 5. Food, Refreshments, Sweets
 This is important aspect of the workshop. When organizing training, make sure that venue offers a diverse selection of food, and lots of fruits and veggies. Be mindful of dietary needs and restrictions of participants and offer options for all after asking what these are before the workshop. In your working room, make sure you have plenty of water, coffee, fruits and sweets.
@@ -144,6 +155,7 @@ With each breath, imagine your feet growing roots. With each breath out, the roo
 Bring your arms down with your hands, coming together in prayer position over you heart. Give thanks, in whatever way you feel is appropriate.
 
 It might feel difficult at first to grow your roots deeply. Repeat the exercise daily and with practice, you'll be able to perform it better at each time. Good luck and enjoy!
+<br><br>
 
 ### 2. Breathing Exercises
 
@@ -173,6 +185,7 @@ Participants can sit or lay down on the floor - make yourself comfortable as wel
 - *Allow it to freely flow through you, neither resisting it, nor getting swept away by it.*
 
 Give thanks in whatever way you feel is appropriate. Tell participants that they may now open their eyes whenever they are ready.
+<br><br>
 
 ### 3. Physical Contact & Gentle Touch Exercises
 Make sure to divide group in pairs - this is a simple hands-on-shoulders practice. Have half of the people stand behind the other half of the participants, connecting through touching the shoulders; after a while, they trade places.
@@ -184,11 +197,11 @@ We ask them to touch with a sense of curiosity about this person, making full co
 We invite them to remember that our hands are connected to our hearts, and our hearts are connected to our whole body, and to our whole selves. One hand remains relatively still (the non-doing hand) while the other hand presses into the muscles (the active hand).
 
 ##### Questions to Ask Participants: 
-- What do their shoulders feel like? 
-- What is the temperature? The shape? The softness, firmness, or tightness of the muscles? 
+- What do their shoulders feel like? What is the temperature? 
+- The shape? The softness, firmness, or tightness of the muscles? 
 - Where is the breathing in the body? Does it rise to meet the touch, or not? 
 - Do we feel any responses or changes beneath our hands? What is it like for this person in this body? 
-- How is the whole life of the other persons somehow present in them, in their body, in contact with our hands? 
+- How is the whole life of the other person present in them, in their body, in contact with our hands? 
 
 We do not try to fix a person, or manipulate the tissues, but rather to make intuitive contact. We invite the person sitting down and receiving the touch to experience the touch from inside, to feel what each part of the body feels like to them. What sensations, feelings, or perhaps memories might be arising?
 
