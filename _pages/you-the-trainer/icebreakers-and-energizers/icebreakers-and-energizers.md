@@ -58,7 +58,7 @@ Once they are ready, everyone takes turns saying two true things and one lie abo
 
 Those who are not speaking must guess which are the truths and which one is the lie.
 <br><br>
-##### *Trainer's Note*
+#####*Trainer's Note*
 The group version of this works best with a smaller number of participants (10 participants maximum) - there also may be some language issues. If you have a mixed group of participants who are not versed in one language, you could have them pair up with a fellow participant who speaks the same language - but you don't want them to pair up with someone they already know. This activity also works for participants who have problems with mobility as this won't require them to move.
 <br><br>
 
@@ -74,7 +74,7 @@ Each participant will take a turn in describing themselves through the item they
 
 Set a description limit of 3 - 5 sentences per person, to keep time.
 <br><br>
-##### *Trainer's Note*
+#####*Trainer's Note*
 This is good for participants who have problems with mobility as this won't require them to move. Also, the assumption here is that everyone has brought a bag or pack of some kind to the training space - **check first before choosing this Icebreaker!**
 <br><br>
 
@@ -90,7 +90,7 @@ Keep in mind that what you might consider an acceptably public fact is not  alwa
 
 Examples of basic facts you can use: shirt color, shoe size, how long it took them to arrive at the training, how many pets they've lived with, or participant heights. Participants can speak with each other as they go about the exercise.
 <br><br>
-##### *Trainer's Note*
+#####*Trainer's Note*
 This may not be appropriate if you have participants who have problems with mobility; also, make sure that you have enough space for this activity.
 <br><br>
 
@@ -110,7 +110,7 @@ Randomly give a scenario slip to each participant. One good way to this is to pu
 
 Here, you need to determine if the participants will be allowed to speak or, **for an added challenge**, if they will just have to mime their reactions without making any sound. Each participant takes their turn over-reacting to their scenario, and everyone tries guessing.
 <br><br>
-##### *Trainer's Note*
+#####*Trainer's Note*
 Here you will have to be **careful about cultural references** - your description of the scenario will have to fit your participants' realities. If you feel like you don't yet know enough about your participants to conduct this Icebreaker, **save it for a second day activity.**
 <br><br>
 
@@ -126,7 +126,7 @@ Everyone who likes the same thing (including yourself) or shares the same qualit
 
 By the end of one round, one person will be left standing. That person will be the one to start the next round by saying "The wind blows for people who…".
 <br><br>
-##### *Trainer's Note*
+#####*Trainer's Note*
 This may not be appropriate if you have participants who have problems with mobility; also, make sure that you have enough space for this activity. Ensure that your training space doesn't have hard floors that can cause chairs or participants to slip, as this may cause some participants to fall getting to a vacant chair.
 <br><br>
 
@@ -144,7 +144,7 @@ Then, they must ask another person a question by throwing the yarn ball to that 
 
 At the end of this game, you will have a web of questions and answers!
 <br><br>
-##### *Trainer's Note*
+#####*Trainer's Note*
 This would work for participants who have mobility issues. In order to set an example of the questions to ask (particularly to avoid asking questions that would be considered too "prying,") co-trainers or the trainer and a willing participant can ask the first two questions, to illustrate the type of questions to ask. Keep in mind too that this exercise might require basic literacy in a common language among participants.
 <br><br>
 
@@ -160,7 +160,7 @@ The third person after the second person will have to start with the first perso
 
 The steps above repeat until the game once again reaches the first person, who now has to do **everyone's** names, animals and sounds!
 <br><br>
-##### *Trainer's Note*
+#####*Trainer's Note*
 This is particularly good for a group of people who really don't know each other: it's a great way to get everyone to remember each other's names. This game is also useful for *trainers* who want to build in an easy way to remember participant names from the beginning. If you have participants who have issues with mobility, this is a good exercise as this will not require much movement.
 <br><br>
 
@@ -185,7 +185,7 @@ After the second person finishes their 2 beats twice, the third person does the 
 
 The above steps repeat until everyone in the group has taken a turn to add their beat, and everyone has created a piece of music.
 <br><br>
-##### *Trainer's Note*
+#####*Trainer's Note*
 This is ideally for 10-12 participants (8 works too, but not fewer) - it can also work with larger groups if time is managed well. You can also do a variation on Beat Jam where you use motions instead, but the original version works better for participants who have issues with mobility.
 <br><br>
 
@@ -199,7 +199,7 @@ Break the group into two teams. Ask each team to stay on opposite sides of the s
 
 Each team will have one person in front of the screen per round. Once the screen is raised, the first person to name the representative from the other team gets a point.
 <br><br>
-##### *Trainer's Note*
+#####*Trainer's Note*
 This is a good activity to do to ensure that participants remember each other's names.
 <br><br>
 
@@ -215,7 +215,7 @@ Ask the group to toss the ball to each other once more, **repeating the same seq
 
 Ask participants to try to come with a way to beat the current time whilst keeping the same sequence. Do at least 2 more rounds for participants to try and beat the current best time.
 <br><br>
-##### *Trainer's Note*
+#####*Trainer's Note*
 This may not be appropriate if you have participants who have problems with mobility; also, make sure that you have enough space for this activity.
 <br><br>
 
