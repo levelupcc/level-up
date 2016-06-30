@@ -12,7 +12,6 @@ breadcrumb: Raising and Lowering the Pressure in a Group
 
 #### Our skill as trainers is measured in part by our ability to manage the way in which our groups work with difficult material.
 
-## Raising and Lowering the Pressure in a Group
 Not only can security trainers read the “anxiety pressure” of an individual or group, but skilled facilitators also learn how to raise or lower the pressure so as to achieve the greatest impact. The aim here is to move each participant and the group as a whole into the Green Zone—the zone in which people are motivated and capable of learning. Some activities serve to raise the pressure and can be used to motivate those who are not sufficiently engaged. Other activities can be used to lower the pressure. These are very useful when participants are anxious to the point that their automatic survival responses are interfering with their ability to integrate new information and skills.
 <br><br>
 
