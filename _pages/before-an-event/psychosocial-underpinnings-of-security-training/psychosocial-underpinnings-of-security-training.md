@@ -3,7 +3,7 @@ layout: content-page
 title: Psychosocial Underpinnings of Security Training
 author: Craig Higson-Smith
 summary: The impact of any training program depends upon the participants’ ability to integrate new information and use that information effectively. Security training emotionally challenges both trainers and trainees in many interesting ways. The study of fear is a deep and thought-provoking area, and as trainers, we learn about ourselves and about those we teach. 
-date: 2016-03
+date: 2014-08
 permalink: /before-an-event/psychosocial-underpinnings-of-security-training/
 parent: Before an Event
 breadcrumb: Psychosocial Underpinnings of Security Training
@@ -18,19 +18,19 @@ Security training emotionally challenges both trainers and trainees in many inte
 ##### This module covers five broad areas seen in the menu below. We encourage you to initially read these in order, as they build upon each other, and later refer to the most useful sections as needed:
 <br>
 
-### 1. Getting to Grips with Fear 
+### [1. Getting to Grips with Fear](/before-an-event/psychosocial-underpinnings-of-security-training/1-getting-grips-with-fear)
 The security trainers’ emotional wildcard.
 
-### 2. Using the Anxiety Pressure Gauge
+### [2. Using the Anxiety Pressure Gauge](/level-up/before-an-event/psychosocial-underpinnings-of-security-training/2-anxiety-pressure-gauge/)
 Heighten the impact of security training.
 
-### 3. Raising and Lowering the Pressure in a Group
-Increase motivation and learning capacity.
+### [3. Raising and Lowering the Pressure in a Group](/before-an-event/psychosocial-underpinnings-of-security-training/3-raise-lower-pressure/)
+Our skill as trainers is measured in part by our ability to manage the way in which our groups work with difficult material.
 
-### 4. Stress and Traumatic Stress Reactions in Security Training
+### [4. Stress and Traumatic Stress Reactions in Security Training](/before-an-event/psychosocial-underpinnings-of-security-training/4-traumatic-stress-reactions/)
 A natural part of the way human beings respond to challenge and danger.
 
-### 5. Building your Own Emotional Resilience as a Security Trainer
+### [5. Building your Own Emotional Resilience as a Security Trainer](levelup/before-an-event/psychosocial-underpinnings-of-security-training/5-emotional-resilience/)
 Avoid the pitfalls of burnout and vicarious traumatization.
 <br><br>
 
