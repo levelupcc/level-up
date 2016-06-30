@@ -21,7 +21,7 @@ Fear can be a trainer’s friend or enemy. On the positive side, fear and anxiet
 ##### Therefore, a core challenge for security trainers is to control the level of fear and anxiety that participants are experiencing. Too little fear, and the group are unlikely to be motivated to learn; too much fear, and the group will not be able to take in new information.
 <br>
 
-### The Survival Brain and the "Fear Button"
+## The Survival Brain and the "Fear Button"
 Survival is the fundamental challenge facing any species, and Homo sapiens (modern human beings) have been perfecting their survival skills for at least 200,000 years. Modern human beings have evolved in response to constant dangers and threats. We were never the strongest, the fastest, or the biggest in the jungle. Nor did we have the sharpest claws or the thickest hides. *For survival we depended upon each other, and upon our brains—that is, our ability to learn.*
 
 Through the generations we have discovered which reactions to danger most often result in survival and we have repeated them wherever possible. These reactions have become our instinctive responses to danger. A prehistoric man would instinctively jump and turn to orient himself to the sound of the beast’s roar behind him. A 20th century man will jump and turn to orient himself to the roar of a truck passing too close in precisely the same manner.
@@ -47,7 +47,7 @@ But how might this apply in the training room? Let’s imagine a situation in wh
 *However one looks at it, it is clear that telling this story is not helping him engage with the training and learn better security practices.*
 <br><br>
 
-### The Survival Responses
+## The Survival Responses
 When our fear button is pressed, the special structures of the survival brain are activated and a flood of neurotransmitters (chemicals that carry messages in our brains) and hormones enter our brains and bodies. This is commonly referred to as becoming “adrenalized,” although adrenalin is only one of the chemicals involved in this transformation. In short, our bodies are preparing to enact our instinctual responses to danger. The term “fight-or-flight” was coined in 1915 by Harvard physiologist Walter Cannon, but over the past century, researchers have discovered that the human survival response is much more nuanced than originally described.
 
 The most healthy and common survival responses in adults begin with the body becoming hyper-aroused, that is, the body begins to work at a much higher level of activity than usual. This happens almost instantaneously in a variety of ways. The heart beats faster and breathing is accelerated, pumping oxygen into the blood. Blood flow to the skin and those organs not useful for immediate survival, such as the digestive and reproductive systems, is reduced. (Incidentally this explains why people who are frightened become pale and sometimes lose control of their bladder and bowels.) Blood flow to the brain, the heart, and the lungs, as well as to the muscles that we use to fight, run, climb and hide is increased. Even our blood clots faster when we are in this state, an evolutionary adaptation designed to reduce the impact of injury.
@@ -84,7 +84,7 @@ These six responses depend upon the person becoming adrenalized and hyper-arouse
 ##### In the classroom, signs that the fear button has been pressed and survival responses activated may be very subtle. However, these subtle signals are important because they indicate to the trainer that participants’ capacity to learn may be compromised.***
 <br><br>
 
-### Past Traumatic Experiences
+## Past Traumatic Experiences
 The question arises as to how past traumatic experiences change the way people respond to threats. In fact, most people fully recover following traumatic exposure and may even respond more effectively to threats as a result of their experiences. One of the clever mechanisms that evolved in human beings is “one-shot learning.” Most new learning requires several repetitions before becoming locked into our long-term memory—think about how many times you had to recite your multiplication tables before you were able to remember that 7x9=63. When the knowledge enhances our chances of survival, we only need to experience a situation once for it to be locked into our memories forever. If a small child is left unattended and touches a hot coal in the fireplace, she will immediately learn that fire is dangerous and will not go near the fire again. This only needs to happen once for the lesson to be learned.
 
 The same principle applies to adults in more complex kinds of survival situations. After surviving a traumatic experience, it is likely that we will do everything in our power to avoid similar situations in the future. Furthermore, we are able to narrate our experiences to others in the hope that they too will become safer. In fact, there is an entire field within the study of human responses to traumatic stress that explores how people grow following frightening experiences. This is the study of post-traumatic growth. Not surprisingly, many trauma survivors report growth as a result of their experiences. Most commonly, people have reported having greater confidence in their own ability to respond to danger, an increased gratitude for their lives and the good things in them, a greater awareness of the support of friends and family, and a deeper spiritual awareness.
@@ -98,7 +98,7 @@ People suffering from post-traumatic stress are typically much more sensitive to
 ##### An important ethical principle in security training is to ensure that the training does no harm. This principle requires trainers to think hard about who is included in training, as well as how the training is conducted.***
 <br><br>
 
-### Repeated and Continuous Victimization
+## Repeated and Continuous Victimization
 While isolated traumatic events have a profound effect on the way people respond to threats, repeated or continuous victimization may be even more important. Many people survive in situations of virtually constant danger. Think about the life of a police officer whose community is plagued by violent gangs, a person in a violent relationship, or a human rights activist subjected to constant intimidation by agents of an oppressive regime. Each of these people experience frightening events on a day-to-day basis. 
 
 For survivors of repeated and continuous victimization, the fear button is constantly being pressed, and they spend a great deal of time in one or the other survival responses. Repeatedly going in and out of a survival response—with everything required of the physical body—is damaging and exhausting. Therefore, people in this situation adopt a different strategy.
