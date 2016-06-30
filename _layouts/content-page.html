@@ -6,7 +6,7 @@ layout: default
   <h1>{{ page.title }}</h1>
   {% unless page.author == nil or page.date == nil or page.summary == nil %}
   <p><b>Credits</b> <span class="page-author"> {{ page.author }} </span>
-     <b>Last Updated</b>  {{ page.date | date: "%m/%d/%Y" }} </p>
+     &ensp; <b>Last Updated</b>  {{ page.date | date: "%m/%d/%Y" }} </p>
   <p>{{ page.summary }}</p>
   {% endunless %}
 </section>
@@ -19,13 +19,6 @@ layout: default
     <p><h4>Duration </h4>{{ page.duration }}</p>
   </div>
 </section>
-{% else %}
-  {% unless page.summary == nil %}
-  <section class="section-block">
-    <h3>Summary</h3>
-    <p class="summary">{{ page.summary }}</p>
-  </section>
-  {% endunless %}
 {% endif %}
 
 <section class="section-block">
