@@ -29,7 +29,7 @@ Pre-Event, the roles of everyone directly involved in the training, including tr
 
 #### Further Resources
 
-- [Planning Your Training Event | Step 5 - Orientation and Preparation](/level-up/before-an-event/planning-your-training-event/5-orientation-preparation/)
+- [Planning Your Training Event, Step 5 - Orientation and Preparation](/level-up/before-an-event/planning-your-training-event/5-orientation-preparation/)
 
 ### 2. Trainer & Co-Trainer Schedule (Pre-Event & Daily, After-Hours)
 The schedule of how the trainers and co-trainers will lead, co-lead and/or support various sessions. Given how much energy it takes to be the main trainer, it’s advisable to trade off leading sessions when you have qualified co-trainers. Be careful to pace yourself so you don’t burn out during the training.
@@ -44,14 +44,14 @@ There is great utility in having trainers offer “open office hours” for part
 
 #### Further Resources
 
-- [Planning Your Training Event | Step 4 - Communications and Content Planning](/level-up/before-an-event/planning-your-training-event/4-communications-content-planning/)
+- [Planning Your Training Event, Step 4 - Communications and Content Planning](/level-up/before-an-event/planning-your-training-event/4-communications-content-planning/)
 
 ### 4. Contingency Plans (Pre-Event)
 Do you have a back-up plan if one of your main resources aren’t available or go out (like electricity, connectivity, etc.)? Also, ensure that plans are in place in case the training becomes unsafe in some way, especially if you are providing a training for high-risk participants or in a risky context. Make sure that everyone on the training team is clear on what the plan is, and what they are expected to do in case it must be enacted.
 
 #### Further Resources
 
-- [Planning Your Training Event | Step 5 - Orientation and Preparation](/level-up/before-an-event/planning-your-training-event/5-orientation-preparation/)
+- [Planning Your Training Event, Step 5 - Orientation and Preparation](/level-up/before-an-event/planning-your-training-event/5-orientation-preparation/)
 - [How to Handle Surprises During Training](/level-up/you-the-trainer/how-to-handle-surprises-during-training/)
 
 ### 5. Daily Evaluation & Agenda Review (Daily, After-Hours)
@@ -59,8 +59,8 @@ Daily pluses and deltas, as described above under #10. Trainers should meet brie
 
 #### Further Resources
 
-- [The First 3 Sessions of Your Event | Developing a Shared Brain](/level-up/you-the-trainer/first-3-sessions-of-your-event/developing-a-shared-brain/)
-- [Planning Your Training Event | Step 5 - Orientation and Preparation](/level-up/before-an-event/planning-your-training-event/5-orientation-preparation/)
+- [The First 3 Sessions of Your Event, Developing a Shared Brain](/level-up/you-the-trainer/first-3-sessions-of-your-event/developing-a-shared-brain/)
+- [Planning Your Training Event, Step 5 - Orientation and Preparation](/level-up/before-an-event/planning-your-training-event/5-orientation-preparation/)
 
 ## Common Pitfalls of Agenda Planning
 
