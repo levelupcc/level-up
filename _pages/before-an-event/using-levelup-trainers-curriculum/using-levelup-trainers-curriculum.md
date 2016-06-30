@@ -2,44 +2,54 @@
 layout: content-page
 title: "How To: Using the LevelUp Trainers Curriculum"
 author: Carol Waters, Nick Sera-Leyva
-summary: "Each of LevelUp's curriculum modules is designed around a topic-based training session, which is in turn composed of a number of  distinct parts - this resource explains the basic structure of a session module, and the logic behind this structure."
+summary: Each of LevelUp's curriculum modules is designed around a topic-based training session, which is in turn composed of a number of  distinct parts - this resource explains the basic structure of a session module, and the logic behind this structure.
 date: 2016-03
 permalink: /before-an-event/using-levelup-trainers-curriculum/
 parent: Before an Event
 breadcrumb: "How To: Using LevelUp Trainers Curriculum"
 weight: 3.1
 ---
-Core to LevelUp and its *created by trainers, for trainers* curriculum is fostering an environment for our events and workshops that is **open and participatory** for our audiences. For those who support others with training on digital security, the audiences and learners we engage with the most consistently are adults
+##### This How-To resource explains the mechanics of how [LevelUp's Trainer's Curriculum](/level-up/curriculum/) is structured, and considerations for using it to design your events.
 
-LevelUp uses the **Activity-Discussion-Inputs-Deepening-Synthesis**, or **ADIDS** approach, to adult learning and has organized its curriculum for training sessions according to this design.
+Core to LevelUp and its *created by trainers, for trainers* curriculum is fostering an environment for our events and workshops that is **open and participatory** for our audiences. For those who support others with training on digital security, the audiences and learners we engage with the most consistently are adults.
 
-ADIDS has been used effectively in advocacy and skills training on human rights issues, and we have found it to be useful in helping participants with minimal technical knowledge better understand the complexities of digital security and online safety. For trainers, it can also provide a useful framework when creating lesson plans.
+LevelUp uses the **Activity-Discussion-Inputs-Deepening-Synthesis**, or [ADIDS approach][ADIDS approach](/level-up/before-an-event/levelups-approach-to-adult-learning/), to adult learning and has organized its curriculum for training sessions according to this design. ADIDS has been used effectively in advocacy and skills training on human rights issues, and we have found it to be useful in helping participants with minimal technical knowledge better understand the complexities of digital security and online safety. For trainers, it can also provide a useful framework when creating lesson plans.
+<br><br>
 
-***This How-To resource explains the mechanics of how LevelUp's Trainer's Curriculum is structured, and considerations for using it to design your events.***
+## Terms and Basic Structure
+LevelUp's Trainers' Curriculum is organized into three core tiers, designed to help users begin with an idea of what general themes are required in a given event, narrowing the focus down to eventually arrive at its specific topics and sessions.
 
-## Terms and Basic Structure ##
-Each of LevelUp's training sessions is designed around a **session *Topic***, for example **Safer Software Updating [LINK]** which looks at ways to make sure that downloaded applications are safe to use, and how to identify pirated software, or **Antivirus & Malware [LINK]** which addresses keeping software updated, avoiding pirated or unlicensed operating systems and applications, and how to best use antivirus software for protection.
+##### Themes
+It begins with a series of **Themes**, each of which refer to a broader digital security and safety concern - these are organized on the initial [Curriculum](level-up/curriculum/) page.
 
-Each Session Topic is comprised of individual **session *Elements***, which are the individual **ADIDS** elements of:
+##### Topics
+Within each each Theme are its **Topics**, which are the individual, ADIDS-structured training modules that address relevant tools or practices - these are organized into individual pages, [like this one](/level-up/curriculum/malware-protection/using-antivirus-tools/).
+
+##### Elements
+Finally, each ADIDS structured Topic is composed of ADIDS **Elements**, which are the individual sessions within each module that allow it to be delivered in a way that supports the adult learning process - these are listed out on their [respective Topic pages](/level-up/curriculum/malware-protection/using-antivirus-tools/). 
+<br><br>
+
+Each **Topic** module is comprised of individual **Elements**, which are the individual **ADIDS** elements of:
 
 - **Activity** (which includes a **Discussion** about that activity)
 - **Input** (related lecture or background material)
 - **Deepening** (the hands-on portion of the session)
 - **Synthesis** (wrap-up, review, and Q&A)
 
+For more guidance on broader agenda planning, read our guide on [Planning Your Training Agenda](/level-up/before-an-event/planning-your-event-agenda/).
+<br><br>
 
-As mentioned above, each training session focuses on a particular topic; using principles discussed in **Planning Your Event Agenda [LINK]**, begin drafting your agenda by selecting which topics your training or workshop needs to cover.
-
+## Starting Out
 Most **Topics** include one each of Activity/Discussion, Input, Deepening, and Synthesis **Elements**; however, some may have multiple of one or more - for example:
 
-- **Browsers for Anonymity and Circumvention [LINK]** covers both Tor and Psiphon browsers, and has distinct **Deepening** elements for each;
-- **Safer, Anonymous Workspaces using Tails [LINK]** features distinct **Inputs** that trainers can use one or more of, depending on the context Tails will be trained in; it also has separate **Deepening** elements for different use cases of Tails.
+[Safer Browsing - Identity Protection and Privacy]() covers both Tor Browser and HTTPS Everywhere, and has distinct **Deepening** elements for each.
+
+[Safer Workspaces - Tails]() features distinct **Inputs** that trainers can use one or more of, depending on the context Tails will be trained in; it also has separate **Deepening** elements for different use cases of Tails.
 
 In cases like the above, choose which Activity/Discussion, Input, Deepening, and Synthesis elements are the best fit for the context and scope of your event; as the LevelUp curriculum grows, you will find increasingly more options for different Elements across more Topics.
 <br><br>
 
-
-## Customizing your Agenda ##
+## Customizing your Agenda
 
 The LevelUp Trainer's Curriculum is designed to, as it grows, allow trainers to select from increasingly more options for each session Element. Some Elements fit together better than others, or fulfill distinct functions based on the session context, but we've left things flexible to accommodate the inherent need for customization when planning a training.
 
