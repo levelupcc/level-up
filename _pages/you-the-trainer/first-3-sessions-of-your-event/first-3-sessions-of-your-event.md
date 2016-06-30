@@ -9,6 +9,7 @@ parent: "You, The Trainer"
 breadcrumb: First 3 Sessions of Your Event
 ---
 ##### Please note that this content is licensed to (and should be attributed to) Chris Michael for [Tactical Tech](https://www.tacticaltech.org) (not LevelUp), under the same Creative Commons license-type shown in the footer.
+<br>
 
 #### Position your events to be as open and participatory as possible from the start.
 
@@ -17,6 +18,7 @@ Though the order and duration may differ per event, these three discussions are 
 ##### Who is in the room?
 ##### What motivates each person to be in the room?
 ##### How will you collaborate together?
+<br><br>
 
 ##### *Trainer's Note*
 If you are doing an awareness-raising event or only training on a few topics in one day, you may use aspects of these sessions, but will probably not have time. They are primarily designed for a more comprehensive multi-day training.
