@@ -5,7 +5,7 @@ permalink: /you-the-trainer/first-3-sessions-of-your-event/developing-shared-agr
 author: Chris Michael
 summary: "When working with adults, the facilitator has the great importance of recognizing everyone’s experience, expertise and autonomy. To help establish working agreements as to how the group should best collaborate and work together, you can crowd-source agreements, rather than prescribe them as ground rules. Though these are often referred to as “ground rules,” we place importance on the term “shared agreements.”
 date: 2016-03
-hide: true
+parent: The First 3 Sessions of Your Event
 breadcrumb: Developing Shared Agreements
 ---
 ##### Please note that this content is licensed to (and should be attributed to) Chris Michael for [Tactical Tech](https://www.tacticaltech.org) (not LevelUp), under the same Creative Commons license-type shown in the footer.
