@@ -52,7 +52,8 @@ Participants need time to slow down, stop, reflect, rest, and assess their perso
 It is common for human rights defenders to prioritize their work over themselves, including their well-being and even their sense of self-worth. This deprioritization of self can (and often does) lead participants taking greater risks, becoming burnt out, and other negative consequences. Therefore, there is a need to help participants nurture (or re-establish) a belief in their own value, their self-worth, and a commitment to caring for and protecting themselves as part of their work instead of at the cost of their work. This is one of the greatest challenges to establishing a culture of safety and self-care—instilling and sustaining the idea that it is worth taking the time and effort for participants to care for themselves. Participants should recognize that they have the right to live and work securely.
 <br><br>
 
-##### Safe space is fundamental to an integrated approach to security.
+#### Safe space is fundamental to an integrated approach to security.
+
 Creating a safe space is crucial for creating a sense of physical safety as well as a sense of confidence in a group. It is important for participants who usually have no time to relax to feel comfortable and enjoy simple things­. And if they live in a country where their lives are in danger it is even more crucial to make sure that they feel physically safe.
 
 Safe space in a group means a space to feel comfortable and speak openly and freely about feelings, challenges, and emotions as they may arise. In the workshops where issues personally affect people (whether those are physical, emotional, or spiritual threats and challenges), participants may have strong emotions as they do their own inner work facing their own oppression, privilege, anger, hurt, pain and suffering.
