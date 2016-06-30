@@ -4,9 +4,10 @@ layout: default
 <section class="section-block">
   {% include breadcrumb.html %}
   <h1>{{ page.title }}</h1>
-  {% unless page.author == nil or page.date == nil %}
-  <p>Credits: <span class="page-author"> {{ page.author }} </span></p>
-  <p>Last Updated:  {{ page.date | date: "%m/%d/%Y" }} </p>
+  {% unless page.author == nil or page.date == nil or page.summary == nil %}
+  <p><b>Credits</b> <span class="page-author"> {{ page.author }} </span>
+     <b>Last Updated</b>  {{ page.date | date: "%m/%d/%Y" }} </p>
+  <p>{{ page.summary }}</p>
   {% endunless %}
 </section>
 
@@ -16,7 +17,6 @@ layout: default
     <p><h4>ADIDS Element </h4>{{ page.adids }}</p>
     <p><h4>Parent Theme(s) </h4>{{ page.parent }}</p>
     <p><h4>Duration </h4>{{ page.duration }}</p>
-    <p><h4>Summary </h4></p>{{ page.summary }}
   </div>
 </section>
 {% else %}
