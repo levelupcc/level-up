@@ -32,7 +32,7 @@ We all have been through those painful meetings where one person talks over othe
 
 #### [Developing a Shared Brain: Assessing and Managing Expectations](/levelup/you-the-trainer/first-3-sessions-of-your-event/developing-a-shared-brain/)
 As a trainer, one of the most fundamental aspects of leading a great event is assessing and managing participants’ expectations as early as possible. By doing this, you will build an agenda and develop exercises that help ensure their time and the group’s time is well spent. This is the **third recommended session** for starting multi-day trainings, to follow shared stories and shared agreements.
-
+<br><br>
 ##### *Trainer's Note*
 If you are doing an awareness-raising event or only training on a few topics in one day, you may use aspects of these sessions, but will probably not have time. They are primarily designed for a more comprehensive multi-day training.
 <br><br>
