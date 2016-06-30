@@ -6,4 +6,5 @@ summary: LevelUp's Trainers' Curriculum is a module-based collection of training
 date: 2016-06
 permalink: /curriculum/
 breadcrumb: Curriculum
+weight: 3
 ---
