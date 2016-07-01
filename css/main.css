@@ -602,11 +602,11 @@ a {
   border-color: transparent #F0A742;
   border-style: solid;
   border-width: 0.35rem 0 0.35rem 0.45rem;
-  padding-left: 1rem;
   display: inline-block;
   height: 0;
   width: 0;
   text-align: center;
+  text-indent: 0.45rem;
   left: -1rem;
   top: 0px;
   position: relative; }
