@@ -593,8 +593,8 @@ a {
   color: #F0A742; }
 
 .section-block ul:not(.menu), .section-block_home ul:not(.menu) {
-  margin: 0.75rem 0;
-  padding: 0 1rem 0;
+  margin: 0px;
+  padding-left: 30px;
   list-style: none; }
 
 .section-block ul:not(.session):not(.map) > li:before, .section-block_home ul:not(.session):not(.map) > li:before {
@@ -606,8 +606,8 @@ a {
   height: 0;
   width: 0;
   text-align: center;
-  text-indent: 0.45rem;
-  left: -1rem;
+  text-indent: 0.5em;
+  margin-left: 0.5em;
   top: 0px;
   position: relative; }
 
