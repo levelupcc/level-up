@@ -29,15 +29,17 @@ parent: Mobile Safety
 breadcrumb: How Mobile Networks Work
 ---
 ## Learning Goals for Participants
-Learn the basics of mobile telephony and how mobile networks function.
-
-Understand the implications of mobile telephony infrastructure for information and personal security.
-
-Learn how to mitigate the vulnerabilities of feature phones
+- Learn the basics of mobile telephony and how mobile networks function.
+- Understand the implications of mobile telephony infrastructure for information and personal security.
+- Learn how to mitigate the vulnerabilities of feature phones
 <br><br>
 
-## Important Notes
-Arriving at a training to discover that the participants all use feature phones (instead of smart phones) is a surprise to try and avoid. In your pre-training interviews or survey, or in your conversations with your main contact, make sure to ask: What kind of phone participants use? Which operating system (if it's a smartphone)? What do they typically use their phone for, such as work communications, data collection at work, personal life, etc.? Which are the apps they use on it the most.?
+### Important Notes
+Arriving at a training to discover that the participants all use feature phones (instead of smart phones) is a surprise to try and avoid. In your pre-training interviews or survey, or in your conversations with your main contact, make sure to ask: 
+  - What kind of phone participants use? 
+  - Which operating system (if it's a smartphone)? 
+  - What do they typically use their phone for, such as work communications, data collection at work, personal life, etc.? 
+  - Which are the apps they use on it the most.?
 <br><br>
 
 If you're going to lead a training for participants who use feature phones, consider switching to a feature phone for a while to re-familiarize yourself with the experience and update yourself generally on the current vulnerabilities and concerns for feature phone users. If you have a mixed group of feature phone and smartphone users, consider how you can meet their needs without making anyone feel left out. Be aware that this may also be a very sensitive social issue (are the smartphone owners wealthier, of a different social class, or have more senior positions in an organization?)
