@@ -606,6 +606,7 @@ a {
   height: 0;
   width: 0;
   text-align: center;
+  left: -1rem;
   top: 0px;
   position: relative; }
 
