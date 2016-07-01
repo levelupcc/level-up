@@ -15,26 +15,27 @@ This site was created to provide a sustained repository of resources, created by
 LevelUp relies on contributions and feedback from members of the training community, like you, to remain an evolving, up-to-date, and most importantly, *shared* resource. 
 
 #### Here below, we've outlined how you can engage with LevelUp to either provide user feedback or submit contributions of content.
+<br><br>
 
 ## How Can I Provide Feedback?
 There are a few different ways you can provide feedback on LevelUp's growing compendium of digital security training content. We're actively looking into what further options we can make available in the near future; however, please see our current feedback channels below.
 
 ### 1. Submit Feedback via Email
 
-##### *Email us at [levelup@riseup.net](mailto: levelup@riseup.net) ([GPG public key here](http://pgp.mit.edu/pks/lookup?op=get&search=0x207BFB9591A638BE))*
+##### Email us at [levelup@riseup.net](mailto: levelup@riseup.net) ([GPG public key here](http://pgp.mit.edu/pks/lookup?op=get&search=0x207BFB9591A638BE))
 
-#####...if you have feedback, regarding content, website usability, or anything else that you would like to send us. 
+##### ...if you have feedback, regarding content, website usability, or anything else that you would like to send us. 
 
 LevelUp is cared for by trusted members of the training community, who are dedicated to maintaining the resource and staying engaged with its users.
 <br><br>
 
 ### 2. Annotate and Discuss Content with Hypothes.is
 
-##### *LevelUp now uses [**Hypothes.is**](https://hypothes.is/), a free and open source annotation plug-in, that allows users to comment and notetake on LevelUp content - directly on the site.*
+##### LevelUp now uses [**Hypothes.is**](https://hypothes.is/) - a free and open source annotation plug-in - that allows users to comment and notetake on LevelUp content - directly on the site.
 
 This is a great way to let us know immediately if you see any content that requires editing or updating, to keep live notes directly on the site for your own use, engage in discussion with other users, or to simply leave feedback.
 
-##### To begin using Hypothes.is, click the grey < arrow in the *upper right hand corner* of any page on the LevelUp site to expand the menu sidebar. Here, you can either log-in or sign up. 
+##### To begin using Hypothes.is, click the grey  <  arrow in the *upper right-hand corner* of any page on the LevelUp site to expand the menu sidebar. Here, you can either log-in or sign up. 
 
 Simply highlight the text you'd like to annotate, and leave a comment of your own. You can also engage in discussion with other users of LevelUp, by selecting their comments and leaving a response.
 
@@ -50,16 +51,16 @@ There are now a few different ways you can contribute content to LevelUp's growi
 
 ### 1. Submit Content via Email
 
-##### *Email us at [levelup@riseup.net](mailto: levelup@riseup.net) ([GPG public key here](http://pgp.mit.edu/pks/lookup?op=get&search=0x207BFB9591A638BE))*
+##### Email us at [levelup@riseup.net](mailto: levelup@riseup.net) ([GPG public key here](http://pgp.mit.edu/pks/lookup?op=get&search=0x207BFB9591A638BE))
 
-#####...if you have content you would like to submit for addition to LevelUp, get in touch regarding content contribution, or with any questions you might have.
+##### ...if you have content you would like to submit for addition to LevelUp, get in touch regarding content contribution, or with any questions you might have.
 
 LevelUp is cared for by trusted members of the training community, who are dedicated to maintaining the resource and staying engaged with its users.
 <br>
 
 ### 2. Submit Content as a Pull Request on GitHub
 
-##### *LevelUp now uses [GitHub]() to edit and manage the content of this website.*
+##### LevelUp now uses [GitHub]() to edit and manage the content of this website.
 
 This also means that all content can now be found, in [markdown (.md) format](https://github.com/levelupcc/level-up/wiki/How-to-work-with-Markdown), via the [public LevelUp GitHub repository](). To make using this option easier for all users, we've created a series of mini-tutorials which detail the process:
 
@@ -75,7 +76,7 @@ Submit new pages for module, how-tos, and other resources.
 
 ### 3. Contribute to Content Localization on Transifex
 
-##### *LevelUp now uses [Transifex](https://www.transifex.com/otf/level-up-website/) to advance the localization of its content into more languages.*
+##### LevelUp now uses [Transifex](https://www.transifex.com/otf/level-up-website/) to advance the localization of its content into more languages.
 
 We want LevelUp to be accessible in many different ways, to many different people - this involves not only having its content *translated* in more languages, but also *localized* to the context of trainers who speak and train in those languages. 
 
