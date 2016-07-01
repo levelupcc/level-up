@@ -31,7 +31,6 @@ Some of them are only pointed in one direction, and others can receive and send 
 ### Step 2: Mapping it Out
 Ask for **one** volunteer to be your mobile phone moving through the mobile network. Then ask for **three more** volunteers to be "cell phone towers," and ask them to stand at different points around the cell phone, with some being closer and others farther away.
 
-##### Optional
 Ask participants what it was like when they first saw a cell phone. They thought it was amazing, right? They didn't have to go to a physical location to use a phone, or wait for a call. They could go anywhere, and the phone was right with them.
 
 Remind them how our calls go through quite quickly, especially if they are local (vs. international) calls. Even international calls are amazing, even though we take them for granted.
