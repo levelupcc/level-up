@@ -8,7 +8,7 @@ permalink: /community/getting-started/
 parent: Community
 breadcrumb: Getting Started with LevelUp
 ---
-Every trainer is stronger in some areas than in others; however, the best are constantly seeking new ways to improve their skills. 
+#### Every trainer is stronger in some areas than in others; however, the best are constantly seeking new ways to improve their skills. 
 
 The LevelUp website is a continually growing resource dedicated to sharing knowledge and experience from digital security trainers from around the world - start here to orient yourself with our resources for digital security training, how you can use them, and how you can help improve them.
 <br><br>
