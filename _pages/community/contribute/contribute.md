@@ -47,7 +47,7 @@ New users will need to create an account; however, the Hypothes.is team maintain
 ## How Can I Contribute Content?
 There are now a few different ways you can contribute content to LevelUp's growing compendium of digital security training content. We're actively looking into what further options we can make available in the near future; however, please see our current contribution channels below.
 
-*All content on this site is under a [Creative Commons Attribution-ShareAlike 3.0 Unported license](https://creativecommons.org/licenses/by-sa/3.0/) - unless already under another existing license, anything shared through LevelUp is made available under this same license.
+*All content on this site is under a [Creative Commons Attribution-ShareAlike 3.0 Unported license](https://creativecommons.org/licenses/by-sa/3.0/) - unless already under another existing license, anything shared through LevelUp is made available under this same license.*
 
 ### 1. Submit Content via Email
 
