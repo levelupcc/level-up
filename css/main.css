@@ -594,14 +594,15 @@ a {
 
 .section-block ul:not(.menu), .section-block_home ul:not(.menu) {
   margin: 0.75rem 0;
-  padding: 0 1rem 0 1rem;
-  list-style: disc outside none; }
+  padding: 0 1rem 0;
+  list-style: none; }
 
 .section-block ul:not(.session):not(.map) > li:before, .section-block_home ul:not(.session):not(.map) > li:before {
   content: "";
   border-color: transparent #F0A742;
   border-style: solid;
   border-width: 0.35rem 0 0.35rem 0.45rem;
+  padding-left: 1rem;
   display: inline-block;
   height: 0;
   width: 0;
