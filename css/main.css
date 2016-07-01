@@ -608,6 +608,7 @@ a {
   text-align: center;
   text-indent: 0.5em;
   margin-left: -0.5em;
+  left: -1rem;
   top: 0px;
   position: relative; }
 
