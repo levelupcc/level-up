@@ -594,7 +594,7 @@ a {
 
 .section-block ul:not(.menu), .section-block_home ul:not(.menu) {
   margin: 0.75rem 0;
-  padding: 0 1rem 0;
+  padding: 0 1rem;
   list-style: none; }
 
 .section-block ul:not(.session):not(.map) > li:before, .section-block_home ul:not(.session):not(.map) > li:before {
