@@ -18,7 +18,7 @@ Projector and laptop, with the chosen backup tool ready to demonstrate
 
 USB drives with software (portable apps or relevant OSX apps) pre-downloaded for participants
 
-Pre-printed Backup Policy Form (<a href="/level-up/assets/files/backup_policy-blank.pdf">found here</a>) if covering policy creation during the session
+Pre-printed Backup Policy Form (<a href="/assets/files/backup_policy-blank.pdf">found here</a>) if covering policy creation during the session
 <br><br>
 
 ### Selecting a Backup Tool
