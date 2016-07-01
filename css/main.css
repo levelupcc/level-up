@@ -607,7 +607,7 @@ a {
   width: 0;
   text-align: center;
   text-indent: 0.5em;
-  margin-left: 0.5em;
+  margin-left: -0.5em;
   top: 0px;
   position: relative; }
 
