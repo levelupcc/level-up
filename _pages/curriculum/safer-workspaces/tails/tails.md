@@ -6,7 +6,7 @@ date: 2015-05-00
 
 activity:
   - name: Offline Circumvention
-    url: /curriculum/safer-workspaces/tails/activity-discussion/offline-circumvention/
+    url: /curriculum/safer-browsing/anonymity-and-circumvention/activity-discussion/offline-circumvention/
 
 input:
  - name: Censorship Circumvention
