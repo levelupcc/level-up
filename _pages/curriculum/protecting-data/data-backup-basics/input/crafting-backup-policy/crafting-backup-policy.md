@@ -1,6 +1,6 @@
 ---
 layout: content-page
-title: Crafting a Backup Policy
+title: "Input: Crafting a Backup Policy"
 author: 
 summary: Each new method of storing or transferring digital information tends to introduce several new ways in which the information in question can be lost, taken or destroyed. It is extremely important that users maintain an up-to-date backup of their important and/or sensitive data, and a well-tested means of restoring such data in the event it is lost. However, formulating an effective backup policy is not as simple as it sounds - this Input element will help trainers begin a conversation about this with training participants.
 permalink: /curriculum/protecting-data/data-backup-basics/input/crafting-backup-policy
@@ -12,8 +12,8 @@ duration: 30-45 minutes
 ---
 # Materials to Prepare
 - Whiteboard or large sheet of paper
-- Participant-created matrices from the [Data Backup Matrix](/levelup/curriculum/protecting-data/data-backup-basics/activity-discussion/data-backup-matrix-information-map/) Activity & Discussion, for reference
-- Prepared data backup matrix based off of participant matrices from the [Data Backup Matrix](/levelup/curriculum/protecting-data/data-backup-basics/activity-discussion/data-backup-matrix-information-map/) Activity & Discussion
+- Participant-created matrices from the [Data Backup Matrix](/levelup/curriculum/protecting-data/data-backup-basics/activity-discussion/data-backup-matrix-creating-information-map/) Activity & Discussion, for reference
+- Prepared data backup matrix based off of participant matrices from the [Data Backup Matrix](/levelup/curriculum/protecting-data/data-backup-basics/activity-discussion/data-backup-matrix-creating-information-map/) Activity & Discussion
 <br><br>
 
 # Input Session
