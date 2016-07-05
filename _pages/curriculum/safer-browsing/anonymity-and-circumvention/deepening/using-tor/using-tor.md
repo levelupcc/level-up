@@ -7,7 +7,7 @@ permalink: /curriculum/safer-browsing/anonymity-and-circumvention/deepening/usin
 breadcrumb: "Using the Tor Browser Bundle"
 date: 2016-05
 adids: Deepening
-parent: "Safer Browsing - Anonymity & Circumvention", "Safer Browsing - Identity Protection and Privacy"
+parent: "Safer Browsing - Anonymity & Circumvention, Safer Browsing - Identity Protection and Privacy"
 duration: 45-60 minutes
 platforms: Linux, Mac OS, Windows
 ---
