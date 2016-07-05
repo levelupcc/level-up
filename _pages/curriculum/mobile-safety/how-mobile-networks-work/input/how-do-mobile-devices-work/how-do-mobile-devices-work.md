@@ -1,6 +1,6 @@
 ---
 layout: content-page
-title: "How Do Mobile Devices Work?"
+title: "Input: How Do Mobile Devices Work?"
 author: Alix Dunn
 summary: The content you choose for this section will vary based on your participants, their devices (feature phone vs smartphone), their interest or concern with the topic, and time. Mobile alone could constitute a typical multi-day training, however what's provided here is a summary of the fundamentals of mobile devices and mobile networks.
 permalink: /curriculum/mobile-safety/how-mobile-networks-work/input/how-do-mobile-devices-work/
@@ -20,13 +20,12 @@ Mobile data dongle, that can be used to demonstrate the SIM and IMEI of the hard
 <br><br>
 
 # Input Session
-These are detailed notes for leading a brief introduction or discussion about the components of a mobile phone. The number of components you choose mention will depend on your time available and the enthusiasm of your participants to share and point out various components.   
-##### We recommend that you *at least* mention the **antenna, battery, SIM, baseband, removable media,** and **cameras** (if present). 
-
-If there are any particular components you want to focus on based on trainee concern or expressed need, build in time for these as well; for example, if you are training for video collection and uploading, you'll need to discuss **cameras, microphones,** and **removable media** like SD cards.
+These are detailed notes for leading a brief introduction or discussion about the components of a mobile phone. The number of components you choose mention will depend on your time available and the enthusiasm of your participants to share and point out various components. 
 
 ##### *Trainer's Note*
 If your only mobile session is focused on a specific functionality, tool, or app that participants access via mobiles, you may also want to pull input content from other topics (such as [Safer Browsing - HTTPS and SSL](levelup/curriculum/safer-browsing/https-ssl/input/internet-authenticity-confidentiality) or [Data Backup Basics](levelup/curriculum/protecting-data/data-backup-basics/input/crafting-backup-policy/) to combine with this core Input about mobile fundamentals.
+
+We recommend that you *at least* mention the **antenna, battery, SIM, baseband, and removable media**, and **cameras** (if present). If there are any particular components you want to focus on based on trainee concern or expressed need, build in time for these as well; for example, if you are training for video collection and uploading, you'll need to discuss **cameras, microphones,** and **removable media** like SD cards.
 <br><br>
 
 ## Step 1. What’s a Phone Made Of?
@@ -118,26 +117,26 @@ This content data can be cross-referenced against usage and user metadata, to pr
 Show participants [Unique in the Crowd: The Privacy Bounds of Human Mobility](http://www.nature.com/articles/srep01376), a 2012 study of 1.5 million mobile users over 15 months. This study found that with hourly samples taken of our location and usage, 95% of users can be uniquely distinguished using only four data points of usage.    This means that our behavior unique identifies us, even if our identity is not tied to the device and its identifying information on a mobile network.
 <br><br>
 
-## Additional Content for Smartphone Users
+## Step 5. Additional Content for Smartphone Users
 Since smartphones offer even more functionality and options than feature phones, the amount of information that can be observed and logged is **far greater.** In addition, smartphone users are sharing that very detailed identifying information about themselves and their usage to far more companies than just their mobile network operator -  every app you choose to install can also send selected data about **your usage, call times, contacts, and data use to whomever makes that app.**
 
 What an app can see and log is often set by the app designer, but there are ***very few*** laws and regulations constraining what they can design their app for. Similarly, **the operating system and manufacturer** of a smartphone has implications on where your data goes and who can see it aside from your mobile network operator.
 
-## Step 2. Android vs. iPhone: Similarities and Differences
+### Android vs. iPhone: Similarities and Differences
 
-### Operating Systems
+#### Operating Systems
 **Android devices** share a massive amount of user data with Google, since their operating system is deeply entwined with a user's Google account. If you use Google services and apps as well as an Android-powered smartphone, Google knows an overwhelming amount of information about you -- possibly more than you'd realize about yourself, since they log and analyze that data.
 
 Similarly, **iPhones** (using iOS as their operating system) provide a similar amount of information about users to Apple, which can be combined with a user's data if they use other Apple products and services. In addition, iPhone and Apple are highly proprietary and their software and hardware are **closed source**. This includes the iPhone itself, as well as the Apple apps that run on it; in comparison, Android is **open source**, which allows everyone to review their code and know what the Android does.
 
-### App Stores
+#### App Stores
 Android is designed to download apps from the **Google Play Store**, which gives users a generic list of the type(s) of access any third-party app from the Play Store can their app is installed on your device, ranging from everything you do to almost nothing.
 
 In the **iPhone App Store**, this is not the case - users do not know what third-party apps can access on their iPhone, with no level of detail provided to users upon app download. In addition, the full-disk encryption on iPhones is designed to work for all built-in Apple iPhone apps, but may not work for third-party apps.
 
 The designers of third-party apps can design their apps to work with the iPhone's built-in disk encryption (also called "data protection"); however, because of this, it is not clear what kind of access third-party apps have to usage data from their phones. Furthermore, nor do users know if the data associated with third-party apps is encrypted on their iPhone, which potentially makes it easier to access *physically* on the device.
 
-### Location Information
+#### Location Information
 Smartphones are able to use GPS (Global Positioning System) satellites *in addition to* the approximate location triangulation of mobile network towers can provide. This gives far more detailed location data to operators and to any apps who have access to that information. This more precise location can be attached, along with the date and other information, to any pieces of data that the phone collects to post online or store on its memory.
 <br><br>
 
