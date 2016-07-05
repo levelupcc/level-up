@@ -19,7 +19,7 @@ deepening:
 
 synthesis:
  - name: Safer Browsing - Anonymity & Circumvention Synthesis
-   url: /curriculum/safer-browsing/anonymity-and-circumvention/synthesis/anonymity-and-circumvention/
+   url: /curriculum/safer-browsing/anonymity-and-circumvention/synthesis/synthesis-anonymity-and-circumvention/
 
 platforms: Mac OS, Windows
 level: Fundamental
