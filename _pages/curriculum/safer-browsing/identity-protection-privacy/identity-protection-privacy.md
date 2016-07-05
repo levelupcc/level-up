@@ -17,8 +17,11 @@ deepening:
  - name: "Using HTTPS Everywhere"
    url: /curriculum/safer-browsing/identity-protection-privacy/deepening/using-https-everywhere/
 
+ - name: "Using the Tor Browser Bundle"
+   url: /curriculum/safer-browsing/anonymity-and-circumvention/deepening/using-tor/
+
 synthesis:
- - name: "Synthesis: Protecting Data - Identity Protection and Privacy"
+ - name: "Protecting Data - Identity Protection and Privacy Synthesis"
    url: /curriculum/safer-browsing/identity-protection-privacy/synthesis/synthesis-identity-protection-privacy/
 
 platforms: Mac OS, Windows, Linux, Chrome, Firefox
