@@ -18,8 +18,8 @@ deepening:
    url: /curriculum/protecting-data/creating-and-managing-strong-passwords/deepening/using-a-password-manager/
 
 synthesis:
- - name: Secure Passwords
-   url: /curriculum/protecting-data/creating-and-managing-strong-passwords/synthesis/secure-passwords/
+ - name: Creating and Managing Strong Passwords Synthesis
+   url: /curriculum/protecting-data/creating-and-managing-strong-passwords/synthesis/synthesis-creating-and-managing-strong-passwords/
 
 platforms: Mac OS, Windows
 level: Fundamental
