@@ -39,4 +39,4 @@ breadcrumb: HTTPS and SSL
 -  Learn to install and use HTTPS Everywhere.
 
 ### Important Notes
-The number of countries where the use of encryption is illegal has decreased, but legal concerns are still very real for some participants. Before a training, review the laws of where your participants live and work, as well as the laws of where you're conducting the training, to confirm that the use of technologies highlighted in this session, including the Tor Browser Bundle, is allowed.
+This session illustrates one of the most common Internet encryption protocols. However, trainers may wish to confirm, when preparing for in-class demonstrations, they are not directing participants to visit websites that have been banned.
