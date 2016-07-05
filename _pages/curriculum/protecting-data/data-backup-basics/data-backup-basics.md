@@ -18,7 +18,7 @@ deepening:
     url: /curriculum/protecting-data/data-backup-basics/deepening/learning-how-to-backup-your-data
 
 synthesis:
-  - name: "Synthesis: Protecting Data - Data Backup Basics"
+  - name: "Data Backup Basics Synthesis"
     url: /curriculum/protecting-data/data-backup-basics/synthesis/synthesis-data-backup-basics
 
 platforms: Mac OS, Windows
