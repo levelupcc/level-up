@@ -1,6 +1,6 @@
 ---
 layout: content-page
-title: "Anonymity & Circumvention Synthesis"
+title: "Synthesis: Anonymity & Circumvention"
 author:
 summary: "A final review and closeout of Anonymity & Circumvention session; adjust your closing takeaways and questions to the tools focused on during the session, in addition to the concepts covered."
 permalink: /curriculum/safer-browsing/anonymity-and-circumvention/synthesis/synthesis-anonymity-and-circumvention/
@@ -10,6 +10,8 @@ adids: Synthesis
 parent: "Safer Browsing - Anonymity & Circumvention"
 duration: 20-30 minutes
 ---
+#Synthesis
+
 ### Ask participants if they have questions before completing the session:
 - Answer any questions that were tabled during the session to be answered later - exclude any issues that require one-on-one assistance or explanation, to be addressed independently from the group.
 
