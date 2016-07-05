@@ -13,14 +13,6 @@ input:
  - name: "Mobile Devices: How Do They Work?"
    url: /curriculum/mobile-safety/how-mobile-networks-work/input/how-do-mobile-devices-work/
 
-deepening:
- - name:
-   url:
-
-synthesis:
- - name:
-   url:
-
 platforms:
 level: Fundamental
 prerequisites:
