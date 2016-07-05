@@ -1,6 +1,6 @@
 ---
 layout: module
-title: "Protecting Data - Data Backup Basics"
+title: Data Backup Basics
 summary: This fundamental level module addresses basic practices for users, at both individual and organizational levels, for successful and safe backup of important information. Similarly, to help participants better visualize their personal "information map", this module also emphasizes the importance for users of understanding the what (type or format) and the where (storage location) of such valuable or sensitive data.
 author: Daniel O'Clunaigh, Ali Ravi, Samir Nassar, Carol Waters
 date: 2016-03
