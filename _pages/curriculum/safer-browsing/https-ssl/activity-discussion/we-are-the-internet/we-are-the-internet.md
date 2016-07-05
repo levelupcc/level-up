@@ -1,6 +1,6 @@
 ---
 layout: content-page
-title: Activity & Discussion: We Are the Internet
+title: "Activity & Discussion: We Are the Internet"
 author: DJ, Lindsay Beck
 summary: The purpose of this interactive activity session is to illustrate how information is requested and delivered online, demonstrating basic concepts of how the Internet works as a whole. It also helps participants understand much we expose about ourselves online.
 permalink: /curriculum/safer-browsing/https-ssl/activity-discussion/we-are-the-internet/
