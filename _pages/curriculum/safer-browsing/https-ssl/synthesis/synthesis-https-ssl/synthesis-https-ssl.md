@@ -10,7 +10,7 @@ adids: Synthesis
 parent: HTTPS and SSL
 duration: 10-15 minutes
 ---
-# Sythesis
+# Synthesis
 
 Ask participants if they have questions before completing the session. If time allows, refer to the essential questions listed in the Input section to see if the information has been understood. Some questions might include:
 - Which is secure: HTTP or HTTPS?
