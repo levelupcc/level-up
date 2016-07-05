@@ -1,10 +1,10 @@
 ---
 layout: content-page
-title: "Data Backup Matrix: Creating an Information Map"
+title: "Activity & Discussion: Data Backup Matrix - Creating an Information Map"
 summary: In this exercise, participants will be led through a process to think critically about the different kinds of data they store, where such data is stored, and what the potential impact of losing control of such data might be. The depth of discussion in this exercise will vary depending on group dynamics.
-permalink: /curriculum/protecting-data/data-backup-basics/activity-discussion/data-backup-matrix-information-map
-breadcrumb: "Data Backup Matrix: Creating an Information Map"
-date: 2016-05-00
+permalink: /curriculum/protecting-data/data-backup-basics/activity-discussion/data-backup-matrix-creating-information-map/
+breadcrumb: "Data Backup Matrix - Creating an Information Map"
+date: 2016-05
 adids: Activity and Discussion
 parent: Data Backup Basics
 duration: 30-45 minutes
