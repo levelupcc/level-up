@@ -1,13 +1,13 @@
 ---
 layout: content-page
-title: "Using the Tor Browser Bundle"
+title: "Deepening: Using the Tor Browser Bundle"
 author: Lindsay Beck, Chris Walker
 summary: In this Deepening session, participants will learn how to use the Tor Browser Bundle for anonymity and circumvention, to conduct safer browsing actions while accessing sensitive or blocked content online. Participants will use the Tor Browser Bundle to create an anonymous connection, confirm that it is working, and change their Tor exit relay.
 permalink: /curriculum/safer-browsing/anonymity-and-circumvention/deepening/using-tor/
 breadcrumb: "Using the Tor Browser Bundle"
 date: 2016-05
 adids: Deepening
-parent: "Safer Browsing - Anonymity & Circumvention, Safer Browsing - Identity Protection and Privacy"
+parent: "Safer Browsing - Anonymity & Circumvention; Safer Browsing - Identity Protection and Privacy"
 duration: 45-60 minutes
 platforms: Linux, Mac OS, Windows
 ---
