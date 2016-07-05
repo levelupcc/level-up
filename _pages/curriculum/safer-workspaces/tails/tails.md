@@ -1,8 +1,9 @@
 ---
 layout: module
-title: "Safer, Anonymous Workspaces using Tails"
+title: "Safer Workspaces - Using Tails"
+summary: Tails (The Amnesic Incognito Live System) is a a live operating system, or an operating system which can be run directly from an external media storage device such as a USB stick or SD card. In addition to being portable, Tails leaves no trace of itself once disconnected from a machine, and routes all internet traffic through the Tor network.
 author: Michael Carbone, Lindsay Beck, Chris Walker, Carol, Nick Sera-Leyva
-date: 2015-05-00
+date: 2015-05
 
 activity:
   - name: Offline Circumvention
@@ -10,7 +11,7 @@ activity:
 
 input:
  - name: Censorship Circumvention
-   url: /curriculum/safer-workspaces/tails/input/censorship-circumvention/
+   url: /curriculum/safer-browsing/anonymity-and-circumvention/input/how-censorship-and-circumvention-work/
  - name: Staying Anonymous Using Tails
    url: /curriculum/safer-workspaces/tails/input/staying-anonymous-using-tails/
 
@@ -31,11 +32,7 @@ permalink: /curriculum/safer-workspaces/tails/
 parent: Safer Workspaces
 breadcrumb: Using Tails
 ---
-**Tails** (The Amnesic Incognito Live System) is a a *live* operating system, or an operating system which can be run directly from an external media storage device such as a USB stick or SD card. In addition to being portable, Tails leaves no trace of itself once disconnected from a machine, and routes all internet traffic through the Tor network.
-
-**If this is your first time using our curriculum, please visit** **How To: Using LevelUp's Trainer's Curriculum [LINK]**
-
-## Learning Goals for Participants ##
+## Learning Goals for Participants
 - Understand how Internet censorship works.
 - Introduce Tails (The Amnesic Incognito Live System), a live operating system that can be booted on any computer using external media such as USB drive, DVD, or SD card.
 - Learn to download and install the Tails operating system bundle safely.
@@ -43,8 +40,6 @@ breadcrumb: Using Tails
 - Understand the anonymity and digital safety concepts behind the design of Tails.
 <br><br>
 
-
-## Important Notes ##
-
-- The countries where the use of encryption is illegal and that law is enforced has decreased, but it is still a very real concern for some participants. **Before a training, review the laws of where your participants live and work, as well as the laws of where you're conducting the training.**
-- At minimum, a basic understanding of Tor, a technology built into Tails that provides an encrypted, anonymizing connection for users, is key to using and understanding Tails. The **Safer Browsing for Anonymity and Circumvention [LINK]** module with the **Using the Tor Browser Bundle  [LINK]** Deepening is a pre-requisite for this module, and should be covered before moving on to any session which incorporates the use of Tails.
+### Important Notes
+- The countries where the use of encryption is illegal and that law is enforced has decreased, but it is still a very real concern for some participants. Before a training, review the laws of where your participants live and work, as well as the laws of where you're conducting the training.
+- At minimum, a basic understanding of Tor, a technology built into Tails that provides an encrypted, anonymizing connection for users, is key to using and understanding Tails. The [Safer Browsing - Anonymity and Circumvention](/curriculum/safer-browsing/anonymity-and-circumvention/) module with the [Using the Tor Browser Bundle](/curriculum/safer-browsing/anonymity-and-circumvention/deepening/using-tor/) Deepening is a pre-requisite for this module, and should be covered before moving on to any session which incorporates the use of Tails.
