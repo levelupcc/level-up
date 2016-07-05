@@ -37,3 +37,5 @@ breadcrumb: Creating and Managing Strong Passwords
 ### Important Notes
 While secure passwords is one of the most fundamental digital safety topics, the advice for minimum password strength—and other related best practices—changes constantly as shorter and less complex passwords become easier, faster, and cheaper to compromise. Keep up to date to provide the best advice for training participants.
 
+In addition, trainers will differ on what they consider the best parameters for a strong password, which may deviate from the advice in this section - remember to keep participant context in mind while covering this topic.
+
