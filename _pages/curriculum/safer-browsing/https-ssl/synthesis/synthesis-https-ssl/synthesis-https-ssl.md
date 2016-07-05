@@ -1,18 +1,18 @@
 ---
 layout: content-page
-title: Synthesis - HTTPS and SSL
+title: "Synthesis: HTTPS and SSL"
 author: DJ
 summary: A final wrap-up and closing session for participants, for the Safer Browsing - HTTPS and SSL module.
 permalink: /curriculum/safer-browsing/https-ssl/synthesis/synthesis-https-ssl/
-breadcrumb: Synthesis - HTTPS and SSL
+breadcrumb: HTTPS and SSL Synthesis 
 date: 2015-04
-adids: Activity and Discussion
+adids: Synthesis
 parent: HTTPS and SSL
 duration: 10-15 minutes
 ---
+# Sythesis
 
 Ask participants if they have questions before completing the session. If time allows, refer to the essential questions listed in the Input section to see if the information has been understood. Some questions might include:
-
 - Which is secure: HTTP or HTTPS?
 - Why is HTTPS important?
 - If I am instant messaging my friend and the connection isn’t protected, what could someone in the middle – like an employee at my service provider – see?
