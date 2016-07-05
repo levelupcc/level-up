@@ -4,9 +4,9 @@ title: "Activity & Discussion: Offline Circumvention"
 author: Lindsay Beck
 parent: "Safer Browsing for Anonymity and Circumvention; Safer, Anonymous Workspaces using Tails"
 summary: "This Activity and Discussion will outline how internet proxies work to disguise IP addresses, moving through three different scenarios: traffic routed over HTTP, traffic routed through a VPN, and traffic routed over the Tor network."
-permalink: /curriculum/safer-workspaces/tails/activity-discussion/offline-circumvention/
-breadcrumb: "AD: Offline Circumvention"
-date: 2014-03-00
+permalink: /curriculum/safer-browsing/anonymity-circumvention/activty-discussion/offline-circumvention/
+breadcrumb: "Offline Circumvention"
+date: 2014-03
 adids: Activity and Discussion
 duration: 30-60 minutes
 ---
