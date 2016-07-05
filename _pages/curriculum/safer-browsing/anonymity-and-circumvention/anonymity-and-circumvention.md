@@ -1,8 +1,9 @@
 ---
 layout: module
 title: Safer Browsing - Anonymity and Circumvention
+summary: This module covers specific browsing practices and tools for remaining anonymous online, and circumvention for accessing blocked or censored content online. Many tools and strategies to circumvent Internet restrictions are in existence today; however, some tools offer more security features than others, and may be better for your unique needs for security than others. 
 author: Lindsay Beck, Chris Walker, Carol Waters
-date: 2015-05-00
+date: 2015-05
 
 activity:
   - name: Offline Circumvention
