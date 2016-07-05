@@ -1,6 +1,6 @@
 ---
 layout: content-page
-title: "Learning How to Backup Your Data"
+title: "Deepening: Learning How to Backup Your Data"
 summary: In this Deepening element, trainers will guide participants through how to use data backup tools, referencing once again the elements that should be considered when designing a backup policy, and practices for how to create a backup policy.
 permalink: /curriculum/protecting-data/data-backup-basics/deepening/learning-how-to-backup-your-data/
 breadcrumb: "Learning How to Backup Your Data"
