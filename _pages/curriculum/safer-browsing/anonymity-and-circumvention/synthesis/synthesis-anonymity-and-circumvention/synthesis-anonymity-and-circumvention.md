@@ -1,13 +1,13 @@
 ---
 layout: content-page
-title: "Synthesis: Anonymity & Circumvention"
+title: "Safer Browsing - Anonymity & Circumvention Synthesis"
 author:
 summary: "A final review and closeout of Anonymity & Circumvention session; adjust your closing takeaways and questions to the tools focused on during the session, in addition to the concepts covered."
-permalink: /curriculum/safer-browsing/anonymity-and-circumvention/synthesis/anonymity-and-circumvention/
-breadcrumb: "S: Anonymity & Circumvention"
-date: 2014-03-00
+permalink: /curriculum/safer-browsing/anonymity-and-circumvention/synthesis/synthesis-anonymity-and-circumvention/
+breadcrumb: "Safer Browsing - Anonymity & Circumvention"
+date: 2014-03
 adids: Synthesis
-parent: "Safer Browsing: Anonymity & Circumvention"
+parent: "Safer Browsing - Anonymity & Circumvention"
 duration: 20-30 minutes
 ---
 
