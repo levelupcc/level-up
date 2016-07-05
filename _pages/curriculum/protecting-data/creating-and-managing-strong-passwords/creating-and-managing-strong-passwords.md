@@ -3,7 +3,7 @@ layout: module
 title: Creating and Managing Strong Passwords
 summary: In this module, trainers will work with participants to review basic habits and practices for managing passwords, the implications of a compromised password and how they are commonly compromised, and how to create "stronger" passwords and use a password manager tool to administer them.
 author: CC, Carol, Megan
-date: 05/31/2016
+date: 2016-05
 
 activity:
   - name: Password Reverse Race
