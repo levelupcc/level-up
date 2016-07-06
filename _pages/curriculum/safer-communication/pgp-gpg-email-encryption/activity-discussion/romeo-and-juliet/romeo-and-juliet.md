@@ -63,11 +63,11 @@ Ask **Romeo** to write a letter *to* **Juliet**:
 
 Now, tell them that Romeo and Juliet fall in love, and would like to exchange personal notes, but are worried that the village will know of their affair. Then, one day, **a PGP Gnome** or **Crypto Gnome** appears in a meadow where Juliet is napping (the trainer plays this role), and provides Juliet with the following instructions and items:
 
-##### "Juliet! Do you want Romeo to send you a note so that no one along the way can tell what it is?* Then you should give him this, your very own open lockbox."
+##### "Juliet! Do you want Romeo to send you a note so that no one along the way can tell what it is? Then you should give him this, your very own open lockbox."
 
 Hand Juliet one of the lockboxes, and continue with:
 
-##### "This is a magical lockbox - why is it magical?
+##### "This is a magical lockbox - why is it magical?"
 - You have as many of the same lockbox as you want.
 - You can give it to whomever you want to have send you confidential messages.
 - Once they put their message in your lockbox and send it to you, another lockbox is magically there for them to use.
@@ -101,6 +101,7 @@ Answer: Juliet gives the butcher a lockbox!
 
 ##### "What if Juliet wants everyone to send her confidential messages? Who can use Juliet's lockbox?" 
 Answer: Anyone!
+<br><br>
 
 Begin associating the word **"public"** with the **'lockbox'** here - Juliet can leave a lockbox in the **lockbox-tree** in the village (a metaphor for describing the **keyserver** concept). This will help to reinforce the public aspect of the lockbox.
 <br><br>
@@ -121,6 +122,7 @@ Answer: His own lockbox!
 
 ##### Where does Romeo get his own lockbox and private key?
 Answer: the PGP-Gnome/Trainer, a metaphor for [GPGTools](https://gpgtools.org/), [Enigmail](https://www.enigmail.net/index.php/en/), and/or other PGP keypair generating tools!
+<br><br>
 
 Provide Romeo with his own lockbox and key. Use this to review and repeat the concepts, associating them with the elements of PGP:
 - Public “lockbox”, which is the **public key**.
