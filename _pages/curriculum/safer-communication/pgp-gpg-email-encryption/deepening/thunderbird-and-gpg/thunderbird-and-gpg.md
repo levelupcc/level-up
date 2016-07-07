@@ -192,7 +192,7 @@ You can also encrypt email to a specific person’s address by default by creati
 ### Full-Disk Encryption
 Participants should only store and use PGP/GPG keys on devices they can enable full-disk encryption for; otherwise, their key can be physically accessed by others.
 
-##### Attachments
+### Attachments
 Remind participants that the **titles** of any attachments they send are visible when they send an encrypted email using *Inline PGP*. If they don't want the name of an attachment to be seen by anyone but the recipient, they can either **change the name of the attachment** into something innocuous, or **use MIME/PGP** keeping in mind that it currently works reliably with Mail on OSX, and with Thunderbird & Enigmail on Windows, OSX, and Linux.
 <br><br>
 
