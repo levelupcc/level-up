@@ -24,7 +24,7 @@ You can find this here: [https://tails.boum.org/download/index.en.html#download_
 
 # Deepening
 
-## Step 1: Background ###
+## Step 1: Background
 
 ### To start, you may want to explain the following:
 - The purpose of these exercises is to show you how to download and install Tails.
@@ -87,7 +87,7 @@ These steps are also outlined, with helpful screenshots, on the [Tails website](
 ## Step 3: Launching (or Booting) Tails
 Now that participants each have a DVD or USB with Tails properly mounted and configured, walk through the process of launching Tails for the first time.
 
-#### Before beginning, however, it may be useful to explain some basics about Live DVDs & USBs, and Tails in particular:
+### Before beginning, however, it may be useful to explain some basics about Live DVDs & USBs, and Tails in particular:
 While a computer has an operating system (likely Windows or Mac OS X) installed on the hard drive, that boots every time you start your device, you can actually boot into *another* operating system using specially configured "live" USB memory sticks or DVDs that you plug into this same device.
 
 ##### These external operating systems do not install anything onto the hard drive of a computer, but just run in memory.
@@ -175,7 +175,7 @@ An overview of the basic Tails desktop user interface can be found on the [Tails
 ## Step 5: Replicating (or Cloning) Tails
 Participants will create a new Tails USB from their existing installation. This exercise will make use of **Tails Installer**, an application available only within Tails that allows for an easier method of formatting and installing on USB drives or SD cards - this process is known as **cloning**.
 
-#### Begin by explaining the following:
+### Begin by explaining the following:
 - Cloning using Tails Installer is the easiest way for users to replicate and share Tails with their colleagues and contacts. 
 - Tails Installer also allows users to create persistent volumes in cloned copies of their original Tails installation.
 
