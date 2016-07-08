@@ -8,10 +8,7 @@ permalink: /community/community-resources-and-tools/
 parent: Community
 breadcrumb: Community Resources and Tools
 ---
-
-## Trainer Contributed Resources
-
-## Resources for Training Participants
+# Resources for Training Participants
 
 ###  [Anti-Phishing and Email Hygiene](https://freedom.press/anti-phishing-and-email-hygiene)
 
