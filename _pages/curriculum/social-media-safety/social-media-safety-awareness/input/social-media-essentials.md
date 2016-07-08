@@ -213,7 +213,7 @@ Anyone who works with (or is a member of) a vulnerable population is *particular
 
 # Additional Resources
 - [Lightbeam (aka Collusion)](https://www.mozilla.org/en-US/lightbeam/): a Firefox add-on that can show how a selection of users are tracked online.
-- [TOSDR:](https://tosdr.org/): social networking sites' Terms of Service (ToS) summaries, such as Twitter, Facebook, and Google.
+- [TOSDR](https://tosdr.org/): social networking sites' Terms of Service (ToS) summaries, such as Twitter, Facebook, and Google.
 - Transparency Report results from [Google](https://www.google.com/transparencyreport/), [Twitter](https://transparency.twitter.com/), [Facebook](https://govtrequests.facebook.com/), and [Microsoft](https://www.microsoft.com/about/csr/transparencyhub/).
-- [Creepy:](http://ilektrojohn.github.io/creepy/): shows social media postings made nearby the training, or other places requested by participants.
+- [Creepy](http://ilektrojohn.github.io/creepy/): shows social media postings made nearby the training, or other places requested by participants.
 <br><br>
