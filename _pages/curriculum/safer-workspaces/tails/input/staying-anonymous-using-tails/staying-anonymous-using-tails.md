@@ -53,7 +53,9 @@ In order to preserve anonymity, Tails automatically routes all network traffic t
 
 ##### Essentially, Tails provides pre-configured secure communications applications, hides your hardware network address from local networks, and routes all your operating system's network traffic through the Tor network.
 
-Explain to participants that Tails is different from other digital security tools they may already be familiar with, in that it offers many of the same protections and capabilities of those tools but is also an entire operating system environment. In order to understand how Tails functions, and to use it properly, it will be useful to define some further vocabulary for the group:
+Explain to participants that Tails is different from other digital security tools they may already be familiar with, in that it offers many of the same protections and capabilities of those tools but is also an entire operating system environment. 
+
+### In order to understand how Tails functions, and to use it properly, it will be useful to define some further vocabulary for the group:
 
 #### Linux
 Linux is an operating system similar to Windows or Mac, the major difference being that it is distributed as free and open-source software. Because of this, there are many different adapted distributions of Linux available - Debian, one of the more popular distributions, forms the foundation for Tails.
@@ -101,7 +103,7 @@ The other Deepening sessions available for Tails, which are also relevant to oth
 - [Using Tails to Test Suspicious Files]()
 
 ### Protecting Data
-- [Storing Confidential Information in Tails]()
+- [Storing Confidential Information in Tails](/levelup/curriculum/safer-workspaces/tails/deepening/storing-confidential-information-tails/)
 - [Viewing and Deleting Metadata in Tails with MAT]()
 <br><br>
 
