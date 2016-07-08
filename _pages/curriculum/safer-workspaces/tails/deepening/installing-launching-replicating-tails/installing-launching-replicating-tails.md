@@ -180,7 +180,7 @@ Participants will create a new Tails USB from their existing installation. This 
 - Tails Installer also allows users to create persistent volumes in cloned copies of their original Tails installation.
 
 ##### *Trainer's Note*
-Creating persistent volumes is covered in the [Storing Confidential Information in Tails]() Deepening section.
+Creating persistent volumes is covered in the [Storing Confidential Information in Tails](/curriculum/safer-workspaces/tails/deepening/storing-confidential-information-tails/) Deepening section.
 <br><br>
 
 ### Using Tails Installer to Clone Tails onto a USB Drive
@@ -194,7 +194,7 @@ If participants are not still booted into Tails from the previous steps, have ev
 - In the **Target Device** dropdown menu, the USB drives participants have inserted will now appear.
 - Select this device and then click Install Tails, clicking Yes on the following warning screen.
 
-Tails can now be launched from this new USB drive once installation completes. [Persistent volumes]() can only be created on Tails installations cloned using Tails Installer; any persistent volumes within installations of Tails being cloned to other devices will not be copied.
+Tails can now be launched from this new USB drive once installation completes. [Persistent volumes](/curriculum/safer-workspaces/tails/deepening/storing-confidential-information-tails/) can only be created on Tails installations cloned using Tails Installer; any persistent volumes within installations of Tails being cloned to other devices will not be copied.
 <br><br>
 
 ## Additional Resources 
