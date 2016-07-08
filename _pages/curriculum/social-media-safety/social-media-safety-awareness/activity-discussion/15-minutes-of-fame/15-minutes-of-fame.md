@@ -48,7 +48,7 @@ If the volunteer is in the room, or known well enough by one of the trainers, ex
 # Leading the Discussion
 Going from the end of the activity, and the questions asked to participants, segue directly into leading the discussion.
 
-#### Discuss how easy it can be to find information online.
+### Discuss how easy it can be to find information online.
 Ask the group to share examples of information sources they used:
 - Was there any *false* information?
 - Was there any *ambiguous* information?
