@@ -36,7 +36,7 @@ There are three different operating system platforms which currently exist, that
 - Qubes OS ([https://wiki.qubes-os.org/wiki/UserDoc/TorVM](https://wiki.qubes-os.org/wiki/UserDoc/TorVM))
 <br><br>
 
-## Step 2. Defining Terms
+## Step 2: Defining Terms
 This training session will focus on [Tails](https://Tails.boum.org), which stands for **T**he **A**mnesic **I**ncognito **L**ive **S**ystem.
 
 ### What does this name mean?
@@ -82,7 +82,7 @@ On a given device, such as a hard drive or USB flash drive with a set amount of 
 When a device has one or more partitions, it still needs to have a way to actually load or boot those partitions and allow them to be accessed and used. There are several different ways that devices can do this, and these are each called partition schemes. Partition schemes (similar to a boot sequence) are essentially an index of all the partitions on a device, as well as code required to start each one up, like the keys to a car.
 <br><br>
 
-## Step 3. So What Does This Have To Do with Tails?
+## Step 3: So What Does This Have To Do with Tails?
 Remind the group, after going through the above terms, that live operating systems such as Tails run off of external media like DVDs and USBs - *but how does a computer know when to run Tails and when to run its normally installed operating system?*
 
 - Explain that during this session, participants will learn how to make use of their computer's BIOS and boot sequence to automatically load Tails if it detects that a bootable device (such as USB drive) containing Tails is inserted into the machine. 
@@ -90,7 +90,7 @@ Remind the group, after going through the above terms, that live operating syste
 Again, remind the group that Tails leaves no trace of itself, or any activity performed while using it, once disconnected from a machine - this is because it runs on a computer's RAM which, as they've just learned, is automatically erased whenever a computer shuts down.
 <br><br>
 
-## Step 4. Next Steps for Training on Tails
+## Step 4: Next Steps for Training on Tails
 If participants have never encountered Tails before, and will be installing and using it for the first time, the [Installing, Launching, and Cloning Tails]() Deepening is **required material** before moving on to any of the other more topic-specific Deepening sessions.
 
 The other Deepening sessions available for Tails, which are also relevant to other themes within the LevelUp Trainers' Curriculum, are largely built around a specific use cases for Tails. As more Deepenings for Tails are added to the curriculum, they will be made available in the list below:
