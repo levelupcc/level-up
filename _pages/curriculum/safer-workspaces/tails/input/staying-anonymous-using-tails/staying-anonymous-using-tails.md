@@ -99,7 +99,7 @@ The other Deepening sessions available for Tails, which are also relevant to oth
 - [Private Communications with Tails (Basic)]()
 - [Private Communications with Tails (Advanced)]()
 
-### Malware
+### Malware Protection
 - [Using Tails to Test Suspicious Files]()
 
 ### Protecting Data
