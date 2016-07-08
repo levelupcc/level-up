@@ -4,7 +4,7 @@ title: "Synthesis: Social Media Safety Awareness"
 author: Ali Ravi, Daniel O'Clunaigh, Samir Nassar, DJ, Lindsay Beck
 parent: "Social Media Safety Awareness"
 summary: "A final review of the session module on Social Media Safety, and an opportunity for final questions and concerns to be addressed."
-permalink: /curriculum/social-media-safety/social-media-safety-awareness/synthesis/synthesis-social-media-safety-awarness/
+permalink: /curriculum/social-media-safety/social-media-safety-awareness/synthesis/synthesis-social-media-safety-awareness/
 breadcrumb: "Social Media Safety Awareness Synthesis"
 date: 2014-03
 adids: Synthesis
