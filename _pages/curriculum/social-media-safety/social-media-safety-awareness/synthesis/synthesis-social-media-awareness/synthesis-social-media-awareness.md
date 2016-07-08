@@ -23,3 +23,4 @@ Answer any questions that were tabled during the session to be answered later (e
 - If they were to set up a new social networking account now, would they do anything differently?
 - Did this session get them to think about how they mention, show, or tag other people in their social networking accounts? 
 - Have any of them ever had someone else accidentally post something about them that they wish they hadn't?
+<br><br>
