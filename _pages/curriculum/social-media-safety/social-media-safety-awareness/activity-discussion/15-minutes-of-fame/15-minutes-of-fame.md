@@ -10,8 +10,7 @@ date: 2014-03-00
 adids: Activity and Discussion
 duration: 60-90 minutes
 ---
-
-## Materials to Prepare ##
+# Materials to Prepare
 
 - 1 business card (or basic identifying information) from a willing participant.
 - **Alternatively:** Give the class a card with a name and an email address.
