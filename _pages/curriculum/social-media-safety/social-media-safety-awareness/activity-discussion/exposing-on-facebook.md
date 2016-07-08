@@ -65,14 +65,15 @@ As mentioned, for every question, each answer choice is worth an increasing valu
 
 Once everyone in the group has added up their score, you may read through the following score levels so that participants can check their own score against the rankings:
 
-### Score of 06 to 09: Your exposure is Low.
-You don't share too much information, either about yourself or those you are connected to.*
+#### Score of 06 to 09: Your exposure is Low.
+You don't share too much information, either about yourself or those you are connected to.
 
-### Score of 10 to 13: You should consider your exposure.
+#### Score of 10 to 13: You should consider your exposure.
 Look at the highest number of your answers and think about how you might reduce it.
 
-### Score of 14 to 20: Your exposure is very high.
+#### Score of 14 to 20: Your exposure is very high.
 Probably you should ask yourself if everyone should know what you had for lunch.
+<br><br>
 
 ##### *Trainer's Note*
 If participants choose more than one in a section, have them score the highest choice they selected.
