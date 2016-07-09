@@ -1,0 +1,10 @@
+---
+layout: content-page
+---
+<h2>Community</h2>
+  {% for node in site.pages %}
+      <h3>{{ node.title }}</h3>
+      <p>{{ node.summary }}</p>
+      <a class="continue-to-resource-link" href="{{ site.baseurl }}{{ node.url }}">Find out more>></a>
+    {% endif %}
+{% endfor %}
