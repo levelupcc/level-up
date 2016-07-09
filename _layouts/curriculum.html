@@ -3,7 +3,6 @@ layout: content-page
 ---
 <h2>Trainers' Curriculum Themes</h2>
   {% for node in site.pages %}
-    {% if page.title == node.parent %}
       <h3>{{ node.title }}</h3>
       <p>{{ node.summary }}</p>
       <a class="continue-to-resource-link" href="{{ site.baseurl }}{{ node.url }}">See Modules For This Theme>></a>
