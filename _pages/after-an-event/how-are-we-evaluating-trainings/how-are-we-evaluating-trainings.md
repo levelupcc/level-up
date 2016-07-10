@@ -44,7 +44,7 @@ Above all, it’s frequently very important for trainers to help participants un
 ### Example 1: Digital Society Zimbabwe
 **Natasha** and **Tawanda** are the co-founders of [Digital Society of Zimbabwe (DSZ)](http://www.dszim.org/), both digital security trainers who are based in Zimbabwe. DSZ strives to support all citizens in Zimbabwe to be more digitally resilient - their work and their trainings are informed by the specific threats that human rights defenders face daily in their country.
 
-#### Natasha and Tawanda shared the approach they utilise to guage the effectiveness of their trainings, using three layers of evaluation:
+Natasha and Tawanda shared the approach they utilise to guage the effectiveness of their trainings, using three layers of evaluation:
 
 ##### Layer 1
 This focuses on immediate outcomes for the training itself, conducting a training assessment at the *beginning* and the *end* of the training to measure changes in levels of knowledge.
