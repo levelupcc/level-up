@@ -24,13 +24,13 @@ LevelUp is cared for by trusted members of the training community, who are dedic
 
 ### 2. Annotate and Discuss Content with Hypothes.is
 
-##### LevelUp now uses [**Hypothes.is**](https://hypothes.is/) - a free and open source annotation plug-in - that allows users to comment and notetake on LevelUp content - directly on the site.
+##### LevelUp now uses [Hypothes.is](https://hypothes.is/) - a free and open source annotation plug-in - that allows users to comment and notetake on LevelUp content - directly on the site.
 
 To begin using Hypothes.is, click the grey  <  arrow in the *upper right-hand corner* of any page on the LevelUp site (see image below) to expand the menu sidebar. Here, you can either log-in or sign up. 
 
 *New users will need to create an account; however, the Hypothes.is team maintains [extremely transparent and privacy-friendly Terms of Service](https://hypothes.is/terms-of-service/).*
 
-<img src="/level-up/assets/images/hypothesis-toolbar-loc-point.png">
+<img src="/level-up/assets/images/hypothesis-toolbar.png">
 
 To leave a comment, simply highlight/select the text you would like to comment on - this icon will then appear over the text:
 
@@ -58,7 +58,7 @@ If you have content you would like to submit for addition to LevelUp, get in tou
 
 ### 2. Submit Content as a Pull Request on GitHub
 
-##### LevelUp now uses [**GitHub**](https://github.com/levelupcc) to edit and manage the content of this website.
+##### LevelUp now uses [GitHub](https://github.com/levelupcc) to edit and manage the content of this website.
 
 This also means that all content can now be found, in [markdown (.md) format](https://github.com/levelupcc/level-up/wiki/How-to-work-with-Markdown), via the [public LevelUp GitHub repository](https://github.com/levelupcc). To make using this option easier for all users, we've created a series of mini-tutorials which detail the process:
 
@@ -74,7 +74,7 @@ Submit new pages for module, how-tos, and other resources.
 
 ### 3. Contribute to Content Localization on Transifex
 
-##### LevelUp now uses [**Transifex**](https://www.transifex.com/otf/level-up-website/) to advance the localization of its content into more languages.
+##### LevelUp now uses [Transifex](https://www.transifex.com/otf/level-up-website/) to advance the localization of its content into more languages.
 
 We want LevelUp to be accessible in many different ways, to many different people - this involves not only having its content *translated* in more languages, but also *localized* to the context of trainers who speak and train in those languages. 
 
