@@ -13,24 +13,21 @@ breadcrumb: Psychosocial Underpinnings of Security Training
 ## Introduction
 The impact of any training program depends upon the participants’ ability to integrate new information and use that information effectively. Too often, participants attend excellent security training programs, but then fail to implement what they have learned. Therefore, it is imperative that trainers explore those factors that motivate participants to learn and use new skills, as well as factors that might hinder this process. Technical experts who do not take the time to understand the psychology of the people they are training will ultimately fail as teachers.
  
-Security training emotionally challenges both trainers and trainees in many interesting ways. The study of fear is a deep and thought-provoking area, and as trainers, we learn about ourselves and about those we teach. 
- 
-##### This module covers five broad areas seen in the menu below. We encourage you to initially read these in order, as they build upon each other, and later refer to the most useful sections as needed:
-<br>
+Security training emotionally challenges both trainers and trainees in many interesting ways. The study of fear is a deep and thought-provoking area, and as trainers, we learn about ourselves and about those we teach. This module covers five broad areas seen in the menu below. We encourage you to initially read these in order, as they build upon each other, and later refer to the most useful sections as needed:
 
-### [1. Getting to Grips with Fear](/before-an-event/psychosocial-underpinnings-of-security-training/1-getting-grips-with-fear)
+### [1. Getting to Grips with Fear](/level-up/before-an-event/psychosocial-underpinnings-of-security-training/1-getting-grips-with-fear)
 The security trainers’ emotional wildcard.
 
 ### [2. Using the Anxiety Pressure Gauge](/level-up/before-an-event/psychosocial-underpinnings-of-security-training/2-anxiety-pressure-gauge/)
 Heighten the impact of security training.
 
-### [3. Raising and Lowering the Pressure in a Group](/before-an-event/psychosocial-underpinnings-of-security-training/3-raise-lower-pressure/)
+### [3. Raising and Lowering the Pressure in a Group](/level-up/before-an-event/psychosocial-underpinnings-of-security-training/3-raise-lower-pressure/)
 Our skill as trainers is measured in part by our ability to manage the way in which our groups work with difficult material.
 
-### [4. Stress and Traumatic Stress Reactions in Security Training](/before-an-event/psychosocial-underpinnings-of-security-training/4-traumatic-stress-reactions/)
+### [4. Stress and Traumatic Stress Reactions in Security Training](/level-up/before-an-event/psychosocial-underpinnings-of-security-training/4-traumatic-stress-reactions/)
 A natural part of the way human beings respond to challenge and danger.
 
-### [5. Building your Own Emotional Resilience as a Security Trainer](levelup/before-an-event/psychosocial-underpinnings-of-security-training/5-emotional-resilience/)
+### [5. Building your Own Emotional Resilience as a Security Trainer](level-up/before-an-event/psychosocial-underpinnings-of-security-training/5-emotional-resilience/)
 Avoid the pitfalls of burnout and vicarious traumatization.
 <br><br>
 
