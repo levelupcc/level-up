@@ -12,8 +12,8 @@ breadcrumb: Golden Rules of Effective Training
 In order to organize and lead trainings that prioritize the learning and development of our participants, a standard of respect for the context and experience they arrive with in the training room, and the protection of their identities and safety of their wellbeing, as trainers we must...
 
 ## "Golden Rule" 1
-Always explain why a tool, strategy, or habit is important *before* you start training on it.
 
+#### Always explain why a tool, strategy, or habit is important *before* you start training on it.
 Lessons will stick with participants if they know how the information is relevant to themselves and their work. To facilitate this, trainers may choose to employ one or more of the following approaches:
 - Use **real-life** examples or case studies that participants can relate to.
 - Connect session theme(s) to the work that your participants do on a daily basis.
@@ -23,7 +23,8 @@ Emphasize that security is as much about a change in behavior, as it is about to
 <br><br>
 
 ## "Golden Rule" 2
-Create and foster a *safe and secure* space for your training.
+
+#### Create and foster a *safe and secure* space for your training.
 - Agree with the participants to not broadcast identities via social media and on the Internet. 
 - As a digital security trainer, do not allow the participants to name you online as such.
 - The public face of your training should not at any point become a cause for concern. 
@@ -34,8 +35,8 @@ For more guidance on creating safe spaces for digital security trainings, refer 
 <br><br>
 
 ## "Golden Rule" 3
-Provide participants with ways to communicate with you securely *post-training.*
 
+#### Provide participants with ways to communicate with you securely *post-training.*
 If your participants live in high-risk environments where monitoring is prevalent, it's essential to to establish spolicies with organizers that will cover communications before, during and after the workshop. Most importantly, remember to stick to the following guidelines for your training participants:
 - Do not divulge the list of participants online, or any of their individual names.
 - Keep their personal data (passports, full names, addresses) offline and secure **no matter what.**
