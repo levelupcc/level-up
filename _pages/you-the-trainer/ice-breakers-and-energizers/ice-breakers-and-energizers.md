@@ -1,12 +1,12 @@
 ---
 layout: content-page
-title: Icebreakers, Energizers, and Other Interactive Exercises
+title: "Icebreakers, Energizers, and Other Interactive Games"
 date: 2014-03
 author: CC
 summary: "A practical, and growing, guide to interactive activities digital security trainers can use during their events to keep energy high, discussion flowing, and participants comfortable."
 permalink: /you-the-trainer/ice-breakers-and-energizers/
 parent: "You, The Trainer"
-breadcrumb: Icebreakers, Energizers, and Other Interactive Exercises
+breadcrumb: "Icebreakers, Energizers, and Other Interactive Games"
 ---
 #### Including interactive exercises as part of training sessions can be a powerful teaching tool - whereas all people learn differently (in addition to cultural and regional differences), making training workshops fun and interactive is an effective training approach for most participants.
 
