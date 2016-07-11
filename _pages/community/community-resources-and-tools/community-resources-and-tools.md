@@ -8,6 +8,9 @@ permalink: /community/community-resources-and-tools/
 parent: Community
 breadcrumb: Community Resources and Tools
 ---
+#### This resource is continually evolving, as is the community. 
+Send us an email at [levelup@riseup.net](mailto: levelup@riseup.net) ([GPG public key here](http://pgp.mit.edu/pks/lookup?op=get&search=0x207BFB9591A638BE)) **with a request to join the LevelUp Mailing List**, to stay updated with the latest on LevelUp, be informed of changes or improvements to the site, and interact with others in the training community. 
+
 # Resources for Training Participants
 
 ###  [Anti-Phishing and Email Hygiene](https://freedom.press/anti-phishing-and-email-hygiene)
