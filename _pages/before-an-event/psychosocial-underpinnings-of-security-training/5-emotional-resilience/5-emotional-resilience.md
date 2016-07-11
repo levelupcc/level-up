@@ -11,7 +11,6 @@ breadcrumb: Building your Own Emotional Resilience as a Security Trainer
 **By Craig Higson-Smith, of the [Center for Victims of Torture](http://cvt.org/)**
 
 #### Avoid the pitfalls of burnout and vicarious traumatization.
-
 The impact of any training program depends upon the participants’ ability to integrate new information and use that information effectively. Too often, participants attend excellent security training programs, but then fail to implement what they have learned. Therefore, it is imperative that trainers explore those factors that motivate participants to learn and use new skills, as well as factors that might hinder this process. Technical experts who do not take the time to understand the psychology of the people they are training will ultimately fail as teachers.
  
 Security training emotionally challenges both trainers and trainees in many interesting ways. The study of fear is a deep and thought-provoking area, and as trainers, we learn about ourselves and about those we teach. 
@@ -28,40 +27,35 @@ The risk is particularly great when working with “high pressure” groups, tha
 ## Emotional Risk to Trainers 
 This emotional risk to trainers when increasingly exposed to indirect traumatic stress is two pronged, as detailed here.
 
-##### Burnout
+#### Burnout
 Burnout refers to long-term exhaustion caused by working too hard, for too long, and without sufficient support. It has been linked to a range of emotional and physical health problems, as well as poor performance in the workplace. While exposure to threats or trauma is not a necessary feature of burnout, more emotionally demanding responsibilities place workers at greater risk. The prevention of burnout requires a two-part strategy:
 - **First**, organizations must ensure a healthy work environment; appropriate levels of training, supervision, and support; reachable expectations and targets; as well as regular vacation time. 
-<br>
 - **Second**, individuals should educate themselves as to the risk of burnout, monitor their own emotional health, and actively sustain their own emotional health. The prevention of burnout is a shared responsibility between employer and employee.
-<br>
 
 When an employee is suffering from burnout (that is, when prevention has failed), the key to recovery is rest. It is essential that the employee take time away from work to recover their emotional health. During this period, it is important to examine and redesign the work situation that led to the problem in the first place. In addition, stress management training might help prevent future recurrence.
 
-##### Vicarious Traumatization
+#### Vicarious Traumatization
 Vicarious traumatization refers to traumatic stress arising from exposure to the frightening experiences of others - other labels are sometimes applied to this condition, including ***secondary traumatic stress*** and ***compassion fatigue***. While not identical, these different labels represent different conceptual approaches to the same underlying problem. 
 
 In most cases, vicarious traumatization shares the features of the traumatic stress reaction. Sufferers may experience intrusive thoughts and worries relating to the stories that they have heard, or may avoid those aspects of their work that involve exposure to the fear and distress of others. People suffering vicarious traumatization may become anxious and irritable, or isolate themselves from others. In some cases, vicarious traumatization takes the form of a loss of faith in the essential goodness of others and a growing sense that one’s work is meaningless. 
 
 ##### The prevention of vicarious traumatization requires limiting exposure to distressing stories, or increasing the capacity to process traumatic material.
-
 While the former may be difficult for many people due to the demands of their jobs, regular supervision and ongoing support is helpful for the latter. When a worker is suffering from vicarious traumatization (that is, prevention has failed), counseling is indicated. People suffering from vicarious traumatization need an opportunity to process the traumatic material that is affecting them - they need to work out which aspects of the stories are upsetting to them and why. 
 
-##### Burnout and vicarious trauma are often experienced together. In this case, it is best that the person engage in some supportive counseling before taking a long vacation or time off from work.
-
-When people with vicarious trauma take time off work without first receiving some counseling, they waste their time away from work trying and failing to sort out the upsetting thoughts and feelings on their own. They do not resolve the vicarious trauma, and they do not rest.
+##### Burnout and vicarious trauma are often experienced together. 
+In this case, it is best that the person engage in some supportive counseling before taking a long vacation or time off from work. When people with vicarious trauma take time off work without first receiving some counseling, they waste their time away from work trying and failing to sort out the upsetting thoughts and feelings on their own. They do not resolve the vicarious trauma, and they do not rest.
 <br><br>
 
-## Monitoring Yourself for Burnout and Vicarious Traumatic Stress ###
+## Monitoring Yourself for Burnout and Vicarious Traumatic Stress
 Various self-report questionnaires exist to help you assess and monitor your changing levels of burnout and vicarious traumatization. The [Professional Quality of Life](http://www.proqol.org/uploads/ProQOL_5_English_Self-Score_3-2012.pdf) scale (ProQOL) is one of the best-tested and most widely used assessments.
 
 ### What is the ProQOL?
-The ProQOL is designed to be used by a range of people whose work requires them to have regular contact with those experiencing high levels of threat and trauma, and comprises 30 items that are answered using a five-point scale. This scale represents the frequency with which the respondent has experienced each item in the last 30 days, from **(1)** representing **Never** to **(5)** representing **Very Often**.
+The ProQOL is designed to be used by a range of people whose work requires them to have regular contact with those experiencing high levels of threat and trauma, and comprises 30 items that are answered using a five-point scale. This scale represents the frequency with which the respondent has experienced each item in the last 30 days, from:
+- **(1)** representing **Never**, to...
+- **(5)** representing **Very Often**.
 
 ### Make It Relevant to You
-The items of the ProQOL often include the word **[help]** - *this word is placed in brackets to indicate that respondents should change it to suit their particular work responsibilities.*
-
-##### For example, item two of the scale reads: "I am preoccupied with more than one person I [help]."  
-In this instance, security trainers should substitute the word **train** for **help**, so that the item would read: "I am preoccupied with more than one person I **train**." In this way, you can adjust the ProQOL to be more relevant to your field of work.
+The items of the ProQOL often include the word **[help]** - *this word is placed in brackets to indicate that respondents should change it to suit their particular work responsibilities.* For example, item two of the scale reads: "I am preoccupied with more than one person I [help]". In this instance, security trainers should substitute the word **train** for **help**, so that the item would read: "I am preoccupied with more than one person I **train**." In this way, you can adjust the ProQOL to be more relevant to your field of work.
 
 ### Scoring Yourself
 Simple scoring instructions are included on the second page of the assessment. The ProQOL produces three scores: 
@@ -76,16 +70,16 @@ Simple scoring instructions are included on the second page of the assessment. T
 ...is a measure of the emotional exhaustion currently being experienced by the respondent.
 <br><br>
 
-## Context Considerations
-Although the ProQOL offers cutoff points for interpretation, different cultures and different contexts require different norms. Some people prefer to use the ProQOL in a more comparative manner. To do this, self-administer the ProQOL on a *monthly or quarterly basis* and watch for any changes in your scores. 
+### Context Considerations
+Although the ProQOL offers cutoff points for interpretation, different cultures and different contexts require different norms. Some people prefer to use the ProQOL in a more comparative manner. To do this, self-administer the ProQOL on a *monthly or quarterly basis* and watch for any changes in your scores. By doing this, you are not only comparing yourself to normal population data, but also to your *own baseline*.
 
-By doing this, you are not only comparing yourself to normal population data, but also to your *own baseline*. **This is a useful way of picking up any changes in your emotional health or work satisfaction.**
+##### This is a useful way of picking up any changes in your emotional health or work satisfaction.
 <br><br>
 
 ## Practical Steps for Building your Emotional Resilience as a Security Trainer
 Taking care of your emotional health is the responsibility of every security trainer and is something that should be approached thoughtfully. Not only will active self-care strategy improve your health and emotional well-being, it will also make you a more successful trainer. 
 
-##### Below are sets of practical steps for building your emotional resilience as a security trainer, divided into the 3 common "phases" of the training cycle:
+### Below are sets of practical steps for building your emotional resilience as a security trainer, divided into the 3 common "phases" of the training cycle:
 
 #### Before Training
 - Schedule trainings sensibly to allow for recovery time between workshops.
@@ -119,7 +113,8 @@ Taking care of your emotional health is the responsibility of every security tra
 - If necessary, speak to a counselor about unresolved traumatic material.
 <br><br>
 
-## Additional Resources ##
+## Additional Resources
 - [Compassion Fatigue Awareness Project](http://www.compassionfatigue.org/)
 - [International Society for Traumatic Stress: Self-care for providers](http://www.istss.org/treating-trauma/self-care-for-providers.aspx)
 - [Professional Quality of Life](http://www.proqol.org/uploads/ProQOL_5_English_Self-Score_3-2012.pdf)
+<br><br>
