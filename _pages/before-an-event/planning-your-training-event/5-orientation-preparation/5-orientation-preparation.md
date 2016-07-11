@@ -43,7 +43,6 @@ Orienting oneself around the location of the event, including the city, the regi
 
 ##### Toolkits
 Experienced trainers travel with two toolkits: their **skills** and a **training supplies kit**. You may also find the following useful when preparing for a training, from the [You, the Trainer](/level-up/you-the-trainer/) section of this site:
- 
 - [How to Handle Surprises During Training](/level-up/you-the-trainer/how-to-handle-surprises-during-training/)
 - ["Golden Rules" of Effective Training](/level-up/you-the-trainer/golden-rules-of-effective-training/)
 - [Be a Better Trainer](/level-up/you-the-trainer/be-a-better-trainer/)
