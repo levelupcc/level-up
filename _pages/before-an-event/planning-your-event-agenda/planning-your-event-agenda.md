@@ -20,7 +20,7 @@ While there are certain minimums and limitations that should be observed in orde
 ### 2. [Agenda Checklist](/level-up/before-an-event/planning-your-event-agenda/agenda-checklist/)
 While technical event content is frequently the easiest place to begin when organizing a comprehensive agenda, there are many other components which must also be planned and prepared. To help trainers and facilitators keep track of all these moving pieces, we've organized an Agenda Checklist.
 
-### 3. [Trainer Coordination Checklist](/leve-lup/before-an-event/planning-your-event-agenda/trainer-coordination-checklist/)
+### 3. [Trainer Coordination Checklist](/level-up/before-an-event/planning-your-event-agenda/trainer-coordination-checklist/)
 Planning for an event agenda doesn't end with finalizing its design and content - there is a whole series of activities and preparation that must also be in place 'behind the scenes' in order to run a successful event and agenda. To help trainers and facilitators keep track of all these moving pieces, we've also organized a Trainer Coordination Checklist.
 <br><br>
 
