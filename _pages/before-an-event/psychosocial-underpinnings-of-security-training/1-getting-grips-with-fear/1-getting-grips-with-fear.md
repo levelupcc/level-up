@@ -10,16 +10,17 @@ breadcrumb: Getting to Grips with Fear
 ---
 **By Craig Higson-Smith, of the [Center for Victims of Torture](http://cvt.org/)**
 
-#### *The security trainers’ emotional wildcard.*
+#### The security trainers’ emotional wildcard.
 
 One cannot begin to train people in the area of security without introducing the concepts of “risk” and “threat.” In human terms, these words equate to emotions like “anxiety” and “fear.” Successful security trainers have a deep understanding of human responses to danger. As soon as a security trainer introduces a discussion of a particular threat, training participants start to feel some anxiety about that threat. In other words, we respond emotionally as well as cognitively to all material presented to us. Our emotional response to the material powerfully influences our ability to learn.
 
 Many security trainers find it difficult to understand why people feel anxious or afraid when they are sitting safely in the training room learning about security. After all, the danger is not currently present, so why feel afraid? The fact is that the brain cannot tell the difference between thinking about danger, and the actual danger itself. We have all had the experience of being made to feel intensely uncomfortable by a conversation that touches on things that are difficult for us personally. Conversations that trigger thoughts about past frightening experiences—or fears of what might happen in the future—produce some of the same neurological responses that confronting actual danger produces.
 
-Fear can be a trainer’s friend or enemy. On the positive side, fear and anxiety increase our discomfort to the point that we act to make ourselves safer. As such they can provide the strongest motivation for engagement during a training session on security. If a workshop participant does not feel themselves to be at risk in any way, it is unlikely that they will pay attention or implement the skills that they that have been taught. On the negative side, fear and anxiety can reduce our capacity to learn. When we are frightened we revert to old, trusted ways of coping. This makes it difficult to take in new information or learn new skills.
+##### Fear can be a trainer’s friend or enemy. 
+On the positive side, fear and anxiety increase our discomfort to the point that we act to make ourselves safer. As such they can provide the strongest motivation for engagement during a training session on security. If a workshop participant does not feel themselves to be at risk in any way, it is unlikely that they will pay attention or implement the skills that they that have been taught. On the negative side, fear and anxiety can reduce our capacity to learn. When we are frightened we revert to old, trusted ways of coping. This makes it difficult to take in new information or learn new skills.
 
 ##### Therefore, a core challenge for security trainers is to control the level of fear and anxiety that participants are experiencing. Too little fear, and the group are unlikely to be motivated to learn; too much fear, and the group will not be able to take in new information.
-<br>
+<br><br>
 
 ## The Survival Brain and the "Fear Button"
 Survival is the fundamental challenge facing any species, and Homo sapiens (modern human beings) have been perfecting their survival skills for at least 200,000 years. Modern human beings have evolved in response to constant dangers and threats. We were never the strongest, the fastest, or the biggest in the jungle. Nor did we have the sharpest claws or the thickest hides. *For survival we depended upon each other, and upon our brains—that is, our ability to learn.*
@@ -28,7 +29,7 @@ Through the generations we have discovered which reactions to danger most often 
 
 In fact, our survival response is hardwired into the structure of our brains. We have special structures within our brains that are designed to drive our reactions to danger. We can call these special structures the “survival brain,” and the start-up mechanism for the survival brain is fear. Once the “fear button” has been pressed, the survival brain starts up and regular cognitive and emotional functioning is suppressed.
 
-*Think about your own reactions to past dangers, or the stories that you have heard from people who have survived extreme danger*. Often people will say, “I acted without thinking!” For a long time this puzzled psychologists. How is it possible for a human being to act without thinking? In fact, modern technologies that allow scientists to map the structure of the brain have shown that this is literally true. 
+##### Think about your own reactions to past dangers, or the stories that you have heard from people who have survived extreme danger. Often people will say, “I acted without thinking!” For a long time this puzzled psychologists. How is it possible for a human being to act without thinking? In fact, modern technologies that allow scientists to map the structure of the brain have shown that this is literally true. 
 
 Neurologists can identify two distinct brain pathways for action. The usual pathway travels through the neo-cortex, the thinking and planning part of the brain, and from there to the motor centers that control action. However, an alternate brain pathway bypasses the neo-cortex and travels directly through the emotional systems of the brain to the motor centers. This is the survival pathway driven by fear. By leaving the neo-cortex out of the loop, the brain allows us to respond to danger without thinking when our fear button is pressed. Instead of planning, we rely on our evolutionary history and react immediately using the survival responses mastered by our ancestors.
 
@@ -37,14 +38,13 @@ Neurologists can identify two distinct brain pathways for action. The usual path
 This explains why people find it difficult to learn once the fear button has been pressed. Remember that the fear button is pressed not only when we confront actual danger, but also when we think about danger. As soon as the fear button is pressed, the survival brain is activated and the neo-cortex is bypassed. Unfortunately for trainers in security, the neo-cortex is required to process new information. When the thinking brain is suppressed, we lose the ability to learn.
 
 ##### An important lesson for trainers is that attempts to motivate and illustrate with stories of the dreadful results of poor security practices will often have the opposite effect, actually reducing participants’ capacity to learn.
-
 A better understanding of the human survival response involves recognizing two key principles. First, when the fear button is pressed, people will act immediately and automatically to avoid the threatening stimulus. Second, when they have done what they can to increase their actual safety, they will automatically try to make themselves feel safer.
 
 We can see how these principals might apply in the world at large. An employee will automatically avoid contact with a bullying supervisor, perhaps by waiting for her to be distracted by the telephone before walking past her office door. And when avoiding the supervisor no longer works, she might comfort herself with the thought that soon she will be promoted and will be working under a nicer person. This employee has acted first, to avoid the danger, and second, to make herself feel safer.
 
 But how might this apply in the training room? Let’s imagine a situation in which one participant is telling a horrifying story about a past experience. The story might be upsetting for someone else in the group—that is, his fear button is being pressed. In an extreme case, he might become emotional and leave the training room. More commonly, he might start talking to the person next to him, unconsciously trying to avoid contact with the threatening material. If required to listen, he will then start to try to make himself feel better. He may tell himself that the events of the story could never happen to him, or that if it did, he would be able to cope with them without difficulty. He might even tell himself that that storyteller is weak or stupid for making such a big deal out of the matter. 
 
-*However one looks at it, it is clear that telling this story is not helping him engage with the training and learn better security practices.*
+##### However one looks at it, it is clear that telling this story is not helping him engage with the training and learn better security practices.
 <br><br>
 
 ## The Survival Responses
@@ -52,36 +52,36 @@ When our fear button is pressed, the special structures of the survival brain ar
 
 The most healthy and common survival responses in adults begin with the body becoming hyper-aroused, that is, the body begins to work at a much higher level of activity than usual. This happens almost instantaneously in a variety of ways. The heart beats faster and breathing is accelerated, pumping oxygen into the blood. Blood flow to the skin and those organs not useful for immediate survival, such as the digestive and reproductive systems, is reduced. (Incidentally this explains why people who are frightened become pale and sometimes lose control of their bladder and bowels.) Blood flow to the brain, the heart, and the lungs, as well as to the muscles that we use to fight, run, climb and hide is increased. Even our blood clots faster when we are in this state, an evolutionary adaptation designed to reduce the impact of injury.
 
-When this oxygen-rich and energy-loaded blood arrives in our brain and muscles we experience an amazing surge of clarity, strength and speed. At the same time, the way we perceive the world changes. Our peripheral vision reduces as we focus on the threat and our pupils enlarge so that we can see more clearly in low light and shadow. Commonly, people who have survived extreme danger report that time seemed to slow down and that they understood everything that was happening with startling clarity. Finally, our emotional responses become muted. Typically at the moments of greatest danger we feel no fear, horror, or sadness. Those feelings might have helped us avoid danger, but once we are caught up in a life or death situation, they merely get in the way. Instead, survivors report feeling very calm and clear. (Of course, many terrible feelings flood in later, as soon as the greatest danger is past). There are many stories of the super-human feats of frightened people.
+##### When this oxygen-rich and energy-loaded blood arrives in our brain and muscles we experience an amazing surge of clarity, strength and speed. 
+At the same time, the way we perceive the world changes. Our peripheral vision reduces as we focus on the threat and our pupils enlarge so that we can see more clearly in low light and shadow. Commonly, people who have survived extreme danger report that time seemed to slow down and that they understood everything that was happening with startling clarity. Finally, our emotional responses become muted. Typically at the moments of greatest danger we feel no fear, horror, or sadness. Those feelings might have helped us avoid danger, but once we are caught up in a life or death situation, they merely get in the way. Instead, survivors report feeling very calm and clear. (Of course, many terrible feelings flood in later, as soon as the greatest danger is past). There are many stories of the super-human feats of frightened people.
 
 All these changes in the body and brain become visible in the way a person reacts to danger. The aim of these behaviors is to reduce the threat. At this point it is worth reminding ourselves that the brain is not able to differentiate between actual physical threats and memories versus thoughts about danger. Therefore, while survival responses are most commonly seen in reaction to an actual physical threat, they may also appear in the security training classroom. In the following section, we explore six survival responses and reflect on how they may manifest themselves in the classroom:
 
-##### The Freeze Response
+#### The Freeze Response
 ...involves a person becoming utterly still—although highly alert—and ready for action. The strategy is to escape notice until the danger has passed. A great example would be of a bank robbery in which a customer stands quietly in the corner, thereby managing to avoid the robbers’ unwanted attention. In the classroom, one might imagine a situation in which the trainer asks a participant to describe how he or she survived a particularly frightening experience. If the memories associated with this question were to trigger a freeze response, the participant may react by staring back at the trainer, motionless, and unable to answer.
 
-##### The Flight Response
+#### The Flight Response
 ...is the strategy that puts as much distance as possible between us and danger. In the bank robbery example, we might imagine a customer who leaps over a desk and breaks down a door to get away. In a classroom situation, it sometimes happens that people run out of the room when triggered in this way. However, less obvious forms of the flight response are more common. Not listening to the trainer, evading or changing the subject, talking to a neighbor, and cracking inappropriate jokes, are all ways of avoiding threatening stimuli.
 
-##### The Comply Response
+#### The Comply Response
 ...involves completely submitting to the aggressor in the hopes that cooperation will result in the attack ending quickly and without injury. Applying this to the bank robbery scenario, an example would be an employee who assists the robbers in opening the safe, packing up the money, and escaping. In the classroom, a person may participate in an exercise they find particularly uncomfortable. They do this in the mindset that if they just cooperate they will get through it quickly and will then be able to move on to less distressing work. The issue remains of course that this person is unlikely to gain anything useful from the experience.
 
-##### The Tend and Befriend Response
+#### The Tend and Befriend Response
 ...aims to ensure survival by getting closer to other human beings. We protect and care for those who are injured and more vulnerable, and we try to build relationships with those who are stronger and can protect and care for us. In extreme cases we might even try to befriend an aggressor—commonly referred to as Stockholm Syndrome. In the bank robbery situation, an instance where a customer draws children together, comforts and quiets them so as to reduce the danger is perfect example of this response method. In doing so, she gains the respect and gratitude of the parents in the room. Should violence ensue, it is more likely those parents will act to protect and care for her. At the heart of this response is the fact that human beings are social creatures and we draw together in times of danger. In the classroom, we may see participants becoming overly concerned for each other’s well-being—a sign that they themselves might be experiencing distress.
 
-##### The Posture Response
+#### The Posture Response
 ...is an attempt to drive off the danger by pretending to have greater physical strength than one actually does. Going back to the bank robbery, a manager may confront the robbers with the lie that a silent alarm has been activated and the police are on their way. At a digital security training, we might see this manifested in participants becoming argumentative and obstructive in order to undermine the authority of the trainer. 
 
-##### The Fight Response
+#### The Fight Response
 ...is the strategy of destroying or driving off the threat by attacking. In the bank robbery situation, this would involve one or more people physically attacking the robbers, with or without weapons. In the training room, this would likely be demonstrated by a participant blaming the trainer for any distress they experience, or even insulting the trainer.
 
 These six responses depend upon the person becoming adrenalized and hyper-aroused. There is, however, one additional response to danger that actually involves the person becoming hypo-aroused; in other words, *all the physical changes described previously are reversed:*
 
-##### The Dissociation Response
+#### The Dissociation Response
 ...is characterized by the slowing of heart rate and breathing, a drop in blood pressure, and the person feeling calm and disconnected from the frightening reality in which they find themselves. In the situation of the bank robbery, we might imagine a customer starting to giggle inappropriately or merely drifting off into a dreamlike state. We might see similar reactions in the classroom. It is possible someone experiencing great distress will become emotionally disconnected or inappropriate. Uncontrollable laughter when nothing is funny or daydreaming may both be signs of dissociation. 
 
-**Dissociation is a sign of serious traumatization**, a topic that is explored in greater detail in a later section.
-
-##### In the classroom, signs that the fear button has been pressed and survival responses activated may be very subtle. However, these subtle signals are important because they indicate to the trainer that participants’ capacity to learn may be compromised.***
+##### Dissociation is a sign of serious traumatization, a topic that is explored in greater detail in a later section.
+In the classroom, signs that the fear button has been pressed and survival responses activated may be very subtle. However, these subtle signals are important because they indicate to the trainer that participants’ capacity to learn may be compromised.***
 <br><br>
 
 ## Past Traumatic Experiences
@@ -89,9 +89,8 @@ The question arises as to how past traumatic experiences change the way people r
 
 The same principle applies to adults in more complex kinds of survival situations. After surviving a traumatic experience, it is likely that we will do everything in our power to avoid similar situations in the future. Furthermore, we are able to narrate our experiences to others in the hope that they too will become safer. In fact, there is an entire field within the study of human responses to traumatic stress that explores how people grow following frightening experiences. This is the study of post-traumatic growth. Not surprisingly, many trauma survivors report growth as a result of their experiences. Most commonly, people have reported having greater confidence in their own ability to respond to danger, an increased gratitude for their lives and the good things in them, a greater awareness of the support of friends and family, and a deeper spiritual awareness.
 
-##### In the context of digital security training, there is a great deal to learn from people who have survived traumatic experiences and integrate what they have learned in a healthy way. The challenge is to share these stories in ways that do not push other participants’ fear buttons and make it difficult for them to listen and learn in the classroom.
-
-It is also true that many people are negatively impacted by past traumatic experiences in a profound way. These experiences may not have been resolved in a healthy manner. Psychologists describe such people as suffering from post-traumatic stress.
+##### In the context of digital security training, there is a great deal to learn from people who have survived traumatic experiences and integrate what they have learned in a healthy way. 
+The challenge is to share these stories in ways that do not push other participants’ fear buttons and make it difficult for them to listen and learn in the classroom. It is also true that many people are negatively impacted by past traumatic experiences in a profound way. These experiences may not have been resolved in a healthy manner. Psychologists describe such people as suffering from post-traumatic stress.
 
 People suffering from post-traumatic stress are typically much more sensitive to signs of danger than others. As such, their fear buttons are pressed more quickly, and the survival responses are more intense. For people suffering the negative aftereffects of traumatic exposure, participation in security training (holistic, digital, or physical) may be extremely difficult. Careful consideration should be given to whether such people should be included in training workshops at all. Not only are they less likely to learn useful security skills, but in some cases participation in the workshop might in fact be harmful to them. It may be more useful for such a person to engage in professional trauma counseling first. Once the traumatic experiences have been worked through in a healthier way, then the person might be better able to benefit from security training. Traumatic stress is discussed in more detail in a later section.
 
