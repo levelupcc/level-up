@@ -25,7 +25,7 @@ For trainers, two important aspects of the training planning process are safely 
 ### [Step 2 - Context and Risk Analysis](/level-up/before-an-event/planning-your-training-event/2-context-risk-analysis/)
 This resource addresses how you can gather data to contextualize the risk factors involved in a training.  These findings will enhance and clarify understanding of the operational realities involved, and are highly relevant to the design and execution of the event.
 
-### [Step 3 - Analysis and Design Considerations](/level-up/before-an-event/planning-your-training-event/3-analysis-design-considerations/)
+### [Step 3 - Analysis and Design Considerations](/level-up/before-an-event/planning-your-training-event/3-analysis-design-considerations)
 The findings that emerge from an initial risk analysis will surface a basic idea of what the most important needs of participants are, with regard to digital safety - this step covers the further considerations involved when beginning to put together a draft training plan.
 
 ### [Step 4 - Communications and Content Planning](/level-up/before-an-event/planning-your-training-event/4-communications-content-planning/)
@@ -33,7 +33,7 @@ Given what you now know about the operating environment, what will be the most a
 
 ### [Step 5 - Orientation and Preparation](/level-up/before-an-event/planning-your-training-event/5-orientation-preparation/)
 Often, an event such as a training is geared towards participants within a specific context. Orientation and preparation steps for trainers are essential, in order to be ready for last-minute changes to your agenda, or even to handle an emergency situation.
-
+<br><br>
 
 
 
