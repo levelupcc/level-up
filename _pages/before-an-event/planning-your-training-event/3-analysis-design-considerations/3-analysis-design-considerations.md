@@ -43,7 +43,6 @@ If a training candidate has recently experienced a traumatic event, they are pro
 If you are in a position to select the venue for the training, you may want to take the following questions into consideration. We also strongly suggest, if possible, that you spend time in the venue the day before the training in order to troubleshoot any issues once you are on-site at the training location.
 
 #### In exploring this question for your planning, you may wish to consider the following:
-
 -  Where is it? In what neighbourhood? Is it urban or rural?
 -  How safe is it? What are crime levels like?
 -  Is this a zone dominated by any social, religious, ethnic or political group? 
