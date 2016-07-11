@@ -12,7 +12,6 @@ Except where otherwise noted, content is licensed for attribution to LevelUp.
 
 ## What Does This Mean?
 For a human-readable summary of this licence, please click [here](https://creativecommons.org/licenses/by-sa/3.0/); however, the terms are also summarized below - the licensor cannot revoke these freedoms as long as you follow the license terms:
-<br><br>
 
 ### Under an Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) licence, you are free to:
 
@@ -23,7 +22,7 @@ Copy and redistribute the material in any medium or format
 Remix, transform, and build upon the material for any purpose, even commercially.
 <br><br>
 
-### Under the following terms...
+### Under the following terms:
 
 #### Attribution
 You must give *appropriate credit*, provide a link to the license, and *indicate if changes were made*. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. 
