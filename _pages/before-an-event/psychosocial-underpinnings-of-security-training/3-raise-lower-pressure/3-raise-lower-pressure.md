@@ -87,6 +87,7 @@ This refers to the respect due to every human being. If people feel that their d
 ##### When trainers facilitate their groups in a thoughtful manner that explicitly upholds these four principles, the sense of safety in the group is increased and participants are able to relax and better engage with the material.
 <br><br>
 
+## Primum non nocere! (Above all else, Do No Harm!)
 Another way to make people feel safer is to reduce any threats in the environment. The most common threats in the security training classroom are:
 - The danger of revealing one’s own ignorance or poor security practices.
 - Confronting one’s fears.
@@ -96,12 +97,14 @@ Another way to make people feel safer is to reduce any threats in the environmen
 When many people in the group are in the Orange Zone, trainers should be careful of any activities that might exacerbate these threats. For example, going around the group asking each person to describe the encryption software they use, knowing that many people in the group do not know what encryption is, will make anxious people feel even less comfortable. 
 
 Similarly, asking people to describe their worst fears or to reflect upon past traumatic experiences may not be helpful. While certainly relevant to security training, these conversations handled badly do not help people learn.
-<br><br>
 
-## Primum non nocere! (Above all else, Do No Harm!)
 So, how do we help people confront fears and learn from past experiences in an effective manner? How do we allow people to talk about sensitive issues, in a way that doesn't cause distress or fear? 
 
-These are all important questions for security trainers. Most importantly, the distress caused by re-experiencing past traumatic experiences can in fact be harmful (this will be discussed more in relation to traumatic stress further on). Trainers should keep in mind one of the most fundamental ethical tenets, seen in the title above - Do No Harm! Below is a list of “Dos” and “Don’ts” when facilitating conversations about disturbing material, which will reduce the possibility of causing harm:
+These are all important questions for security trainers. Most importantly, the distress caused by re-experiencing past traumatic experiences can in fact be harmful (this will be discussed more in relation to traumatic stress further on). Trainers should keep in mind one of the most fundamental ethical tenets, seen in the title above - Do No Harm! 
+<br><br>
+
+## Do's and Don'ts to Do No Harm
+Below is a list of “Dos” and “Don’ts” when facilitating conversations about disturbing material, which will reduce the possibility of causing harm:
 
 ### DO...
 - Create space for people to talk about what is important to them.
