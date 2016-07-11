@@ -26,11 +26,11 @@ LevelUp is cared for by trusted members of the training community, who are dedic
 
 ##### LevelUp now uses [Hypothes.is](https://hypothes.is/) - a free and open source annotation plug-in - that allows users to comment and notetake on LevelUp content - directly on the site.
 
-To begin using Hypothes.is, click the grey  <  arrow in the *upper right-hand corner* of any page on the LevelUp site (see image below) to expand the menu sidebar. Here, you can either log-in or sign up. 
+To begin using Hypothes.is, click the grey arrow <img src="/level-up/assets/images/hypothesis-bar-arrow.PNG"> in the upper right corner of any page on the LevelUp site (see image below) to expand the menu sidebar. Here, you can either log-in or sign up. 
 
 *New users will need to create an account; however, the Hypothes.is team maintains [extremely transparent and privacy-friendly Terms of Service](https://hypothes.is/terms-of-service/).*
 
-<img src="/level-up/assets/images/hypothesis-toolbar.png">
+<img src="/level-up/assets/images/hypothesis-toolbar.PNG">
 
 To leave a comment, simply highlight/select the text you would like to comment on - this icon will then appear over the text:
 
