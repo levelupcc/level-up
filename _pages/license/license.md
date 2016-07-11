@@ -6,7 +6,7 @@ weight: 8
 hide: true
 breadcrumb: Creative Commons License
 ---
-<img src="/level-up/assets/images/CC-BY-NS-SA-3-0.PNG" alt="CC BY-SA 3.0 License">
+<img src="/level-up/assets/images/CC-BY-NS-SA-3-0.PNG">
 
 ### *All content on this site is available under a Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) license by multiple authors.*
 
