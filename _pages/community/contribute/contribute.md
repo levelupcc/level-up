@@ -20,6 +20,9 @@ There are a few different ways you can provide feedback on LevelUp's growing com
 
 ##### Email us at [levelup@riseup.net](mailto: levelup@riseup.net) ([GPG public key here](http://pgp.mit.edu/pks/lookup?op=get&search=0x207BFB9591A638BE))
 LevelUp is cared for by trusted members of the training community, who are dedicated to maintaining the resource and staying engaged with its users.
+
+##### This resource is continually evolving, as is the community. 
+Send us an email at **with a request to join the LevelUp Mailing List**, to stay updated with the latest on LevelUp, be informed of changes or improvements to the site, and interact with others in the training community.
 <br><br>
 
 ### 2. Annotate and Discuss Content with Hypothes.is
@@ -54,6 +57,9 @@ There are now a few different ways you can contribute content to LevelUp's growi
 
 ##### Email us at [levelup@riseup.net](mailto: levelup@riseup.net) ([GPG public key here](http://pgp.mit.edu/pks/lookup?op=get&search=0x207BFB9591A638BE))
 If you have content you would like to submit for addition to LevelUp, get in touch regarding content contribution, or with any questions you might have.
+
+##### This resource is continually evolving, as is the community. 
+Send us an email at **with a request to join the LevelUp Mailing List**, to stay updated with the latest on LevelUp, be informed of changes or improvements to the site, and interact with others in the training community.
 <br><br>
 
 ### 2. Submit Content as a Pull Request on GitHub
