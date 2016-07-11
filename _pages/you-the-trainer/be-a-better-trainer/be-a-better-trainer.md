@@ -9,7 +9,6 @@ parent: "You, The Trainer"
 breadcrumb: Be A Better Trainer
 ---
 #### The goal of the digital security trainer is to facilitate the participants' understanding of specific topics.
-
 In the context of online security training, the main goal of a trainer is to facilitate the participants' understanding of online security risks and solutions, apply it to their real experiences, and make the decision to change their behavior and practices in using the Internet. 
 
 ##### Below are some common examples of trainer behavior that can impede this goal:
