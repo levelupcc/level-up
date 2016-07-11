@@ -14,8 +14,9 @@ layout: default
 {% if page.adids != nil %}
 <section class="section-block">
   <p><h4>ADIDS Element </h4>{{ page.adids }}</p>
-  <p><h4>Parent Theme(s) </h4>{{ page.parent }}</p>
+  <p><h4>Parent Topic(s) </h4>{{ page.parent }}</p>
   <p><h4>Duration </h4>{{ page.duration }}</p>
+  <p><h4><a href="{{site.github.url}}/blob/{{site.github.build_revision}}/_pages/{{page.location}}">Page Content in Markdown (.md)</a></h4></p>
 </section>
 {% endif %}
 
