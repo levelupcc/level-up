@@ -35,7 +35,7 @@ One way to develop shared ground rules and expectations may be to have long lunc
 ### Sequencing & Establishing "Non-Negotiables"
 Designing an agenda is an art - aside from requests to cover *everything* (which is impossible), you also are asked to meet organizers’ priorities while also carefully calibrating how to meet the most urgent priorities of participants as you learn more about them. While it's important to give a certain amount of control of the agenda to participants, you may feel that there are certain topics which are "non-negotiables" for inclusion on the agenda.
 
-These are topics considered *essential* which, if neglected, would undermine the usefulness of covering other topics - examples might include [Malware Protection - Using Antivirus Tools](/level-up/curriculum/malware-protection/using-antivirus-tools/) or [Protecting Data - Creating and Managing Strong Passwords](/curriculum/protecting-data/creating-and-managing-strong-passwords/). Make sure you don’t skip over the most fundamental topics that you will continue to build upon throughout the workshop, and avoid sequencing sessions in a way that may cause larger problems down the road.
+These are topics considered *essential* which, if neglected, would undermine the usefulness of covering other topics - examples might include [Malware Protection - Using Antivirus Tools](/level-up/curriculum/malware-protection/using-antivirus-tools/) or [Protecting Data - Creating and Managing Strong Passwords](/level-up/curriculum/protecting-data/creating-and-managing-strong-passwords/). Make sure you don’t skip over the most fundamental topics that you will continue to build upon throughout the workshop, and avoid sequencing sessions in a way that may cause larger problems down the road.
 
 ##### Some participants may have already learned these fundamentals, but it’s important to ensure that this is the case and do not simply assume it to be so.
 
@@ -79,5 +79,5 @@ Otherwise, having non-participating individuals in the room is disruptive, is li
 Trainers should handle this carefully yet firmly, and prioritize it as a requirement to communicate to organizers and funders. If for some reason this becomes an unavoidable circumstance, it is critical to establish as much trust as possible between yourself and your participants, and among participants, during the event.
 
 ##### *Trainer's Note*
-See [The First 3 Sessions of Your Event](https://levelupcc.github.io/level-up/you-the-trainer/first-3-sessions-of-your-event/) for more guidance on relevant activities for introductions, trust-building, and breaking the ice.
+See [The First 3 Sessions of Your Event](/level-up/you-the-trainer/first-3-sessions-of-your-event/) for more guidance on relevant activities for introductions, trust-building, and breaking the ice.
 <br><br>
