@@ -2,7 +2,7 @@
 layout: content-page
 title: LevelUp's Approach to Adult Learning
 author: DJ, Manisha Aryal
-summary: LevelUp uses the Activity-Discussion-Inputs-Deepening-Synthesis (ADIDS) approach to learning and has organized its curriculum for training sessions according to this approach - where does this approach come from, and why was it chosen?
+summary: LevelUp uses ADIDS, an adult-focused approach to learning, and has organized its curriculum for training sessions according to this method - where does this it come from, and why was it chosen?
 date: 2016-03
 permalink: /before-an-event/levelups-approach-to-adult-learning/
 breadcrumb: LevelUp's Approach to Adult Learning
