@@ -24,7 +24,7 @@ synthesis:
 platforms: Mac OS, Windows
 level: Fundamental
 prerequisites:
-permalink: /curriculum/social-media-safety/
+permalink: /curriculum/social-media-safety-awareness/
 parent: Social Media Safety
 breadcrumb: Social Media Safety Awareness
 ---
