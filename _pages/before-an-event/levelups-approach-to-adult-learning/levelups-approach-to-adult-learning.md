@@ -15,7 +15,7 @@ This resource explains both the unique needs of adult learners, and how LevelUp 
 
 - [**How To: Using the LevelUp Trainer's Curriculum**](/level-up/before-an-event/using-levelup-trainers-curriculum/)
 
-- [**How-To: Preparing Sessions Using ADIDS**](https://levelupcc.github.io/level-up/before-an-event/preparing-sessions-using-adids/) 
+- [**How-To: Preparing Sessions Using ADIDS**](/level-up/before-an-event/preparing-sessions-using-adids/) 
 <br><br>
 
 ## Background
