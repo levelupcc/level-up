@@ -11,7 +11,6 @@ breadcrumb: Getting to Grips with Fear
 **By Craig Higson-Smith, of the [Center for Victims of Torture](http://cvt.org/)**
 
 #### The security trainers’ emotional wildcard.
-
 One cannot begin to train people in the area of security without introducing the concepts of “risk” and “threat.” In human terms, these words equate to emotions like “anxiety” and “fear.” Successful security trainers have a deep understanding of human responses to danger. As soon as a security trainer introduces a discussion of a particular threat, training participants start to feel some anxiety about that threat. In other words, we respond emotionally as well as cognitively to all material presented to us. Our emotional response to the material powerfully influences our ability to learn.
 
 Many security trainers find it difficult to understand why people feel anxious or afraid when they are sitting safely in the training room learning about security. After all, the danger is not currently present, so why feel afraid? The fact is that the brain cannot tell the difference between thinking about danger, and the actual danger itself. We have all had the experience of being made to feel intensely uncomfortable by a conversation that touches on things that are difficult for us personally. Conversations that trigger thoughts about past frightening experiences—or fears of what might happen in the future—produce some of the same neurological responses that confronting actual danger produces.
