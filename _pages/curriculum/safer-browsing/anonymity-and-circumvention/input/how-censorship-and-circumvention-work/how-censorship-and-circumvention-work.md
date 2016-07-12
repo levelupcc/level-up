@@ -1,6 +1,6 @@
 ---
 layout: content-page
-title: "Input: How Censorship Circumvention Work"
+title: "Input: How Censorship and Circumvention Work"
 author: Chris Walker, Lindsay Beck, Carol Waters
 parent: "Safer Browsing - Anonymity and Circumvention; Safer Workspaces - Using Tails"
 summary: "Many tools and strategies to circumvent Internet restrictions are in existence today. However, some tools offer more security features than others, and may be better for your unique needs for security than others. Thus, it’s important to know the difference between the most common types of circumvention technologies."
@@ -14,6 +14,7 @@ platform: Linux, Mac OS, Windows
 # Materials to Prepare
 - Flipchart or whiteboard with markers (flipchart preferable)
 - Projector for any videos you choose to show
+<br><br>
 
 # Input Session
 Explain that you will begin by describing a typical Internet transaction or, if you've already offered a general session on how the internet works using the [We Are The Internet](/level-up/curriculum/safer-browsing/https-ssl/activity-discussion/we-are-the-internet/), then a brief review should suffice. After that, you will address how requests for certain content can be blocked; then, you will explain how to bypass Internet censorship using proxies and other tools.
