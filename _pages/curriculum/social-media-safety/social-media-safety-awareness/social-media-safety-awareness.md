@@ -24,9 +24,9 @@ synthesis:
 platforms: Mac OS, Windows
 level: Fundamental
 prerequisites:
-permalink: /curriculum/social-media-safety-awareness/
+permalink: /curriculum/social-media-safety/social-media-safety-awareness/
 parent: Social Media Safety
-breadcrumb: Social Media Safety Awareness
+breadcrumb: "Social Media Safety Awareness"
 ---
 ## Learning Goals for Participants
 - Become more aware of the trade-offs of social networking services in order to make more informed choices.
