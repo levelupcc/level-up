@@ -16,14 +16,14 @@ input:
    url: /curriculum/safer-workspaces/tails/input/staying-anonymous-using-tails/
 
 deepening:
- - name: "Installing, Booting, and Cloning Tails"
-   url: /curriculum/safer-workspaces/tails/deepening/install-boot-clone/
- - name: "Storing Confidential Info Using Tails"
-   url: /curriculum/safer-workspaces/tails/deepening/storing-confidential-info/
+ - name: "Installing, Launching, and Replicating Tails"
+   url: /curriculum/safer-workspaces/tails/deepening/installing-launching-replicating-tails/
+ - name: "Storing Confidential Information in Tails"
+   url: /curriculum/safer-workspaces/tails/deepening/storing-confidential-information-tails/
 
 synthesis:
  - name: "Using Tails Synthesis"
-   url: /curriculum/safer-workspaces/tails/synthesis/tails-synthesis/
+   url: /curriculum/safer-workspaces/tails/synthesis/synthesis-using-tails/
 
 platforms: Linux, Mac OS, Windows
 level: Advanced
@@ -42,4 +42,4 @@ breadcrumb: Using Tails
 ### Important Notes
 - The countries where the use of encryption is illegal and that law is enforced has decreased, but it is still a very real concern for some participants. Before a training, review the laws of where your participants live and work, as well as the laws of where you're conducting the training.
 - At minimum, a basic understanding of Tor, a technology built into Tails that provides an encrypted, anonymizing connection for users, is key to using and understanding Tails. 
-- The [Safer Browsing - Anonymity and Circumvention](/curriculum/safer-browsing/anonymity-and-circumvention/) module with the [Using the Tor Browser Bundle](/curriculum/safer-browsing/anonymity-and-circumvention/deepening/using-tor/) Deepening is a pre-requisite for this module, and should be covered before moving on to *any session which incorporates the use of Tails*.
+- The [Safer Browsing - Anonymity and Circumvention](level-up/curriculum/safer-browsing/anonymity-and-circumvention/) module with the [Using the Tor Browser Bundle](/level-up/curriculum/safer-browsing/anonymity-and-circumvention/deepening/using-tor/) Deepening is a pre-requisite for this module, and should be covered before moving on to *any session which incorporates the use of Tails*.
