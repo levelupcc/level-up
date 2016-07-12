@@ -53,9 +53,10 @@ The object of this game is for participants to get to know each other by guessin
 
 #### Instructions
 Have participants pair up with someone they don't know **OR** have everyone face each other in a circle.
-  - Ask participants to say 2 true things about themselves and 1 false thing. 
-  - Give them a few minutes to think about it.
-  - Once they are ready, everyone takes turns saying two true things and one lie about themselves.
+
+- Ask participants to say 2 true things about themselves and 1 false thing. 
+- Give them a few minutes to think about it.
+- Once they are ready, everyone takes turns saying two true things and one lie about themselves.
 
 Those who are not speaking must guess which are the truths and which one is the lie.
 
