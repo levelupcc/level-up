@@ -112,9 +112,9 @@ Pay attention to the establishment of a comfortable atmosphere and feel free to 
 This is important aspect of the workshop. When organizing training, make sure that venue offers a diverse selection of food, and lots of fruits and veggies. Be mindful of dietary needs and restrictions of participants and offer options for all after asking what these are before the workshop. In your working room, make sure you have plenty of water, coffee, fruits and sweets.
 
 #### *Trainer's Note*
-For more background on this, we strongly suggest you read [The Psychosocial Underpinnings of Security Training](/level-up/before-an-event/psychosocial-underpinnings-of-security-training/) resource on LevelUp as an initial step to understanding why this approach is important, relevant, and crucial to leading effective trainings.
+For more background on this, we strongly suggest you read [The Psychosocial Underpinnings of Security Training](/before-an-event/psychosocial-underpinnings-of-security-training/) resource on LevelUp as an initial step to understanding why this approach is important, relevant, and crucial to leading effective trainings.
 
-For additional information and guidance on space planning, see [Planning Your Training Event](/level-up/before-an-event/planning-your-training-event/) in the [Before an Event](/level-up/before-an-event/) section of LevelUp.
+For additional information and guidance on space planning, see [Planning Your Training Event](/before-an-event/planning-your-training-event/) in the [Before an Event](/before-an-event/) section of LevelUp.
 <br><br>
 
 ## Movement and Healing
@@ -125,7 +125,7 @@ In designing appropriate movement and healing opportunities, it is important to 
 Facilitators should always err on the side of caution and keep the exercises and healing options gentle, and allow participants time to absorb the effects of these forms of body work. In some cases, participants may want follow-up sessions or an opportunity to discuss their reactions one-on-one.
 
 ### Movement Before or During the Workshop
-In addition to having optional movement excercises or more formal exercise in the mornings, there are several energisers that use gentle movement to increase participant concentration and connection to their bodies, from dance to stretching and breathing exercises. Self-defence basics also can be taught by a trained facilitator. Also see [Energizers, Icebreakers, and Interactive Activities](/level-up/you-the-trainer/ice-breakers-and-energizers/) although these included here in the next section are more attuned to an integrated and healing approach.
+In addition to having optional movement excercises or more formal exercise in the mornings, there are several energisers that use gentle movement to increase participant concentration and connection to their bodies, from dance to stretching and breathing exercises. Self-defence basics also can be taught by a trained facilitator. Also see [Energizers, Icebreakers, and Interactive Activities](/you-the-trainer/ice-breakers-and-energizers/) although these included here in the next section are more attuned to an integrated and healing approach.
 
 #### *Trainer's Note*
 A note on **touch** - as mentioned elsewhere on the website, this can be a bit tricky. Some participants strongly prefer not to be touch or touch others, but may also (in some circumstances) find this a very healing experience.

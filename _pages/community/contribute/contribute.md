@@ -29,23 +29,23 @@ Send us an email at **with a request to join the LevelUp Mailing List**, to stay
 
 ##### LevelUp now uses [Hypothes.is](https://hypothes.is/) - a free and open source annotation plug-in - that allows users to comment and notetake on LevelUp content - directly on the site.
 
-To begin using Hypothes.is, click the grey arrow <img src="/level-up/assets/images/hypothesis-bar-arrow.PNG"> in the upper right corner of any page on the LevelUp site (see image below) to expand the menu sidebar. Here, you can either log-in or sign up. 
+To begin using Hypothes.is, click the grey arrow <img src="/assets/images/hypothesis-bar-arrow.PNG"> in the upper right corner of any page on the LevelUp site (see image below) to expand the menu sidebar. Here, you can either log-in or sign up. 
 
 *New users will need to create an account; however, the Hypothes.is team maintains [extremely transparent and privacy-friendly Terms of Service](https://hypothes.is/terms-of-service/).*
 
-<img src="/level-up/assets/images/hypothesis-toolbar.PNG">
+<img src="/assets/images/hypothesis-toolbar.PNG">
 
 To leave a comment, simply highlight/select the text you would like to comment on - this icon will then appear over the text:
 
-<img src="/level-up/assets/images/hypothesis-annotate-highlight.PNG">
+<img src="/assets/images/hypothesis-annotate-highlight.PNG">
 
 ...from which you can choose to leave a comment (Annotate) or simply Highlight the text - select an option, and the Hypothes.is tool bar will expand to display the comment editor.
 
-To toggle your comment privacy settings between **Public** or **Private**, click on the <img src="/level-up/assets/images/hypothesis-eye-sm.PNG"> icon, which will change to <img src="/level-up/assets/images/hypothesis-eye-sm-pvt.PNG"> when **Private** is enabled. Any comment or response that you leave can be either public to all users, or private to yourself only. 
+To toggle your comment privacy settings between **Public** or **Private**, click on the <img src="/assets/images/hypothesis-eye-sm.PNG"> icon, which will change to <img src="/assets/images/hypothesis-eye-sm-pvt.PNG"> when **Private** is enabled. Any comment or response that you leave can be either public to all users, or private to yourself only. 
 
 In addition to leaving new comments, you can also engage in discussion with other users of LevelUp, by selecting their public comments and leaving a response.
 
-For more in-depth details on using Hypothes.is, see our [mini-tutorial and walkthrough here](https://github.com/levelupcc/level-up/wiki/How-to-Use-Hypothesis#how-do-you-use-it).
+For more in-depth details on using Hypothes.is, see our [mini-tutorial and walkthrough here](https://github.com/levelupcc/wiki/How-to-Use-Hypothesis#how-do-you-use-it).
 <br><br>
 
 ## How Can I Contribute Content?
@@ -66,25 +66,25 @@ Send us an email at **with a request to join the LevelUp Mailing List**, to stay
 
 ##### LevelUp now uses [GitHub](https://github.com/levelupcc) to edit and manage the content of this website.
 
-This also means that all content can now be found, in [markdown (.md) format](https://github.com/levelupcc/level-up/wiki/How-to-work-with-Markdown), via the [public LevelUp GitHub repository](https://github.com/levelupcc). To make using this option easier for all users, we've created a series of mini-tutorials which detail the process:
+This also means that all content can now be found, in [markdown (.md) format](https://github.com/levelupcc/wiki/How-to-work-with-Markdown), via the [public LevelUp GitHub repository](https://github.com/levelupcc). To make using this option easier for all users, we've created a series of mini-tutorials which detail the process:
 
-#### [Using GitHub to Contribute Content>>](https://github.com/the-engine-room/level-up/wiki/How-to-Add-Content#adding-a-new-community-resource)
-Contribute to the [community resources section](https://levelupcc.github.io/level-up/community/community-resources-and-tools/) of the Level Up website.
+#### [Using GitHub to Contribute Content>>](https://github.com/the-engine-room/wiki/How-to-Add-Content#adding-a-new-community-resource)
+Contribute to the [community resources section](https://levelupcc.github.io/community/community-resources-and-tools/) of the Level Up website.
 
-#### [Using GitHub to Edit Existing Content>>](https://github.com/the-engine-room/level-up/wiki/How-to-Edit-Content)
+#### [Using GitHub to Edit Existing Content>>](https://github.com/the-engine-room/wiki/How-to-Edit-Content)
 Submit edits or updates to existing content.
 
-#### [Using GitHub to Add New Content Pages>>](https://github.com/the-engine-room/level-up/wiki/How-to-Add-Content#adding-a-new-page)
+#### [Using GitHub to Add New Content Pages>>](https://github.com/the-engine-room/wiki/How-to-Add-Content#adding-a-new-page)
 Submit new pages for module, how-tos, and other resources.
 <br><br>
 
 ### 3. Contribute to Content Localization on Transifex
 
-##### LevelUp now uses [Transifex](https://www.transifex.com/otf/level-up-website/) to advance the localization of its content into more languages.
+##### LevelUp now uses [Transifex](https://www.transifex.com/otf-website/) to advance the localization of its content into more languages.
 
 We want LevelUp to be accessible in many different ways, to many different people - this involves not only having its content *translated* in more languages, but also *localized* to the context of trainers who speak and train in those languages. 
 
-Content for localization is currently hosted on the [Transifex](https://www.transifex.com/otf/level-up-website/) platform, which has helped our efforts to begin localizing LevelUp into Spanish and Arabic, with more languages on the way.
+Content for localization is currently hosted on the [Transifex](https://www.transifex.com/otf-website/) platform, which has helped our efforts to begin localizing LevelUp into Spanish and Arabic, with more languages on the way.
 
 ##### We've also partnered with [Localization Lab](http://www.localizationlab.org/) to explore ways of not only getting LevelUp localized, but to involve the training community directly in that process; through events like [Localization Sprints](http://www.localizationlab.org/2016-localization-summit-and-sprint-summary), we've gotten a steady start.
 
@@ -92,7 +92,7 @@ Email us at [levelup@riseup.net](mailto: levelup@riseup.net) ([GPG public key he
 <br><br>
 
 ## What Can I Contribute?
-The content on LevelUp is varied and currently includes [training session modules](/level-up/curriculum/), how-to guides for [planning events](/level-up/before-an-event/planning-your-training-event/) and [event agendas](/level-up/before-an-event/planning-your-event-agenda/), guidance on [facilitation aids](/level-up/you-the-trainer/ice-breakers-and-energizers/) and [techniques](/level-up/you-the-trainer/be-a-better-trainer/), and introductory resources on [holistic security](/level-up/before-an-event/creating-safe-spaces/) and [psychosocial well-being](/level-up/before-an-event/psychosocial-underpinnings-of-security-training/), but is expanding to include more.
+The content on LevelUp is varied and currently includes [training session modules](/curriculum/), how-to guides for [planning events](/before-an-event/planning-your-training-event/) and [event agendas](/before-an-event/planning-your-event-agenda/), guidance on [facilitation aids](/you-the-trainer/ice-breakers-and-energizers/) and [techniques](/you-the-trainer/be-a-better-trainer/), and introductory resources on [holistic security](/before-an-event/creating-safe-spaces/) and [psychosocial well-being](/before-an-event/psychosocial-underpinnings-of-security-training/), but is expanding to include more.
 
 ### Here's what we receive the most requests for:
 

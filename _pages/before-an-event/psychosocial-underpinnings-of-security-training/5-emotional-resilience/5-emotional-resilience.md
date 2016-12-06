@@ -21,7 +21,7 @@ The previous discussion of traumatic stress reactions revealed that it is not ne
 
 Any person whose work exposes them to many stories and pictures of traumatic events is at an increased risk of indirect exposure to traumatic stress. This includes psychologists, counselors, journalists, nurses, paramedics, as well as police officers and other emergency personnel. The list also includes security trainers who listen to many frightening encounters in the course of their teaching work. 
 
-The risk is particularly great when working with “high pressure” groups, that is, those groups where the majority of people are in the [**Orange Zone or Red Zone**](/level-up/before-an-event/psychosocial-underpinnings-of-security-training/2-anxiety-pressure-gauge/#the-anxiety-pressure-gauge) of the Anxiety Pressure Gauge. 
+The risk is particularly great when working with “high pressure” groups, that is, those groups where the majority of people are in the [**Orange Zone or Red Zone**](/before-an-event/psychosocial-underpinnings-of-security-training/2-anxiety-pressure-gauge/#the-anxiety-pressure-gauge) of the Anxiety Pressure Gauge. 
 <br><br>
 
 ## Emotional Risk to Trainers 

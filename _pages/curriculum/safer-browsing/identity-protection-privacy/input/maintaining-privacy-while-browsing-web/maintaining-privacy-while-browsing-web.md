@@ -85,7 +85,7 @@ When you visit a website, your intention is to have confidential communication w
 
 Refer back to your notes on the type of data created while browsing. Connect and explain these vulnerabilities - the table below outlines some of the vulnerabilities and how they connect back to certain types of data.
 
-<img src="/level-up/assets/images/maintaining-privacy-data-vulnerability-matrix.PNG">
+<img src="/assets/images/maintaining-privacy-data-vulnerability-matrix.PNG">
 
 At this point, you may wish to demonstrate some of these vulnerabilities by opening a browser and visiting [Panopticlick](https://panopticlick.eff.org) and an IP query site such as [What Is My IP](https://www.whatismyip.com).
 <br><br>

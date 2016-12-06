@@ -28,7 +28,7 @@ Being anonymous can mean different things depending on who or what you want to b
 ##### For active adversaries, though, security of your workspace becomes more important - this is called...
 
 ### Endpoint Security
-There are a number of ways of improving your endpoint security and protecting against potential threats, such as [Safer Software Updating](/level-up/curriculum/malware-protection/safer-software-updating/) and [Using Antivirus Tools & Software](/level-up/curriculum/malware-protection/using-antivirus-tools/). 
+There are a number of ways of improving your endpoint security and protecting against potential threats, such as [Safer Software Updating](/curriculum/malware-protection/safer-software-updating/) and [Using Antivirus Tools & Software](/curriculum/malware-protection/using-antivirus-tools/). 
 
 There are three different operating system platforms which currently exist, that provide robust, built-in endpoint security and anonymity features for users in different ways:
 - Tails ([https://Tails.boum.org](https://Tails.boum.org))

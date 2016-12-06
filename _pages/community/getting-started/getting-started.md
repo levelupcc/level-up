@@ -20,7 +20,7 @@ This resource is a continually evolving one, as is the community it engages with
 ## 1. Explore advice and insight from the global trainer network
 *We've gathered insight and learnings from trainers around the world, and have distilled these into a collection of helpful resources across a range of topics relevant to the context of digital security trainers.*
 
-From [training session modules](/level-up/curriculum/), how-to guides for [planning events](/level-up/before-an-event/planning-your-training-event/) and [event agendas](/level-up/before-an-event/planning-your-event-agenda/), guidance on [facilitation aids](/level-up/you-the-trainer/ice-breakers-and-energizers/) and [techniques](/level-up/you-the-trainer/be-a-better-trainer/), and introductory resources on [holistic security](/level-up/before-an-event/creating-safe-spaces/) and [psychosocial well-being](/level-up/before-an-event/psychosocial-underpinnings-of-security-training/), this evolving compendium of advice and experience is available for all trainers to freely remix, reuse, and adapt under a [Creative Commons license](https://creativecommons.org/licenses/by-sa/3.0/).
+From [training session modules](/curriculum/), how-to guides for [planning events](/before-an-event/planning-your-training-event/) and [event agendas](/before-an-event/planning-your-event-agenda/), guidance on [facilitation aids](/you-the-trainer/ice-breakers-and-energizers/) and [techniques](/you-the-trainer/be-a-better-trainer/), and introductory resources on [holistic security](/before-an-event/creating-safe-spaces/) and [psychosocial well-being](/before-an-event/psychosocial-underpinnings-of-security-training/), this evolving compendium of advice and experience is available for all trainers to freely remix, reuse, and adapt under a [Creative Commons license](https://creativecommons.org/licenses/by-sa/3.0/).
 
 ### Get Started With...
 
@@ -38,10 +38,10 @@ LevelUp uses the **Activity-Discussion-Inputs-Deepening-Synthesis**, or **ADIDS*
 
 ### Get Started With...
 
-#### [How To: Using the LevelUp Trainers Curriculum](/level-up/before-an-event/using-levelup-trainers-curriculum/)
+#### [How To: Using the LevelUp Trainers Curriculum](/before-an-event/using-levelup-trainers-curriculum/)
 Each of LevelUp's curriculum modules are designed around a topic-based training session - this resource explains the basic structure of a session module, and the logic behind this structure.
 
-#### [Planning Your Event Agenda](/level-up/before-an-event/planning-your-event-agenda/)
+#### [Planning Your Event Agenda](/before-an-event/planning-your-event-agenda/)
 This resource features advice from a number of experienced digital security trainers on preparing agendas for your training events. It has been broken down into several main resources that can be used as planning aids for workshops.
 <br><br>
 
@@ -55,7 +55,7 @@ LevelUp’s content is developed by dedicated digital security trainers and expe
 #### [Get in Touch with Us](mailto: levelup@riseup.net)
 LevelUp is managed by trusted members of the training community, who are dedicated to maintaining the resource and staying engaged with its users. Email us at [levelup@riseup.net](mailto: levelup@riseup.net) ([GPG public key here](http://pgp.mit.edu/pks/lookup?op=get&search=0x207BFB9591A638BE)) to get in touch regarding content contribution, feedback, or any questions you might have.
 
-#### [Commenting on LevelUp Content with Hypothes.is](/level-up/community/contribute/#2-annotate-and-discuss-content-with-hypothesis)
+#### [Commenting on LevelUp Content with Hypothes.is](/community/contribute/#2-annotate-and-discuss-content-with-hypothesis)
 Want to share your thoughts on something you read here? See something that needs to be corrected or updated? Use Hypothes.is, our new, live annotation tool, to provide immediate feedback and input to LevelUp content.
 
 #### [LevelUp on GitHub](https://github.com/levelupcc)

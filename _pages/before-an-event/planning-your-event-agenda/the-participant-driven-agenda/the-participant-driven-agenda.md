@@ -18,7 +18,7 @@ Furthermore, it is consistent with the notion that whatever capacities we intend
 Therefore, it's advisable to emphasize the point and give participants the tools necessary to define the agenda to the greatest extent possible. Keep in mind that you probably don’t have all the background information you need about participants on Day 1 of an event - it's advisable to carry out further exercises on Day 1 to complement whatever information you've gathered.
 
 ##### *Trainer's Note*
-We highly recommend referring to [Setting Expectations for Participants, Organizers, and Yourself](/level-up/you-the-trainer/setting-expectations-for-participants-organizers-and-yourself/) for guidance on crafting realistic expectations for what your event will accomplish.
+We highly recommend referring to [Setting Expectations for Participants, Organizers, and Yourself](/you-the-trainer/setting-expectations-for-participants-organizers-and-yourself/) for guidance on crafting realistic expectations for what your event will accomplish.
 <br><br>
 
 ### Opening Up "Working Hours"
@@ -35,14 +35,14 @@ One way to develop shared ground rules and expectations may be to have long lunc
 ### Sequencing & Establishing "Non-Negotiables"
 Designing an agenda is an art - aside from requests to cover *everything* (which is impossible), you also are asked to meet organizers’ priorities while also carefully calibrating how to meet the most urgent priorities of participants as you learn more about them. While it's important to give a certain amount of control of the agenda to participants, you may feel that there are certain topics which are "non-negotiables" for inclusion on the agenda.
 
-These are topics considered *essential* which, if neglected, would undermine the usefulness of covering other topics - examples might include [Malware Protection - Using Antivirus Tools](/level-up/curriculum/malware-protection/using-antivirus-tools/) or [Protecting Data - Creating and Managing Strong Passwords](/level-up/curriculum/protecting-data/creating-and-managing-strong-passwords/). Make sure you don’t skip over the most fundamental topics that you will continue to build upon throughout the workshop, and avoid sequencing sessions in a way that may cause larger problems down the road.
+These are topics considered *essential* which, if neglected, would undermine the usefulness of covering other topics - examples might include [Malware Protection - Using Antivirus Tools](/curriculum/malware-protection/using-antivirus-tools/) or [Protecting Data - Creating and Managing Strong Passwords](/curriculum/protecting-data/creating-and-managing-strong-passwords/). Make sure you don’t skip over the most fundamental topics that you will continue to build upon throughout the workshop, and avoid sequencing sessions in a way that may cause larger problems down the road.
 
 ##### Some participants may have already learned these fundamentals, but it’s important to ensure that this is the case and do not simply assume it to be so.
 
 Furthermore, recognize that participants will inevitably be at different skill levels: if at all possible, consider additional training for beginners, or starting them early. Barring this option, you may have to split the group during the training, provided there is a co-facilitator or co-trainer to help with this.
 
 ##### *Trainer's Note*
-The [How-To: Using the LevelUp Trainer's Curriculum](/level-up/before-an-event/using-levelup-trainers-curriculum/) guide has further information on considerations for thoughtful sequencing of your event's sessions and content.
+The [How-To: Using the LevelUp Trainer's Curriculum](/before-an-event/using-levelup-trainers-curriculum/) guide has further information on considerations for thoughtful sequencing of your event's sessions and content.
 <br><br>
 
 ### Regular Evaluation and Feedback
@@ -62,9 +62,9 @@ It’s a good practice to take a moment at the beginning of each day to respond,
 ### Creating a "Safe" Space
 As mentioned above, participants may be suffering from very high levels of stress or even trauma. In addition, they may not be familiar with the other participants, so establishing trust becomes an added challenge. Given this context, the importance of creating a relaxing yet productive, and above all safe, space for trainees shouldn't be understated:
 
-For further guidance on "safe" spaces for training events, our [Creating "Safe Spaces"](/level-up/before-an-event/creating-safe-spaces/) guide details a comprehensive set of practical steps and considerations.
+For further guidance on "safe" spaces for training events, our [Creating "Safe Spaces"](/before-an-event/creating-safe-spaces/) guide details a comprehensive set of practical steps and considerations.
 
-For further guidance on awareness of participant stress and trauma levels, and how to manage these during an event, please read through our guide on the [Psychological Underpinnings of Security Trainings](/level-up/before-an-event/psychosocial-underpinnings-of-security-training/).
+For further guidance on awareness of participant stress and trauma levels, and how to manage these during an event, please read through our guide on the [Psychological Underpinnings of Security Trainings](/before-an-event/psychosocial-underpinnings-of-security-training/).
 <br><br>
 
 ### Visitors and Guests
@@ -79,5 +79,5 @@ Otherwise, having non-participating individuals in the room is disruptive, is li
 Trainers should handle this carefully yet firmly, and prioritize it as a requirement to communicate to organizers and funders. If for some reason this becomes an unavoidable circumstance, it is critical to establish as much trust as possible between yourself and your participants, and among participants, during the event.
 
 ##### *Trainer's Note*
-See [The First 3 Sessions of Your Event](/level-up/you-the-trainer/first-3-sessions-of-your-event/) for more guidance on relevant activities for introductions, trust-building, and breaking the ice.
+See [The First 3 Sessions of Your Event](/you-the-trainer/first-3-sessions-of-your-event/) for more guidance on relevant activities for introductions, trust-building, and breaking the ice.
 <br><br>

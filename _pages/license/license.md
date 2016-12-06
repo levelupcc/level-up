@@ -6,11 +6,11 @@ weight: 8
 hide: true
 breadcrumb: Creative Commons License
 ---
-<img src="/level-up/assets/images/cc-logo.PNG">
+<img src="/assets/images/cc-logo.PNG">
 
 ### All content on this site is available under a [Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) license](https://creativecommons.org/licenses/by-sa/3.0/) by multiple authors. Except where otherwise noted, content is licensed for *attribution to LevelUp*.
 
-<img src="/level-up/assets/images/CC-BY-SA-3-0.PNG">
+<img src="/assets/images/CC-BY-SA-3-0.PNG">
 
 Detailed practices for giving attribution can be found on [Creative Commons' website](https://creativecommons.org/use-remix/get-permission/).
 <br><br>

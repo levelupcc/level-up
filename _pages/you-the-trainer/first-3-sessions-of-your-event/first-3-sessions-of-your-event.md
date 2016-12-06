@@ -18,15 +18,15 @@ Though the order and duration may differ per event, these three discussions are 
 
 ## Here are the First 3 Sessions of Your Event
 
-### 1. [Sharing Your Story: Creative Introductions and Perspectives](/level-up/you-the-trainer/first-3-sessions-of-your-event/sharing-your-story/)
+### 1. [Sharing Your Story: Creative Introductions and Perspectives](/you-the-trainer/first-3-sessions-of-your-event/sharing-your-story/)
 Nametags are helpful, but they don’t stimulate the necessary engagement and energy that starts off an effective gathering. For that, we turn to creative exercises to help participants and trainers learn about each other, our motivations for our attendance and our perspectives on relevant issues. By starting with a creative introduction, you’re setting the tone to show this will be a fun, engaging and participatory event. This is recommended as the **first session** to open a multi-day event.
 <br><br>
 
-### 2. [Developing Shared Agreements: Ground Rules](/level-up/you-the-trainer/first-3-sessions-of-your-event/developing-shared-agreements/)
+### 2. [Developing Shared Agreements: Ground Rules](/you-the-trainer/first-3-sessions-of-your-event/developing-shared-agreements/)
 We all have been through those painful meetings where one person talks over others or people are having distracting side conversations, right? Well, that is why we always need to invest time in developing shared agreements before we begin a meeting or gathering. Though these are often referred to as “ground rules,” we place importance on the term “shared agreements.”
 <br><br>
 
-### 3. [Developing a Shared Brain: Assessing and Managing Expectations](/level-up/you-the-trainer/first-3-sessions-of-your-event/developing-a-shared-brain/)
+### 3. [Developing a Shared Brain: Assessing and Managing Expectations](/you-the-trainer/first-3-sessions-of-your-event/developing-a-shared-brain/)
 As a trainer, one of the most fundamental aspects of leading a great event is assessing and managing participants’ expectations as early as possible. By doing this, you will build an agenda and develop exercises that help ensure their time and the group’s time is well spent. This is the **third recommended session** for starting multi-day trainings, to follow shared stories and shared agreements.
 
 ##### *Trainer's Note*
