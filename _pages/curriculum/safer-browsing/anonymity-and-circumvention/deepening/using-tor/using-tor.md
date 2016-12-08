@@ -17,7 +17,7 @@ platforms: Linux, Mac OS, Windows
 - Tor Browser Bundle, installed on the trainer's device
 - A copy of the [Tor Browser Bundle installer](https://www.torproject.org/download/download-easy.html.en) (a self-extracting archive) for distribution to participants.
 
-##### *Trainer's Note* 
+##### *Trainer's Note*
 The Tor Browser Bundle is quite large, so it's a good idea to prepare this ahead of time, especially if you have a slow Internet connection in the training room.
 <br><br>
 
@@ -47,17 +47,17 @@ Request a new identity, then refresh the webpage for [What Is My IP?](http://wha
 Once participants have in turn downloaded and installed the Tor Browser bundle (either before the workshop, or during time allotted during this session) ask them to repeat this exercise themselves on their own devices, until they demonstrate that they can use the Tor Browser Bundle successfully. Then, explain the following:
 - Though Tor encrypts your traffic on its way to the *first* Tor Relay, and while it travels through the Tor *network*, it **cannot** automatically encrypt your connection between the *Exit Relay* and the website you are visiting.
 - Therefore, if you are visiting a site that **does not** support HTTPS, the Exit Relay operator (who could be anybody) can potentially see everything you send and receive. They might not know *who* you are, unless there are hints in the traffic itself (which is not uncommon), but they can see everything else.
-- So, it is still important to use secured HTTPS web services, even while using the Tor Browser or otherwise connecting to the Tor Network. 
+- So, it is still important to use secured HTTPS web services, even while using the Tor Browser or otherwise connecting to the Tor Network.
 
 ##### *Trainer's Note*
 Here, you might want to use [*this visualization*](https://www.eff.org/pages/tor-and-https)from [Electronic Frontier Foundation](https://www.eff.org/) on Tor and HTTPS traffic.
 <br><br>
 
 #### Step 5. What the Tor Browser Bundle *Can* and *Cannot* Do
-In order to take advantage of Tor's **anonymity and circumvention** properties, you must launch the Tor Browser Bundle and *use the browser client* that comes packaged with it - this is special version of Firefox that is specifically configured to relay traffic via the Tor Network. 
+In order to take advantage of Tor's **anonymity and circumvention** properties, you must launch the Tor Browser Bundle and *use the browser client* that comes packaged with it - this is special version of Firefox that is specifically configured to relay traffic via the Tor Network.
 - Other installed browsers, such as Google Chrome, *regular* Firefox, or Internet Explorer, will **not** automatically use the Tor network.
 - Explain that **unlike with a VPN**, non-browser Internet traffic such as that from email clients like Thunderbird and Outlook, or instant messaging programs like Pidgin and Adium, will **not** benefit from Tor's anonymity or circumvention properties.
 - When using Tor Browser, you might want to visit [check.torproject.org](https://check.torproject.org) and verify that Tor is indeed functioning as you might expect it to.
 
 ##### *Trainer's Note*
-As with all security software, it is important that you use the [*latest version*](https://www.torproject.org/download/download-easy.html.en) of the Tor Browser Bundle. When Tor Browser opens, the page it displays will tell you if a newer version is available; however, it will not update itself automatically. Any updates will will have to be done manually by the user - see the [Safer Software Updating](/levelup/curriculum/malware-protection/safer-software-updating/) module here on LevelUp for supporting training material on this topic.
+As with all security software, it is important that you use the [*latest version*](https://www.torproject.org/download/download-easy.html.en) of the Tor Browser Bundle. When Tor Browser opens, the page it displays will tell you if a newer version is available; however, it will not update itself automatically. Any updates will will have to be done manually by the user - see the [Safer Software Updating](/curriculum/malware-protection/safer-software-updating/) module here on LevelUp for supporting training material on this topic.

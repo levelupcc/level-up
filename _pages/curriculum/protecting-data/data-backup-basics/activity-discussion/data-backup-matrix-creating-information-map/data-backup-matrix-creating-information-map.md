@@ -13,7 +13,7 @@ duration: 30-45 minutes
 - Post-it Notes (multiple colors)
 - Markers (multiple colors)
 - Flipchart paper or butcher block
-- One larger sheet of paper, taped to a wall in landscape orientation, with or without prepared titles (see the matrix below.) 
+- One larger sheet of paper, taped to a wall in landscape orientation, with or without prepared titles (see the matrix below.)
 
 ## Optional
 Include an axis denoting the relative sensitivity of data (steps in the activity highlighted below). This adds time to the activity, but can help reinforce risk management as a theme during your training.
@@ -22,7 +22,7 @@ Include an axis denoting the relative sensitivity of data (steps in the activity
 # Running the Activity
 In an ideal scenario, the participants have a high level of trust with each other and will be comfortable speaking freely. In situations in which participants are unfamiliar to one another, trainers may want to try to break a larger group up into teams or small groups that share similar situations.
 
-<img src="level-up/assets/images/AD-information-map.PNG">
+<img src="/assets/images/AD-information-map.PNG">
 
 ## Step 1: *Where* is Our Data?
 Explain to participants that this session will cover an information mapping activity, the purpose of which is to get a sense of *what and where* our important information and data actually is. Start by listing the different places where our information is stored, according to participants.
@@ -72,24 +72,24 @@ For this step, now divide the group into smaller teams - it helps if there are r
 
 3. When each participant in a team has their top 5 most important data types created, they should go to the team's matrix and affix their completed post-it notes within the relevant boxes.
 
-4. Give participants 5-10 minutes to work on identifying their types of data. Once the time is up, there should be one completed matrix per team. 
+4. Give participants 5-10 minutes to work on identifying their types of data. Once the time is up, there should be one completed matrix per team.
 
 5. It might be useful to go from team to team, identifying interesting characteristics of each matrix. For example, note where there is particularly heavy dependence on one device, or where there's a lack of duplicate stickies, etc.
 
 #### An example may look something like this:
-<img src="level-up/assets/images/I-backup-matrix-example.png">
+<img src="/assets/images/I-backup-matrix-example.png">
 <br><br>
 
 ## Step 4: *How* Could Things Go Wrong?
-Explain that this exercise helps to give us a useful, visual sense of where our data is stored. 
+Explain that this exercise helps to give us a useful, visual sense of where our data is stored.
 
-#### Elicit from participants whether or not the information represented on these matrices, in their opinion, covers *all* the data we generate? 
+#### Elicit from participants whether or not the information represented on these matrices, in their opinion, covers *all* the data we generate?
 
 ##### The answer is, in reality, *no*.
-It demonstrates only a **small percentage** of the data we all generate each day, whether we are aware of it or not. 
+It demonstrates only a **small percentage** of the data we all generate each day, whether we are aware of it or not.
 Referring to one of the teams' matrices, for example, mention the information that is shown as kept on their computer hard drive - this will usually be the fullest part of many matrices produced during this exercise, otherwise mention whichever storage location appears to have the most data stored on it.
 
-#### Using the example of the computer hard drive, elicit from the group some examples of things that can cause a computer to stop working or otherwise make the data stored on it inaccessible. 
+#### Using the example of the computer hard drive, elicit from the group some examples of things that can cause a computer to stop working or otherwise make the data stored on it inaccessible.
 
 ##### Perhaps take a show of hands - who has had this happen to *them?*
 - Virus or malware attack could destroy or corrupt data stored on a hard drive.
@@ -109,7 +109,7 @@ The **sensitive / non-sensitive** distinction in the matrix is optional, and sho
 
 #### Take the example of a second team's data if possible, and/or another column on the matrix of the first team:
 - What if your computer hard drive, mobile phone, etc. is stolen or your sensitive account password is cracked?
-- Remove the stickies from the column but keep them in your hand and read them. 
+- Remove the stickies from the column but keep them in your hand and read them.
 - Use this to represent a third-party with unwanted access to this information.
 
 ##### What could they do with it? What are you, the user, left with?
@@ -122,4 +122,3 @@ The **sensitive / non-sensitive** distinction in the matrix is optional, and sho
 - Has anything similar happened before, are there any personal examples we can learn from?
 - If we were doing the exercise again, what would they do differently? What would they back up?
 <br><br>
-

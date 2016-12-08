@@ -60,9 +60,9 @@ After completing the above steps demonstrating the process for creating a Persis
 ## Step 3: Creating an Encrypted, Removable USB Drive Accessible via Tails
 In this step, explain that participants will learn how to create a **separate, encrypted USB drive** that can be used for storing documents without altering Tails.
 
-#### The encrypted drives which participants will create can *only* be decrypted and accessed via Tails: 
+#### The encrypted drives which participants will create can *only* be decrypted and accessed via Tails:
 - While this is a potential disadvantage in convenience, it provides an added safeguard and barrier against unwanted access to sensitive information.
-- A benefit of this feature and method of handling sensitive documents is that it works with Tails DVDs as well, as there’s no need to write to Tails itself. 
+- A benefit of this feature and method of handling sensitive documents is that it works with Tails DVDs as well, as there’s no need to write to Tails itself.
 - The encrypted drive is not created within Tails, but rather encrypted and decrypted using Tails.
 <br><br>
 
@@ -78,7 +78,7 @@ Once Disk Utility has been launched, have participants insert their blank USB in
 - Click on the device to proceed.
 - On the next screen, participants will erase any existing partitions and/or data on their selected device by clicking Format Drive.
 
-Disk Utility will ask about the desired partitioning scheme for this newly formatted device - leaving the default option of **Master Boot Record** selected should suffice for this exercise. Take a pause here to remind participants of the definitions of *scheme* and *partition* (from the [Staying Anonymous with Tails](levelup/curriculum/safer-workspaces/tails/input/staying-anonymous-using-tails/) Input).
+Disk Utility will ask about the desired partitioning scheme for this newly formatted device - leaving the default option of **Master Boot Record** selected should suffice for this exercise. Take a pause here to remind participants of the definitions of *scheme* and *partition* (from the [Staying Anonymous with Tails](/curriculum/safer-workspaces/tails/input/staying-anonymous-using-tails/) Input).
 
 Participants should now see a screen showing the total memory of their USB device, which will be 100% empty. In the lower left-hand corner, click the "plus" symbol next to **Create Partition**.
 - On the next screen, a user can configure the size of the encrypted partition they'd like to create within their USB device using a sliding scale.
@@ -109,10 +109,10 @@ Wrap this section of the module, reviewing that these are two methods in which T
 
 ### A few notes to end the session with are below:
 
-##### Tails USBs with persistence enabled are forensically distinct from Tails USBs without persistence enabled. 
+##### Tails USBs with persistence enabled are forensically distinct from Tails USBs without persistence enabled.
 Tails USBs with persistence enabled carry additional data from session to session in a way that Tails USBs without persistence will not, and thus will have differing data "fingerprints".
 
-##### Only the *contents* of an encrypted volume are hidden. 
+##### Only the *contents* of an encrypted volume are hidden.
 Both within Tails using an encrypted external drive and on an encrypted drive itself, the presence of an encrypted volume itself is not hidden; however, the data within is only accessible via a passphrase. Participants should protect this passphrase the same way they might protect any other.
 
 ##### Opening encrypted volumes on external devices is possible with operating systems other than Linux-based ones like Tails.

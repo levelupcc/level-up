@@ -28,7 +28,7 @@ Being anonymous can mean different things depending on who or what you want to b
 ##### For active adversaries, though, security of your workspace becomes more important - this is called...
 
 ### Endpoint Security
-There are a number of ways of improving your endpoint security and protecting against potential threats, such as [Safer Software Updating](/curriculum/malware-protection/safer-software-updating/) and [Using Antivirus Tools & Software](/curriculum/malware-protection/using-antivirus-tools/). 
+There are a number of ways of improving your endpoint security and protecting against potential threats, such as [Safer Software Updating](/curriculum/malware-protection/safer-software-updating/) and [Using Antivirus Tools & Software](/curriculum/malware-protection/using-antivirus-tools/).
 
 There are three different operating system platforms which currently exist, that provide robust, built-in endpoint security and anonymity features for users in different ways:
 - Tails ([https://Tails.boum.org](https://Tails.boum.org))
@@ -53,7 +53,7 @@ In order to preserve anonymity, Tails automatically routes all network traffic t
 
 ##### Essentially, Tails provides pre-configured secure communications applications, hides your hardware network address from local networks, and routes all your operating system's network traffic through the Tor network.
 
-Explain to participants that Tails is different from other digital security tools they may already be familiar with, in that it offers many of the same protections and capabilities of those tools but is also an entire operating system environment. 
+Explain to participants that Tails is different from other digital security tools they may already be familiar with, in that it offers many of the same protections and capabilities of those tools but is also an entire operating system environment.
 
 ### In order to understand how Tails functions, and to use it properly, it will be useful to define some further vocabulary for the group:
 
@@ -85,7 +85,7 @@ When a device has one or more partitions, it still needs to have a way to actual
 ## Step 3: So What Does This Have To Do with Tails?
 Remind the group, after going through the above terms, that live operating systems such as Tails run off of external media like DVDs and USBs - *but how does a computer know when to run Tails and when to run its normally installed operating system?*
 
-- Explain that during this session, participants will learn how to make use of their computer's BIOS and boot sequence to automatically load Tails if it detects that a bootable device (such as USB drive) containing Tails is inserted into the machine. 
+- Explain that during this session, participants will learn how to make use of their computer's BIOS and boot sequence to automatically load Tails if it detects that a bootable device (such as USB drive) containing Tails is inserted into the machine.
 
 Again, remind the group that Tails leaves no trace of itself, or any activity performed while using it, once disconnected from a machine - this is because it runs on a computer's RAM which, as they've just learned, is automatically erased whenever a computer shuts down.
 <br><br>
@@ -103,8 +103,6 @@ The other Deepening sessions available for Tails, which are also relevant to oth
 - [Using Tails to Test Suspicious Files]()
 
 ### Protecting Data
-- [Storing Confidential Information in Tails](/levelup/curriculum/safer-workspaces/tails/deepening/storing-confidential-information-tails/)
+- [Storing Confidential Information in Tails](/curriculum/safer-workspaces/tails/deepening/storing-confidential-information-tails/)
 - [Viewing and Deleting Metadata in Tails with MAT]()
 <br><br>
-
-

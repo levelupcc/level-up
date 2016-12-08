@@ -20,10 +20,10 @@ Mobile data dongle, that can be used to demonstrate the SIM and IMEI of the hard
 <br><br>
 
 # Input Session
-These are detailed notes for leading a brief introduction or discussion about the components of a mobile phone. The number of components you choose mention will depend on your time available and the enthusiasm of your participants to share and point out various components. 
+These are detailed notes for leading a brief introduction or discussion about the components of a mobile phone. The number of components you choose mention will depend on your time available and the enthusiasm of your participants to share and point out various components.
 
 ##### *Trainer's Note*
-If your only mobile session is focused on a specific functionality, tool, or app that participants access via mobiles, you may also want to pull input content from other topics (such as [Safer Browsing - HTTPS and SSL](levelup/curriculum/safer-browsing/https-ssl/input/internet-authenticity-confidentiality) or [Data Backup Basics](levelup/curriculum/protecting-data/data-backup-basics/input/crafting-backup-policy/) to combine with this core Input about mobile fundamentals.
+If your only mobile session is focused on a specific functionality, tool, or app that participants access via mobiles, you may also want to pull input content from other topics (such as [Safer Browsing - HTTPS and SSL](/curriculum/safer-browsing/https-ssl/input/internet-authenticity-confidentiality) or [Data Backup Basics](/curriculum/protecting-data/data-backup-basics/input/crafting-backup-policy/) to combine with this core Input about mobile fundamentals.
 
 We recommend that you *at least* mention the **antenna, battery, SIM, baseband, and removable media**, and **cameras** (if present). If there are any particular components you want to focus on based on trainee concern or expressed need, build in time for these as well; for example, if you are training for video collection and uploading, you'll need to discuss **cameras, microphones,** and **removable media** like SD cards.
 <br><br>
@@ -139,4 +139,3 @@ The designers of third-party apps can design their apps to work with the iPhone'
 #### Location Information
 Smartphones are able to use GPS (Global Positioning System) satellites *in addition to* the approximate location triangulation of mobile network towers can provide. This gives far more detailed location data to operators and to any apps who have access to that information. This more precise location can be attached, along with the date and other information, to any pieces of data that the phone collects to post online or store on its memory.
 <br><br>
-

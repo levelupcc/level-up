@@ -19,21 +19,21 @@ LevelUp uses the **Activity-Discussion-Inputs-Deepening-Synthesis**, or [ADIDS a
 ## A Tiered Approach
 When considering where to begin when planning a digital security training or workshop, think about the overall structure as a set of tiers, starting from the very general and  becoming gradually more specific:
 
-#### At the first level tier... 
+#### At the first level tier...
 You have the main training **context** - for many of us this will be "Digital Security" or also in many cases "Holistic (or Integrated) Security" which includes the digital, physical and well-being aspects of trainees' security.
 
-#### At the second level tier... 
-You have the specific **themes** within the larger context. For Digital Security, this could be [Safer Communication](/curriculum/safer-communication/), [Protecting Data](/curriculum/protecting-data/), [Malware Protection](level-up/curriculum/malware-protection/) and so forth. Another way of looking at these is to think of them as the *reasons* that training is required - what are participants trying to protect themselves from or improve?
+#### At the second level tier...
+You have the specific **themes** within the larger context. For Digital Security, this could be [Safer Communication](/curriculum/safer-communication/), [Protecting Data](/curriculum/protecting-data/), [Malware Protection](/curriculum/malware-protection/) and so forth. Another way of looking at these is to think of them as the *reasons* that training is required - what are participants trying to protect themselves from or improve?
 
-##### At the third level tier... 
+##### At the third level tier...
 You have the individual **Topics**, which are the specific tools or practices that will need to be covered in order to address the **Themes** of the event's content. These could be [Creating and Managing Strong Passwords](/curriculum/protecting-data/creating-and-managing-strong-passwords/), using [PGP/GPG Email Encryption](/curriculum/safer-communication/pgp-gpg-email-encryption/), or how to browse more safely using browsers for [Anonymity and Circumvention](/curriculum/safer-browsing/anonymity-and-circumvention/).
 
 #### LevelUp's Trainers' Curriculum is organized to simulate the above structure, starting from the second-level tier.
-It begins with a series of **Themes**, each of which refer to a broader digital security and safety concern - these are organized on the initial [Trainers' Curriculum](level-up/curriculum/) page.
+It begins with a series of **Themes**, each of which refer to a broader digital security and safety concern - these are organized on the initial [Trainers' Curriculum](/curriculum/) page.
 
 Within each each Theme are its **Topics**, which are the individual, ADIDS-structured training modules that address relevant tools or practices - these are organized into individual pages, [like this one](/curriculum/malware-protection/using-antivirus-tools/).
 
-Finally, each ADIDS structured Topic is composed of ADIDS **Elements**, which are the individual sessions within each module that allow it to be delivered in a way that supports the adult learning process - these are listed out on their [respective Topic pages](/curriculum/malware-protection/using-antivirus-tools/). 
+Finally, each ADIDS structured Topic is composed of ADIDS **Elements**, which are the individual sessions within each module that allow it to be delivered in a way that supports the adult learning process - these are listed out on their [respective Topic pages](/curriculum/malware-protection/using-antivirus-tools/).
 <br><br>
 
 ## Agenda
@@ -57,21 +57,21 @@ Each Session Topic in LevelUp is made up of individual Session Elements, which a
 #### Materials to Prepare
 What are the materials (flipchart paper, projector, post-it notes, markers, etc.) that you will need to have prepared in order to lead a session? What resources (videos, handouts, presentations, readings etc.) must also be prepared for both your and participant's use?
 
-For a sample, please visit our [Trainers' Curriculum](level-up/curriculum/), or <a href="/assets/files/LU_session_planning_template-SAMPLE.odt">download our sample planning template.</a>
+For a sample, please visit our [Trainers' Curriculum](/curriculum/), or <a href="/assets/files/LU_session_planning_template-SAMPLE.odt">download our sample planning template.</a>
 <br><br>
 
 ## Preparing Sessions with ADIDS
 Next to figuring out your individual Topics, overall session agenda planning is the probably the most **important** activity you can spend time on before you get into the classroom. Since many events will require trainers to tweak agendas based on unknown or unforeseen circumstances, thoughtful and thorough pre-event preparation will help you make last-minute adjustments, especially if you're prepared for a second set of potential training sessions.
 
 #### ADIDS stands for *Activity & Discussion, Input, Deepening, and Synthesis*
-The assumption behind [LevelUp's Approach to Adult Learning](/before-an-event/levelups-approach-to-adult-learning/) is that learning and awareness-raising happens in *stages*, and we cannot expect a person to learn everything about an issue in one go, or in one lecture. 
+The assumption behind [LevelUp's Approach to Adult Learning](/before-an-event/levelups-approach-to-adult-learning/) is that learning and awareness-raising happens in *stages*, and we cannot expect a person to learn everything about an issue in one go, or in one lecture.
 
 LevelUp refers to each of Activity & Discussion, Input, Deepening, and Synthesis as **Session, or ADIDS, Elements**, or the individual *stages* of a session covering a specific Topic. Each Element fulfills a distinct purpose within a session that is critical to clearly articulating the concepts and fundamentals of a Topic.
 
 ### Activity
 The session begins with an activity that is connected to the topic of the session. This is meant to introduce the topic to the participants using interactive exercises. Trainers design this beforehand to illustrate some of the issues that they want the participants to start thinking about.
 
-#### Example 
+#### Example
 The Topic [Safer Browsing - HTTPS and SSL](/curriculum/safer-browsing/https-ssl/) includes an activity called [We Are The Internet](/curriculum/safer-browsing/https-ssl/activity-discussion/we-are-the-internet/) where each trainee represents a single link on the chain of communication between a user, their ISP, and a website. They are first asked to arrange themselves in the order they *believe* these links to be in, with the trainer guiding them into the correct order if incorrect. Following this, trainees pass a message between each other, to simulate the flow of information down this chain, with the trainer asking each person about what data is potentially visible at their "link" and by whom.
 
 #### Goal
@@ -119,7 +119,7 @@ This is where trainers will have the best opportunity to impart any particular t
 In technical training, this is usually the hands-on segment of a session, where participants have the opportunity to setup and begin using a particular tool or application, or practice a skill or habit. The trainer may frequently be facilitating a setup or configuration walkthrough, answering questions along the way, with a co-trainer on-call for one-on-one assistance to individual trainees as needed.
 
 #### Example
-Returning again to the Topic of [Safer Browsing - HTTPS and SSL](/curriculum/safer-browsing/https-ssl/), this Input session could involve guiding participants through the process of installing and configuring the [HTTPS Everywhere](https://www.eff.org/Https-Everywhere) plug-in for Chrome or Firefox. 
+Returning again to the Topic of [Safer Browsing - HTTPS and SSL](/curriculum/safer-browsing/https-ssl/), this Input session could involve guiding participants through the process of installing and configuring the [HTTPS Everywhere](https://www.eff.org/Https-Everywhere) plug-in for Chrome or Firefox.
 
 The trainer will demonstrate the plug-in for the group via a projector, showing them the difference between sites where the plug-in forces a connection versus provides a warning against access. Then, the session moves on to walk participants through the process of installing one of the supported browsers (if they haven't already done so), installing the plug-in, and then getting a sense of how it works and how it can support their daily activity.
 
@@ -151,4 +151,3 @@ Talk about what happened in the session, some of the results of the discussion, 
 - *How will you deepen the participants' understanding on the topic? What's the outline of your lecture / input?*
 - *What are the steps in your hands-on exercise in the deepening?*
 <br><br>
-

@@ -1,7 +1,7 @@
 ---
 layout: content-page
 title: "Input: Crafting a Backup Policy"
-author: 
+author:
 summary: Each new method of storing or transferring digital information tends to introduce several new ways in which the information in question can be lost, taken or destroyed. It is extremely important that users maintain an up-to-date backup of their important and/or sensitive data, and a well-tested means of restoring such data in the event it is lost. However, formulating an effective backup policy is not as simple as it sounds - this Input element will help trainers begin a conversation about this with training participants.
 permalink: /curriculum/protecting-data/data-backup-basics/input/crafting-backup-policy
 breadcrumb: Crafting a Backup Policy
@@ -12,8 +12,8 @@ duration: 30-45 minutes
 ---
 # Materials to Prepare
 - Whiteboard or large sheet of paper
-- Participant-created matrices from the [Data Backup Matrix](/levelup/curriculum/protecting-data/data-backup-basics/activity-discussion/data-backup-matrix-creating-information-map/) Activity & Discussion, for reference
-- Prepared data backup matrix based off of participant matrices from the [Data Backup Matrix](/levelup/curriculum/protecting-data/data-backup-basics/activity-discussion/data-backup-matrix-creating-information-map/) Activity & Discussion
+- Participant-created matrices from the [Data Backup Matrix](/curriculum/protecting-data/data-backup-basics/activity-discussion/data-backup-matrix-creating-information-map/) Activity & Discussion, for reference
+- Prepared data backup matrix based off of participant matrices from the [Data Backup Matrix](/curriculum/protecting-data/data-backup-basics/activity-discussion/data-backup-matrix-creating-information-map/) Activity & Discussion
 <br><br>
 
 # Input Session
@@ -23,7 +23,7 @@ While anti-virus, firewalls, encryption, and all the various steps we take to en
 
 Preparing for "the worst" is just as important as defending against it; that is to say, you need to have a data backup policy as part of your own security plan. But what might a backup policy look like? What are its dimensions?
 
-The first step to crafting an effective a backup policy is getting a sense of what data you have, and where it is. The [Data Backup Matrix](/levelup/curriculum/protecting-data/data-backup-basics/activity-discussion/data-backup-matrix-information-map/) Activity & Discussion is one way of doing this; however, another way would be by making a list of the different kinds of data you maintain and where you store each kind.
+The first step to crafting an effective a backup policy is getting a sense of what data you have, and where it is. The [Data Backup Matrix](/curriculum/protecting-data/data-backup-basics/activity-discussion/data-backup-matrix-information-map/) Activity & Discussion is one way of doing this; however, another way would be by making a list of the different kinds of data you maintain and where you store each kind.
 <br><br>
 
 ## Step 2: *Where* Might Important Data Be Found?
@@ -71,20 +71,20 @@ If backing up to the cloud is your only backup, are you confident you will alway
 ### Recommending Cloud Storage Providers to Participants:
 Almost inevitably, you will be asked what your recommendation is for cloud service providers. You can use this opportunity to discuss topics such as the [concerning security architecture](http://www.techrepublic.com/article/dropbox-and-box-leak-files-in-security-through-obscurity-nightmare/) of **DropBox**, [whether or not users trust](http://www.zdnet.com/article/do-you-trust-google-is-the-wrong-question/) **Google** services with their data, and others. In addition, the following recommendations have come from other trainers and security advisors, and may be of use when considering how to go about this discussion yourself:**
 
-##### [ownCloud](https://owncloud.org/) 
+##### [ownCloud](https://owncloud.org/)
 ownCloud is an open source option that participants, and particularly their organizations, can use, which is very similar to Dropbox and has more functionalities such as shared calendars, contacts, bookmarks, and more.
 
-##### [SpiderOak](https://spideroak.com/) 
+##### [SpiderOak](https://spideroak.com/)
 SpiderOad is, among the corporate cloud services available, one of the few that meets a comparitively higher standard of “zero-knowledge” and access to user data.
 
-##### [CrashPlan](https://www.crashplan.com/en-us/) 
-CrashPlan allows users to create store encrypted backups on trusted contacts’ devices or in the cloud, including CrashPlan’s servers if they so choose. It can be a powerful option for users who do not trust, or cannot afford, paid cloud services but want to have backups stored offsite in case of raids or other threats to their home or office. 
+##### [CrashPlan](https://www.crashplan.com/en-us/)
+CrashPlan allows users to create store encrypted backups on trusted contacts’ devices or in the cloud, including CrashPlan’s servers if they so choose. It can be a powerful option for users who do not trust, or cannot afford, paid cloud services but want to have backups stored offsite in case of raids or other threats to their home or office.
 
 It also allows users to use trusted human networks for off-site backups - it's important to mention here that users should consider their trust in other users (as they would with a cloud service provider) when considering this option.
 <br><br>
 
 ## Step 4: *When* Should Backups Take Place?
-When or how often one should backup their data depends on a number of personal and organisational dynamics; however, a good question to kick off this conversation and guide the decision-making process is: 
+When or how often one should backup their data depends on a number of personal and organisational dynamics; however, a good question to kick off this conversation and guide the decision-making process is:
 
 ### How much work can I afford to lose and have to repeat?
 It's also worth mentioning that some types of data may need to be backed up more frequently than others. Considering a *layered* approach could be useful, wherein *all* of your data is regularly backed up on a recurring basis, with more *frequent* backups taking place for certain *more important or sensitive* kinds of information in between the larger, overall backups.
@@ -93,7 +93,7 @@ This is also an opportunity to mention that while certain organizational structu
 <br><br>
 
 ## Step 5: *Which* Backup Type is Best?
-There are **four common backup types** which are generally used in most backup programs and protocols. A type of backup actually defines **how data is copied** from source to destination, and lays the groundwork for a data repository model (or, how the backup is stored and structured on the chosen medium or storage location). 
+There are **four common backup types** which are generally used in most backup programs and protocols. A type of backup actually defines **how data is copied** from source to destination, and lays the groundwork for a data repository model (or, how the backup is stored and structured on the chosen medium or storage location).
 
 #### Here below are basic explanations for each of the four common data backup types, which you may walk your participants through:
 
@@ -109,4 +109,3 @@ Stores all files that have changed since the last **Full *or* Differential, *or*
 ##### Mirror Backup
 Identical to a full backup, with the exception that the files are *not compressed* in .zip files (as they might normally be) and they cannot be protected with a password. A mirror backup is most frequently used to create an exact, mirror-image copy of the source data.
 <br><br>
-

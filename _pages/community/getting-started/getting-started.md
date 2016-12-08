@@ -8,11 +8,11 @@ permalink: /community/getting-started/
 parent: Community
 breadcrumb: Getting Started with LevelUp
 ---
-#### *Every trainer is stronger in some areas than in others; however, the best are constantly seeking new ways to improve their skills.* 
+#### *Every trainer is stronger in some areas than in others; however, the best are constantly seeking new ways to improve their skills.*
 
 The LevelUp website is a continually growing resource dedicated to sharing knowledge and experience from digital security trainers from around the world - start here to orient yourself with our resources for digital security training, how you can use them, and how you can help improve them.
 
-This resource is a continually evolving one, as is the community it engages with. Send us an email at [levelup@riseup.net](mailto: levelup@riseup.net) ([GPG public key here](http://pgp.mit.edu/pks/lookup?op=get&search=0x207BFB9591A638BE)) **with a request to join the LevelUp Mailing List**, to stay updated with the latest on LevelUp, be informed of changes or improvements to the site, and interact with others in the training community. 
+This resource is a continually evolving one, as is the community it engages with. Send us an email at [levelup@riseup.net](mailto: levelup@riseup.net) ([GPG public key here](http://pgp.mit.edu/pks/lookup?op=get&search=0x207BFB9591A638BE)) **with a request to join the LevelUp Mailing List**, to stay updated with the latest on LevelUp, be informed of changes or improvements to the site, and interact with others in the training community.
 <br><br>
 
 # How You Can Use LevelUp
@@ -24,10 +24,10 @@ From [training session modules](/curriculum/), how-to guides for [planning event
 
 ### Get Started With...
 
-#### [You, The Trainer](/levelup/you-the-trainer/)
+#### [You, The Trainer](/you-the-trainer/)
 Every trainer is stronger in some areas than in others; however, the best are constantly seeking new ways to improve their skills. These resources reflect the experience of a number of trainers in this regard.
 
-#### [Before an Event](/levelup/before-an-event/)
+#### [Before an Event](/before-an-event/)
 Arguably the most critical phase of the training planning process takes place before the event itself. This multi-part resource details the basics, built from the documented experience of several experienced trainers.
 <br><br>
 
@@ -48,7 +48,7 @@ This resource features advice from a number of experienced digital security trai
 ## 3. Contribute to and interact with LevelUp content
 *LevelUp relies on contributions and input from members of the training community, like you, to remain an evolving, up-to-date, and most importantly, *shared* resource.*
 
-LevelUp’s content is developed by dedicated digital security trainers and experts, who willingly share their knowledge in order to protect individuals working for greater rights and social justice. We welcome and encourage all users of LevelUp to contribute new training content, provide feedback or updates for current content, and participate in our ongoing localization efforts. 
+LevelUp’s content is developed by dedicated digital security trainers and experts, who willingly share their knowledge in order to protect individuals working for greater rights and social justice. We welcome and encourage all users of LevelUp to contribute new training content, provide feedback or updates for current content, and participate in our ongoing localization efforts.
 
 ### Get Started With...
 

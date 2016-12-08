@@ -20,13 +20,13 @@ LevelUp uses the **Activity-Discussion-Inputs-Deepening-Synthesis**, or [ADIDS a
 LevelUp's Trainers' Curriculum is organized into three core tiers, designed to help users begin with an idea of what general themes are required in a given event, narrowing the focus down to eventually arrive at its specific topics and sessions.
 
 #### Themes
-It begins with a series of *Themes*, each of which refer to a broader digital security and safety concern - these are organized on the initial [Curriculum](level-up/curriculum/) page.
+It begins with a series of *Themes*, each of which refer to a broader digital security and safety concern - these are organized on the initial [Curriculum](/curriculum/) page.
 
 #### Topics
 Within each each Theme are its *Topics*, which are the individual, ADIDS-structured training modules that address relevant tools or practices - these are organized into individual pages, [like this one](/curriculum/malware-protection/using-antivirus-tools/).
 
 #### Elements
-Finally, each ADIDS structured Topic is composed of ADIDS *Elements*, which are the individual sessions within each module that allow it to be delivered in a way that supports the adult learning process - these are listed out on their [respective Topic pages](/curriculum/malware-protection/using-antivirus-tools/). 
+Finally, each ADIDS structured Topic is composed of ADIDS *Elements*, which are the individual sessions within each module that allow it to be delivered in a way that supports the adult learning process - these are listed out on their [respective Topic pages](/curriculum/malware-protection/using-antivirus-tools/).
 
 So, each *Topic* module is comprised of individual *Elements*, which are the individual *ADIDS* elements of:
 - **Activity**, which includes a **Discussion** about that activity;
@@ -81,7 +81,7 @@ Time estimates for both entire Sessions and individual Elements can vary based o
 We chose to set this as the baseline here for the time estimates; however, you may also allot more time because a training is particularly successful, and taking more time to accommodate the details questions of very engaged participants would be beneficial.
 
 #### Timing for Participant Questions
-You may throughout the Trainer's Curriculum references to “tabled questions,” sometimes also called a “parking lot” or a "bike rack". This is a list of questions that come up during a training session that are held or "parked" to be answered later, either when you get to that particular issue later in a training session (during Input or Deepening), during wrap-up at the end of a training (Synthesis). Sometimes it may be a question that is highly particular to a certain individual (e.g., one-on-one assistance, or a complex problem unique to them and their situation), or to a few participants within a larger group. 
+You may throughout the Trainer's Curriculum references to “tabled questions,” sometimes also called a “parking lot” or a "bike rack". This is a list of questions that come up during a training session that are held or "parked" to be answered later, either when you get to that particular issue later in a training session (during Input or Deepening), during wrap-up at the end of a training (Synthesis). Sometimes it may be a question that is highly particular to a certain individual (e.g., one-on-one assistance, or a complex problem unique to them and their situation), or to a few participants within a larger group.
 
 In this case, you may set aside a time to answer their question in depth. This is usually when the question isn’t generally relevant to the entire group and may take some time to either fully understand and/or answer.
 
@@ -91,7 +91,7 @@ Refer to [Developing a Shared Brain](/you-the-trainer/first-3-sessions-of-your-e
 ## Sequencing Considerations
 Designing an agenda is an art - aside from requests to cover *everything* (which is impossible), you also are asked to meet organizers’ priorities while also carefully calibrating how to meet the most urgent priorities of participants as you learn more about them.
 
-That being said, make sure you don’t skip over the most fundamental topics that you will continue to build upon throughout the workshop, and avoid sequencing sessions in a way that may cause larger problems down the road. For example, with many groups, three vital things to cover towards the *beginning* of a digital safety training are: 
+That being said, make sure you don’t skip over the most fundamental topics that you will continue to build upon throughout the workshop, and avoid sequencing sessions in a way that may cause larger problems down the road. For example, with many groups, three vital things to cover towards the *beginning* of a digital safety training are:
 - [Using Antivirus Tools](/curriculum/malware-protection/using-antivirus-tools/)
 - [Data Backup Basics](/curriculum/protecting-data/data-backup-basics/)
 - [Creating and Managing Strong Passwords](/curriculum/protecting-data/creating-and-managing-strong-passwords/).
@@ -114,5 +114,5 @@ Activity/Discussion and Input elements can serve as excellent background on a to
 
 Trainers are also often asked to lead a number of other types of sessions where ADIDS isn’t possible or appropriate. Sometimes an Activity that illustrates a concept will be preferred; other times, trainers are asked to simply lecture then lead a question and answer session. For this grab-bag of needs, trainers can also choose and adapt from the Trainer's Curriculum to create what they need.
 
-Our [You, the Trainer](/levelup/you-the-trainer/)section features more background on some of the **different kinds of events** trainers may be asked to lead, and how to begin preparing accordingly for those.
+Our [You, the Trainer](/you-the-trainer/)section features more background on some of the **different kinds of events** trainers may be asked to lead, and how to begin preparing accordingly for those.
 <br><br>

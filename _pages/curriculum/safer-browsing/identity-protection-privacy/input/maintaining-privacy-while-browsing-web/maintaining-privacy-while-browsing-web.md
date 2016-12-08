@@ -18,7 +18,7 @@ duration: 45-60 minutes
 - Be able to demonstrate how to tweak various browser settings as prescribed below.
 
 ##### *Trainer's Note*
-This Input offers the opportunity to continue onward with several different Deepenings, depending on the needs and circumstances of trainees - the legal status of encryption where your participants live and work is important to be aware of. For some participants, it may be more appropriate to look at using an HTTPS browser plug-in like [HTTPS Everywhere](/levelup/curriculum/safer-browsing/https-ssl/deepening/using-https-everywhere/); for others, looking at [Tor Browser Bundle](/levelup/curriculum/safer-browsing/anonymity-and-circumvention/deepening/using-tor/) may be a better option.
+This Input offers the opportunity to continue onward with several different Deepenings, depending on the needs and circumstances of trainees - the legal status of encryption where your participants live and work is important to be aware of. For some participants, it may be more appropriate to look at using an HTTPS browser plug-in like [HTTPS Everywhere](/curriculum/safer-browsing/https-ssl/deepening/using-https-everywhere/); for others, looking at [Tor Browser Bundle](/curriculum/safer-browsing/anonymity-and-circumvention/deepening/using-tor/) may be a better option.
 
 ##### Alternatively, if there is sufficient time and interest, you may choose to look at both.
 <br><br>
@@ -65,7 +65,7 @@ Each Internet-connected device has a public IP address, assigned by its ISP, tha
 <br><br>
 
 ## Step 2: What Does Your Browser Say About You?
-Now that some key terminology has been defined it would be a good time to check in with the group, to see what they know about what is really going on behind the scenes when they browse the Web. 
+Now that some key terminology has been defined it would be a good time to check in with the group, to see what they know about what is really going on behind the scenes when they browse the Web.
 
 Set up some flipchart paper and ask participants what kind of data is available to the websites they view. You can also add things they may have missed:
 
@@ -102,13 +102,13 @@ Because browser fingerprinting is made easier by customizations to browser setti
 
 At this point, you may wish to demonstrate the benefit of using the Tor Browser Bundle. Open the Tor Browser Bundle and re-visit [Panopticlick](https://panopticlick.eff.org) and [What Is My IP](https://www.whatismyip.com) to illustrate that the browser is no longer leaking information.
 
-#### This can also serve as a segue into the Deepening session for the [Tor Browser Bundle](/levelup/curriculum/safer-browsing/anonymity-and-circumvention/deepening/using-tor/).
+#### This can also serve as a segue into the Deepening session for the [Tor Browser Bundle](/curriculum/safer-browsing/anonymity-and-circumvention/deepening/using-tor/).
 
 ##### If using the Tor Browser, don't use other plugins or change the default settings to prevent unique browser fingerprinting!
 <br><br>
 
 ### HTTPS Everywhere
-**HTTPS** (Secure HyperText Transfer Protocol) ensures that a connection between a user and a website is *authenticated and confidential*. It uses a strong encryption system called **SSL** (Secure Sockets Layer) to create a special encoded connection between a computer and the web server, into which nobody can see. 
+**HTTPS** (Secure HyperText Transfer Protocol) ensures that a connection between a user and a website is *authenticated and confidential*. It uses a strong encryption system called **SSL** (Secure Sockets Layer) to create a special encoded connection between a computer and the web server, into which nobody can see.
 
 - It may also be worth noting here to participants that HTTPS only encrypts the *channel* through which data is travelling - *not* the data itself.
 
@@ -116,7 +116,7 @@ Some websites *always* provide a protected SSL (HTTPS) connection; for instance,
 
 - To demonstrate, visit a website that provides both an HTTP and HTTPS connection, but does not force that HTTPS protected connection. An illustrative and relatively recognizeable example is [Microsoft.com](http://www.microsoft.com).
 
-#### This can also serve as a segue into the Deepening session for [HTTPS Everywhere](/levelup/curriculum/safer-browsing/https-ssl/deepening/using-https-everywhere/).
+#### This can also serve as a segue into the Deepening session for [HTTPS Everywhere](/curriculum/safer-browsing/https-ssl/deepening/using-https-everywhere/).
 <br><br>
 
 ## Step 5: Other Solutions
@@ -145,7 +145,7 @@ Configuring browser settings to disable javascript from running on all sites by 
 - The [ScriptSafe](https://chrome.google.com/webstore/detail/scriptsafe/oiigbmnaadbkfbmpbfijlflahbdbdgdf?hl=en) extension in Chrome
 
 #### Update Browsers
-Keeping browser software up to date prevents malicious code embedded in websites from collecting data. See [Safer Software Updating](/levelup/curriculum/malware-protection/safer-software-updating/) here on LevelUp for supporting training material on this topic.
+Keeping browser software up to date prevents malicious code embedded in websites from collecting data. See [Safer Software Updating](/curriculum/malware-protection/safer-software-updating/) here on LevelUp for supporting training material on this topic.
 <br><br>
 
 # Additional Resources

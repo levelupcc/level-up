@@ -1,6 +1,6 @@
 ---
 layout: content-page
-title: 
+title:
 author: DJ, Carol Waters
 summary: In this Deepening session, participants will learn how to use Thunderbird, Enigmail, and GnuPG to create a PGP/GPG key pair, share and upload public keys, authenticate others' keys, send encrypted and signed emails, and decrypt encrypted emails that they receive.
 permalink: /curriculum/safer-communication/pgp-gpg-email-encryption/deepening/thunderbird-and-gpg
@@ -52,7 +52,7 @@ Once all participants have successfully registered an email account within the T
 ## Step 3: Setup for Encryption Keypair Creation
 Demonstrate for participants how to make a **keypair** – this comprises the unique public and private keys that will be associated with their registered email acccount, and are respectively the equivalents of a lockbox (public key) and the key that opens it (private key).
 
-##### See the [Romeo and Juliet - An Encrypted Love Story](/levelup/curriculum/safer-communication/pgp-gpg-email-encryption/activity-discussion/romeo-and-juliet/) Activity & Discussion for reference, if needed.
+##### See the [Romeo and Juliet - An Encrypted Love Story](/curriculum/safer-communication/pgp-gpg-email-encryption/activity-discussion/romeo-and-juliet/) Activity & Discussion for reference, if needed.
 
 Launch Thunderbird, with GnuPG and Enigmail installed on the same computer. Open the Key Management window - in the upper right-hand menu, go to **Enigmail** -> **Key Management**.
 
@@ -61,7 +61,7 @@ From the menu, choose **Generate** -> **New Key Pair**; select an email address 
 ### Passphrases
 Users will be asked to create a **passphrase** for this keypair – this passphrase is what helps ensure that only the owner of the key pair's private key is able to use it to decrypt and sign emails.
 
-You may choose to check the box marked **No Passphrase** in the interest of time - however, this *must be acknowledged* to the group during the demonstration. Participants will need to set a passphrase for their keys, and they should enter it into their [Password Manager](/levelup/curriculum/protecting-data/creating-and-managing-strong-passwords/deepening/using-a-password-manager/) - *if they forget it, there is no way of recovering it.*
+You may choose to check the box marked **No Passphrase** in the interest of time - however, this *must be acknowledged* to the group during the demonstration. Participants will need to set a passphrase for their keys, and they should enter it into their [Password Manager](/curriculum/protecting-data/creating-and-managing-strong-passwords/deepening/using-a-password-manager/) - *if they forget it, there is no way of recovering it.*
 
 ### Key Expiration and Strength
 Expiration for keys are set as a **failsafe** safety feature; users can change the **expiration date** of their keys, setting them to expire at a later date or *never*, and set reminders to extend the expiration date as needed. Setting an expiration date is a good feature to have enabled, in case you lose your key revocation certificate.
@@ -75,7 +75,7 @@ Now, you can click **Generate Key**. This process can take several minutes - dur
 - Everyone should protect their key with a (preferably encrypted) backup.
 
 ##### For the first point
-...explain that even though this key pair was seemingly created specifically for one email address, it is in fact possible to go back and add additional email addresses (or *identities*) to this key pair once it has been created. 
+...explain that even though this key pair was seemingly created specifically for one email address, it is in fact possible to go back and add additional email addresses (or *identities*) to this key pair once it has been created.
 
 ##### For the second point
 ...explain that backing up is important as email encrypted to them using their public key is impossible to decrypt without its associated private key - therefore, protecting these is crucial!
@@ -101,7 +101,7 @@ At this point, you may want to consider stopping the session for a break, with p
 <br><br>
 
 ## Step 6: Share Your Public Key
-At this stage, participants may now send one another their public keys – *ONLY their public keys*. The private key must **never** be shared or emailed. Alternatively, if the trainer has created a mailing list for the training event, public keys can be sent to that address to reach everyone at once. 
+At this stage, participants may now send one another their public keys – *ONLY their public keys*. The private key must **never** be shared or emailed. Alternatively, if the trainer has created a mailing list for the training event, public keys can be sent to that address to reach everyone at once.
 
 ### Sharing Keys By Hand
 In Thunderbird, launch the Key Management window - highlight the email address for which a new key pair was generated in the previous steps. Right-click the address and select **Export Keys to File**, making sure to select **Export Public Keys Only** - then, export to a USB flash drive or other external drive for sharing.
@@ -111,7 +111,7 @@ You may wish to point out that an in-person exchange of keys is the most secure 
 ### Sharing Keys by Email
 Follow the same steps as above for Sharing Keys by Hand, except instead of selecting **Export Keys to File** -> **Send Public Keys by Email**.
 
-Fill in the "To:" address field of your email and then hit Send; for the purpose of the exercise, you can either send your key to yourself, or send it to the group’s mailing list for participants to access, if one has been created. Once you're done, have participants repeat the process. 
+Fill in the "To:" address field of your email and then hit Send; for the purpose of the exercise, you can either send your key to yourself, or send it to the group’s mailing list for participants to access, if one has been created. Once you're done, have participants repeat the process.
 
 At this point, explain that these are just two ways for users to share their public keys - mention that public keys can be pasted into the text of an email, or shared via an array of trusted public keyservers (public "directories" into which users upload their public keys for other users to locate and download).
 <br><br>
@@ -120,7 +120,7 @@ At this point, explain that these are just two ways for users to share their pub
 This last exercise will have participants add each others' public keys to their “library” of other users' keys - this is also known as a **keyring** or **keychain**. Demonstrate this step first before having participants replicate it, and remind the group not to accidentally share their private keys!
 
 ### Import a Public Key by Hand
-In Thunderbird, launch the Key Management window; then, receive a USB flash drive with a participant’s public key on it. Within Key Management, choose **File** -> **Import Keys from File**. 
+In Thunderbird, launch the Key Management window; then, receive a USB flash drive with a participant’s public key on it. Within Key Management, choose **File** -> **Import Keys from File**.
 
 A pop-up window will ask the user to point to the public key(s) that are to be imported - select the public key file saved on the USB flash drive.
 
@@ -140,14 +140,14 @@ First, using your own key, demonstrate an example with another particpant; then 
 Don't forget to explain the difference between a traditional (public) signature of a public key versus a "local signature" of someone's key, and the trade-offs of each option:
 
 ### Public Signatures
-PGP relies on a concept called a **Web of Trust**. This means that when looking for someone's key online, you can see whom else has signed their key as well as the date it was signed. 
+PGP relies on a concept called a **Web of Trust**. This means that when looking for someone's key online, you can see whom else has signed their key as well as the date it was signed.
 
-While this can help users to make a decision as to whether or not to that key is "trustworthy" before they download it, it also reveals *who else* is authenticating that key as truly belonging to the person indicated as the owner. 
+While this can help users to make a decision as to whether or not to that key is "trustworthy" before they download it, it also reveals *who else* is authenticating that key as truly belonging to the person indicated as the owner.
 
 ##### It also tells you who knows this person, as well as the date they signed their key.
 
 ### Local Signatures
-Because public signatures are visible for keys shared online or downloaded, this can raise some issues. If people are signing someone's key publicly, it reveals a certain amount of information about them based on who they know, and the date they signed a given key. 
+Because public signatures are visible for keys shared online or downloaded, this can raise some issues. If people are signing someone's key publicly, it reveals a certain amount of information about them based on who they know, and the date they signed a given key.
 
 ##### We generally recommend that high-risk participants at a training do local signatures of each others' keys, and that they consider whose signatures they're comfortable having publicly visible on their own keys.
 <br><br>
@@ -202,13 +202,13 @@ Remind participants that the **titles** of any attachments they send are visible
 - MacGPG (GnuPG for OSX)
 - GPG Services (a plug-in for using GPG for apps in OSX)
 - GPG Keychain
-- GPG for Mail.app. 
+- GPG for Mail.app.
 
 OSX users can choose to use **Mail.app** or **Thunderbird and Enigmail** for OSX.
 <br><br>
 
 ## Step 1: Registering an Email Account and Creating a Keypair
-If participants choose to use Thunderbird for the first time, use the same steps as the above [Deepening for Windows and Linux](/levelup/curriculum/safer-communication/pgp-gpg-email-encryption/deepening/thunderbird-and-gpg/thunderbird-and-gpg/#Step-1-Prepare-Tools-as-Needed/). If they already have an account in Mail, they can move to the next step. 
+If participants choose to use Thunderbird for the first time, use the same steps as the above [Deepening for Windows and Linux](/curriculum/safer-communication/pgp-gpg-email-encryption/deepening/thunderbird-and-gpg/thunderbird-and-gpg/#Step-1-Prepare-Tools-as-Needed/). If they already have an account in Mail, they can move to the next step.
 
 - To add a new account to Mail, open it up and follow the instructions. If you need further help, [go here](https://www2.suresupport.com/faq.php/103/634) for screenshots.
 
@@ -221,13 +221,13 @@ Participants can do this in Enigmail, but to get them familiar with the GPG Keyc
 ### To share via email in Thunderbird, the steps are the same as for Windows and Linux users.
 Similar to Enigmail and Thunderbird in Windows and Linux, select the key and either right-click and select **Export...** or select the key and select **File > Export** in the menu. The typical Finder window pops up with the short key ID as the file title, and ASCII as the default format option (in addition to Binary).
 
-Under this, you'll see a box that says **Allow secret key export** which is *not* checked by default. Mention to users that the only time they would select this is if they were backing up their key in an encrypted drive. Participants can then save the file to a USB and [follow the steps above](/levelup/curriculum/safer-communication/pgp-gpg-email-encryption/deepening/thunderbird-and-gpg/thunderbird-and-gpg/#Step-1-Prepare-Tools-as-Needed/).
+Under this, you'll see a box that says **Allow secret key export** which is *not* checked by default. Mention to users that the only time they would select this is if they were backing up their key in an encrypted drive. Participants can then save the file to a USB and [follow the steps above](/curriculum/safer-communication/pgp-gpg-email-encryption/deepening/thunderbird-and-gpg/thunderbird-and-gpg/#Step-1-Prepare-Tools-as-Needed/).
 <br><br>
 
 ## Step 3: Importing a Public Key
 Similar to Enigmail and Thunderbird in Windows and Linux, go to **File > Import** and select the key you want to import your desktop or external drive - a USB in this case.
 
-### To import from an email attachment in Thunderbird... 
+### To import from an email attachment in Thunderbird...
 Choose **Save** next to the attachment in the decrypted email, and save it to the desktop, or elsewhere as preferred. Then, go to **File** -> **Import** in GPGTools.
 
 ### To import from an email attachment in Mail...
@@ -238,7 +238,7 @@ Choose either **File > Save Attachments** in the menu, or right-click on the att
 To see the fingerprint of a key, either click on the **Info** button at the top of the GPG Keychain window, or right-click and choose **Info**. Walk participants through the various pieces of information in here, including the key fingerprint under the **Key** tab.
 
 ### To Sign a Key...
-Right-click on the key in the GPG Keychain window, or select **Key** -> **Sign** in the menu. Then follow the directions from the [Windows and Linux Deepening](/levelup/curriculum/safer-communication/pgp-gpg-email-encryption/deepening/thunderbird-and-gpg/thunderbird-and-gpg/#Step-1-Prepare-Tools-as-Needed/) section above about signing, setting an expiration date, and the tradeoffs between local and public key signatures.
+Right-click on the key in the GPG Keychain window, or select **Key** -> **Sign** in the menu. Then follow the directions from the [Windows and Linux Deepening](/curriculum/safer-communication/pgp-gpg-email-encryption/deepening/thunderbird-and-gpg/thunderbird-and-gpg/#Step-1-Prepare-Tools-as-Needed/) section above about signing, setting an expiration date, and the tradeoffs between local and public key signatures.
 
 ##### Tell participants that you will not be able to send mail in either Thunderbird or Mail if keys are not signed!
 <br><br>
@@ -246,7 +246,7 @@ Right-click on the key in the GPG Keychain window, or select **Key** -> **Sign**
 ## Step 5: Use it!
 Sending signed and encrypted emails in Thunderbird is the same as the directions for [Windows and Linux]() above.
 
-### To send signed and encrypted emails in Mail... 
+### To send signed and encrypted emails in Mail...
 Describe the GPG options in a new message. In the top right corner of a new message, there will be two options: **OpenGPG** and **S/MIME**. Describe the differences between these, and suggest that they use OpenGPG unless they are communicating with someone they know uses S/MIME only, since many mail clients have issues with S/MIME emails.
 
 Under the **Subject line**, participants will see a small unlocked lock and a certificate symbol with a checkmark in it:
@@ -259,7 +259,3 @@ To upload participants' public keys, have them either either right-click on thei
 
 If you are having participants practice locating each others' keys in keyservers, have participants take this step *before* uploading participants' public keys to a Keyserver. Go to **Preferences**, and select [pool.sks-keyservers.net](https://sks-keyservers.net/) as the top keyserver - this is the only default keyserver shared between Enigmail and OpenGPG Keychain.
 <br><br>
-
-
-
-
