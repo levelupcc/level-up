@@ -13,9 +13,9 @@ Core to LevelUp and its *created by trainers, for trainers* curriculum is foster
 ##### *Trainer's Note*
 This resource explains both the unique needs of adult learners, and how LevelUp has adapted this approach into its curriculum structure for digital security education, as a means of introduction and context-setting. For in-depth walkthroughs on navigating the curriculum and making the best use of ADIDS, in the preparation of your event and workshop sessions, please refer to our detailed curriculum guides:
 
-- [**How To: Using the LevelUp Trainer's Curriculum**](/level-up/before-an-event/using-levelup-trainers-curriculum/)
+- [**How To: Using the LevelUp Trainer's Curriculum**](/before-an-event/using-levelup-trainers-curriculum/)
 
-- [**How-To: Preparing Sessions Using ADIDS**](/level-up/before-an-event/preparing-sessions-using-adids/) 
+- [**How-To: Preparing Sessions Using ADIDS**](/before-an-event/preparing-sessions-using-adids/) 
 <br><br>
 
 ## Background

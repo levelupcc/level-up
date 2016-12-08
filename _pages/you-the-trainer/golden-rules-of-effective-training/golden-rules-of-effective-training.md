@@ -31,7 +31,7 @@ Emphasize that security is as much about a change in behavior, as it is about to
 
 Banners & signage (if even necessary to begin with), visa invitation letters, and even formal emails should not use terms or phrases that could raise red flags in certain settings such as "digital security", "online privacy", "circumvention", etc.
 
-For more guidance on creating safe spaces for digital security trainings, refer to our [Creating "Safe Spaces"](/level-up/before-an-event/creating-safe-spaces/) guide.
+For more guidance on creating safe spaces for digital security trainings, refer to our [Creating "Safe Spaces"](/before-an-event/creating-safe-spaces/) guide.
 <br><br>
 
 ## "Golden Rule" 3

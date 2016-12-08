@@ -20,7 +20,7 @@ As the name implies, *Icebreakers* are meant to "break the ice" and are usually 
 Trainers can help break up the pace of the day with fun interactive sessions called *Energizers*. Energizers are especially useful after lunch or long periods of sitting, when the group energy is frequently at its lowest and/or participants can seem  to be the most disengaged. Energizers are also useful when the group, trainer included, simply needs a fun break from training sessions.
 
 ### Topic-Based Interactive Games (or Activities)
-More customised activities relevant to specific training topics are known as *Topic-Based Interactive Games* (or *Activities* in the [ADIDS methodology](/level-up/before-an-event/levelups-approach-to-adult-learning/). 
+More customised activities relevant to specific training topics are known as *Topic-Based Interactive Games* (or *Activities* in the [ADIDS methodology](/before-an-event/levelups-approach-to-adult-learning/). 
 
 When using ADIDS to design your training sessions for adult learners, you will need to design or use pre-existing Activities based on the topic of your session. These will then lead into a *Discussion* about that particular activity, which is one of the main things that distinguishes these activities from Icebreakers and Energizers.
 
@@ -37,7 +37,7 @@ You may have participants who are not as capable of mobility as the rest. You wi
 In many instances, you will have to work with participants who have different cultural backgrounds. An activity that works for a training with all-male participants from Indonesia may not be ideal for a mixed-gender group from the same country. Likewise, an activity that worked well with a group of women from Western Europe might not work so well when you take it to another group of women from Latin America.
 
 ### Personal and Physical Space
-Try to avoid activities that require participants to touch each other - there are a few exceptions to this, but they tend to be different kinds of workshops. Even if you're a few days into the training and participants have bonded well, respect the fact that you are still unlikely to know if there is a participant who feels uncomfortable with touch. (For some additional insight, please see [The Psychosocial Underpinnings of Security Trainings](/level-up/before-an-event/psychosocial-underpinnings-of-security-training/4-traumatic-stress-reactions/) resource.
+Try to avoid activities that require participants to touch each other - there are a few exceptions to this, but they tend to be different kinds of workshops. Even if you're a few days into the training and participants have bonded well, respect the fact that you are still unlikely to know if there is a participant who feels uncomfortable with touch. (For some additional insight, please see [The Psychosocial Underpinnings of Security Trainings](/before-an-event/psychosocial-underpinnings-of-security-training/4-traumatic-stress-reactions/) resource.
 
 ### Language Barriers
 Especially in international or regional workshops, not everyone will necessarily be native speakers of one language. Across the board, trainers should use exercises requiring as few instructions as possible - this is especially useful in this instance. Exercises with uncomplicated instructions can be repeated in multiple languages or dialects if necessary, either by the trainer if they are able or by working with a willing participant to translate.
@@ -167,7 +167,7 @@ This is particularly good for a group of people who really don't know each other
 Energizers are short, fun activities that get participants moving and interacting. These are good exercises to have ready to pull out of your "toolkit" when you feel that the energy level in the room going down (e.g., glazed eyes. yawning participants, random nodding, etc.). 
 Sometimes, your participants will need to simply get up from their seats, stretch and / or walk around to re-energize themselves. You can always call for 5-minute Energizers by playing some dance music and asking everyone to stand-up and dance. Or stretch. Or just take a quick break to get some fresh air away from the training room.
 
-If you are using [Jargon Balls](/level-up/you-the-trainer/be-a-better-trainer/) in your training, one of the easiest ways to energize the room is to call random Jargon Ball fights with everyone standing up and trying to hit each other with the Jargon Balls. You can even encourage participants to say Jargon-terms you've used previously in the training as they do this, as a handy way for them to become more familiar with these terms!
+If you are using [Jargon Balls](/you-the-trainer/be-a-better-trainer/) in your training, one of the easiest ways to energize the room is to call random Jargon Ball fights with everyone standing up and trying to hit each other with the Jargon Balls. You can even encourage participants to say Jargon-terms you've used previously in the training as they do this, as a handy way for them to become more familiar with these terms!
 
 ##### *Trainer's Note*
 You can crowdsource your Energizers by asking participants to lead an activity. You can do this ahead of time by having a sheet of paper posted visibly in the room, where the participants can list their names as "Volunteer Energizer Leaders". You can do this more spontaneously as well, selecting participants who seem willing or engaged on the spot. This is a good way for you as a trainer to learn from your participants (and add to your training toolkit), and also to encourage participation and leadership from your participants.
@@ -224,9 +224,9 @@ This may not be appropriate if you have participants who have problems with mobi
 ## Topic-Based Interactive Games (or *Activities*)
 Topic-Based Interactive Games are more customised activities that are relevant to particular topics that the training is focused on. When using ADIDS to design your sessions for adult learners, sometimes you will need to design Topic-Based Interactive Games (usually just called *Activities* as part of ADIDS) based on the topic of your session. 
 
-These will then lead into a Discussion about that particular activity, which is one of the main things that distinguishes these activities from Icebreakers and Energizers above. Some Icebreakers and Energizers may also be adapted as Activities in ADIDS Sessions. An example of this is the broadly used [Spectrogram Activity](/level-up/you-the-trainer/first-3-sessions-of-your-event/sharing-your-story/), which is also a popular *Icebreaker*.
+These will then lead into a Discussion about that particular activity, which is one of the main things that distinguishes these activities from Icebreakers and Energizers above. Some Icebreakers and Energizers may also be adapted as Activities in ADIDS Sessions. An example of this is the broadly used [Spectrogram Activity](/you-the-trainer/first-3-sessions-of-your-event/sharing-your-story/), which is also a popular *Icebreaker*.
 
-See examples of Topic-Based Interactive Games as *Activities* in our [Trainers' Curriculum](/level-up/curriculum/) here, found as the **Activity & Discussion** elements.
+See examples of Topic-Based Interactive Games as *Activities* in our [Trainers' Curriculum](/curriculum/) here, found as the **Activity & Discussion** elements.
 <br><br>
 
 ## Additional Resources

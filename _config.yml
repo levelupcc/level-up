@@ -8,7 +8,7 @@
 # Site settings
 title: LevelUp
 description: Resources for the global digital safety training community.
-baseurl: "/level-up" # the subpath of your site, e.g. /blog
+#baseurl: "/level-up" # the subpath of your site, e.g. /blog 
 url: "https://levelupcc.github.io" # the base hostname & protocol for your site
 
 exclude: ["node_modules", "gulpfile.js", "package.json"]

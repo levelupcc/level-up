@@ -50,7 +50,7 @@ The process is distressing because it involves contemplating our own mortality, 
 It is not uncommon for digital security trainings to include participants who have recently survived a life-threatening experience. As such, these people might be experiencing a healthy traumatic stress reaction that is likely to be triggered by some of the content of a security training. As a result, they could become distressed in the classroom - the **Red Zone** describes people in this group. 
 
 ##### Trainers should facilitate conversations in a way that minimizes distress, while upholding each individual’s dignity.
-Additional support can be provided in private and in ways that are respectful of privacy. The list of [“Do’s and Don’ts”](/level-up/before-an-event/psychosocial-underpinnings-of-security-training/3-raise-lower-pressure/) when facilitating conversations about difficult material applies here.
+Additional support can be provided in private and in ways that are respectful of privacy. The list of [“Do’s and Don’ts”](/before-an-event/psychosocial-underpinnings-of-security-training/3-raise-lower-pressure/) when facilitating conversations about difficult material applies here.
 <br><br>
 
 ## Unhealthy Traumatic Stress Reactions

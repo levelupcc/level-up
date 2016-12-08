@@ -36,7 +36,7 @@ If you’ve already arrived to discover a wide range of skills amongst your part
 <br><br>
 
 #### Recent Traumatic Experiences
-If a training candidate has recently experienced a traumatic event, they are probably unable to benefit from a training. In addition, the training could add to their distress. To read more about this and how trauma and stress affects participants, trainers, and the training room, please read the [The Psychosocial Underpinnings of Security Training](/level-up/before-an-event/psychosocial-underpinnings-of-security-training/) resource.
+If a training candidate has recently experienced a traumatic event, they are probably unable to benefit from a training. In addition, the training could add to their distress. To read more about this and how trauma and stress affects participants, trainers, and the training room, please read the [The Psychosocial Underpinnings of Security Training](/before-an-event/psychosocial-underpinnings-of-security-training/) resource.
 <br><br>
 
 ### Selecting a Venue

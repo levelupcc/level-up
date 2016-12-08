@@ -17,7 +17,7 @@ platform: Linux, Mac OS, Windows
 <br><br>
 
 # Input Session
-Explain that you will begin by describing a typical Internet transaction or, if you've already offered a general session on how the internet works using the [We Are The Internet](/level-up/curriculum/safer-browsing/https-ssl/activity-discussion/we-are-the-internet/), then a brief review should suffice. After that, you will address how requests for certain content can be blocked; then, you will explain how to bypass Internet censorship using proxies and other tools.
+Explain that you will begin by describing a typical Internet transaction or, if you've already offered a general session on how the internet works using the [We Are The Internet](/curriculum/safer-browsing/https-ssl/activity-discussion/we-are-the-internet/), then a brief review should suffice. After that, you will address how requests for certain content can be blocked; then, you will explain how to bypass Internet censorship using proxies and other tools.
 
 ## Step 1: How the Internet is *Supposed* to Work
 Explain that you will begin by describing a typical Internet transaction. We suggest using the whiteboard to draw out the process by which a browser requests a webpage; however, if you prefer, you can show a favorite video, discuss a pre-made diagram, etc. Regardless, it is not uncommon for participants to have questions about this introductory material.

@@ -11,7 +11,7 @@ breadcrumb: Step 4 - Communications and Content Planning
 ### Training Agenda
 A major component of preparing for a training is crafting an agenda - the content of this will be informed largely by the findings of the initial needs assessment, in addition to relevant operational realities emerging from context and risk analysis. 
 
-Please see the [Planning Your Event Agenda](/level-up/before-an-event/planning-your-event-agenda/) guide for further information and guidance on this step.
+Please see the [Planning Your Event Agenda](/before-an-event/planning-your-event-agenda/) guide for further information and guidance on this step.
 <br><br>
 
 ### Pre-and-During Training Communications
@@ -27,7 +27,7 @@ Good follow-up is very important to the success of a training. It's a good pract
  
 Another practice for follow up is researching who the local source of trusted tech support is. If there isn't one locally available, you may try to broker an introduction with one regionally who is available to assist them. Otherwise, the needs of the trainees and their organizations may have no available resource for advice and troubleshooting. Some trainers have the time to provide this assistance on an ongoing basis, but often trainers are strapped for time and resources and struggle to meet the demands for assistance from past trainees. Be reasonable about what you can and cannot provide in the way of follow-up, and help communities advocate for better structures to meet this local demand.
 
-A post-training option is creating a [PGP-encrypted schleuder list](http://schleuder2.nadir.org/); if you do this, you will need to [train on PGP](/level-up/curriculum/safer-communication/pgp-gpg-email-encryption/) and do a key signing party at the event for the list. A schleuder list can be a great way to continue to reinforce good communications practices by participants and give them an opportunity to continue practicing what they learned at the training. Otherwise, you can continue to use the initial (non-PGP-encrypted) list after the training.
+A post-training option is creating a [PGP-encrypted schleuder list](http://schleuder2.nadir.org/); if you do this, you will need to [train on PGP](/curriculum/safer-communication/pgp-gpg-email-encryption/) and do a key signing party at the event for the list. A schleuder list can be a great way to continue to reinforce good communications practices by participants and give them an opportunity to continue practicing what they learned at the training. Otherwise, you can continue to use the initial (non-PGP-encrypted) list after the training.
 <br><br>
 
 ## Additional Resources

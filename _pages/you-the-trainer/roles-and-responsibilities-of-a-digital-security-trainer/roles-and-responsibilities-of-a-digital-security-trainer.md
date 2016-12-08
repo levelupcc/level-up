@@ -19,7 +19,7 @@ This extends to both online risks and how those risks may affect their physical 
 <br><br>
 
 ### 2. Recognize when it is *appropriate* and when it is *inappropriate* to use scare tactics.
-Accept that while sometimes scare tactics (see "The Fear-Mongerer" under [Be a Better Trainer](/level-up/you-the-trainer/be-a-better-trainer/)) can be an effective way to convince our participants to take security seriously, it is equally if not more important to provide strategies and solutions that *address* these fears. Good digital security trainers balance scare tactics with realistic solutions and strategies. **Scaring participants to the point of disempowerment and inaction is irresponsible and unethical**. 
+Accept that while sometimes scare tactics (see "The Fear-Mongerer" under [Be a Better Trainer](/you-the-trainer/be-a-better-trainer/)) can be an effective way to convince our participants to take security seriously, it is equally if not more important to provide strategies and solutions that *address* these fears. Good digital security trainers balance scare tactics with realistic solutions and strategies. **Scaring participants to the point of disempowerment and inaction is irresponsible and unethical**. 
 <br><br>
 
 ### 3. Build capacity on critical thinking and awareness, *not just on tools and applications*.
