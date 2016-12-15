@@ -10,7 +10,7 @@ adids: Synthesis
 parent: Data Backup Basics
 duration: 15-30 minutes
 ---
-#####*Trainer's Note*
+##### *Trainer's Note*
 Make note to budget at least 15 minutes for each of the **Optional** and main **Synthesis** sections included here, depending on what you were not able to cover during the earlier parts of this module.
 
 ## Optional
@@ -21,6 +21,7 @@ Synthesize this session by inviting participants to write up a backup policy to 
 
 ## Synthesis
 Check whether the information given during the session has been understood, by eliciting the information already taught. This can be done by eleciting a discussion with questions such as:
+
 - Why is conducting backups useful and important?
 - What is the cost and/or benefit of different approaches?
 - Do you feel you can create a backup policy that works for you?

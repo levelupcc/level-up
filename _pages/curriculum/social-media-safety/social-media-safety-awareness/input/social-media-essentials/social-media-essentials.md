@@ -64,7 +64,7 @@ As of the end of 2013, the [estimated value of the average user on Facebook was 
 
 #### "Data is the new oil."
 
-In addition, with the help of social networking "Like" and "Tweet" buttons [being embedded on websites across the Internet](https://online.wsj.com/news/articles/SB10001424127887324784404578143144132736214?mod=WSJ_WhatTheyKnowPrivacy_LeftTopNews&mg=reno64-wsj&url=http%3A%2F%2Fonline.wsj.com%2Farticle%2FSB10001424127887324784404578143144132736214.html%3Fmod%3DWSJ_WhatTheyKnowPrivacy_LeftTopNews), users are inadvertantly revealing their real identities online.
+In addition, with the help of social networking "Like" and "Tweet" buttons [being embedded on websites across the Internet](http://online.wsj.com/news/articles/SB10001424127887324784404578143144132736214?mod=WSJ_WhatTheyKnowPrivacy_LeftTopNews&mg=reno64-wsj&url=http%3A%2F%2Fonline.wsj.com%2Farticle%2FSB10001424127887324784404578143144132736214.html%3Fmod%3DWSJ_WhatTheyKnowPrivacy_LeftTopNews), users are inadvertantly revealing their real identities online.
 
 These identity-related data points are being hungrily scooped up by marketing agencies in order to sell private companies advice on **what** they can sell to you, and **how** they can do it.
 

@@ -15,7 +15,7 @@ input:
 
 deepening:
  - name: "Using HTTPS Everywhere"
-   url: /curriculum/safer-browsing/identity-protection-privacy/deepening/using-https-everywhere/
+   url: /curriculum/safer-browsing/https-ssl/deepening/using-https-everywhere/
 
  - name: "Using the Tor Browser Bundle"
    url: /curriculum/safer-browsing/anonymity-and-circumvention/deepening/using-tor/
