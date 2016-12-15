@@ -69,7 +69,7 @@ Send us an email at **with a request to join the LevelUp Mailing List**, to stay
 This also means that all content can now be found, in [markdown (.md) format](https://github.com/levelupcc/wiki/How-to-work-with-Markdown), via the [public LevelUp GitHub repository](https://github.com/levelupcc). To make using this option easier for all users, we've created a series of mini-tutorials which detail the process:
 
 #### [Using GitHub to Contribute Content>>](https://github.com/the-engine-room/wiki/How-to-Add-Content#adding-a-new-community-resource)
-Contribute to the [community resources section](https://levelupcc.github.io/community/community-resources-and-tools/) of the Level Up website.
+Contribute to the [community resources section](/community/community-resources-and-tools/) of the Level Up website.
 
 #### [Using GitHub to Edit Existing Content>>](https://github.com/the-engine-room/wiki/How-to-Edit-Content)
 Submit edits or updates to existing content.

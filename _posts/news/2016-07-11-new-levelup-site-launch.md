@@ -10,7 +10,6 @@ permalink: /news/2016-07-11-new-levelup-site-launch/
 breadcrumb: Welcome to the New LevelUp Site!
 ---
 ## Welcome to the new and improved LevelUp website!
-[https://levelupcc.github.io/level-up](https://levelupcc.github.io/level-up)
 
 We're excited to finally be launching the new LevelUp site, after many months of gathering user feedback, building wireframes, intensive user testing, and iteration. This is the culmination of the hard work of not just designers, UX experts, web developers, and the project team -  most importantly, it's the result of the incredible work of the global network of trainers that LevelUp collaborates with.
 
@@ -29,15 +28,15 @@ based directly on the feedback and input received from many of you.
 
 Working together with our amazing partners at [the engine room](https://www.theengineroom.org/), who led the re-design and overhaul process, the existing website has been re-created with a simplified user interface, streamlined navigation, easier content interaction, and clearer channels for contribution and feedback.
 
-#### [Read our new "Getting Started with LevelUp" guide to explore the new site >>](https://levelupcc.github.io/level-up/community/getting-started/)
+#### [Read our new "Getting Started with LevelUp" guide to explore the new site >>](/community/getting-started/)
 
-#### [Check out new features for contribution and feedback on "Contributing to LevelUp" >>](https://levelupcc.github.io/level-up/community/contribute/)
+#### [Check out new features for contribution and feedback on "Contributing to LevelUp" >>](/community/contribute/)
 
-#### [Explore the new "Community Tools and Resources" page for other useful digital security content from across the community >>](https://levelupcc.github.io/level-up/community/community-resources-and-tools/)
+#### [Explore the new "Community Tools and Resources" page for other useful digital security content from across the community >>](/community/community-resources-and-tools/)
 
-#### [Find out more about our simplified curriculum module structure in our "How-To: Using the LevelUp Trainers' Curriculum" guide >>](https://levelupcc.github.io/level-up/before-an-event/using-levelup-trainers-curriculum/)
+#### [Find out more about our simplified curriculum module structure in our "How-To: Using the LevelUp Trainers' Curriculum" guide >>](/before-an-event/using-levelup-trainers-curriculum/)
 
-#### [Who is LevelUp? Our "Partners and Collaborators" page, once populated, will give credit to the many partners and collaborators who've made LevelUp possible >>](https://levelupcc.github.io/level-up/community/partners-and-collaborators/)
+#### [Who is LevelUp? Our "Partners and Collaborators" page, once populated, will give credit to the many partners and collaborators who've made LevelUp possible >>](/community/partners-and-collaborators/)
 
 *Plus: Existing content has been refreshed, new content has been added, and more new content will continue to be added as the site grows!*
 <br><br>
