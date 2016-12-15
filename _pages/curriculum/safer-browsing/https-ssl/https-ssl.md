@@ -19,7 +19,7 @@ input:
 
 deepening:
  - name: "Using HTTPS Everywhere"
-   url: /curriculum/safer-browsing/identity-protection-privacy/deepening/using-https-everywhere/
+   url: /curriculum/safer-browsing/https-ssl/deepening/using-https-everywhere/
 
 synthesis:
  - name: "Protecting Data - HTTPS and SSL Synthesis"

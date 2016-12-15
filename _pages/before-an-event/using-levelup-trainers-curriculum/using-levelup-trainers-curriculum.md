@@ -42,7 +42,7 @@ The LevelUp Trainers' Curriculum is designed to, as it grows, allow trainers to 
 
 Most Topics include one each of Activity/Discussion, Input, Deepening, and Synthesis Elements; however, some may have multiple of one or more - for example:
 - [Safer Browsing - Identity Protection and Privacy](/curriculum/safer-browsing/identity-protection-privacy/) covers both Tor Browser and HTTPS Everywhere, and has distinct *Deepening* elements for both.
-- [Safer Workspaces - Tails](/curriculum/safer-workspaces/using-tails/) features distinct *Inputs* that trainers can use one or more of, depending on the context Tails will be trained in; it also has separate *Deepening* elements for different use cases of Tails.
+- [Safer Workspaces - Tails](/curriculum/safer-workspaces/tails/) features distinct *Inputs* that trainers can use one or more of, depending on the context Tails will be trained in; it also has separate *Deepening* elements for different use cases of Tails.
 
 In cases like the above, choose which Activity/Discussion, Input, Deepening, and Synthesis elements are the best fit for the context and scope of your event; as the LevelUp curriculum grows, you will find increasingly more options for different Elements across more Topics. Of course, you can always create your own Activity/Discussion, Input, Deepening and Synthesis elements, as needed. If you create anything you think would be useful for your fellow trainers, [please consider contributing it](/community/contribute/) to be shared back out with them!
 <br><br>

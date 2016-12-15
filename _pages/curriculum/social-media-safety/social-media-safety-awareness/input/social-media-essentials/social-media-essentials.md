@@ -60,11 +60,11 @@ Remember that social networking sites are owned by private businesses, and that 
 The free platforms and service that you use, like Facebook, Google, and Twitter, make **a lot** of money off of your use of their services.
 
 ### How Much Is a User Worth? 
-As of the end of 2013, the [estimated value of the average user on Facebook was $98; for Twitter, $110](www.forbes.com/sites/georgeanders/2013/11/07/a-twitter-user-is-worth-110-facebooks-98-linkedins-93/) - in the [words of a Verizon marketing executive](http://www.cnet.com/news/verizon-draws-fire-for-monitoring-app-usage-browsing-habits/)...
+As of the end of 2013, the [estimated value of the average user on Facebook was $98; for Twitter, $110](https://www.forbes.com/sites/georgeanders/2013/11/07/a-twitter-user-is-worth-110-facebooks-98-linkedins-93/) - in the [words of a Verizon marketing executive](http://www.cnet.com/news/verizon-draws-fire-for-monitoring-app-usage-browsing-habits/)...
 
 #### "Data is the new oil."
 
-In addition, with the help of social networking "Like" and "Tweet" buttons [being embedded on websites across the Internet](online.wsj.com/news/articles/SB10001424127887324784404578143144132736214?mod=WSJ_WhatTheyKnowPrivacy_LeftTopNews&mg=reno64-wsj&url=http%3A%2F%2Fonline.wsj.com%2Farticle%2FSB10001424127887324784404578143144132736214.html%3Fmod%3DWSJ_WhatTheyKnowPrivacy_LeftTopNews), users are inadvertantly revealing their real identities online.
+In addition, with the help of social networking "Like" and "Tweet" buttons [being embedded on websites across the Internet](https://online.wsj.com/news/articles/SB10001424127887324784404578143144132736214?mod=WSJ_WhatTheyKnowPrivacy_LeftTopNews&mg=reno64-wsj&url=http%3A%2F%2Fonline.wsj.com%2Farticle%2FSB10001424127887324784404578143144132736214.html%3Fmod%3DWSJ_WhatTheyKnowPrivacy_LeftTopNews), users are inadvertantly revealing their real identities online.
 
 These identity-related data points are being hungrily scooped up by marketing agencies in order to sell private companies advice on **what** they can sell to you, and **how** they can do it.
 
@@ -123,7 +123,7 @@ What privacy options are provided for users?
 - This is a particular concern for social networking sites that you use as apps on your mobile device(s).
 
 ##### *Trainer's Note*
-Helpful Demo: Use [Creepy](http://ilektrojohn.github.io/creepy/) to show social media postings made nearby the training or other places requested by participants.
+Helpful Demo: Use [Creepy](http://www.geocreepy.com/) to show social media postings made nearby the training or other places requested by participants.
 <br><br>
 
 ## Step 6: What Are You Choosing to Share?

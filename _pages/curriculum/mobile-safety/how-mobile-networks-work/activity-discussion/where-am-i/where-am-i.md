@@ -16,7 +16,7 @@ duration: 30-45 minutes
 - Ensure you don't have anything that can block visibility (e.g., pillars)
 
 ## Optional 
-Projector and images of mobile network towers - [this site](canadianspectrumpolicyresearch.org/network/towers-structures/) has a good range that are included below.
+Projector and images of mobile network towers - [this site](http://canadianspectrumpolicyresearch.org/network/towers-structures/) has a good range that are included below.
 <br><br>
 
 # Running the Activity
