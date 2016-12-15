@@ -19,7 +19,7 @@ input:
 
 synthesis:
  - name: "Social Media Safety Awareness Synthesis"
-   url: /curriculum/social-media-safety/social-media-safety-awareness/synthesis/synthesis-social-media-awareness/
+   url: /curriculum/social-media-safety/social-media-safety-awareness/synthesis/synthesis-social-media-safety-awareness/
 
 platforms: Mac OS, Windows
 level: Fundamental

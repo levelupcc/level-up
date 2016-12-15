@@ -3,7 +3,7 @@ layout: content-page
 title: "Input: Crafting a Backup Policy"
 author:
 summary: Each new method of storing or transferring digital information tends to introduce several new ways in which the information in question can be lost, taken or destroyed. It is extremely important that users maintain an up-to-date backup of their important and/or sensitive data, and a well-tested means of restoring such data in the event it is lost. However, formulating an effective backup policy is not as simple as it sounds - this Input element will help trainers begin a conversation about this with training participants.
-permalink: /curriculum/protecting-data/data-backup-basics/input/crafting-backup-policy
+permalink: /curriculum/protecting-data/data-backup-basics/input/crafting-backup-policy/
 breadcrumb: Crafting a Backup Policy
 date: 2016-05
 adids: Input

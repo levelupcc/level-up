@@ -45,13 +45,13 @@ CyberArabs is a website with news, guides, videos, and tutorials on digital secu
 - Updated 2015
 -  [https://www.cyber-arabs.com/](https://www.cyber-arabs.com/%2520)
 
-###  [Digital First Aid Kit](http://circl.lu/pub/%23the-digital-first-aid-kit)
+###  [Digital First Aid Kit](https://rarenet.github.io/DFAK/)
 
 The Digital First Aid Kit is a self-diagnostic tool for human rights defenders, journalists, bloggers, and online activists  to understand the types of threats they and their colleagues and friends face, and how to deal with them or seek help from a specialist. Topics covered include: secure communication, account hijacking, malware, and DDoS mitigation, and others.
 
 - By [The Digital Defenders Partnership](https://digitaldefenders.org/)
 - Created in November, 2014
--  [https://digitaldefenders.org/digitalfirstaid/](http://circl.lu/pub/%23the-digital-first-aid-kit)
+-  [http://digitalfirstaid.org/](https://rarenet.github.io/DFAK/)
 
 ### [Digital Footprint: Assessing Risk & Impact](https://publicintelligence.net/nccic-digital-footprint/)
 
@@ -106,7 +106,7 @@ On July 2, 2013, Freedom of the Press Foundation published this whitepaper entit
 
 Information Security for Journalists is a handbook for investigative journalists  that outlines the most effective means of keeping work private and safe from spying. It explains how to write safely, how to think about security and how to safely receive, store and send information that must be kept out of the hands of others.
 
-- Created by Silkie Carlo and Arjen Kamphuis for [The Centre for Investigative Journalism](http://www.tcij.org/%2520)
+- Created by Silkie Carlo and Arjen Kamphuis for [The Centre for Investigative Journalism](http://www.tcij.org/)
 - Updated July, 2015
 -  [http://files.gendo.nl/Books/InfoSec\_for\_Journalists\_V1.21.pdf](http://files.gendo.nl/Books/InfoSec_for_Journalists_V1.21.pdf)
 
@@ -127,14 +127,14 @@ Me & My Shadow helps anyone to learn about how their data is collected when brow
 - Created in 2012, updated 2015
 -  [https://myshadow.org/](https://myshadow.org/)
 
-###  [Protege.LA](https://xn--protg-esab.la/)
+###  [Protege.LA](https://protege.la/)
 
 Protege.LA is a simple repository for Spanish language digital security resources that allows anyone to search for resources to match their needs by filtering according to different digital security topics.
 
 - By [Internews](http://internetinitiatives.internews.org/)
 - Languages: Spanish
 - Updated 2015
--  [https://protégé.la](https://xn--protg-esab.la/)
+-  [https://protege.la](https://protege.la/)
 
 
 ###  [Security in-a-Box: Tools and Tactics for Digital Security](https://securityinabox.org/en)
@@ -224,7 +224,7 @@ Tasharuk is a community-driven website that serves as a peer-to-peer knowledge b
 - Updated 2015
 -  [http://www.tasharuk.net/](http://www.tasharuk.net/)
 
-###  [The Toolbox](https://www.thetoolbox.org/tools)
+###  [The Toolbox](http://www.thetoolbox.org/tools)
 
 A website that assembles, curates, and  provide's easy access to a large list of tools that can be used for social change projects. This platform includes a range of secure and insecure tools.
 

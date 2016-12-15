@@ -4,7 +4,7 @@ title: Getting to Grips with Fear
 author: Craig Higson-Smith
 summary: The impact of any training program depends upon the participants’ ability to integrate new information and use that information effectively. Security training emotionally challenges both trainers and trainees in many interesting ways. The study of fear is a deep and thought-provoking area, and as trainers, we learn about ourselves and about those we teach. 
 date: 2014-08
-permalink: /before-an-event/psychosocial-underpinnings-of-security-training/1-getting-grips-with-fear
+permalink: /before-an-event/psychosocial-underpinnings-of-security-training/1-getting-grips-with-fear/
 parent: Psychosocial Underpinnings of Security Training
 breadcrumb: Getting to Grips with Fear
 ---
