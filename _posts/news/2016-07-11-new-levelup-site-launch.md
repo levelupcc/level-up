@@ -10,7 +10,6 @@ permalink: /news/2016-07-11-new-levelup-site-launch/
 breadcrumb: Welcome to the New LevelUp Site!
 ---
 ## Welcome to the new and improved LevelUp website!
-[/level-up](/level-up)
 
 We're excited to finally be launching the new LevelUp site, after many months of gathering user feedback, building wireframes, intensive user testing, and iteration. This is the culmination of the hard work of not just designers, UX experts, web developers, and the project team -  most importantly, it's the result of the incredible work of the global network of trainers that LevelUp collaborates with.
 
