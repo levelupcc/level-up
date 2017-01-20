@@ -156,6 +156,15 @@ Surveillance Self-Defense is a guide of videos and tutorials that help anyone as
 - Updated 2015
 -  [https://ssd.eff.org/en](https://ssd.eff.org/en)
 
+###  [Umbrella App](https://www.secfirst.org)
+
+Umbrella is a free, open source Android mobile app that contains advice on digital and physical security topics ranging from sending a secure email to dealing with physical surveillance. It has lessons based on levels of risk and customisable checklists to provide quick reminders for helping implementation. Each piece of software recommended in the app has a tool guide. Umbrella also has a security dashboard that let's users input their location and keep up-to-date on the latest security threats through feeds from places like the UN, Centres for Disease Control and US State Department.
+
+- By [Security First](https://www.secfirst.org)
+- Languages: English
+- Updated 2016
+-  [https://www.secfirst.org](https://www.secfirst.org)
+
 ###  [Your Digital Footprint Matters](http://www.internetsociety.org/your-digital-footprint-matters)
 
 The Internet Society developed three interactive online tutorials focused on identity and privacy. Each tutorial takes about five minutes and gives Internet users a solid foundation when it comes to making informed choices about their unique online identities.
