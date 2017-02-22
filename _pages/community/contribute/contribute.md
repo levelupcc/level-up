@@ -10,7 +10,7 @@ breadcrumb: Contributing to LevelUp
 ---
 #### Core to LevelUp is an ethos of community ownership - the content on this site is *your* content, and  it is meant to reflect your effort and experience as a member of the training community.
 
-This site was created to provide a sustained repository of resources, created by trainers for their peers, that can continue to be used and relied on. LevelUp relies on contributions and feedback from members of the training community, like you, to remain an evolving, up-to-date, and most importantly, *shared* resource. 
+This site was created to provide a sustained repository of resources, created by trainers for their peers, that can continue to be used and relied on. LevelUp relies on contributions and feedback from members of the training community, like you, to remain an evolving, up-to-date, and most importantly, *shared* resource.
 <br><br>
 
 ## How Can I Provide Feedback?
@@ -21,7 +21,7 @@ There are a few different ways you can provide feedback on LevelUp's growing com
 ##### Email us at [levelup@riseup.net](mailto: levelup@riseup.net) ([GPG public key here](http://pgp.mit.edu/pks/lookup?op=get&search=0x207BFB9591A638BE))
 LevelUp is cared for by trusted members of the training community, who are dedicated to maintaining the resource and staying engaged with its users.
 
-##### This resource is continually evolving, as is the community. 
+##### This resource is continually evolving, as is the community.
 Send us an email at **with a request to join the LevelUp Mailing List**, to stay updated with the latest on LevelUp, be informed of changes or improvements to the site, and interact with others in the training community.
 <br><br>
 
@@ -29,7 +29,7 @@ Send us an email at **with a request to join the LevelUp Mailing List**, to stay
 
 ##### LevelUp now uses [Hypothes.is](https://hypothes.is/) - a free and open source annotation plug-in - that allows users to comment and notetake on LevelUp content - directly on the site.
 
-To begin using Hypothes.is, click the grey arrow <img src="/assets/images/hypothesis-bar-arrow.PNG"> in the upper right corner of any page on the LevelUp site (see image below) to expand the menu sidebar. Here, you can either log-in or sign up. 
+To begin using Hypothes.is, click the grey arrow <img src="/assets/images/hypothesis-bar-arrow.PNG"> in the upper right corner of any page on the LevelUp site (see image below) to expand the menu sidebar. Here, you can either log-in or sign up.
 
 *New users will need to create an account; however, the Hypothes.is team maintains [extremely transparent and privacy-friendly Terms of Service](https://hypothes.is/terms-of-service/).*
 
@@ -41,11 +41,11 @@ To leave a comment, simply highlight/select the text you would like to comment o
 
 ...from which you can choose to leave a comment (Annotate) or simply Highlight the text - select an option, and the Hypothes.is tool bar will expand to display the comment editor.
 
-To toggle your comment privacy settings between **Public** or **Private**, click on the <img src="/assets/images/hypothesis-eye-sm.PNG"> icon, which will change to <img src="/assets/images/hypothesis-eye-sm-pvt.PNG"> when **Private** is enabled. Any comment or response that you leave can be either public to all users, or private to yourself only. 
+To toggle your comment privacy settings between **Public** or **Private**, click on the <img src="/assets/images/hypothesis-eye-sm.PNG"> icon, which will change to <img src="/assets/images/hypothesis-eye-sm-pvt.PNG"> when **Private** is enabled. Any comment or response that you leave can be either public to all users, or private to yourself only.
 
 In addition to leaving new comments, you can also engage in discussion with other users of LevelUp, by selecting their public comments and leaving a response.
 
-For more in-depth details on using Hypothes.is, see our [mini-tutorial and walkthrough here](https://github.com/levelupcc/wiki/How-to-Use-Hypothesis#how-do-you-use-it).
+For more in-depth details on using Hypothes.is, see our [mini-tutorial and walkthrough here](https://github.com/level-up/levelupcc/wiki/How-to-Use-Hypothesis#how-do-you-use-it).
 <br><br>
 
 ## How Can I Contribute Content?
@@ -58,7 +58,7 @@ There are now a few different ways you can contribute content to LevelUp's growi
 ##### Email us at [levelup@riseup.net](mailto: levelup@riseup.net) ([GPG public key here](http://pgp.mit.edu/pks/lookup?op=get&search=0x207BFB9591A638BE))
 If you have content you would like to submit for addition to LevelUp, get in touch regarding content contribution, or with any questions you might have.
 
-##### This resource is continually evolving, as is the community. 
+##### This resource is continually evolving, as is the community.
 Send us an email at **with a request to join the LevelUp Mailing List**, to stay updated with the latest on LevelUp, be informed of changes or improvements to the site, and interact with others in the training community.
 <br><br>
 
@@ -66,15 +66,15 @@ Send us an email at **with a request to join the LevelUp Mailing List**, to stay
 
 ##### LevelUp now uses [GitHub](https://github.com/levelupcc) to edit and manage the content of this website.
 
-This also means that all content can now be found, in [markdown (.md) format](https://github.com/levelupcc/wiki/How-to-work-with-Markdown), via the [public LevelUp GitHub repository](https://github.com/levelupcc). To make using this option easier for all users, we've created a series of mini-tutorials which detail the process:
+This also means that all content can now be found, in [markdown (.md) format](https://github.com/levelupcc/level-up/wiki/How-to-work-with-Markdown), via the [public LevelUp GitHub repository](https://github.com/levelupcc). To make using this option easier for all users, we've created a series of mini-tutorials which detail the process:
 
-#### [Using GitHub to Contribute Content>>](https://github.com/the-engine-room/wiki/How-to-Add-Content#adding-a-new-community-resource)
+#### [Using GitHub to Contribute Content>>](https://github.com/levelupcc/level-up/wiki/How-to-Add-Content#adding-a-new-community-resource)
 Contribute to the [community resources section](/community/community-resources-and-tools/) of the Level Up website.
 
-#### [Using GitHub to Edit Existing Content>>](https://github.com/the-engine-room/wiki/How-to-Edit-Content)
+#### [Using GitHub to Edit Existing Content>>](https://github.com/levelupcc/level-up/wiki/How-to-Edit-Content)
 Submit edits or updates to existing content.
 
-#### [Using GitHub to Add New Content Pages>>](https://github.com/the-engine-room/wiki/How-to-Add-Content#adding-a-new-page)
+#### [Using GitHub to Add New Content Pages>>](https://github.com/levelupcc/level-up/wiki/How-to-Add-Content#adding-a-new-page)
 Submit new pages for module, how-tos, and other resources.
 <br><br>
 
@@ -82,7 +82,7 @@ Submit new pages for module, how-tos, and other resources.
 
 ##### LevelUp now uses [Transifex](https://www.transifex.com/otf-website/) to advance the localization of its content into more languages.
 
-We want LevelUp to be accessible in many different ways, to many different people - this involves not only having its content *translated* in more languages, but also *localized* to the context of trainers who speak and train in those languages. 
+We want LevelUp to be accessible in many different ways, to many different people - this involves not only having its content *translated* in more languages, but also *localized* to the context of trainers who speak and train in those languages.
 
 Content for localization is currently hosted on the [Transifex](https://www.transifex.com/otf-website/) platform, which has helped our efforts to begin localizing LevelUp into Spanish and Arabic, with more languages on the way.
 
