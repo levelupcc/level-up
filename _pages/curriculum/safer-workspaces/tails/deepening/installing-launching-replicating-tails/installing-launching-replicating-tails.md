@@ -44,6 +44,9 @@ Installing Tails on a media device deletes *all* data on that device; however, t
 ## Step 2: Installing Tails
 Walk participants through the relevant installation process(es) for the external media provided and their computer's operating system:
 
+##### *Trainer's Note*
+If there is internet connectivity, you can guide participants through the online [Tails Installation Assistant](https://tails.boum.org/install/). 
+
 ### Installing Tails on DVD (Windows)
 - Ask participants to find the Tails .iso on their machine; have them right-click on the Tails image and select **Burn Disc Image**.
 - Participants will then need to select the drive on their machine to which the disc image will be burnt from a dropdown menu.
@@ -198,6 +201,7 @@ Tails can now be launched from this new USB drive once installation completes. [
 <br><br>
 
 ## Additional Resources 
+- **Tails Installation Assistant** for [guided installation assistance](https://tails.boum.org/install/)
 - **Tails Website** to download [Tails .iso disk image](https://tails.boum.org/download/index.en.html#download_iso)
 - **Tails Website** for known issues with [booting from Apple/Mac](https://tails.boum.org/support/known_issues/index.en.html#index13h2)
 - **Tails Website** for a [visual guide to the Tails UEFI desktop](https://tails.boum.org/doc/first_steps/introduction_to_gnome_and_the_tails_desktop/index.en.html)
