@@ -80,11 +80,11 @@ Submit new pages for module, how-tos, and other resources.
 
 ### 3. Contribute to Content Localization on Transifex
 
-##### LevelUp now uses [Transifex](https://www.transifex.com/otf-website/) to advance the localization of its content into more languages.
+##### LevelUp now uses [Transifex](https://www.transifex.com/otf/level-up-website/) to advance the localization of its content into more languages.
 
 We want LevelUp to be accessible in many different ways, to many different people - this involves not only having its content *translated* in more languages, but also *localized* to the context of trainers who speak and train in those languages.
 
-Content for localization is currently hosted on the [Transifex](https://www.transifex.com/otf-website/) platform, which has helped our efforts to begin localizing LevelUp into Spanish and Arabic, with more languages on the way.
+Content for localization is currently hosted on the [Transifex](https://www.transifex.com/otf/level-up-website/) platform, which has helped our efforts to begin localizing LevelUp into Spanish and Arabic, with more languages on the way.
 
 ##### We've also partnered with [Localization Lab](http://www.localizationlab.org/) to explore ways of not only getting LevelUp localized, but to involve the training community directly in that process; through events like [Localization Sprints](http://www.localizationlab.org/2016-localization-summit-and-sprint-summary), we've gotten a steady start.
 
