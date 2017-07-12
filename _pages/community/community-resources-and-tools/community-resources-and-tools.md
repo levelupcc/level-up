@@ -36,7 +36,7 @@ The CryptoParty Handbook is an introduction for anyone  to the basics of crypto
 - Updated August, 2013
 -  [https://www.cryptoparty.in/documentation/handbook](https://www.cryptoparty.in/documentation/handbook)
 
-###  [CyberArabs](https://www.cyber-arabs.com/%2520)
+###  [CyberArabs](https://www.cyber-arabs.com/)
 
 CyberArabs is a website with news, guides, videos, and tutorials on digital security best practices for  civil society organizations, journalists, and human rights defenders . Topics include creating good passwords, recognizing phishing, secure email, and others.
 
