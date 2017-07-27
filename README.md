@@ -26,9 +26,18 @@ If you want to contribute:
 
 ### Building the source code
 
-- Install Jekyll 3
-- Install Git
+First you need to install the following tools. The instructions depend on the operating system you use.
+
+- Install [Ruby 2.1 or above](https://www.ruby-lang.org/en/documentation/installation/)
+- Install [RubyGems](https://rubygems.org/pages/download)
+- Install [Jekyll 3](https://jekyllrb.com/docs/installation/)
+- Install [Git](https://git-scm.com/downloads)
 - Clone the repo
+
+```
+git clone git@github.com:levelupcc/level-up.git
+
+```
 
 The compiled code can be found in the _site folder. If you want to build it with a different baseurl, change the baseurl value in _config.yml.
 
