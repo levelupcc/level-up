@@ -24,6 +24,8 @@ If you want to contribute:
 - email the community maintainer
 - fork the repo, edit and submit a pull request
 
+[See the wiki for instructions for adding content.](https://github.com/levelupcc/level-up/wiki)
+
 ### Building the source code
 
 First you need to install the following tools. The instructions depend on the operating system you use.
