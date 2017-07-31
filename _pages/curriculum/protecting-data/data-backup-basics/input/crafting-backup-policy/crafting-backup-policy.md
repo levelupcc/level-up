@@ -23,7 +23,7 @@ While anti-virus, firewalls, encryption, and all the various steps we take to en
 
 Preparing for "the worst" is just as important as defending against it; that is to say, you need to have a data backup policy as part of your own security plan. But what might a backup policy look like? What are its dimensions?
 
-The first step to crafting an effective a backup policy is getting a sense of what data you have, and where it is. The [Data Backup Matrix](/curriculum/protecting-data/data-backup-basics/activity-discussion/data-backup-matrix-information-map/) Activity & Discussion is one way of doing this; however, another way would be by making a list of the different kinds of data you maintain and where you store each kind.
+The first step to crafting an effective a backup policy is getting a sense of what data you have, and where it is. The [Data Backup Matrix](/curriculum/protecting-data/data-backup-basics/activity-discussion/data-backup-matrix-creating-information-map/) Activity & Discussion is one way of doing this; however, another way would be by making a list of the different kinds of data you maintain and where you store each kind.
 <br><br>
 
 ## Step 2: *Where* Might Important Data Be Found?

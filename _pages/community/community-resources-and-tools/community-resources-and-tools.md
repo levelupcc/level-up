@@ -8,8 +8,8 @@ permalink: /community/community-resources-and-tools/
 parent: Community
 breadcrumb: Community Resources and Tools
 ---
-#### This resource is continually evolving, as is the community. 
-Send us an email at [levelup@riseup.net](mailto: levelup@riseup.net) ([GPG public key here](http://pgp.mit.edu/pks/lookup?op=get&search=0x207BFB9591A638BE)) **with a request to join the LevelUp Mailing List**, to stay updated with the latest on LevelUp, be informed of changes or improvements to the site, and interact with others in the training community. 
+#### This resource is continually evolving, as is the community.
+Send us an email at [levelup@riseup.net](mailto: levelup@riseup.net) ([GPG public key here](http://pgp.mit.edu/pks/lookup?op=get&search=0x207BFB9591A638BE)) **with a request to join the LevelUp Mailing List**, to stay updated with the latest on LevelUp, be informed of changes or improvements to the site, and interact with others in the training community.
 
 # Resources for Training Participants
 
@@ -36,7 +36,7 @@ The CryptoParty Handbook is an introduction for anyone  to the basics of crypto
 - Updated August, 2013
 -  [https://www.cryptoparty.in/documentation/handbook](https://www.cryptoparty.in/documentation/handbook)
 
-###  [CyberArabs](https://www.cyber-arabs.com/%2520)
+###  [CyberArabs](https://www.cyber-arabs.com/)
 
 CyberArabs is a website with news, guides, videos, and tutorials on digital security best practices for  civil society organizations, journalists, and human rights defenders . Topics include creating good passwords, recognizing phishing, secure email, and others.
 
@@ -216,7 +216,7 @@ Learn which online services are allegedly a part of PRISM and which open source 
 - Updated Jun 7, 2016
 -  [https://prism-break.org](https://prism-break.org/)
 
-###  [Secure Messaging Scorecard](https://www.eff.org/secure-messaging-scorecard%2520)
+###  [Secure Messaging Scorecard](https://www.eff.org/secure-messaging-scorecard)
 
 The Secure Messaging Scorecard is an assessment of messaging technologies (including chat, text, email, and video) rated on digital security best practices, including encryption, documentation of cryptography design, and whether they’ve received independent security audits, amongst others.
 

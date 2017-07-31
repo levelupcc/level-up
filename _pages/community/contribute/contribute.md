@@ -45,7 +45,7 @@ To toggle your comment privacy settings between **Public** or **Private**, click
 
 In addition to leaving new comments, you can also engage in discussion with other users of LevelUp, by selecting their public comments and leaving a response.
 
-For more in-depth details on using Hypothes.is, see our [mini-tutorial and walkthrough here](https://github.com/level-up/levelupcc/wiki/How-to-Use-Hypothesis#how-do-you-use-it).
+For more in-depth details on using Hypothes.is, see our [mini-tutorial and walkthrough here](https://github.com/levelupcc/level-up/wiki/How-to-Use-Hypothesis#how-do-you-use-it).
 <br><br>
 
 ## How Can I Contribute Content?

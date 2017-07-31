@@ -43,7 +43,7 @@ Many people use it for their personal and professional lives, and it can be a ce
 ...in the right contexts, social media platforms are powerful tools for shaping opinions and organizing communities. This can be a huge benefit or a huge drawback, depending on how they are used.
 <br><br>
 
-#### However, this also means that we're sharing *a lot* about ourselves online, and even more than we realize in some cases. 
+#### However, this also means that we're sharing *a lot* about ourselves online, and even more than we realize in some cases.
 In addition to whatever we know that we're sharing (e.g., with "friends" on Facebook), we may also be inadvertantly sharing it with the world if we aren't using certain access controls or privacy settings.
 
 Most of the functions of social networking sites are neither *new* nor *unique* - they're often just well-designed, convenient, and perhaps most importantly, *everyone* is using them. But don't forget too that most of the actions you take on social networking sites can also be performed via the Internet *without* joining a social networking site.
@@ -55,11 +55,11 @@ Start this portion of the session by highlighting, in the most appropriate way p
 ### You Are The Product
 Remember that social networking sites are owned by private businesses, and that they make their money by collecting data about individuals and selling that data on, particularly to the third-party advertisers.
 - Think about how much these companies are worth; now think about how much you've paid to use those services. *Nothing, right?*
-- That's because when you're not paying for access to a service or a product online, *you are the product.* 
+- That's because when you're not paying for access to a service or a product online, *you are the product.*
 
 The free platforms and service that you use, like Facebook, Google, and Twitter, make **a lot** of money off of your use of their services.
 
-### How Much Is a User Worth? 
+### How Much Is a User Worth?
 As of the end of 2013, the [estimated value of the average user on Facebook was $98; for Twitter, $110](https://www.forbes.com/sites/georgeanders/2013/11/07/a-twitter-user-is-worth-110-facebooks-98-linkedins-93/) - in the [words of a Verizon marketing executive](http://www.cnet.com/news/verizon-draws-fire-for-monitoring-app-usage-browsing-habits/)...
 
 #### "Data is the new oil."
@@ -78,7 +78,7 @@ When you enter a social networking site, you are entering a network that is gove
 ##### Essentially, you are giving all your data over to the owners and trusting them with it. By agreeing to the terms of the service, you agree to their rules.
 - In many cases, this means that images, recordings, and videos that you post on their websites may, in fact, technically now **belong** to them as intellectual property.
 
-We should read **Terms of Service (ToS)**, **End User Licence Agreements (EULAs)**, **Privacy Policies**, and **Data Use Policies** to learn how our content and personal data treated, and with whom are they shared. 
+We should read **Terms of Service (ToS)**, **End User Licence Agreements (EULAs)**, **Privacy Policies**, and **Data Use Policies** to learn how our content and personal data treated, and with whom are they shared.
 - The reality is that most users don't, because they are [very long](http://bits.blogs.nytimes.com/2014/04/28/didnt-read-those-terms-of-service-heres-what-you-agreed-to-give-up/?_r=0).
 - For example, Facebook's ToS is almost **5,000** words (!) long, hard to understand by design, and changes very often.
 
@@ -92,7 +92,7 @@ After details of PRISM emerged in 2013, few people worldwide aren't aware of the
 - Sometimes this pressure is severe, and foreign governments will threaten to *block the companies all together* if they do not comply with such requests/demands.
 
 When choosing, and using, a social networking site take a look at...
-- *Where* that company is based; 
+- *Where* that company is based;
 - *What* that country's laws are;
 - *If and how* that company has replied to data requests from its home government.
 - *If and how* that company has replied to data requests from foreign governments.
@@ -136,7 +136,7 @@ Imagine walking through the party with **all your personal details**, and up-to-
 ### Who are your friends?
 Do you know all these people? Do you trust them with everything you post online that they can see? Don't accept "friend" or contact requests easily. In particular, ask yourself:
 
-#### Is it necessary to post the following information online ...about yourself? About others? 
+#### Is it necessary to post the following information online ...about yourself? About others?
 Ask participants to suggest items for this list:
 - Your birthday and where you were born.
 - Contact phone numbers for you (and maybe your friends).
@@ -161,11 +161,11 @@ Most people who use social networks have had to negotiate different spheres of t
 #### How we negotiate this can be very complicated and very personal.
 Some sites allow you to organize groups and what those groups can see, but this can be complicated and may not offer everything that users need for their particular situation.
 - Some people set up various accounts on different networks that they use, and this works for them.
-- Others choose to use sites that allow them to use pseudonymns if this is a requirement. 
+- Others choose to use sites that allow them to use pseudonymns if this is a requirement.
 
-But this can become very complicated, especially if the sites that allow pseudonymns and multiple accounts *aren't* where their contacts are. Some social networks (and Facebook in particular) require users to sign up with and display their real names. 
+But this can become very complicated, especially if the sites that allow pseudonymns and multiple accounts *aren't* where their contacts are. Some social networks (and Facebook in particular) require users to sign up with and display their real names.
 - Not doing this can cause you to have your account suspended or deleted.
-- This can cause some serious challenges for users if they feel like that platform or service is the only one they can use to contact certain people. 
+- This can cause some serious challenges for users if they feel like that platform or service is the only one they can use to contact certain people.
 - In the case of certain individuals, this can cause serious problems.
 
 ### Real Life Example - Syrian Users
@@ -180,7 +180,7 @@ This was a case of a social networking tool being used as an extension of a conf
 
 
 ## Step 8: Tips and Good Practices For Using Social Media Safely
-If you work with sensitive information and topics, and are interested in using social networking services, it is important to be very aware of the **privacy and security issues** that they raise. 
+If you work with sensitive information and topics, and are interested in using social networking services, it is important to be very aware of the **privacy and security issues** that they raise.
 
 Anyone who works with (or is a member of) a vulnerable population is *particularly* at risk from the dangers of social networking sites, and needs to be extremely careful about the information they reveal about themselves **and** about the people they work with.
 
@@ -215,5 +215,5 @@ Anyone who works with (or is a member of) a vulnerable population is *particular
 - [Lightbeam (aka Collusion)](https://www.mozilla.org/en-US/lightbeam/): a Firefox add-on that can show how a selection of users are tracked online.
 - [TOSDR](https://tosdr.org/): social networking sites' Terms of Service (ToS) summaries, such as Twitter, Facebook, and Google.
 - Transparency Report results from [Google](https://www.google.com/transparencyreport/), [Twitter](https://transparency.twitter.com/), [Facebook](https://govtrequests.facebook.com/), and [Microsoft](https://www.microsoft.com/about/csr/transparencyhub/).
-- [Creepy](http://ilektrojohn.github.io/creepy/): shows social media postings made nearby the training, or other places requested by participants.
+- [Creepy](http://www.geocreepy.com/): shows social media postings made nearby the training, or other places requested by participants.
 <br><br>
