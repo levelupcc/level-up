@@ -30,11 +30,11 @@ parent: Safer Communication
 breadcrumb: PGP GPG Email Encryption
 ---
 
-**If this is your first time using our curriculum, please visit** **How To: Using LevelUp's Trainer's Curriculum [LINK]**
+**If this is your first time using our curriculum, please visit** [**How To: Using LevelUp's Trainer's Curriculum**](https://level-up.cc/before-an-event/using-levelup-trainers-curriculum/)
 
 This session module covers email encryption using the PGP (Pretty Good Privacy) protocol, and the equivalent GPG (Gnu Privacy Guard) protocol. PGP/GPG is one of the more complex tools to train on in the average digital safety training, as well as the most time-intensive. This session module includes several options from which trainers may choose for their ADIDS components for a training session on advanced email.
 
-##Learning Goals for Participants##
+## Learning Goals for Participants ##
 
 - Understand how email is sent, routed, and received, including where and how email contents can be read.
 - Ways to minimize exposure of email to unwanted scrutiny.
