@@ -14,13 +14,13 @@ Including interactive exercises as part of training sessions can be a powerful t
 These are exercises that facilitators and trainers can employ to encourage participants to be more relaxed with each other, become (re-) energised and engaged, and to help break up the pace of the day.
 There are 3 main types of interactive exercises that are used frequently during digital security trainings:
 
-### [Icebreakers] (/you-the-trainer/ice-breakers-and-energizers/icebreakers)
+### [Icebreakers](/you-the-trainer/ice-breakers-and-energizers/icebreakers/)
 As the name implies, **Icebreakers** are meant to "break the ice" and are usually fun "getting to know you" games and activities - they also help participants get to know their commonalities and differences in a fun way. Participants who are relaxed with each other and their trainer(s) learn better. When you have participants who are less inhibited and more comfortable in the training space, you can expect to have a training that has maximum participation and interactivity.
 
-### [Energizers] (/you-the-trainer/ice-breakers-and-energizers/energizers)
+### [Energizers](/you-the-trainer/ice-breakers-and-energizers/energizers/)
 Trainers can help break up the pace of the day with fun interactive sessions called **Energizers**. Energizers are especially useful after lunch or long periods of sitting, when the group energy is frequently at its lowest and/or participants can seem  to be the most disengaged. Energizers are also useful when the group, trainer included, simply needs a fun break from training sessions.
 
-### [Thematic Activities] (/you-the-trainer/ice-breakers-and-energizers/thematic-activities)
+### [Thematic Activities](/you-the-trainer/ice-breakers-and-energizers/thematic-activities/)
 More customised activities relevant to specific training topics are known as **Thematic Activities**. Most often, these will be the activities used in the *Activity and Discussion* from the [ADIDS methodology](/before-an-event/levelups-approach-to-adult-learning/); however, these can also be exercises not tied to a specific ADIDS topic. These can be compelling "A-ha!" moments for participants, especially when using a well-designed activity to illuminate complex technical concepts or systems. In some cases, Thematic Activities can also be used at the end of a training session as review exercises for participants.
 
 
