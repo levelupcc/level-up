@@ -3,8 +3,8 @@ layout: content-page
 title: "Witch Coven"
 author: Indira Cornelio, Alma Uguarte Perez
 summary: "This dynamic exercise will help you raise participant energy levels and keep the group stimulated. It provides a welcome break from technical training content, while still connecting to digital security themes."
-permalink:
-parent: 
+permalink: /you-the-trainer/ice-breakers-and-energizers/thematic-activities/witch-coven/
+parent: "Thematic Activities"
 breadcrumb: "Witch Coven"
 date: 2017-06
 duration: 15-20 minutes
