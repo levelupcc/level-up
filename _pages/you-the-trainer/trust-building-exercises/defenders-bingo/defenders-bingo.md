@@ -26,11 +26,10 @@ Remembering names and identifying faces is more difficult for some people than i
 <br><br>
 
 **Step 2 |** Next, give everyone a Bingo sheet that’s been pre-prepared with all participants’ names (see example below) – optionally, you may also include your name on the board.
+<br><br>
 
 #### Example of a pre-prepared Bingo sheet:
-
 <image placeholder for bingo sheet>
-
 
 **Step 3 |** Explain to the group how the game works:
 - You will read aloud, one by one, the index cards that participants filled in with their names;
