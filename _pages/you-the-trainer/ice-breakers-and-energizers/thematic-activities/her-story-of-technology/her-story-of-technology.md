@@ -22,22 +22,24 @@ duration: 30-45 minutes
 <br><br>
 
 ## Running the Exercise:
-**Step 1 |** Explain to participants that this session will be an exercise for the group to develop a collective memory that recognizes women technologists through history (or, her-story). Ask the group: 
+**Step 1 |** Explain to participants that this session will be an exercise for the group to develop a collective memory that recognizes women technologists through history (or, *her-story*). Ask the group: 
 
 *How many times have we heard that women and technology are not a good fit together?*
 
 *How many times have we heard that our place is not in a public or academic space, but behind the scenes or out of sight?*
+<br><br>
 
 **Step 2 |** Have the group sit in a circle (on the floor or in chairs) and begin the session with a brief introduction to the gender divide in technology - What is it? What do we know about it?
-
+<br><br>
 **Step 3 |** Have participants share their own stories of strength and resistance with technology. You can start out by asking the group - What is technology for you? Is it a good thing or a bad thing? Then, as an example, share your own personal story or anecdote about technology - this may encourage participants to be more open and comfortable.
-
+<br><br>
 **Step 4 |** Once everybody who wants to share has had the chance to do so, bring out the pictures and corresponding bios of the women in tech that you’ll be introducing to the group. Arrange the photos and bios on a table or on the floor in no particular order, and then ask the group - Who do you think started first in the tech world?
-
+<br><br>
 **Step 5 |** Using the clothespins/alligator clips to affix the photos to the length of cord, have the group work together to arrange the women in chronological order to create a timeline of technological her-story; for example, they could be ordered by year of birth, or by year of their first major achievement in the tech field – just make sure that the group has access to that information so they can complete the exercise!
-
+<br><br>
 **Step 6 |** When the group is finished, they should then walk through and explain their timeline – ask them to share how many of the women and her-stories they were already familiar with, and which ones were brand new to them. The timeline of her-stories should remain hung in a visible place in the training room throughout the course of the workshop – to close the session, you can have the group take a few quiet minutes to read about each of these incredible women and their her-stories.
-	
+<br><br>
+
 ***Optional:*** *Since the her-story timeline will be visible throughout the training for the participants, another way you can lead this exercise is by closing it once the group has done the walkthrough of their ordered timeline. Once everybody is seated, you can share the bio of the first woman on the timeline and talk about why her her-story is important.* 
 
 *At the beginning of each following training day (depending on how many days and how many participants) have 1-2 participants do the same with the next 1-2 women in the timeline - that way, by the end of the training, every participant will have had the chance to contribute to the training by leading a mini-session, and you will have shared the stories of all the women in the timeline.*
