@@ -12,7 +12,7 @@ breadcrumb: "Trust Building Exercises"
 #### Participants in digital security trainings frequently come from places – both physical and emotional – of high stress or anxiety.
 Therefore, it is essential that they perceive a training as a safe space, where they can feel at ease sharing their fears, doubts and emotions, and can actively participate and engage with others.
 
-These exercises, from the *Cyberwomen* holistic digital security training curriculum for women human rights defenders created by the Institute for War & Peace Reporting, will help you create an environment of peer-to-peer confidence and trust in a training setting from the very beginning, with a particular focus on collectively building shared participation and co-existence agreements for your training.
+These exercises, developed for the *Cyberwomen* holistic digital security training curriculum for women human rights defenders by the Institute for War & Peace Reporting, will help you create an environment of peer-to-peer confidence and trust in a training setting from the very beginning, with a particular focus on collectively building shared participation and co-existence agreements for your training.
 
 ### [The Rules of the Game](/you-the-trainer/trust-building-exercises/the-rules-of-the-game/)
 In this exercise, you will collectively build shared participation and co-existence agreements for your training - “the rules of the game” – together with participants.
