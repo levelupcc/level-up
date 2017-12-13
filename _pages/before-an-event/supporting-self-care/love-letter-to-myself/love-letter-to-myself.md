@@ -42,7 +42,6 @@ duration: 20-30 minutes
 <br>
 *Yourself*
 <br><br>
-
 **Step 2 |** Give one sheet of paper to each participant - ask them to fill in the blank space “Dear __________” with their name, and to complete the remaining sentences that were provided.
 <br><br>
 **Step 3 |** Remind participants that they will not have to share their letter with the rest of the group - this is a deeply personal activity.
