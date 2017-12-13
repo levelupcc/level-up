@@ -17,7 +17,7 @@ Sometimes, your participants will need to simply get up from their seats, stretc
 If you are using [Jargon Balls](/you-the-trainer/be-a-better-trainer/) in your training, one of the easiest ways to energize the room is to call random Jargon Ball fights with everyone standing up and trying to hit each other with the Jargon Balls. You can even encourage participants to say Jargon-terms you've used previously in the training as they do this, as a handy way for them to become more familiar with these terms!
 
 ##### *Trainer's Note*
-You can crowdsource your Energizers by asking participants to lead an activity. You can do this ahead of time by having a sheet of paper posted visibly in the room, where the participants can list their names as "Volunteer Energizer Leaders". You can do this more spontaneously as well, selecting participants who seem willing or engaged on the spot. This is a good way for you as a trainer to learn from your participants (and add to your training toolkit), and also to encourage participation and leadership from your participants.
+*You can crowdsource your Energizers by asking participants to lead an activity. You can do this ahead of time by having a sheet of paper posted visibly in the room, where the participants can list their names as "Volunteer Energizer Leaders". You can do this more spontaneously as well, selecting participants who seem willing or engaged on the spot. This is a good way for you as a trainer to learn from your participants (and add to your training toolkit), and also to encourage participation and leadership from your participants.
 <br><br>
 
 ### Beat Jam!
@@ -33,7 +33,7 @@ Have your participants stand up in a circle.
 After the second person finishes their 2 beats twice, the third person does the first and second participants' beats and then adds their own, again doing it twice. The first and second person continue their original beats. Repeat until everyone in the group has taken a turn to add their beat, and everyone has created a piece of music.
 
 ##### *Trainer's Note*
-This is ideally for 10-12 participants (8 works too, but not fewer) - it can also work with larger groups if time is managed well. You can also do a variation on Beat Jam where you use motions instead, but the original version works better for participants who have issues with mobility.
+*This is ideally for 10-12 participants (8 works too, but not fewer) - it can also work with larger groups if time is managed well. You can also do a variation on Beat Jam where you use motions instead, but the original version works better for participants who have issues with mobility.
 <br><br>
 
 ### Behind the Screen
@@ -48,7 +48,7 @@ You will need a big sheet (or a blanket or a large piece of butcher paper).
 Each team will have one person in front of the screen per round. Once the screen is raised, the first person to name the representative from the other team gets a point.
 
 ##### *Trainer's Note*
-This is a good activity to do to ensure that participants remember each other's names.
+*This is a good activity to do to ensure that participants remember each other's names.
 <br><br>
 
 ### The Most Efficient Method
@@ -65,7 +65,7 @@ You will need a small rubber or plastic ball and a timer for this Energizer.
 Ask participants to try to come with a way to beat the current time whilst keeping the same sequence. Do at least 2 more rounds for participants to try and beat the current best time.
 
 ##### *Trainer's Note*
-This may not be appropriate if you have participants who have problems with mobility; also, make sure that you have enough space for this activity.
+*This may not be appropriate if you have participants who have problems with mobility; also, make sure that you have enough space for this activity.
 
 
 
