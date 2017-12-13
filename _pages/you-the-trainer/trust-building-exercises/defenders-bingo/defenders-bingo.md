@@ -32,7 +32,7 @@ Remembering names and identifying faces is more difficult for some people than i
 - You will read aloud, one by one, the index cards that participants filled in with their names;
 - As you read out names, participants will circle each name where it appears on their Bingo sheets;
 - The first participant to circle a complete row of names (horizontally or vertically) will shout “Bingo!” and be declared the winner.
-<br><br>
+
 **Step 4 |** Ask the winner to read aloud the name of the first participant in their winning row – the person named will stand up, repeat her name, and then add a detail (choose which ahead of time and let them know as part of your instructions) such as what she likes to do in her spare time, what her favorite movie or song is, her favorite food, etc.
 <br><br>
 **Step 5 |** The winner will repeat the process in Step 4 until each participant in their winning row has introduced themselves. As each name is called, take its matching index card from the stack you used in Step 3 and set it aside.
