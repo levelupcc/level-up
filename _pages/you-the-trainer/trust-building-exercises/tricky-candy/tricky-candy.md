@@ -18,11 +18,13 @@ duration: 15-20 minutes
 
 ## Running the Exercise:
 **Step 1 |** Offer candy to everyone in the group, telling them to take as much as they’d like. Some participants will take more, others less, etc. You can also take some for yourself.
+<br><br>
 
 **Step 2 |** Once everyone has taken some of the candy, reveal the “trick” to everyone – for each piece of candy they took, they must share with the group a personal quality or interesting detail about themselves. These could include things like:
 - A wish or a personal goal
 - A something they enjoy about their work 
 - A country or place they’d like to visit
+<br><br>
 
 ***Optional:*** *If you have multiple varieties of candy, or candy in several different colored wrappers, you can assign a specific category to each variety or color. Using colored wrappers as an example, you could do the following:*
 - ***Red wrapper*** = *a wish or a personal goal*
