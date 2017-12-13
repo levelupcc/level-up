@@ -31,6 +31,5 @@ duration: 20-30 minutes
 - *Inhale with a deep, cleansing breath and hold it.*
 - *With your thumb, press down on your energy point – as you exhale, think of something that inspires you and makes you feel alive.*
 <br><br>
-
 **Step 5 |** Finalize the session by inviting participants to use this technique whenever they feel the need to center themselves and push back on feelings of despair or melancholy. Talk about how it is okay to feel afraid, tired or disenchanted at times, and how everybody has felt this was at one time or another.
 
