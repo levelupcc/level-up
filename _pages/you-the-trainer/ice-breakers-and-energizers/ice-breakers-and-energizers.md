@@ -24,7 +24,7 @@ Trainers can help break up the pace of the day with fun interactive sessions cal
 More customised activities relevant to specific training topics are known as **Thematic Activities**. Most often, these will be the activities used in the *Activity and Discussion* from the [ADIDS methodology](/before-an-event/levelups-approach-to-adult-learning/); however, these can also be exercises not tied to a specific ADIDS topic. These can be compelling "A-ha!" moments for participants, especially when using a well-designed activity to illuminate complex technical concepts or systems. In some cases, Thematic Activities can also be used at the end of a training session as review exercises for participants.
 
 
-## Things to Consider with Interactive Exercises
+## Things to Consider for Trainings
 Before building certain exercises into your training plan, selecting specific exercises on the spot during a training, or designing and adapting new exercises for later use, remember to *always* take the following considerations into account:
 
 ### Mobility of Participants
