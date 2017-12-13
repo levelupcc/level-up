@@ -3,8 +3,8 @@ layout: content-page
 title: "DigiSec Rally"
 author: Indira Cornelio, Alma Uguarte Perez
 summary: "To close out the training on an energizing note, you will lead participants through a dynamic grand rally adventure to review the digital safety knowledge they have learned."
-permalink:
-parent: 
+permalink: /you-the-trainer/ice-breakers-and-energizers/thematic-activities/digisec-rally/
+parent: "Thematic Activities"
 breadcrumb: "DigiSec Rally"
 date: 2017-06
 duration: 60-90 minutes
