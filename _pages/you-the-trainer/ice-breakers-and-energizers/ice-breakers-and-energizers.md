@@ -1,14 +1,14 @@
 ---
 layout: content-page
-title: "Icebreakers, Energizers, and Thematic Activities"
+title: "Icebreakers, Energizers and Thematic Activities"
 date: 2017-12
 author: CC
 summary: "A practical, and growing, guide of interactive exercises digital security trainers can use during their events to keep energy high, discussion flowing, and participants comfortable."
 permalink: /you-the-trainer/ice-breakers-and-energizers/
 parent: "You, The Trainer"
-breadcrumb: "Icebreakers, Energizers, and Thematic Activities"
+breadcrumb: "Icebreakers, Energizers and Thematic Activities"
 ---
-## Why use Icebreakers, Energizers, and Thematic Activities?
+## Why use Icebreakers, Energizers and Thematic Activities?
 Including interactive exercises such as these as part of training sessions can be a powerful teaching tool - whereas all people learn differently, in addition to cultural and regional differences, making your workshops fun and interactive is an effective training approach for most participants.
 
 These are exercises that facilitators and trainers can employ to encourage participants to be more relaxed with each other, become (re-) energised and engaged, and to help break up the pace of the day.
