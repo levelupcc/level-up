@@ -37,6 +37,7 @@ duration: 20-30 minutes
 - I take time to clarify and resolve misunderstandings with loved ones or work colleagues when any conflicts arise;
 - I keep an 8-hour per day work schedule, which both myself and my organization respect;
 <br><br>
+
 **Step 4 |** When you finish with the questions, ask participants - What do they see in the mirror (or on their photos)? Bring the group together in a circle to discuss the effects that can excessive work burdens, poor social practices at work, or insufficient care for body and mind can have on individuals, blurring out their essence and obscuring who they really are at heart.
 <br><br>
 **Step 5 |** Go around the circle and ask whoever feels comfortable doing so to set an intention – that intention should be to begin taking better care of themselves by doing one of the self-care activities mentioned earlier more regularly.
