@@ -31,6 +31,6 @@ duration: 20-30 minutes
 *"I had planned a dinner with several friends, but while I was at work I was asked to stay late to resolve a problem that had arisen with an important project. I couldn’t say NO, but I really, really wanted to."*
 <br><br>
 **Step 5 |** Once each pair finishes, tell them that they will now re-tell their stories to each other; however, this time, they will change their stories as if they had actually said NO.
-
+<br><br>
 **Step 6 |** Tell participants that, if they wish, when they tell these alternative versions of their stories they can include how they would have explained (to their boss, colleague, or whoever was making the request of them) the reason why they are saying NO. This is not required, but it can be healthy reflection on the importance of making time for themselves.
 
