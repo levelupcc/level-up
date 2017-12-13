@@ -24,6 +24,7 @@ duration: 15-20 minutes
 - A something they enjoy about their work 
 - A country or place they’d like to visit
 <br><br>
+
 ***Optional:*** *If you have multiple varieties of candy, or candy in several different colored wrappers, you can assign a specific category to each variety or color. Using colored wrappers as an example, you could do the following:*
 - ***Red wrapper*** = *a wish or a personal goal*
 - ***Green wrapper*** = *something they enjoy about their work*
