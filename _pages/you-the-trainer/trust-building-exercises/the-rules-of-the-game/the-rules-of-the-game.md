@@ -31,21 +31,27 @@ This session will help you generate these collective coexistence agreements, in 
 ### Part 1 – The Rules of the Game
 **Step 1 |** Briefly explain the above background to participants, and then ask them for examples of coexistence agreements that they feel are important and essential to their comfort during the workshop. You can start off with an example of your own – this could be something like "we do not need permission to go to the bathroom" or “we will not share anything about this training on social media without permission”.
 <br><br>
+
 **Step 2 |** On flipchart paper or a blackboard/whiteboard, write each agreement shared by the group as they are spoken. Once you feel that there are enough, reach each agreement out loud - ask participants if these appear to be good rules of coexistence for the group. Unless this has already been mentioned - or you offered this as a starter example agreement - it may be helpful to also bring up agreements about the use of laptops and phones during sessions.
 <br><br>
+
 **Step 3 |** Remind the group that these agreements will remain posted and visible for the duration of the training, and that they can be modified at any time upon discussion and agreement of the entire group. Be sure to also offer participants the option of making suggestions directly to you or anonymously, in case they don’t feel comfortable doing so openly.
- 
+<br><br>
  
 ### Part 2 – “Traffic Light”
 **Step 4 |** There may be certain agreements on your list for which there are varying levels of comfort within the group. For these agreements, such as those related to physical contact or photography, you may want to offer participants a way to indicate their own comfort level to one another.
 <br><br>
+
 **Step 5 |** Distribute the colored stickers to each participant, making sure to give them several of each color. Explain that for some of the coexistence agreements on the list, the group will be doing a mini-exercise called “Traffic Light” (indicate which agreements you are referring to).
 <br><br>
+
 **Step 6 |** Using the example of an agreement about physical contact which reads “Before making any physical contact with another participant, we will make sure that they are comfortable with it first” or similar, the group should assign a meaning to each colored sticker as it related to that agreement – for instance:
 - **Red/Pink:** “Physical contact bothers me a bit, please respect my space.”
 - **Yellow:** “I don’t mind physical contact but please ask first.”
 - **Green:** “I don’t mind physical contact at all”
+<br><br>
 
 **Step 7 |** Participants should then choose a colored sticker for themselves based on which of the agreed upon definitions matches their personal comfort level, and place it on their name tag. You don’t need to have each participant share which color they selected, as everyone should be able to see which colors others have chosen.
 <br><br>
+
 **Step 8 |** Write the definitions and colors on a new sheet of flipchart paper for each rule that this will apply to - it shouldn’t be more than 2 or 3. If there will be 2 or more, have participants write an identifying letter on each (for example, “C” for “Contact” or “P” for “Photos”).
