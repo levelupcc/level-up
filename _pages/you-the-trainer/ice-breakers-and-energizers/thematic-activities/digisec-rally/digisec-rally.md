@@ -38,7 +38,8 @@ duration: 60-90 minutes
 
 ### *Resource 3: Example Cases (Sample responses are provided beneath each case description)*
 
-**CASE #1 |** A filmmaker has just completed a documentary about forced disappearances in Mexico. One evening, she leaves her office after a late work meeting, intending to go home and send the documentary to her collaborators and relatives, as well as victims and specialists interviewed for the film. Upon arriving home though, she discovers that her apartment has been raided – worst of all, she realizes that the laptop containing the finished documentary footage is missing (with no backup available). **What would you advise in this situation?**
+### *CASE 1*
+A filmmaker has just completed a documentary about forced disappearances in Mexico. One evening, she leaves her office after a late work meeting, intending to go home and send the documentary to her collaborators and relatives, as well as victims and specialists interviewed for the film. Upon arriving home though, she discovers that her apartment has been raided – worst of all, she realizes that the laptop containing the finished documentary footage is missing (with no backup available). **What would you advise in this situation?**
 
 ***Tool to Use (from the Toolkit):***
 <br>
@@ -53,7 +54,8 @@ Immediate Response Measures
 - Reviewing any files that can be recovered to take stock of she has available, in addition locating any of the devices or equipment she used to record and edit the documentary;
 
 
-**CASE #2 |** Olga is an activist – soon, she will begin working with a group of other women activists to document feminicides in Mexico. They will need to share documents online and discuss sensitive information over the phone, and some of the women will be commissioned to travel to certain cities for interviews with families. **What do you recommend?**
+### *CASE 2*
+Olga is an activist – soon, she will begin working with a group of other women activists to document feminicides in Mexico. They will need to share documents online and discuss sensitive information over the phone, and some of the women will be commissioned to travel to certain cities for interviews with families. **What do you recommend?**
 
 ***Tool to Use (from the Toolkit):***
 <br>
@@ -67,21 +69,24 @@ Security Protocols
 - Explore safe ways to exchange documents, maybe encrypting them with GPG or sending them through a safe email account such as Tutanota or Riseup.
 
 
-**CASE #3 |** Nelly is the coordinator of a project dedicated to the delivery of justice for women in her country. She was invited to give a presentation abroad, being in the airport discovers that she has remained her plan without data and has decided not to buy more balance or minutes since she will leave her country. While waiting for the plane she wants to check her mail by connecting to the airport's wi-fi network, **what should she do?**
+### *CASE 3*
+Nelly is the coordinator of a project dedicated to the delivery of justice for women in her country. She was invited to give a presentation abroad, being in the airport discovers that she has remained her plan without data and has decided not to buy more balance or minutes since she will leave her country. While waiting for the plane she wants to check her mail by connecting to the airport's wi-fi network, **what should she do?**
 
 ***Tool to Use (from the Toolkit):***
 <br>
 VPN
 
 
-**CASE #4 |** Ariadna is an Ecuadorian journalist who is working on the investigation of a case of diversion of funds. To this end, she is making a requests for information to its government. What would you advise her to use to make the request securely?
+### *CASE 4*
+Ariadna is an Ecuadorian journalist who is working on the investigation of a case of diversion of funds. To this end, she is making a requests for information to its government. What would you advise her to use to make the request securely?
 
 ***Tool to Use (from the Toolkit):***
 <br>
 Tor Browser & Anonymous Email Account
 
 
-**CASE #5 |** A feminist collective that defends women's right to decide has been harassed for a week on social networks, what could they do to protect themselves?
+### *CASE 5*
+A feminist collective that defends women's right to decide has been harassed for a week on social networks, what could they do to protect themselves?
 
 ***Tool to Use (from the Toolkit):***
 <br>
