@@ -26,7 +26,7 @@ deepening:
 platforms: Mac OS, Windows, Linux
 level: Fundamental
 permalink: /curriculum/rethinking-security/digital-security-motivations-resistances-and-barriers/
-parent: Rethinking Security
+parent: "Rethinking Security"
 breadcrumb: "Digital Security: Motivations, Resistances and Barriers"
 ---
 ## Learning Goals for Participants
