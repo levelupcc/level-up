@@ -29,7 +29,6 @@ Remembering names and identifying faces is more difficult for some people than i
 ***Example of a pre-prepared Bingo sheet:***
 
 **Step 3 |** Explain to the group how the game works:
-<br>
 - You will read aloud, one by one, the index cards that participants filled in with their names;
 - As you read out names, participants will circle each name where it appears on their Bingo sheets;
 - The first participant to circle a complete row of names (horizontally or vertically) will shout “Bingo!” and be declared the winner.
