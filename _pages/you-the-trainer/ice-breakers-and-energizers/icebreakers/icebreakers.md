@@ -26,7 +26,7 @@ Have participants pair up with someone they don't know **or** have everyone face
 Those who are not speaking must guess which are the truths and which one is the lie.
 
 ##### *Trainer's Note*
-The group version of this works best with a smaller number of participants (10 participants maximum) - there also may be some language issues. If you have a mixed group of participants who are not versed in one language, you could have them pair up with a fellow participant who speaks the same language - but you don't want them to pair up with someone they already know. This activity also works for participants who have problems with mobility as this won't require them to move.
+*The group version of this works best with a smaller number of participants (10 participants maximum) - there also may be some language issues. If you have a mixed group of participants who are not versed in one language, you could have them pair up with a fellow participant who speaks the same language - but you don't want them to pair up with someone they already know. This activity also works for participants who have problems with mobility as this won't require them to move.
 <br><br>
 
 ### What's in the Bag?
@@ -39,7 +39,7 @@ Ask everyone to go look in their bag/backpack, and find one thing that they feel
   - Set a description limit of 3 - 5 sentences per person, to keep time.
 
 ##### *Trainer's Note*
-This is good for participants who have problems with mobility as this won't require them to move. Also, the assumption here is that everyone has brought a bag or pack of some kind to the training space - **check first before choosing this Icebreaker!**
+*This is good for participants who have problems with mobility as this won't require them to move. Also, the assumption here is that everyone has brought a bag or pack of some kind to the training space - **check first before choosing this Icebreaker!**
 <br><br>
 
 ### Line-up According To...
@@ -54,7 +54,7 @@ Have everyone stand in a line or in a "U"-shape, so they can see each other - it
 Participants can speak with each other as they go about the exercise. Keep in mind that what you might consider an acceptably public fact is not always necessarily the same for an at-risk participant, particularly if they do not know and trust everyone in the room.
 
 ##### *Trainer's Note*
-This may not be appropriate if you have participants who have problems with mobility; also, make sure that you have enough space for this activity.
+*This may not be appropriate if you have participants who have problems with mobility; also, make sure that you have enough space for this activity.
 <br><br>
 
 ### Over-Reactions!
@@ -77,7 +77,7 @@ Randomly give a scenario slip to each participant:
 Each participant takes their turn over-reacting to their scenario, and everyone tries guessing.
 
 ##### *Trainer's Note*
-Here you will have to be **careful about cultural references** - your description of the scenario will have to fit your participants' realities. If you feel like you don't yet know enough about your participants to conduct this Icebreaker, *save it for a second day activity.*
+*Here you will have to be **careful about cultural references** - your description of the scenario will have to fit your participants' realities. If you feel like you don't yet know enough about your participants to conduct this Icebreaker, *save it for a second day activity.*
 <br><br>
 
 ### The Wind Blows
@@ -93,7 +93,7 @@ This needs a big space and chairs in a circle. There should be one chair per par
 By the end of one round, one person will be left standing. That person will be the one to start the next round by saying "The wind blows for people who...".
 
 ##### *Trainer's Note*
-This may not be appropriate if you have participants who have problems with mobility; also, make sure that you have enough space for this activity. Ensure that your training space doesn't have hard floors that can cause chairs or participants to slip, as this may cause some participants to fall getting to a vacant chair.
+*This may not be appropriate if you have participants who have problems with mobility; also, make sure that you have enough space for this activity. Ensure that your training space doesn't have hard floors that can cause chairs or participants to slip, as this may cause some participants to fall getting to a vacant chair.
 <br><br>
 
 ### The Question Web
@@ -109,7 +109,7 @@ Have everyone standing (or sitting) around in a circle - you will need a ball of
 The steps above repeat until either a certain period of time has elapsed, or until everyone has had at least one turn to both answer and ask a question. At the end of this game, you will have a web of questions and answers!
 
 ##### *Trainer's Note*
-This would work for participants who have mobility issues. In order to set an example of the questions to ask (particularly to avoid asking questions that would be considered too "prying,") co-trainers or the trainer and a willing participant can ask the first two questions, to illustrate the type of questions to ask. Keep in mind too that this exercise might require basic literacy in a common language among participants.
+*This would work for participants who have mobility issues. In order to set an example of the questions to ask (particularly to avoid asking questions that would be considered too "prying,") co-trainers or the trainer and a willing participant can ask the first two questions, to illustrate the type of questions to ask. Keep in mind too that this exercise might require basic literacy in a common language among participants.
 <br><br>
 
 ### Animal Names and Sounds
@@ -125,4 +125,4 @@ Have everyone in a circle (standing or sitting up). Each person takes turns sayi
 The steps above repeat until the game once again reaches the first person, who now has to do **everyone's** names, animals and sounds!
 
 ##### *Trainer's Note*
-This is particularly good for a group of people who really don't know each other: it's a great way to get everyone to remember each other's names. This game is also useful for *trainers* who want to build in an easy way to remember participant names from the beginning. If you have participants who have issues with mobility, this is a good exercise as this will not require much movement.
+*This is particularly good for a group of people who really don't know each other: it's a great way to get everyone to remember each other's names. This game is also useful for *trainers* who want to build in an easy way to remember participant names from the beginning. If you have participants who have issues with mobility, this is a good exercise as this will not require much movement.
