@@ -22,15 +22,16 @@ duration: 15-20 minutes
 
 ## Running the Exercise:
 **Step 1 |** Have participants sit in a circle, arranged around the bowl or basin – this will be the cauldron. Give everyone 3-5 slips of paper.
-
+<br><br>
 **Step 2 |** Explain the rules for the discussion: every time someone speaks, they must throw one of their paper slips into the cauldron. Once a participant runs out of paper slips, they can no longer speak.
-
+<br><br>
 **Step 3 |** Introduce a topic, and facilitate the discussion by asking a series of questions to the group. For example, if the topic is malware and viruses, you might ask the following:
 - What is malware?
 - What are some different kinds of malware that you know of?
 - Are there any operating systems that are immune to malware infection?
 - Has your computer or smartphone ever been infected with malware? If yes, how did you know?
 - What are some ways that we can protect our devices from malware infections?
+<br><br>
 
 **Step 4 |** Continue the discussion until everyone has run out of paper slips - you can reactivate the conversation if you wish, by moving on to a new topic and handing the paper slips back out to everyone.
 
