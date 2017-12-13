@@ -18,7 +18,6 @@ duration: 20-30 minutes
 ## Running the Exercise:
 **Step 1 |** Give each participant one sheet of flipchart paper; then, give the group the following prompt as a contextualizing introduction to the exercise:
 <br><br>
-
 ***Nobody trusts everyone, but nobody doesn’t trust anyone***
 <br><br>
 
@@ -31,9 +30,7 @@ duration: 20-30 minutes
 
 Examples of people or adversaries that may come up in response are government 	actors (e.g. state security), private companies (e.g. Facebook or Google), Internet 	Service Providers, close partners and friends, or even colleagues. 
 <br><br>
-
 **Step 3 |** Once time is up, split participants up into groups of 3-4 people (maximum) to discuss their answers with each other – after 10 minutes have passed, each group should then share with the rest of the participants what they discussed.
 <br><br>
-
 **Step 4 |** Now, you can close out the exercise by explaining that over the course of this training – based on the adversaries the group has begun to identify in this exercise - you will be able to highlight practices and tools which are more relevant to their specific contexts.
 
