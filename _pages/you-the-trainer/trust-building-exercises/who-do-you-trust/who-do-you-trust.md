@@ -18,7 +18,7 @@ duration: 20-30 minutes
 ## Running the Exercise:
 **Step 1 |** Give each participant one sheet of flipchart paper; then, give the group the following prompt as a contextualizing introduction to the exercise:
 
-	***Nobody trusts everyone, but nobody doesn’t trust anyone***
+***Nobody trusts everyone, but nobody doesn’t trust anyone***
 
 **Step 2 |** Give everybody 5 minutes to answer the following questions individually; as they do so, also ask them to identify for each whether their response might change when answered in a personal context versus when answered in a work/activism context: 
 - Who do you trust? 
