@@ -36,8 +36,5 @@ This exercise is a reflection opportunity for participants - in particular human
 ### [Love Letter to Myself](/before-an-event/supporting-self-care/love-letter-to-myself/)
 This exercise is meant to provide space and time for human right defenders to think about themselves, their concerns, and the actions they can take to relieve the pressures they face.
 
-### [Feminist Flowers](/before-an-event/supporting-self-care/feminist-flowers/)
-After an intensive day of digital security training (especially true of the first day or two) lead participants through this exercise to motivate and inspire them to keep going.
-
 
 
