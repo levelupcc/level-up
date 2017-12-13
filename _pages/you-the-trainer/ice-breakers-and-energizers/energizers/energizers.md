@@ -5,7 +5,7 @@ permalink: /you-the-trainer/ice-breakers-and-energizers/energizers/
 author: CC
 summary: "Trainers can help break up the pace of the day with fun interactive sessions called Energizers, which are useful when the group, trainer included, simply needs a fun break from training sessions."
 date: 2014-03
-parent: Icebreakers, Energizers, and Thematic Activities
+parent: Icebreakers, Energizers and Thematic Activities
 breadcrumb: Energizers
 ---
 
