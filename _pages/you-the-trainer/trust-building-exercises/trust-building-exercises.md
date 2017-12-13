@@ -1,12 +1,12 @@
 ---
 layout: content-page
-title: Trust Building Exercises
+title: "Trust Building Exercises"
 permalink: /you-the-trainer/trust-building-exercises/
 author: Indira Cornelio, Alma Uguarte Perez
 summary: "Begin the training process by helping your participants get to know and trust one another."
 date: 2017-12
 parent: "You, The Trainer"
-breadcrumb: Trust Building Exercises
+breadcrumb: "Trust Building Exercises"
 ---
 
 #### Participants in digital security trainings frequently come from places – both physical and emotional – of high stress or anxiety.
