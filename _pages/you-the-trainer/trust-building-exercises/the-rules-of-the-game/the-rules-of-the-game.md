@@ -16,6 +16,7 @@ duration: 15-20 minutes
 - Flipchart paper (or blackboard/whiteboard)
 - Markers
 - Colored stickers (3 colors – red/pink, yellow and green ideally)
+<br><br>
 
 #### *Trainer's Note*
 *Part 2 of this exercise – “Traffic Light” - works best if participants have nametags for themselves onto which they can put their colored stickers (see instructions).*
