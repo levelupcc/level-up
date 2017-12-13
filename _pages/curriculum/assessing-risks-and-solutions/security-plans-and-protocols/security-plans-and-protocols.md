@@ -30,8 +30,8 @@ parent: "Assessing Risks and Solutions"
 breadcrumb: "Security Plans and Protocols"
 ---
 ## Learning Goals for Participants
-- Enable participants to overcome frustration with digital security practice, reassuring them that building skills is an iterative process needing time and patience. 
-- Identify the specific risks that participants face, and design individual security strategy that addresses these risks.
+- Enable participants to overcome any frustrations with their digital security practice, and reassure them that building their skills is an iterative process requiring time and patience.
+- Identify the specific risks that participants face, allowing them to design individual security plans and protocols to address these risks.
 - Support participants as they design strategies to facilitate post-training implementation of their security plans and protocols.
 <br><br>
 
