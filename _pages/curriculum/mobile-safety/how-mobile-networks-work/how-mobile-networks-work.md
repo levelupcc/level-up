@@ -3,19 +3,21 @@ layout: module
 title: How Mobile Networks Work
 summary: This module is meant to serve as very introductory-level overview of how mobile devices function using mobile telephony networks. While certain feature-based strategies and solutions for safety and privacy will be discussed, this is largely to set the stage for then moving onward to more advanced topics of mobile security. Covered here are the fundamentals of all mobile phones and devices, for when a trainer is leading a training for participants who do not have smartphones - it does not go in depth on smartphone-specific concerns and apps.
 author: Alix Dunn
-date: 2016-05
+date: 2017-12
 
 activity:
+  - name: "Marco Polo"
+    url: /curriculum/mobile-safety/how-mobile-networks-work/activity-discussion/marco-polo/
+    
   - name: "Where Am I?"
     url: /curriculum/mobile-safety/how-mobile-networks-work/activity-discussion/where-am-i/
-
+    
 input:
  - name: "Mobile Devices: How Do They Work?"
    url: /curriculum/mobile-safety/how-mobile-networks-work/input/how-do-mobile-devices-work/
 
 platforms:
 level: Fundamental
-prerequisites:
 permalink: /curriculum/mobile-safety/how-mobile-networks-work/
 parent: Mobile Safety
 breadcrumb: How Mobile Networks Work
