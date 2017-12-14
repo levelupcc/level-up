@@ -45,15 +45,15 @@ At this point, you may also want to discuss images of violence against women (sy
 <br><br>
 **Step 3 |** Immediately following the group discussion, explain that there are three main factors which construct and enable fear and terror in response to symbolic violence:
 
-**Appropriation of the Female Body**
+***Appropriation of the Female Body***
 <br>
 The female body is still seen as an object for male enjoyment, bring about a lack of security or confidence in the body's own resources and capacities.
 
-**Guilt and Shame**
+***Guilt and Shame***
 <br>
 These are both seen as permanent, unshakeable elements that facilitate the perception of perpetrated gender-based violence as deserved or somehow acceptable.
 
-**Learned Helplessness**
+***Learned Helplessness***
 <br>
 This is a psychological state that occurs frequently when events are seen to be uncontrollable – when the perception is that there is nothing that can be done to change the outcome of an action, the mental state adjusts accordingly by sacrificing its agency to assert any control over that outcome (instead, accepting and normalizing it).
 <br><br>
@@ -66,6 +66,5 @@ This is a psychological state that occurs frequently when events are seen to be 
  
 ## References:
 - <a href="https://en.wikipedia.org/wiki/Learned_helplessness">https://en.wikipedia.org/wiki/Learned_helplessness</a>
-- <a href="http://www.autodefensafeminista.com/attachments/article/277/MANUAL%20Autodefensa%20Feminista.pdf">http://www.autodefensafeminista.com/attachments/article/277/MANUAL%20Autodefensa%20Feminista.pdf</a>
 
 
