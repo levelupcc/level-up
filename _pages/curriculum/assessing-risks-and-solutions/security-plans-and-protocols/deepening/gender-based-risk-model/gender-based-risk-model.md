@@ -38,17 +38,18 @@ duration: 45-60 minutes
 The above is a simple example of how external technical factors can impact the likelihood of a risk, but what about gender as a factor of risk? Are the risks faced by women human rights defenders the same as those faced by human rights defenders who don’t identify as women?
 <br><br>
 
-**Step 3 |** Draw a table like the one below on a large piece of flipchart paper, and list out a number of digital risks under the “Digital Risk” column, using the different risks discussed and shared in Step 1 as examples (be sure to leave room on the right side to add additional columns for later parts of this session): *placeholder for Risk Model (Digital Risk, Probability) image*
+**Step 3 |** Draw a table like the one below on a large piece of flipchart paper, and list out a number of digital risks under the “Digital Risk” column, using the different risks discussed and shared in Step 1 as examples (be sure to leave room on the right side to add additional columns for later parts of this session):
+<img src="/assets/images/sawa-risk-model-3.JPG">
 <br><br>
 **Step 4 |** Once you’ve finished the above list, you will now work together with participants to identify for each risk the probability that it could become a reality – this is easier to do if your participants all come from a similar, shared context (country, type of activism, etc.); if there is a very wide variance among participants’ backgrounds, you might want to offer a hypothetical “persona” as a working example for this part of the session.
 <br><br>
 **Step 5 |** To measure these risks’ probabilities, you can formulate a scale. For example, you could use a simple scale of 1 to 5, where 5 equates to a “Very High” probability that the risk could become real and 1 is a “Very Low” probability.
 
-Which number can be assigned to each risk? You can start to fill the table out for the group as you discuss each risk individually, so it begins to look something like this: *placeholder for Risk Model (Digital Risk, Probability) with details image*
+Which number can be assigned to each risk? You can start to fill the table out for the group as you discuss each risk individually, **so it begins to look something like this:**
+<img src="/assets/images/sawa-risk-model-5.JPG">
 <br><br>
 
 ### Part 2 – Determining Impacts
-
 **Step 6 |** Now that you have worked with participants to identify example risks and have established a simple system for assigning probability to each, explain that you will now move on to the next step – determining the actual **impacts** of these risks, or what the outcome would be to an individual, organization, network, etc. if a given risk were to become reality.
 <br><br>
 **Step 7 |** Explain that, like the risks themselves, impacts are also quite dynamic – the exact nature of an impact and its severity are similarly contingent upon a number of external factors. Would the impact have implications on a personal level, or an organizational level? Maybe it has implications on both, and if so, how similar or different are those respective impacts?
@@ -57,7 +58,8 @@ Which number can be assigned to each risk? You can start to fill the table out f
 <br><br>
 **Step 9 |** Explain to the group that an important part of understanding and measuring a risk is to also anticipate how one might **react** to its impact - ask participants about how they would likely react on a personal level to a certain risk? Then, discuss how - as with probability and impact - you will also create a scale to measure reaction which can also be qualitative or quantitative (however, again, for the purposes of this session we will use a quantitative scale).
 
-Building off what you started to demonstrate in Step 5, your table should now look like this: *placeholder for Risk Model (Digital Risk, Probability, Impact, Reaction) with details image*
+**Building off what you started to demonstrate in Step 5, your table should now look like this:**
+<img src="/assets/images/sawa-risk-model-9.JPG">
 <br><br>
 
 ### Part 3 – Strategizing Solutions
@@ -67,4 +69,5 @@ Building off what you started to demonstrate in Step 5, your table should now lo
 <br><br>
 **Step 12 |** Going back to the table you’ve been working on over the course of the session, make a final column called “What Can I Do?” – under that column, write the answers shared by the group during Step 11. Once complete, keep the table posted visibly in the training room throughout the rest of the workshop so that participants can re-read and analyze their answers. This can help participants determine if anything additional should be added to the table, which can serve as a solid base for designing a digital security protocol.
 
-Here is what the final table should look like: *Risk Model (Digital Risk, Probability, Impact, Reaction, What Can I Do?) with details image*
+**Here is what the final table should look like:**
+<img src="/assets/images/sawa-risk-model-12.JPG">
