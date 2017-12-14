@@ -3,7 +3,7 @@ layout: content-page
 title: "More Online Identities!"
 author: 
 summary: "Sharing examples of cases, tools and good practices for creating online identities."
-permalink: /curriculum/safer-browsing/identity-protection-privacy/activity-discussion/more-online-identities/
+permalink: /curriculum/safer-browsing/identity-protection-privacy/deepening/more-online-identities/
 parent: "Identity Protection and Privacy"
 breadcrumb: "More Online Identities!"
 date: 2017-06
