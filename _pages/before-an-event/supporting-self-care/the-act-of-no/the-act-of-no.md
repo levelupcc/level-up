@@ -17,8 +17,10 @@ duration: 20-30 minutes
 #### *Trainer's Note*
 - *Self-care is an essential part of a holistic digital security practice, and is important to consistently reinforce and encourage – it is highly recommended that you distribute exercises related to self-care throughout your training.*
 - *Some women may not feel comfortable telling their stories (see below), in which case they can instead tell the story of a friend, sister, or co-worker.*
- 
+<br><br>
+
 ## Running the Exercise:
+
 **Step 1 |** Introduce the exercise by talking with the group about the pressures that society often places on women – societal and cultural norms dictate that women must work two or three times as hard as men to prove their self-worth, for example.
 <br><br>
 **Step 2 |** Talk about how women human rights defenders face even more burdens – work overloads, self-guilt for failing to meet deadlines or accomplish goals, and being expected to take care of others’ needs before their own are just a few examples.
