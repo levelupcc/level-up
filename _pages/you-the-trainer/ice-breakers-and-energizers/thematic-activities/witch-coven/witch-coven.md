@@ -29,5 +29,5 @@ duration: 15-20 minutes
 - The participant who is left standing must now continue making up the rest of the story until they mention another name and participants change seats again.
 - If at any point in the story the word “coven” is mentioned, this means that everyone must quickly get up and change seats.
 
-**Step 6 |** Repeat the steps above several times until all the women’s names have been called, or until everyone has had the chance to tell part of the story.
+Repeat the steps above several times until all the women’s names have been called, or until everyone has had the chance to tell part of the story.
 
