@@ -72,7 +72,7 @@ Via TechSoup, human rights activists and their organizations may be eligible to 
 **Step 10 |** Share with participants the **backup format template** below, and have them start filling it in individually. Explain to the group that this is a useful way of creating a personal data backup policy – they can refer to this after the training, as a useful resource for keeping track of where their data is stored and how often that data should be backed up.
 
 #### Backup Format Template
-*placeholder for Backup Format Template image*
+<img src="/assets/images/sawa-backup-format-template.JPG">
 <br><br>
 
 **Step 11 |** Explain next that, although there are backup automation tools available such as <a href="https://www.duplicati.com/">Duplicati</a> or <a href="http://www.cobiansoft.com/cobianbackup.htm">Cobian</a>, participants may find it easier to start doing their backups by manually dragging and dropping files to the backup storage media. This ultimately depends on the complexity or amount of data they have to manage – for the average user however, manual backups should be more than sufficient.
