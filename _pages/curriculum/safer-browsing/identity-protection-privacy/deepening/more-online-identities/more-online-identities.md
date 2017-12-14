@@ -74,10 +74,8 @@ What are some online activities that could put them at risk of exposing themselv
 - Review general safe browsing habits with participants – you could build on this by talking about the concept of browser ‘fingerprints’, and the impact that could have on the separation of their identities (<a href="https://panopticlick.eff.org/static/browser-uniqueness.pdf">https://panopticlick.eff.org/static/browser-uniqueness.pdf</a>); furthermore, you could also review how to obscure IP addresses that could potentially reveal location details;
 - Participants should not follow anybody friends, family or their organization using their new identities – this could very quickly allow anyone looking closely enough to draw a connection between that identity and its real counterpart;
 - Remind participants to be aware of metadata and how it could potentially reveal information about themselves. Review how metadata is created, and how they can erase it from their files before posting images or videos, or before sending files from their new identity accounts.
-<br><br>
 
-**Step 10 |** Now participants can begin creating the profiles and accounts for their new online identities!
-
+Now participants can begin creating the profiles and accounts for their new online identities!
 <br><br>
 
 ## References:
