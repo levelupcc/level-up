@@ -16,7 +16,7 @@ The most important lesson from part one is that security trainers should pay clo
 ## The Anxiety Pressure Gauge
 To help us visualize anxiety in the training room, we should imagine a pressure gauge:
 
-<img src="/assets/images/anxiety-pressure-gauge.png">
+<img src="/assets/images/anxiety-pressure-gauge.png/">
 
 #### The Blue Zone
 ...on the left represents those who are “cool” towards the issue of security and unlikely to engage effectively with the material. This zone includes people who are genuinely unaware of danger, or who believe—rightly or wrongly—that their existing security provisions are adequate.
