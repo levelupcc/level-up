@@ -20,12 +20,11 @@ deepening:
  - name: "Storage and Encryption"
    url: /curriculum/protecting-data/protecting-and-encrypting-devices/deepening/storage-and-encryption/
 
-platforms: Mac OS, Windows
+platforms: Mac OS, Windows, Linux
 level: Fundamental
-prerequisites:
 permalink: /curriculum/protecting-data/protecting-and-encrypting-devices/
-parent: Protecting Data
-breadcrumb: Protecting and Encrypting Devices
+parent: "Protecting Data"
+breadcrumb: "Protecting and Encrypting Devices"
 ---
 ## Learning Goals for Participants
 - Highlighting to participants both the physical and the digital aspects of device and data protection.
