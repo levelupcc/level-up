@@ -13,13 +13,12 @@ duration: 90 minutes
 *This session was developed for, and should be attributed to, the Institute for War & Peace Reporting resource "Cyberwomen: Holistic Digital Security Training Curriculum for Women Human Rights Defenders" under a Creative Commons Attribution-Share Alike 4.0 International CC BY-SA 4.0 License*
 
 ## Materials to Prepare: 
-- Risk model from Deepening session "Gender-Based Risk Model"
+- Risk model from Deepening session [Gender-Based Risk Model](/curriculum/assessing-risks-and-solutions/security-plans-and-protocols/deepening/gender-based-risk-model/)
 - Printed security protocol templates (see example template below)
 
 #### *Trainer's Note*
 - *This session is best suited for participant groups who come from the same organization or collective, as the activities below are focused on developing an organizational level security plan – the process of designing this together will help support women’s ongoing practice and implementation of it.*
 - *It is crucial to follow-up with participants on the implementation of the plan they create – if possible, connect with them every two or three weeks to check on progress (apart from answering any questions they might send in the interim). Be careful not to pressure participants about using specific tools or implementations of them when follow up with them – simply support them and be present with them, responding to any questions or concerns they have and providing recommendations when requested. If participants feel pressured, they may not be forthcoming about whether they’ve addressed a specific issue and won’t feel comfortable sharing actual difficulties when they arise.*
-<br><br>
  
 ## Running the Session:
 
@@ -42,7 +41,7 @@ Provide examples of plans and protocols to participants – for instance, activi
 ### Part 3 – Creating an Organizational Plan and Protocol
 **Step 3 |** This session is best suited for participant groups who come from the same organization or collective, as they can take advantage of this opportunity to collaborative develop their plan and protocols as a team. However, if this is the case for only some participants, those who are not part of any organization or group can still participate in the session by working on their own personal plans and protocols.
 <br><br>
-**Step 4 |** Ask participants to refer to their risk model from the Deepening session "Gender-Based Risk Model", as well as their notes from the exercise "Who Do You Trust?". Have them begin making a draft of their security plan - the following format may be useful. Explain to participants each of the sections (a new row should be started for each risk or threat identified): *placeholder for security protocol template image*
+**Step 4 |** Ask participants to refer to their risk model from the Deepening session [Gender-Based Risk Model](/curriculum/assessing-risks-and-solutions/security-plans-and-protocols/deepening/gender-based-risk-model/). Have them begin making a draft of their security plan - the following format may be useful. Explain to participants each of the sections (a new row should be started for each risk or threat identified): *placeholder for security protocol template image*
 <br><br>
 
 **Step 5 |** Remind participants that although the focus of this training is on digital security, we must always remember to take holistic measures into account. Ask participants to consider which actions need to be taken in terms of physical security and self-care as they draft their security plans and protocols.
@@ -53,4 +52,4 @@ Provide examples of plans and protocols to participants – for instance, activi
 <br><br>
 
 ### Part 4 - What's Next?
-**Step 8 |** Discuss follow-up steps with participants - they will need to have a focused gathering within their organizations to share insights and key takeaways from this session, as well as the Deepening session "Gender-Based Risk Model" and the exercise "Who Do You Trust?" – of special importance from this session will be the list of activities and processes requiring security protocols. This plan will need to be discussed and agreed upon as a team, with realistic dates set for its implementation – while considering these, participants also need to remember that there may be others in their organizations who will require training on digital security practices and/or specific tools for full implementation to be possible.
+**Step 8 |** Discuss follow-up steps with participants - they will need to have a focused gathering within their organizations to share insights and key takeaways from this session, as well as the Deepening session [Gender-Based Risk Model](/curriculum/assessing-risks-and-solutions/security-plans-and-protocols/deepening/gender-based-risk-model/) – of special importance from this session will be the list of activities and processes requiring security protocols. This plan will need to be discussed and agreed upon as a team, with realistic dates set for its implementation – while considering these, participants also need to remember that there may be others in their organizations who will require training on digital security practices and/or specific tools for full implementation to be possible.
