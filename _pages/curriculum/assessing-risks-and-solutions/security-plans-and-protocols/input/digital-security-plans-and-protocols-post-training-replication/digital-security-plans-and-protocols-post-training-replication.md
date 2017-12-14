@@ -27,7 +27,6 @@ duration: 45-60 minutes
 <br><br>
 
 **Step 2 |** Remaining in pairs, now ask participants to share with one another some of the barriers or challenges they anticipate facing within their organizations when presenting their security plans and articulating the need to begin an implementation process.  
-<br><br>
 
 ### Part 2 – Facilitating Organizational Implementation
 **Step 3 |** Once the groups have finished discussing the points above, share some ideas that can help participants facilitate post-training implementation of their security plans and protocols within their organizations:
@@ -36,15 +35,13 @@ duration: 45-60 minutes
 - Underscore the importance of collaboration and inclusion in the implementation process – participants should work with different teams within their organizations on their team-level risk assessments, and have them share the outcomes and next steps with the rest of their colleagues. Emphasize also that it will be critical for participants to hold space for others in their organization to provide feedback on the security plan and protocols – as different people’s tasks will be affected in different ways by these new measures, they will want to avoid creating additional difficulty for anybody’s work.
 - Have participants consider other ways to collectively engage different teams across their organization – one such approach is for them to propose a “digital security commission” that includes representatives (who are empowered to make decisions) from each team or area who are together tasked with overseeing the implementation of the security plan. They can go about this process gradually, focusing first on high-level staff or starting out only with specific teams and then expanding outward. The approach that works best will vary widely by organization.
 - Finally, ask the participants to share some of the ideas they have that could help facilitate the implementation process for their organizations.
-<br><br>
 
 ### Part 3 – Starting the Conversation
 **Step 4 |** Share with participants a basic structure for starting this important conversation within their organizations -  it could be a set of questions, or a possible training plan of their own with specific sessions and exercises relevant to the organizational risk context.
 <br><br>
 **Step 5 |** Remind the group to be aware of the logistics involved, time in particular – people within their organization may not have the time to set aside an entire afternoon, day or even longer for training. Changing long-standing habits takes a lot of time and patience, so it’s will be more ideal for participants to find ways of building these conversations (or trainings) into existing regular meetings or other gatherings.
-<br><br>
 
-#### Conversation: Why Digital Security is Important for Our Organization
+### *Conversation: Why Digital Security is Important for Our Organization*
 Here is a basic structure that participants could follow to raise awareness of certain topics – this begins with a conversation about why digital security is important for the organization, and then includes sessions (from this curriculum) which go into further detail on basic digital security topics - how participants ultimately choose to have these conversations is up to them:
 
 **Activity & Discussion:**
