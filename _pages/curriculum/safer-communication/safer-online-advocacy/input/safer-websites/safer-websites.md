@@ -2,7 +2,7 @@
 layout: content-page
 title: "Safer Websites"
 author: Indira Cornelio, Alma Uguarte Perez
-summary: "In this session, you will help WHRDs to identify safer practices to implement for managing and protecting their websites – these could be personal websites that they use for online activism, or the websites of their organizations/collectives/movements. Remember that there are many people and organizations, not just those actors identified as adversaries, who routinely seek to exploit website vulnerabilities. Regardless of whether a potential attacker can be specifically identified, it is still important to maintain a high standard of protection for websites."
+summary: "In this session, you will help participants to identify safer practices to implement for managing and protecting their websites – these could be personal websites that they use for online activism, or the websites of their organizations/collectives/movements. Remember that there are many people and organizations, not just those actors identified as adversaries, who routinely seek to exploit website vulnerabilities. Regardless of whether a potential attacker can be specifically identified, it is still important to maintain a high standard of protection for websites."
 permalink: /curriculum/safer-communication/safer-online-advocacy/input/safer-websites/
 parent: "Safer Online Advocacy"
 breadcrumb: "Safer Websites"
@@ -20,7 +20,6 @@ duration: 45-60 minutes
 - *This session will be more relevant for some groups than for others - prioritize this session especially for women activists or collectives that have a website.*
 - *It may be a good idea to prepare ahead of this session a few examples (from news reports, blogposts, social media postings or personal experience) of online attacks against WHRDs and/or WHRD organizations, websites hacks or takedowns in particular.*
 - *Remember that in some cases, organizations may not manage their own websites, or their ability to make changes to their websites might depend on the decisions of larger international NGOs who support them. Either way, even if participants are not able to directly make changes to the processes for administering their websites, this session still provides a solid foundation for them to begin thinking about changes that they might propose (or taking more control over managing their sites).*
-<br><br>
  
 ## Running the Session:
 
