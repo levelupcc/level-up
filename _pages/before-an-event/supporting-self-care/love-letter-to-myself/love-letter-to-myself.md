@@ -19,11 +19,10 @@ duration: 20-30 minutes
 #### *Trainer's Note*
 - *Self-care is an essential part of a holistic digital security practice, and is important to consistently reinforce and encourage – it is highly recommended that you distribute exercises related to self-care throughout your training.*
 - *Depending on the group you are working with (and the amount of time you have for this exercise) consider closing this with a reflection on self-care and why it is important. Ask participants - When was the last time they asked themselves how they felt? Is their activism having an impact in their health? How are they taking care of the most important resources they have for their activism work (themselves)?*
-<br><br>
  
 ## Running the Exercise:
 **Step 1 |** On a prepared slide or sheet of flipchart paper, show participants the following:
-<br><br>
+
 *Dear __________,*
 
 *I have been watching you lately, I know you are having a difficult time with...*
