@@ -46,12 +46,29 @@ duration: 45-60 minutes
 
 #### Conversation: Why Digital Security is Important for Our Organization
 Here is a basic structure that participants could follow to raise awareness of certain topics – this begins with a conversation about why digital security is important for the organization, and then includes sessions (from this curriculum) which go into further detail on basic digital security topics - how participants ultimately choose to have these conversations is up to them:
-- **Activity & Discussion:** How Does the Internet Work?
-- **Input:** Mobile Phones | Part 1 
-- **Input:** Encrypted Communication 
-- **Input:** Safe Browsing
-- **Deepening:** Gender-Based Risk Model
-- **Deepening:** Let’s Start a Documentation Journal!
-<br><br>
 
-**Step 6 |** Remind participants that this is just a suggested approach – they should feel free to adjust the sessions and the topics as they see fit.  It is important that, as participants work through the implementation process with their organizations, that you make yourself available (to the extent possible) to provide support and answer any question they might have.
+**Activity & Discussion:**
+<br>
+[How Does the Internet Work?](/curriculum/safer-browsing/https-ssl/activity-discussion/how-does-the-internet-work/)
+
+**Input:**
+<br>
+[How Do Mobile Devices Work?](/curriculum/mobile-safety/how-mobile-networks-work/input/how-do-mobile-devices-work/)
+
+**Input:**
+<br>
+[Encrypted Communications](/curriculum/safer-communication/pgp-gpg-email-encryption/input/encrypted-communications/)
+
+**Input:**
+<br>
+[Safe Browsing](/curriculum/safer-browsing/identity-protection-privacy/input/safe-browsing/)
+
+**Deepening:**
+<br>
+[Gender-Based Risk Model](/curriculum/assessing-risks-and-solutions/security-plans-and-protocols/deepening/gender-based-risk-model/)
+
+**Deepening:**
+<br>
+[Organizational Security Plans and Protocols](/curriculum/assessing-risks-and-solutions/security-plans-and-protocols/deepening/organizational-security-plans-and-protocols/)
+
+Remind participants that this is just a suggested approach – they should feel free to adjust the sessions and the topics as they see fit.  It is important that, as participants work through the implementation process with their organizations, that you make yourself available (to the extent possible) to provide support and answer any question they might have.
