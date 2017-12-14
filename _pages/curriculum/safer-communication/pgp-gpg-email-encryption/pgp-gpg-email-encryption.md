@@ -11,6 +11,9 @@ activity:
     url: /curriculum/safer-communication/pgp-gpg-email-encryption/activity-discussion/romeo-and-juliet/
 
 input:
+ - name: Encrypted Communications
+   url: /curriculum/safer-communication/pgp-gpg-email-encryption/input/encrypted-communications/
+   
  - name: Why Email Encryption Matters
    url: /curriculum/safer-communication/pgp-gpg-email-encryption/input/why-email-encryption-matters/
 
