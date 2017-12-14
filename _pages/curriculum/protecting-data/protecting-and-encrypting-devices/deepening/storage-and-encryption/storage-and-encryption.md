@@ -21,8 +21,7 @@ duration: 90 minutes
 #### *Trainer's Note*
 - *This session will have participants using either <a href="https://veracrypt.codeplex.com/">Veracrypt</a> or <a href="https://guardianproject.info/code/luks/">LUKS</a> (depending on their operating system) to practice encryption of data backups and storage media – to save time, consider having participants download either of these ahead of time.*
 - *In general, and especially for beginners, it is not advisable for participants to perform a full-disk encrypt of their computer hard drives just yet – rather, they should test out VeraCrypt or LUKS on external storage media (such as a USB drive) using dummy files that they have prepared specifically for this session. You don’t want to run the risk of a participant accidentally losing access to any data during the training! One option could be to prepare some USB drives in advance, with some dummy files and the 32 and 64 bit install files for VeraCrypt.*
-<br><br>
- 
+
 ## Running the Session:
 
 ### Part 1 – Data Backups and Planning
