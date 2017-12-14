@@ -3,7 +3,7 @@ layout: content-page
 title: "Let's Reset!"
 author: Indira Cornelio, Alma Uguarte Perez
 summary: "This session reinforces the idea that “tools and technology don’t have magic superpowers over us!” Here, you will lead participants through an empowering process of “starting from scratch” by resetting their devices and getting a fresh start."
-permalink:
+permalink: /curriculum/rethinking-security/digital-security-motivations-resistances-and-barriers/deepening/lets-reset/
 parent: "Digital Security: Motivations, Resistances and Barriers"
 breadcrumb: "Let's Reset!"
 date: 2017-07
