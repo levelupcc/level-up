@@ -19,8 +19,7 @@ duration: 20-30 minutes
 #### *Trainer's Note*
 - *Self-care is an essential part of a holistic digital security practice, and is important to consistently reinforce and encourage – it is highly recommended that you distribute exercises related to self-care throughout your training.*
 - *To create an environment that encourages relaxation and introspection, you may light some candles, burn some incense, or play some soft, soothing music during this exercise.*
-<br><br>
- 
+
 ## Running the Exercise:
 **Step 1 |** Give each participant a small mirror, or if not using mirrors, ask them to take out their photos of themselves. Hand out the dot stickers.
 <br><br>
