@@ -32,5 +32,5 @@ duration: 15-20 minutes
 - Has your computer or smartphone ever been infected with malware? If yes, how did you know?
 - What are some ways that we can protect our devices from malware infections?
 
-**Step 4 |** Continue the discussion until everyone has run out of paper slips - you can reactivate the conversation if you wish, by moving on to a new topic and handing the paper slips back out to everyone.
+Continue the discussion until everyone has run out of paper slips - you can reactivate the conversation if you wish, by moving on to a new topic and handing the paper slips back out to everyone.
 
