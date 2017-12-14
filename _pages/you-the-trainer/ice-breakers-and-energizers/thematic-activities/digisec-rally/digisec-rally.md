@@ -31,9 +31,11 @@ duration: 60-90 minutes
 **Step 3 |** Each of the stations will feature a case that participants must solve using what they’ve learned from the training, in addition to any toolkit you provide them (see below). The rally is best done in groups, with each group sent through the course via a different route so that the response time varies and to avoid overcrowding the stations. Here below are the resources you will need to set the rally up:
 
 #### *Resource 1: Station and Team Route Guide*
-<br><br>
+<img src="/assets/images/sawa-rally-station-map.JPG">
+
 #### *Resource 2: Case Toolkit*
-<br><br>
+<img src="/assets/images/sawa-rally-case-toolkit.JPG">
+
 #### *Resource 3: Example Cases (Sample responses are provided beneath each case description)*
 
 ### CASE 1
