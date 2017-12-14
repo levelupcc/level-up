@@ -2,7 +2,7 @@
 layout: module
 title: Safer Browsing - HTTPS and SSL
 summary: This module illustrates one of the most common Internet encryption protocols - secured HTTPS connections between users and websites using the Secure Socket Layer (SSL) protocol. Trainers may wish to confirm however, when preparing for in-class demonstrations, that they are not directing participants to visit websites that have been banned.
-author: Mallory Knodel, DJ
+author: Mariel Garcia, Spyros Monastiriotis, Mallory Knodel, DJ
 date: 2016-06
 
 activity:
@@ -12,6 +12,10 @@ activity:
 activity:
  - name: "We Are The Internet"
    url: /curriculum/safer-browsing/https-ssl/activity-discussion/we-are-the-internet/
+
+activity:
+ - name: "How Does the Internet Work?"
+   url: /curriculum/safer-browsing/https-ssl/activity-discussion/how-does-the-internet-work/
 
 input:
  - name: "How the Internet Handles Authenticity and Confidentiality"
@@ -27,7 +31,6 @@ synthesis:
 
 platforms: Mac OS, Windows, Linux, Chrome, Firefox
 level: Fundamental
-prerequisites:
 permalink: /curriculum/safer-browsing/https-ssl/
 parent: Safer Browsing
 breadcrumb: HTTPS and SSL
