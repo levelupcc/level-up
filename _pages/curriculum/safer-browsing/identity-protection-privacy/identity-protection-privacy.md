@@ -6,14 +6,26 @@ summary: This module, which expands on theme of safer browsing techniques, addre
 date: 2015-06
 
 activity:
+ - name: "Secret Friend"
+   url: /curriculum/safer-browsing/identity-protection-privacy/activity-discussion/secret-friend/
+   
  - name: "Who Does Big Data Think I Am?"
    url: /curriculum/safer-browsing/identity-protection-privacy/activity-discussion/who-does-big-data-think-iam/
 
 input:
+ - name: "Anonymity"
+   url: /curriculum/safer-browsing/identity-protection-privacy/input/anonymity/
+ 
+ - name: "Safe Browsing"
+   url: /curriculum/safer-browsing/identity-protection-privacy/input/safe-browsing/
+
  - name: "Maintaining Privacy While Browsing the Web"
    url: /curriculum/safer-browsing/identity-protection-privacy/input/maintaining-privacy-while-browsing-web/
 
 deepening:
+ - name: "More Online Identities!"
+   url: /curriculum/safer-browsing/identity-protection-privacy/deepening/more-online-identities/
+
  - name: "Using HTTPS Everywhere"
    url: /curriculum/safer-browsing/https-ssl/deepening/using-https-everywhere/
 
