@@ -42,5 +42,5 @@ duration: 30-45 minutes
 - *As women activists and human rights defenders, we typically have very little time for ourselves. Those who are caressing their partners are allowing them a rare opportunity to relax and feel taken care of.*
 - *The social burdens and responsibilities carried by women – as human rights defenders, mothers, sisters, we are always expected to take care of others, but do we take care of ourselves? Our lives often have very little space for self-care or collective care.*
 
-**Step 6 |** Once the women who are seated are done caressing the hands and fingers of their partner, give the women who are lying down a few moments to open their eyes and change positions with her partner. Repeat the process above, so that everyone who has given also has the chance to receive.
+Once the women who are seated are done caressing the hands and fingers of their partner, give the women who are lying down a few moments to open their eyes and change positions with her partner. Repeat the process above, so that everyone who has given also has the chance to receive.
 
