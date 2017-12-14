@@ -81,7 +81,6 @@ Via TechSoup, human rights activists and their organizations may be eligible to 
 <br><br>
 
 ### Part 5 - Deleting Files and Recovering Them
-
 **Step 13 |** Read aloud the following statement:
 
 ***From a purely technical perspective, there is no such thing as a delete function on your computer.***
