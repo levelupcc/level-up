@@ -37,7 +37,6 @@ duration: 30-45 minutes
 <br><br>
 
 ### Part 2 – Feminist Principles of the Internet
- 
 **Step 5 |** Now introduce APC’s Feminist Principles of Internet, as an exercise to reflect on what is needed to build:
 
 ***...a  feminist  internet  that works towards empowering more women and  queer  persons to fully enjoy our rights, engage in pleasure and play, and dismantle patriarchy.***
