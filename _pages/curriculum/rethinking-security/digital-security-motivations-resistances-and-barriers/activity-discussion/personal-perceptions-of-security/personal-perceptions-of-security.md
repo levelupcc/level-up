@@ -49,11 +49,10 @@ For the above questions, keep in mind that some languages may not have equivalen
 - Do they have any personal resistances to digital security?
 - What challenges have they faced with learning about digital security? Or, what do they feel has prevented them from learning before?
 - Have they had a bad experience in another process of digital security training? What happened?
+
+Once time is up, ask each group to share their thoughts and discussions with the rest of the room - as the trainer, this is a crucial moment for you. To adapt the sessions in your training in a way that is truly relevant to the context of your participants, it is **extremely important** that you pay close attention to the specific motivations, resistances and barriers shared by participants.
 <br><br>
-
-**Step 8 |** Once time is up, ask each group to share their thoughts and discussions with the rest of the room - as the trainer, this is a crucial moment for you. To adapt the sessions in your training in a way that is truly relevant to the context of your participants, it is **extremely important** that you pay close attention to the specific motivations, resistances and barriers shared by participants.
-
-Security is a collective process that we live day to day. Practicing different security plans will give us more experience, so we should not stop even if we fail or have difficulties. Remember that there are often changes because technology is quickly advancing. Never forget to study and be aware of these developments, both to take advantage of new opportunities or to respond to the new dangers that could emerge.
+**Step 8 |** Remind th group that security is a collective process that we live day to day. Practicing different security plans will give us more experience, so we should not stop even if we fail or have difficulties. Remember that there are often changes because technology is quickly advancing. Never forget to study and be aware of these developments, both to take advantage of new opportunities or to respond to the new dangers that could emerge.
 <br><br>
 
 ### Part 4 – Digital Security, Gender and Technology Myths
