@@ -41,9 +41,11 @@ Provide examples of plans and protocols to participants – for instance, activi
 ### Part 3 – Creating an Organizational Plan and Protocol
 **Step 3 |** This session is best suited for participant groups who come from the same organization or collective, as they can take advantage of this opportunity to collaborative develop their plan and protocols as a team. However, if this is the case for only some participants, those who are not part of any organization or group can still participate in the session by working on their own personal plans and protocols.
 <br><br>
-**Step 4 |** Ask participants to refer to their risk model from the Deepening session [Gender-Based Risk Model](/curriculum/assessing-risks-and-solutions/security-plans-and-protocols/deepening/gender-based-risk-model/). Have them begin making a draft of their security plan - the following format may be useful. Explain to participants each of the sections (a new row should be started for each risk or threat identified): *placeholder for security protocol template image*
+**Step 4 |** Ask participants to refer to their risk model from the Deepening session [Gender-Based Risk Model](/curriculum/assessing-risks-and-solutions/security-plans-and-protocols/deepening/gender-based-risk-model/). Have them begin making a draft of their security plan - the following format may be useful:
+<img src="/assets/images/sawa-security-protocol-template.JPG">
 <br><br>
-
+Explain to participants each of the sections - a new row should be started for each risk or threat identified.
+<br><br>
 **Step 5 |** Remind participants that although the focus of this training is on digital security, we must always remember to take holistic measures into account. Ask participants to consider which actions need to be taken in terms of physical security and self-care as they draft their security plans and protocols.
 <br><br>
 **Step 6 |** Then, after participants have finished their first draft of the plan template, ask them to then build a list of their organization’s activities or processes that they feel will require individual protocols.
