@@ -1,7 +1,7 @@
 ---
 layout: module
 title: "Safer Communication: PGP/GPG Email Encryption"
-author: DJ, Ali Ravi, Samir Nassar, Dan O'Clunaigh, Carol
+author: Indira Cornelio, Alma Uguarte Perez, DJ, Ali Ravi, Samir Nassar, Dan O'Clunaigh, Carol Waters
 date: 2015-05-00
 
 activity:
@@ -27,7 +27,6 @@ synthesis:
 
 platforms: Mac OS, Windows
 level: Advanced
-prerequisites:
 permalink: /curriculum/safer-communication/pgp-gpg-email-encryption/
 parent: Safer Communication
 breadcrumb: PGP GPG Email Encryption
