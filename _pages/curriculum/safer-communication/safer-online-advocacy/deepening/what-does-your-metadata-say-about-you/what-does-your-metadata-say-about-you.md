@@ -18,8 +18,8 @@ duration: 90 minutes
 - Example tools for analyzing and removing metadata
 
 #### *Trainer's Note*
-- *While not required, this session is greatly enhanced for participants if they have already done the Input session "Networked Publics".
-- *Metadata is often one of the more complex topics to introduce in the training process - make sure to budget sufficient time to cover this session in detail, as it is quite critical and relevant to the context of WHRDs and women activists.*
+- *While not required, this session is greatly enhanced for participants if they have already done the Input session "Networked Publics".*
+- *Metadata is often one of the more complex topics to introduce in the training process - make sure to budget sufficient time to cover this session in detail, as it is quite critical and relevant to the context of human rights defenders and activists.*
 <br><br>
 
 ## Running the Session:
@@ -35,12 +35,12 @@ Metadata is often one of the more complex topics to introduce in the training pr
 	
 ### Part 2 – Implications of Metadata in a Human Rights Context
 **Step 2 |** When working with WHRDs, it is important to explain what are the pros and cons of metadata – you can succinctly describe this to participants using two key ideas:
-<br><br>
+
 #### Metadata can say a lot about you.
 - Ask participants to take a picture with their phones and to check all the metadata that the image file contains - you will need to provide them with a tool such as CameraV to do this, or you may also share a web-based tool like http://metapicz.com if your training is with a very beginner-level group.
 - Now, have participants repeat the exercise but with location services disabled on their phones. Split participants up into groups of 3-4 people (maximum) to discuss how they think metadata could be useful, and how they think it could compromise security when performing human rights work.
 - In their discussion, keeping the focus on human rights work, it is important that participants also identify under which circumstances metadata found in documents, videos or images help such content be considered as evidence in human rights documentation work. Share with them some practices - such as saving the original files on an encrypted device and creating separate copies for editing or for storing on their computers.
-<br><br>
+
 #### Metadata is created, but can also be removed.
 - Share with participants a few options, such as ObscuraCam or Metanull, for erasing metadata from videos and images. If there is enough time left for the session, you might also consider including the option of erasing metadata from documents with LibreOffice.
 <br><br>
