@@ -32,17 +32,17 @@ duration: 90 minutes
 
 ### Part 2 – So What Do We Mean by Resetting?
 **Step 2 |** Repeat to the group the affirmation from the previous step, highlighting the final phrase “we can always reset them” – what does this mean? Explain by presenting the following scenario:
-- *Perhaps at some point along your digital security journey, you’ve felt as though you’d been doing everything wrong.*
+*Perhaps at some point along your digital security journey, you’ve felt as though you’d been doing everything wrong.*
 
-- *You look at your computer – it’s full of pirated software, torrented movies and TV shows, and cluttered with other files you don’t even remember downloading.*
+*You look at your computer – it’s full of pirated software, torrented movies and TV shows, and cluttered with other files you don’t even remember downloading.*
 
-- *You’ve used USB sticks indiscriminately - on your laptop, on computers and printers at cybercafes, and maybe you don’t even always eject when you’re finished using them.*
+*You’ve used USB sticks indiscriminately - on your laptop, on computers and printers at cybercafes, and maybe you don’t even always eject when you’re finished using them.*
 
-- *Perhaps you’ve just ended a relationship with someone who you know for sure was looking on your computer when you weren’t around – they probably guessed your password, or maybe you even told them what it was.*
+*Perhaps you’ve just ended a relationship with someone who you know for sure was looking on your computer when you weren’t around – they probably guessed your password, or maybe you even told them what it was.*
 
-- *Now, you feel like you’re out of control – who knows what kind of viruses are living inside your hard drive, or who might have access to your information?*
+*Now, you feel like you’re out of control – who knows what kind of viruses are living inside your hard drive, or who might have access to your information?*
 
-- *But guess what – it’s okay! It’s not too late to get a fresh start. Want to start over? This session is for you!*
+*But guess what – it’s okay! It’s not too late to get a fresh start. Want to start over? This session is for you!*
 <br><br>
 
 **Step 3 |** Now, having read through the above scenario for context, you can explain what is meant by resetting in this context: it means starting from scratch, by resetting your device or your computer to its default condition and configuration, and thus giving yourself a “blank slate” for your digital security process. Avoid sentences that contain a double negative, as they are confusing.
@@ -55,7 +55,7 @@ duration: 90 minutes
 **Step 4 |** Ideally, you will have already covered the Deepening session "Storage & Encryption" with participants as it addresses important points regarding data backup. Either way, before you begin the hands-on practice portion of this session, do a quick check-in with the group about backing up their data.
 
 #### Optional: 
-*As a quick refresh from [DEFINE ADIDS] Storage & Encryption, ask participants - How often do they backup their files? Share examples of best practices related to data backup, such as keeping the backup in a safe place that is separate from their computer, backing up their information on a frequent, regular basis and - depending on the information that is being backed up - to consider also encrypting the hard drive or storage media where data will be stored.*
+*Ask participants - How often do they backup their files? Share examples of best practices related to data backup, such as keeping the backup in a safe place that is separate from their computer, backing up their information on a frequent, regular basis and - depending on the information that is being backed up - to consider also encrypting the hard drive or storage media where data will be stored.*
 <br><br>
 
 ### Part 4 – Resetting & Rebooting
