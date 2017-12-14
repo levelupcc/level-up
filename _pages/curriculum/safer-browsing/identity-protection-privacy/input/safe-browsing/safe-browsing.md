@@ -3,7 +3,7 @@ layout: content-page
 title: "Safe Browsing"
 author: Indira Cornelio, Alma Uguarte Perez
 summary: "This session provides an introduction to safe web browsing practices, including an overview of plug-ins and other utilities that can be used to create a safer browsing environment."
-permalink: /curriculum/safer-browsing/identity-protection-privacy/activity-discussion/safe-browsing/
+permalink: /curriculum/safer-browsing/identity-protection-privacy/input/safe-browsing/
 parent: "Identity Protection and Privacy"
 breadcrumb: "Safe Browsing"
 date: 2017-06
