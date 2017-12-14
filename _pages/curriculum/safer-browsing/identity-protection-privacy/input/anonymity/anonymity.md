@@ -3,7 +3,7 @@ layout: content-page
 title: "Anonymity"
 author: Indira Cornelio, Alma Uguarte Perez
 summary: "In this session, you will introduce participants to the concept of online anonymity, along with relevant tools and practices that can help preserve this anonymity."
-permalink: /curriculum/safer-browsing/identity-protection-privacy/activity-discussion/anonymity/
+permalink: /curriculum/safer-browsing/identity-protection-privacy/input/anonymity/
 parent: "Identity Protection and Privacy"
 breadcrumb: "Anonymity"
 date: 2017-06
