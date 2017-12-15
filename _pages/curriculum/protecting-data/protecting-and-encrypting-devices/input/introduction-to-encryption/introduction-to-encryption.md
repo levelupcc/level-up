@@ -30,16 +30,19 @@ duration: 45-60 minutes
 <br><br>
 
 #### *The BLUEPRINTS Code*
-Each of the letters in the word Blueprints is assigned a number: *placeholder for BLUEPRINTS (original order) image*
-
-This is a specific example using a specific word, but can be broadly applied to any number and letter sequence - for instance, if you use the same system as above, the sequence of numbers **8 2 5 7 9** would spell **T U R N S** when “decrypted”. You could also switch the order of the numbers, so that instead of the above sequence, it now goes: *placeholder for BLUEPRINTS (switched order) image*
-
+Each of the letters in the word Blueprints is assigned a number:
+<img src="/assets/images/sawa-blueprints-original-order.JPG">
+<br><br>
+This is a specific example using a specific word, but can be broadly applied to any number and letter sequence - for instance, if you use the same system as above, the sequence of numbers **8 2 5 7 9** would spell **T U R N S** when “decrypted”. You could also switch the order of the numbers, so that instead of the above sequence, it now goes: 
+<img src="/assets/images/sawa-blueprints-switched-order.JPG">
+<br><br>
 In this instance, the sequence of numbers **8 2 5 7 9** would now spell **L N P U B** (which isn’t a word) when “decrypted”; however, you could now “decrypt” the sequence **4 3 2 0 6** as **R I N S E**.
 <br><br>
 
 #### *Old-Fashioned Text Messaging*
-Use an image of an older-style phone keypad (see below) to demonstrate another kind of “encryption” that participants may be familiar with: *placeholder for keypad image*
-
+Use an image of an older-style phone keypad (see below) to demonstrate another kind of “encryption” that participants may be familiar with:
+<img src="/assets/images/sawa-keypad.png">
+<br><br>
 Ask participants how they would use this keypad to spell different words – one example you could use would be to have each participant explain how they would use the keypad to spell their name. 
 
 For instance, a participant named Luisa would spell her named by typing the sequence **5 5 5 8 8 4 4 4 7 7 7 7 2**.
