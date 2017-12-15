@@ -15,7 +15,7 @@ duration: 90 minutes
 ## Materials to Prepare: 
 - Slides (with key points included below)
 - Laptop/Computer and Projector setup
-- Copies of WHRD case infographics (see [DEFINE LOCATION])
+- Copies of WHRD case infographics (<a href="/assets/files/sawa-whrd-case-infographics-ES.pdf">download .pdf</a>)
 
 #### *Trainer's Note*
 *As this session requires a basic level of baseline knowledge of digital security concepts, it is best suited for a multi-day training or as part of a shorter workshop focused more on designing individual security protocols.*
