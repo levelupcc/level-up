@@ -27,7 +27,9 @@ duration: 90 minutes
 ### Part 1 – Data Backups and Planning
 **Step 1 |** Ask participants - How often do they backup their files? Share examples of best practices related to data backup, such as keeping the backup in a safe place that is separate from their computer, backing up their information on a frequent, regular basis and - depending on the information that is being backed up - to consider also encrypting the hard drive or storage media where data will be stored.
 <br><br>
-**Step 2 |** Share with participants the **backup format template** below, and have them start filling it in individually. Explain to the group that this is a useful way of creating a personal data backup policy – they can refer to this after the training, as a useful resource for keeping track of where their data is stored and how often that data should be backed up: *backup format template image placeholder*
+**Step 2 |** Share with participants the **backup format template** below, and have them start filling it in individually. Explain to the group that this is a useful way of creating a personal data backup policy – they can refer to this after the training, as a useful resource for keeping track of where their data is stored and how often that data should be backed up:
+<br><br>
+<img src="/assets/images/sawa-backup-format-template.JPG">
 <br><br>
 
 ### Part 2 – Storage and Backup Encryption
