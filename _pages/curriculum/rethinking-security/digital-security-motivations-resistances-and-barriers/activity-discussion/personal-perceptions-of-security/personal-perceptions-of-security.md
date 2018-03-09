@@ -31,7 +31,9 @@ duration: 90 minutes
 For the above questions, keep in mind that some languages may not have equivalent words for both “safety” and “security” or they may use just one word to refer to both concepts.
 <br><br>
 **Step 2 |** Next, on projected slides or on flipchart paper, introduce participants to the holistic approach of the training. Take care to explain the importance of digital security, self-care and physical security to the holistic process (you can use or replicate the following graphic as a simple way to illustrate this):
+
 <img src="/assets/images/sawa-holistic-triad.jpg">
+
 <br><br>
 **Step 3 |** In many cases, you may be working with participants who are taking part in the training so they can implement measures within their own organizations; therefore, it is important to explain to the group that this training process will be addressing security in the individual as well as the collective contexts. Organizations and collectives are made up of individuals – to address security in a holistic manner, we need to first look at ourselves, then the networks and roles we occupy within an organization or collective, and then finally at the organization or collective itself.
 <br><br>	
