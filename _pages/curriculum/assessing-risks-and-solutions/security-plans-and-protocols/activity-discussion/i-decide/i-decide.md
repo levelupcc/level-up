@@ -20,7 +20,7 @@ duration: 20-30 minutes
 <br><br>
  
 ## Running the Session:
-**Step 1 |** Open the session by explaining how building a digital security practice is a process that is iterative, and frequently difficult, for anybody. This session builds on the work started during the Input session "Digital Security Decisions" in which participants began to reflect on and identify their needs. Now, you will work with participants to begin identifying specific tools and practices for themselves.
+**Step 1 |** Open the session by explaining how building a digital security practice is a process that is iterative, and frequently difficult, for anybody. This session builds on the work started during the Input session <a href="/curriculum/assessing-risks-and-solutions/security-plans-and-protocols/input/digital-security-decisions/">"Digital Security Decisions"</a> in which participants began to reflect on and identify their needs. Now, you will work with participants to begin identifying specific tools and practices for themselves.
 <br><br>
 **Step 2 |** On a table or other flat surface – this should in the middle of the training room, or someplace central and visible to all participants - place the digital safety tool figures (you will find the figures.
 <br><br>
