@@ -25,7 +25,6 @@ duration: 45-60 minutes
 - How often do they meet?
 - Are there areas or committees that bring different parts of the organization together?
 <br><br>
-
 **Step 2 |** Remaining in pairs, now ask participants to share with one another some of the barriers or challenges they anticipate facing within their organizations when presenting their security plans and articulating the need to begin an implementation process.  
 
 ### Part 2 – Facilitating Organizational Implementation
