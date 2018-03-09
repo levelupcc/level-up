@@ -20,10 +20,7 @@ duration: 45-60 minutes
 ## Running the Session:
 
 ### Part 1 – Mapping Organizational Structures and Barriers
-**Step 1 |** Working in pairs, ask participants to describe their organizations:
-- How many people participate in them?
-- How often do they meet?
-- Are there areas or committees that bring different parts of the organization together?
+**Step 1 |** Working in pairs, ask participants to describe their organizations: How many people participate in them? How often do they meet? Are there areas or committees that bring different parts of the organization together?
 <br><br>
 **Step 2 |** Remaining in pairs, now ask participants to share with one another some of the barriers or challenges they anticipate facing within their organizations when presenting their security plans and articulating the need to begin an implementation process.  
 
