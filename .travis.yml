@@ -14,7 +14,7 @@ script:
 - bundle exec jekyll build
 before_deploy:
 - openssl aes-256-cbc -K $encrypted_d15196a1bbe0_key -iv $encrypted_d15196a1bbe0_iv
-  -in deploy_rsa.enc -out /home/deploy/deploy_rsa -d
+  -in deploy_rsa.enc -out /tmp/deploy_rsa -d
 - eval "$(ssh-agent -s)"
 - chmod 600 /tmp/deploy\_rsa
 - ssh-add /tmp/deploy\_rsa
