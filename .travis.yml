@@ -11,7 +11,7 @@ branches:
   only:
   - gh-pages
 script:
-- bundle exec jekyll build
+- bundle exec jekyll build --config  	 	_config.yml,_config_dev.yml
 before_deploy:
 - openssl aes-256-cbc -K $encrypted_d15196a1bbe0_key -iv $encrypted_d15196a1bbe0_iv
   -in deploy_rsa.enc -out /tmp/deploy_rsa -d
