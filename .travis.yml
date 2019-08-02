@@ -15,15 +15,20 @@ branches:
   - gh-pages
   - dev
 script:
+  - echo $TRAVIS_BRANCH
+  - echo $TRAVIS_PULL_REQUEST
 # This should detect the branch and run the correct build script
   - |
     if [ "$TRAVIS_BRANCH" = "dev" ]; then
+      echo "Building DEV";
       bundle exec jekyll build --config _config.yml,_config_dev.yml;
     fi
   - |
     if [ "$TRAVIS_BRANCH" = "gh-pages" &&  "$TRAVIS_PULL_REQUEST" == "false" ]; then
+      echo "Building LIVE";
       bundle exec jekyll build;
     fi
+
 before_deploy:
 - openssl aes-256-cbc -K $encrypted_d15196a1bbe0_key -iv $encrypted_d15196a1bbe0_iv
   -in deploy_rsa.enc -out /tmp/deploy_rsa -d
@@ -31,16 +36,20 @@ before_deploy:
 - chmod 600 /tmp/deploy\_rsa
 - ssh-add /tmp/deploy\_rsa
 - echo -e "Host $DEPLOY_HOST\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
+
 deploy:
 # DEV server deploy
   - provider: script
     skip_cleanup: true
     script: rsync -r --quiet --delete-after _site/* $DEPLOY_USER@$DEPLOY_HOST:$DEPLOY_DIRECTORY
     on:
+      repo: levelupcc/level-up
       branch: dev
-# LIVE server deploy
+      condition: $TRAVIS_BRANCH = dev # DEV server deploy
   - provider: script
     skip_cleanup: true
     script: rsync -r --quiet --delete-after _site/* $DEPLOY_USER@$DEPLOY_HOST:$DEPLOY_DIRECTORY_LIVE
     on:
+      repo: levelupcc/level-up
       branch: gh-pages
+      condition: $TRAVIS_BRANCH = gh-pages # LIVE server deploy
