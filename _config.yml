@@ -11,7 +11,16 @@ description: Resources for the global digital safety training community.
 baseurl: "" # the subpath of your site, e.g. /blog /level-up
 url: "https://level-up.cc" # the base hostname & protocol for your site
 
-exclude: ["node_modules", "gulpfile.js", "package.json"]
+exclude:
+  - gulpfile.js
+  - package.json
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
 include: ["_pages"]
 
 # Build settings
