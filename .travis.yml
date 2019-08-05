@@ -30,7 +30,7 @@ script:
       bundle exec jekyll build --config _config.yml,_config_dev.yml;
     fi
   - |
-    if [ "$TRAVIS_BRANCH" = "gh-pages" &&  "$TRAVIS_PULL_REQUEST" == "false" ]; then
+    if [ "$TRAVIS_BRANCH" = "gh-pages" ] && [ "$TRAVIS_PULL_REQUEST" == "false" ]; then
       echo "Building LIVE";
       bundle exec jekyll build;
     fi
