@@ -12,7 +12,7 @@ duration: 45-60 minutes
 ---
 *This session was developed for, and should be attributed to, the Institute for War & Peace Reporting resource "Cyberwomen: Holistic Digital Security Training Curriculum for Women Human Rights Defenders" under a Creative Commons Attribution-Share Alike 4.0 International CC BY-SA 4.0 License*
 
-## Materials to Prepare: 
+## Materials to Prepare:
 - Flipchart paper
 - Colored markers
 - Copies of reports and news about digital rights from participants’ home countries or regions (one copy for every 3-4 participants)
@@ -34,18 +34,18 @@ duration: 45-60 minutes
 <br><br>
 **Step 5 |** Once each group has presented, begin a conversation with participants about how it can be easy for women human rights defenders to feel overwhelmed or helpless when confronted by the different risks and threats they may face online - if you already had this discussion during the Activity & Discussion "Personal Perceptions of Security", you may simply remind them of that discussion.
 <br><br>
-**Step 6 |** Make sure that you’ve left enough time (15-20 minutes should suffice) to close this part of the session by providing some examples of practices or tools that are available to counter these threats. If you’ve already done the Activity & Discussion "Personal Perceptions of Security", remember to also consider the motivations, resistances and barriers identified by participants when making recommendations.
+**Step 6 |** Make sure that you’ve left enough time (15-20 minutes should suffice) to close this part of the session by providing some examples of practices or tools that are available to counter these threats. If you’ve already done the Activity & Discussion "[Personal Perceptions of Security](//curriculum/rethinking-security/digital-security-motivations-resistances-and-barriers/activity-discussion/personal-perceptions-of-security/)", remember to also consider the motivations, resistances and barriers identified by participants when making recommendations.
 <br><br>
-	
+
 ### Part 2 – Digital Security and Digital Rights Concepts
-**Step 7 |** Now that you’ve covered some basic digital security practices and tools in response to the online/digital threats to human rights discussed during Part 1, explain to participants that you will now introduce a few core digital security concepts with concrete implications on rights: **anonymity, privacy and encryption**. In some contexts, it might be important to also include **circumvention** as one of these examples. 
+**Step 7 |** Now that you’ve covered some basic digital security practices and tools in response to the online/digital threats to human rights discussed during Part 1, explain to participants that you will now introduce a few core digital security concepts with concrete implications on rights: **anonymity, privacy and encryption**. In some contexts, it might be important to also include **circumvention** as one of these examples.
 <br><br>
 **Step 8 |** Start out by reminding participants how important it is that they are taking this critical step towards addressing their own digital security with this training, and that now they will begin the process of learning how to counter some of the threats they face:
 - If you’ve already covered the Activity & Discussion "Personal Perceptions of Security", recall some of the perceptions and definitions of digital security that participants shared during **Steps 2, 3 and 4** of that session.
 - If you have **not** already covered the Activity & Discussion "Personal Perceptions of Security", it will be good idea here to now discuss with participants what digital security means in a broad sense, based on your own expertise.
 <br><br>
 
-**Step 9 |** Ask participants to volunteer their own definitions of what privacy means to them, and follow-up by then asking them how they feel about the current state of privacy on the digital era. Next, explain what digital/online privacy is – as you explain this, make sure to find ways of actively encouraging participants to reclaim their right to privacy. 
+**Step 9 |** Ask participants to volunteer their own definitions of what privacy means to them, and follow-up by then asking them how they feel about the current state of privacy on the digital era. Next, explain what digital/online privacy is – as you explain this, make sure to find ways of actively encouraging participants to reclaim their right to privacy.
 <br><br>
 **Step 10 |** Repeat Step 9, but this time addressing the concept of anonymity - ask participants what anonymity means to them, and briefly explain or clarify any doubts using examples as possible or appropriate. Again, find ways of actively encouraging participants to reclaim their right to anonymity, and be sure to also make clear what the differences are between privacy and anonymity as distinct concepts.
 <br><br>
@@ -62,5 +62,3 @@ duration: 45-60 minutes
 - <a href="https://karisma.org.co/">https://karisma.org.co/</a>
 - <a href="https://www.article19.org/resources.php/resource/38006/en/report:-the-right-to-online-anonymity">https://www.article19.org/resources.php/resource/38006/en/report:-the-right-to-online-anonymity</a>
 - <a href="https://www.eff.org/deeplinks/2015/07/hacking-team-leaks-reveal-spyware-industrys-growth">https://www.eff.org/deeplinks/2015/07/hacking-team-leaks-reveal-spyware-industrys-growth</a>
-
-
