@@ -1,6 +1,8 @@
 # Level-Up
 
-This is the source code for the https://level-up.cc website.
+This is the source code for the https://level-up.cc website. 
+
+[![Build Status](https://travis-ci.org/levelupcc/level-up.svg?branch=gh-pages)](https://travis-ci.org/levelupcc/level-up)
 
 In 2016, all Level Up content was added to Github in an effort to make the content accessible for remixing and sharing.
 
