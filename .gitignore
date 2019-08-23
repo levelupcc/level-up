@@ -2,3 +2,4 @@
 .jekyll-metadata
 _site
 node_modules
+Gemfile.lock
