@@ -22,7 +22,7 @@ There are a few different ways you can provide feedback on LevelUp's growing com
 LevelUp is cared for by trusted members of the training community, who are dedicated to maintaining the resource and staying engaged with its users.
 
 ##### This resource is continually evolving, as is the community.
-Send us an email at **with a request to join the LevelUp Mailing List**, to stay updated with the latest on LevelUp, be informed of changes or improvements to the site, and interact with others in the training community.
+Send **a request to join the LevelUp Mailing List** at **[levelup-subscribe@lists.riseup.net](mailto: levelup-subscribe@lists.riseup.net)**, to stay updated with the latest on LevelUp, be informed of changes or improvements to the site, and interact with others in the training community.
 <br><br>
 
 ### 2. Annotate and Discuss Content with Hypothes.is
