@@ -4,13 +4,13 @@
   <body class="txlive">
     <div class="outer-wrapper">
       <div class="inner-wrapper">
-        {% include header.html %}
+        {% include_cached header.html %}
         <nav class="nav-block">
-        {% include navigation.html context="/" %}
+        {% include_cached navigation.html context="/" %}
         </nav>
         {{ content }}
       </div>
-      {% include footer.html %}
+      {% include_cached footer.html %}
     </div>
     <script>
     anchors.options.visible = 'always';
