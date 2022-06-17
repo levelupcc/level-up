@@ -1,20 +1,22 @@
 <!DOCTYPE html>
 <html>
-  {% include head.html %}
-  <body class="txlive">
-    <div class="outer-wrapper">
-      <div class="inner-wrapper">
-        {% include header.html %}
-        <nav class="nav-block">
-        {% include navigation.html context="/" %}
-        </nav>
-        {{ content }}
-      </div>
-      {% include footer.html %}
+{% include head.html %}
+
+<body class="txlive">
+  <div class="outer-wrapper">
+    <div class="inner-wrapper">
+      {% include_cached header.html %}
+      <nav class="nav-block">
+        {% include_cached navigation.html context="/" %}
+      </nav>
+      {{ content }}
     </div>
-    <script>
-    anchors.options.visible = 'always';
-    anchors.add('h2');
-    </script>
-  </body>
+    {% include_cached footer.html %}
+  </div>
+  <script>
+    anchors.options.visible = "always";
+    anchors.add("h2");
+  </script>
+</body>
+
 </html>
