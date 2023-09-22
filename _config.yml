@@ -9,7 +9,8 @@
 title: LevelUp
 description: Resources for the global digital safety training community.
 baseurl: "" # the subpath of your site, e.g. /blog /level-up
-url: "https://level-up.cc" # the base hostname & protocol for your site
+# url: "https://level-up.cc" # the base hostname & protocol for your site
+url: "https://level-up.tin.fyi" # the base hostname & protocol for your site
 
 exclude:
   - gulpfile.js
