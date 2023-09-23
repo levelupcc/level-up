@@ -57,6 +57,7 @@ jobs:
           API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
         with:
           source-directory: './_site'
+          target-directory: 'site'
           destination-github-username: 'tingeber'
           destination-repository-name: 'level-up-dev'
           user-name: 'Level Up Bot'
