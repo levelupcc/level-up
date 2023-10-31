@@ -30,6 +30,7 @@ A natural part of the way human beings respond to challenge and danger.
 ### [5. Building your Own Emotional Resilience as a Security Trainer](/before-an-event/psychosocial-underpinnings-of-security-training/5-emotional-resilience/)
 Avoid the pitfalls of burnout and vicarious traumatization.
 <br><br>
+#### You may also find articles form the Security Education Companion on [The Harm Reduction Approach](https://www.securityeducationcompanion.org/articles/the-harm-reduction-approach) and [When Different Threat Models Are In The Same Room](https://www.securityeducationcompanion.org/articles/when-different-threat-models-are-in-the-same-room) to be useful.
 
 ## About the Author
 **Craig Higson-Smith** is a researcher and trainer with the Center for Victims of Torture. Originally an anti-apartheid activist, Higson-Smith has a MA in Research Psychology and has spent the last two decades working on issues relating to violence and traumatic stress in the developing world. He is the author of multiple scientific papers and editor of several books in the field. During his career he has worked in many countries including Bosnia and Herzegovina, Cambodia, Cameroon, Ethiopia, Haiti, Kenya, Liberia, Sierra Leone, South Africa, Uganda, and Zimbabwe.
