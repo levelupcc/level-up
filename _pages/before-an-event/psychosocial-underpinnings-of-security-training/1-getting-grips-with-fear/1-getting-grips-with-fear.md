@@ -43,6 +43,8 @@ We can see how these principals might apply in the world at large. An employee w
 
 But how might this apply in the training room? Let’s imagine a situation in which one participant is telling a horrifying story about a past experience. The story might be upsetting for someone else in the group—that is, his fear button is being pressed. In an extreme case, he might become emotional and leave the training room. More commonly, he might start talking to the person next to him, unconsciously trying to avoid contact with the threatening material. If required to listen, he will then start to try to make himself feel better. He may tell himself that the events of the story could never happen to him, or that if it did, he would be able to cope with them without difficulty. He might even tell himself that that storyteller is weak or stupid for making such a big deal out of the matter. 
 
+For more information on this, take a look at the [Fear Is The Mind Killer](https://www.securityeducationcompanion.org/articles/fear-is-the-mind-killer-rethinking-demos) article from the Security Education Companion.
+
 ##### However one looks at it, it is clear that telling this story is not helping him engage with the training and learn better security practices.
 <br><br>
 
