@@ -39,3 +39,5 @@ While secure passwords is one of the most fundamental digital safety topics, the
 
 In addition, trainers will differ on what they consider the best parameters for a strong password, which may deviate from the advice in this section - remember to keep participant context in mind while covering this topic.
 
+### Additional Materials
+You may also find the section on [Password Managers](https://www.securityeducationcompanion.org/topics/password-managers) and the [Password Manager gif](https://www.securityeducationcompanion.org/materials/password-manager-standalone-mr-pwmngr-gifs) from the Security Education Companion to be helpful.
