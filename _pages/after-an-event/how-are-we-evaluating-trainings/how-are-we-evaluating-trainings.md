@@ -12,7 +12,9 @@ breadcrumb: "How Are We Evaluating our Trainings?"
 
 ##### *Trainer's Note*
 The original post this resource was adapted from can be found on the [FabRiders FabBlog](https://www.fabriders.net/webinar-notes-evaluating/); the audio recording and slides from the webinar session itself can be found [here](https://cc.readytalk.com/cc/playback/Playback.do?id=7jaw9l).
-<br><br>
+<br>
+
+You may also find the article on [Encouraging Ongoing Learning And Engagement](https://www.securityeducationcompanion.org/articles/encouraging-ongoing-learning-and-engagement) from the Security Education Companion to be useful.
 
 ## What Are We Evaluating?
 Establishing whether or not a digital security training has been effective is challenging, as it can be hard to prove that the tools and methodolgoies learned during a training have actually been put to use. 
