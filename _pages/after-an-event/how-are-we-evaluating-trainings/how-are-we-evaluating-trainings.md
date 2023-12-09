@@ -12,6 +12,7 @@ breadcrumb: "How Are We Evaluating our Trainings?"
 
 ##### *Trainer's Note*
 The original post this resource was adapted from can be found on the [FabRiders FabBlog](https://www.fabriders.net/webinar-notes-evaluating/); the audio recording and slides from the webinar session itself can be found [here](https://cc.readytalk.com/cc/playback/Playback.do?id=7jaw9l).
+{: .notice}
 <br><br>
 
 ## What Are We Evaluating?
