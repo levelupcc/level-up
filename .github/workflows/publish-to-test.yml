@@ -48,6 +48,7 @@ jobs:
         run: bundle exec jekyll build --config _config.yml,_config_test.yml
         env:
           JEKYLL_ENV: production
+      - name: Set CNAME  
         # set cname for gh pages, should match baseurl above
         run: echo "test.level-up.cc" > ./_site/CNAME
       - name: Upload artifact
