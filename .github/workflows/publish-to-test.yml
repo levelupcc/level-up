@@ -45,7 +45,7 @@ jobs:
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
         # Clarify the right baseurl for each branch
-        run: bundle exec jekyll build --baseurl "test.level-up.cc"
+        run: bundle exec jekyll build --config _config.yml,_config_test.yml
         env:
           JEKYLL_ENV: production
         # set cname for gh pages, should match baseurl above
