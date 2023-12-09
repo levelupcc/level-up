@@ -61,7 +61,7 @@ jobs:
           # API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
         with:
           source-directory: './_site'
-          target-directory: '.'
+#          target-directory: '.'  per https://cpina.github.io/push-to-another-repository-docs/faq.html#how-can-i-copy-the-whole-repository
           destination-github-username: 'levelupcc'
           destination-repository-name: 'level-up-test'
           user-name: 'Level Up Bot'
