@@ -15,14 +15,13 @@ The Level Up Community is formed by a diverse group of practitioners, with diffe
 
 More specifically, Level Up community spaces are committed to promote the following values:
 
-**Confidentiality**: We will handle all incoming information confidentially and will not disclose it to third parties without consent. We will handle incoming information responsibly and protect it against inadvertent disclosure to unauthorised parties. The security of the methods of storing and transmitting information inside or outside the Level Up will be appropriate to its sensitivity.
-**Collaboration**: We have a strong commitment towards fostering solidarity, connection, cooperation and a sense of community in our convening spaces.
-**Inclusivity**: We believe in the importance of diversity in a way that fosters non-discrimination, free expression, participation and equality.
-**Do-No-Harm**: We are aware of how our actions, behaviors and ways of communicating can have a positive or negative effect on the people surrounding us, and try to mitigate these as much as possible. We are aware of the elements affecting our own position of power, and make space for acknowledging these structures within Level Up spaces. The Level Up Community is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), technology choices, skill set or level of knowledge. We do not tolerate harassment of community members in any form. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the Level Up Response Team.
+  * **Confidentiality**: We will handle all incoming information confidentially and will not disclose it to third parties without consent. We will handle incoming information responsibly and protect it against inadvertent disclosure to unauthorised parties. The security of the methods of storing and transmitting information inside or outside the Level Up will be appropriate to its sensitivity.
+  * **Collaboration**: We have a strong commitment towards fostering solidarity, connection, cooperation and a sense of community in our convening spaces.
+  * **Inclusivity**: We believe in the importance of diversity in a way that fosters non-discrimination, free expression, participation and equality.
+  * **Do-No-Harm**: We are aware of how our actions, behaviors and ways of communicating can have a positive or negative effect on the people surrounding us, and try to mitigate these as much as possible. We are aware of the elements affecting our own position of power, and make space for acknowledging these structures within Level Up spaces. The Level Up Community is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), technology choices, skill set or level of knowledge. We do not tolerate harassment of community members in any form. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the Level Up Response Team.
 
 <br><br>
-### Scope
-### 
+### Scope 
 
 This code of conduct applies to all Level Up community spaces, either in online interactions or associated events or social gatherings. Members and participants are responsible for knowing the values promoted by the Level Up community, which are detailed in this document, and abiding by the rules detailed below. If you are being, or have previously been, harassed by a person involved in the organizational security community outside our spaces, we still want to know about it & take action on it. We will take all good-faith reports of harassment seriously.
 Harassment

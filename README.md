@@ -66,3 +66,13 @@ Or change it on the fly when you run the serve command with the baseurl of your 
 ```
 jekyll serve --baseurl '' --watch
 ```
+
+# Deployment
+
+## Main site
+Level-Up uses Github Actions to automatically deploy the site on Github Pages whenever there is a change to the repository. The Action it uses is `.github/workflows/publish-to-gh-pages.yml`. It is based on Jekyll's recommended Action configuration: https://jekyllrb.com/docs/continuous-integration/github-actions/. 
+
+## Dev site
+The dev site also uses Github Actions to build whenever there is a change to the `dev` repository, in a slightly more complicated manner:
+- Github Actions runs the `.github/workflows/publish-to-dev.yml` Action that first builds the site, then transfers the directory with static files to another repo, `level-up-dev`
+- `level-up-dev` runs its own Github Action to publish the static files.  
