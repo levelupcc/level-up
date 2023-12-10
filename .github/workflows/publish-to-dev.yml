@@ -9,7 +9,7 @@ name: Deploy dev site
 on:
   # Runs on pushes targeting the default branch
   push:
-    branches: [ dev-tin ]
+    branches: [ dev ]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -44,36 +44,26 @@ jobs:
         uses: actions/configure-pages@v3
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
+        # Clarify the right site url for each branch using config chain includes
         run: bundle exec jekyll build --config _config.yml,_config_dev.yml
         env:
           JEKYLL_ENV: production
-        run: echo "test.level-up.cc" > ./_site/CNAME
-
+      - name: Set CNAME  
+        # set cname for gh pages, should match config file site.url variable above
+        run: echo "dev.level-up.cc" > ./_site/CNAME
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v2
       - name: Pushes to another repository
         uses: cpina/github-action-push-to-another-repository@main
         env:
-          # SSH_DEPLOY_KEY: ${{ secrets.SSH_DEPLOY_KEY }}
-          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+          SSH_DEPLOY_KEY: ${{ secrets.DEV_DEPLOY_KEY }}
+          # API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
         with:
           source-directory: './_site'
-          target-directory: '.'
+#          target-directory: '.'  per https://cpina.github.io/push-to-another-repository-docs/faq.html#how-can-i-copy-the-whole-repository
           destination-github-username: 'levelupcc'
           destination-repository-name: 'level-up-dev'
           user-name: 'Level Up Bot'
           user-email: levelup@joncamfield.com
           target-branch: main
-
-  # Deployment job
-  # deploy:
-  #   environment:
-  #     name: github-pages
-  #     url: ${{ steps.deployment.outputs.page_url }}
-  #   runs-on: ubuntu-latest
-  #   needs: build
-  #   steps:
-  #     - name: Deploy to GitHub Pages
-  #       id: deployment
-  #       uses: actions/deploy-pages@v2

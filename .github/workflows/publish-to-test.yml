@@ -44,11 +44,12 @@ jobs:
         uses: actions/configure-pages@v3
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
-        # Clarify the right baseurl for each branch
+        # Clarify the right site url for each branch using config chain includes
         run: bundle exec jekyll build --config _config.yml,_config_test.yml
         env:
           JEKYLL_ENV: production
-        # set cname for gh pages, should match baseurl above
+      - name: Set CNAME  
+        # set cname for gh pages, should match config file site.url variable above
         run: echo "test.level-up.cc" > ./_site/CNAME
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
@@ -60,7 +61,7 @@ jobs:
           # API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
         with:
           source-directory: './_site'
-          target-directory: '.'
+#          target-directory: '.'  per https://cpina.github.io/push-to-another-repository-docs/faq.html#how-can-i-copy-the-whole-repository
           destination-github-username: 'levelupcc'
           destination-repository-name: 'level-up-test'
           user-name: 'Level Up Bot'

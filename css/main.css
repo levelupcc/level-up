@@ -1035,3 +1035,18 @@ ol:not(.breadcrumb) > li:before {
     color: #008080; }
   .highlight .il {
     color: #099; }
+
+
+.notice {
+  margin:2em 0 !important;
+  padding:1em;
+  color:#343434;
+  background-color: #f9deb8;
+  border-radius: 4px;
+  border: 1px solid #efa743;
+  box-shadow:0 2px 2px rgba(238,95,91,0.25)
+}
+
+.notice a {
+  color:#24929B !important;
+}
