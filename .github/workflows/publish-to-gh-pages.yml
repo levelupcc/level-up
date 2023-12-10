@@ -45,12 +45,12 @@ jobs:
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
         # Clarify the right site url for each branch using config chain includes
-        run: bundle exec jekyll build
+        run: bundle exec jekyll build --config _config.yml,_config_ghpages.yml
         env:
           JEKYLL_ENV: production
       - name: Set CNAME  
         # set cname for gh pages, should match config file site.url variable above
-        run: echo "level-up.cc" > ./_site/CNAME
+        run: echo "ghpages.level-up.cc" > ./_site/CNAME
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v2
