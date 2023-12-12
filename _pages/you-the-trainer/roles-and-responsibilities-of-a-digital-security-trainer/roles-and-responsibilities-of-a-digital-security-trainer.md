@@ -38,3 +38,4 @@ This includes testing new tools, apps and services; reading up on the current in
 Our work does not stop when the training ends - **in fact, training is frequently only the first step in supporting long-term adoption of secure technologies and behaviors**. Instead, we need to find secure ways to continue communicating with participants and provide post-training support in order to ensure their responsiveness to their changing security contexts and risks.
 <br><br>
 
+### Check out the Security Education Companion resources on [Building Your Superhero Team](https://www.securityeducationcompanion.org/articles/building-your-superhero-team) and [Thinking About Different Devices and Operating Systems](https://www.securityeducationcompanion.org/articles/thinking-about-different-devices-and-operating-systems) as well.

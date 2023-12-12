@@ -19,7 +19,9 @@ duration: 45-60 minutes
 
 #### *Trainer's Note*
 *This infographic may provide a helpful visual aid for participants during this session (in English): <a href="https://emailselfdefense.fsf.org/en/infographic.html">https://emailselfdefense.fsf.org/en/infographic.html</a>*
-<br><br>
+<br>
+
+You may also find the article on [Different Types of Encryption](https://www.securityeducationcompanion.org/articles/different-types-of-encryption) from the Security Education Companion to be useful.
  
 ## Running the Session:
 

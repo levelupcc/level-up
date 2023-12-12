@@ -11,6 +11,22 @@ breadcrumb: Community Resources and Tools
 #### This resource is continually evolving, as is the community.
 Send us an email at [levelup@riseup.net](mailto: levelup@riseup.net) ([GPG public key here](http://pgp.mit.edu/pks/lookup?op=get&search=0x207BFB9591A638BE)) **with a request to join the LevelUp Mailing List**, to stay updated with the latest on LevelUp, be informed of changes or improvements to the site, and interact with others in the training community.
 
+
+# Additional Resources for Trainers
+
+### [Digital Protection Guides Comparison](https://docs.google.com/spreadsheets/d/1LOc6SOJGWymaN4P1hc8ln3Zp-aGob_eKSr9B6MJ6ReE/edit#gid=1566213339)
+
+This google sheet contains an overview of guides to digital protection for human rights defenders, activists, journalists, and other at-risk communities. It was created in February 2021 by Gus Andrews for Front Line Defenders, to supplement the Security in a Box guide. As of 2023, Gillian "Gus" Andrews, Jon Camfield, and Jeff Landale are among those with edit access. Please reach out to any of them if you know of a resource that should be added.
+
+- https://docs.google.com/spreadsheets/d/1LOc6SOJGWymaN4P1hc8ln3Zp-aGob_eKSr9B6MJ6ReE/edit#gid=1566213339
+
+### [Security Education Companion](https://www.securityeducationcompanion.org/)
+
+SEC is a resource for people teaching digital security to their friends and neighbors. If you’d like to help your community learn about digital security but aren’t sure where to start, these articles, lesson plans, and teaching materials are for you!
+
+- Initially developed by the Electronic Frontier Foundation, as of 2023 this resource has been transitioned to members of the LevelUp community for management.
+- https://www.securityeducationcompanion.org/
+
 # Resources for Training Participants
 
 ###  [Anti-Phishing and Email Hygiene](https://freedom.press/anti-phishing-and-email-hygiene)
@@ -45,7 +61,7 @@ CyberArabs is a website with news, guides, videos, and tutorials on digital secu
 - Updated 2015
 -  [https://www.cyber-arabs.com/](https://www.cyber-arabs.com/%2520)
 
-###  [Digital First Aid Kit](https://rarenet.github.io/DFAK/)
+###  [Digital First Aid Kit](https://digitalfirstaid.org/)
 
 The Digital First Aid Kit is a self-diagnostic tool for human rights defenders, journalists, bloggers, and online activists  to understand the types of threats they and their colleagues and friends face, and how to deal with them or seek help from a specialist. Topics covered include: secure communication, account hijacking, malware, and DDoS mitigation, and others.
 

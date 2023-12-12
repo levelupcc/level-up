@@ -8,3 +8,4 @@ permalink: /curriculum/assessing-risks-and-solutions/
 parent: "Trainers' Curriculum"
 breadcrumb: "Assessing Risks and Solutions"
 ---
+#### The Security Education Companion articles about [Threat Modeling](https://www.securityeducationcompanion.org/topics/threat-modeling) and [When Different Threat Models Are In The Same Room](https://www.securityeducationcompanion.org/articles/when-different-threat-models-are-in-the-same-room) are also relevant to this topic.

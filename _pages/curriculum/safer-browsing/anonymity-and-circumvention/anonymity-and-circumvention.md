@@ -38,3 +38,5 @@ breadcrumb: Anonymity and Circumvention
 ### Important Notes
 The number of countries where the use of encryption is illegal has decreased, but legal concerns are still very real for some participants. Before a training, review the laws of where your participants live and work, as well as the laws of where you’re conducting the training, to confirm that the use of technologies highlighted in this session, including the Tor Browser Bundle, is allowed.
 
+### Additional Materials
+You may also find the content from the Security Education Companion on [Censorship Circumvention And Encrypting Your Traffic With VPN](https://www.securityeducationcompanion.org/topics/censorship-circumvention-and-encrypting-your-traffic-with-vpn) and the [Browser Extensions To Make You Safer](https://www.securityeducationcompanion.org/topics/browser-extensions-to-make-you-safer-https-everywhere-and-privacy-badger) to be useful.
