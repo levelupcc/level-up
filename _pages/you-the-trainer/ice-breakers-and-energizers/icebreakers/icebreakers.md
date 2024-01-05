@@ -14,6 +14,8 @@ As the name implies, Icebreakers are meant to "break the ice" and are usually fu
 
 Often, the co-trainers and co-facilitators will illustrate the first steps of the game - or, if training solo, you may choose to work with a willing participant to demonstrate for the rest of the group.
 
+In addition to the Icebreakers below, there are others [listed here](https://www.securityeducationcompanion.org/articles/icebreakers) on the Security Education Companion site that you may find useful.
+
 ### Two Truths and a Lie
 The object of this game is for participants to get to know each other by guessing whether or not "facts" about other participants are "truths" or "lies".
 

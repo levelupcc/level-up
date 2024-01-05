@@ -38,5 +38,6 @@ breadcrumb: "Security Plans and Protocols"
 ### Important Notes
 - As trainers, we can often impose our own vision of digital security practice on participants, either deliberately but with sincere intentions or unwittingly. However, it is important for us to remember that – as trainers and experts – our participants are under no obligation to either use the tools we teach, or to adapt to the practices that we deem to be "the safest".
 - Some sessions in this module involve detailed discussion of personal risk - in some cases, participants may begin to appear concerned or stressed. Therefore, it becomes extremely important for you as the trainer to manage the level of stress in the room. Make sure that at frequent intervals you remind the group that this session is ultimately focused on identifying strategies, tools, networks or allies that can help them to face risks; you don’t want them to be or feel scared, there are lots of actions that they can take to fight online violence.
+- Also consider articles on [Recommending Tools](https://www.securityeducationcompanion.org/articles/recommending-tools), and [Threat Modeling](https://www.securityeducationcompanion.org/materials/threat-modeling-activity-handout-english-spanish) from the Security Education Companion.
 
 

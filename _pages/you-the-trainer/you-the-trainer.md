@@ -9,3 +9,4 @@ permalink: /you-the-trainer/
 breadcrumb: "You, The Trainer"
 weight: 1
 ---
+#### First time trainer? [These resources](https://www.securityeducationcompanion.org/articles#quick-start) from the Security Education Companion are another good place to start.

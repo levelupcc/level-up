@@ -43,3 +43,7 @@ breadcrumb: HTTPS and SSL
 
 ### Important Notes
 This session illustrates one of the most common Internet encryption protocols. However, trainers may wish to confirm, when preparing for in-class demonstrations, they are not directing participants to visit websites that have been banned.
+
+### Additional Material
+You may also find the article with [An Overview Of Web Browsing Security](https://www.securityeducationcompanion.org/articles/an-overview-of-web-browsing-security
+) from the Security Education Companion to be useful.

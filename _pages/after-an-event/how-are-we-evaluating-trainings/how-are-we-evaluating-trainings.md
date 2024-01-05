@@ -15,8 +15,11 @@ The original post this resource was adapted from can be found on the [FabRiders 
 {: .notice}
 <br><br>
 
+You may also find the article on [Encouraging Ongoing Learning And Engagement](https://www.securityeducationcompanion.org/articles/encouraging-ongoing-learning-and-engagement) from the Security Education Companion to be useful.
+{: .notice}
+
 ## What Are We Evaluating?
-Establishing whether or not a digital security training has been effective is challenging, as it can be hard to prove that the tools and methodolgoies learned during a training have actually been put to use. 
+Establishing whether or not a digital security training has been effective is challenging, as it can be hard to prove that the tools and methodologies learned during a training have actually been put to use. 
 
 It’s difficult to show a correlation between training, behaviour change and increased security. Likewise, when both individuals and those in their networks are at equal risk due to certain actions or behaviours, it’s difficult to ascertain how secure they actually are. Relying on solely quantifiable information connected to metrics is not that helpful in understanding training effectiveness in a  digital security context.
 

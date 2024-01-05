@@ -34,7 +34,6 @@ Given what you now know about the operating environment, what will be the most a
 ### [Step 5 - Orientation and Preparation](/before-an-event/planning-your-training-event/5-orientation-preparation/)
 Often, an event such as a training is geared towards participants within a specific context. Orientation and preparation steps for trainers are essential, in order to be ready for last-minute changes to your agenda, or even to handle an emergency situation.
 <br><br>
-
-
+#### In addition to these steps, you may find articles from the Security Education Companion on [Learning About Your Audience](https://www.securityeducationcompanion.org/articles/learning-about-your-audience), [Training Logistics](https://www.securityeducationcompanion.org/articles/training-logistics-things-to-consider), [Training Prep](https://www.securityeducationcompanion.org/articles/training-prep), [Your First Training](https://www.securityeducationcompanion.org/articles/your-first-training), [Minimum Viable Teaching](https://www.securityeducationcompanion.org/articles/the-minimum-viable-teaching-when-you-have-no-time-to-teach-or-they-have-no-time-to-listen), and [Different Threat Models In The Same Room](https://www.securityeducationcompanion.org/articles/when-different-threat-models-are-in-the-same-room) to be useful.
 
 
