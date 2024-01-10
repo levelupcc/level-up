@@ -70,7 +70,7 @@ The assumption behind [LevelUp's Approach to Adult Learning](/before-an-event/le
 
 LevelUp refers to each of Activity & Discussion, Input, Deepening, and Synthesis as **Session, or ADIDS, Elements**, or the individual *stages* of a session covering a specific Topic. Each Element fulfills a distinct purpose within a session that is critical to clearly articulating the concepts and fundamentals of a Topic.
 
-Preparing a session using ADIDS requires specific considerations, depending on if it takes place in a physical or virtual environment. Please find further information about [in-person training](#), and about [online training](#).
+Preparing a session using ADIDS requires specific considerations, depending on if it takes place in a physical or virtual environment. Please find further information about [in-person training](#preparing-sessions-using-adids-for-in-person-training), and about [online training](#preparing-sessions-using-adids-in-online-training).
 
 ## Preparing Sessions Using ADIDS for in-person training
 
