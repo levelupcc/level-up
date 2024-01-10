@@ -21,7 +21,7 @@ If you've been asked to provide a training for 20 participants, in 2 days, by yo
   - An unrealistic standard for future trainings, wherein organizers or participants come to expect a pace and level of depth that is neither effective nor sufficient.
   - You will increase your personal risk of burning out, which negatively affects both your personal life and your ability to be effective as a trainer.
 
-This is why having a solid sense of your own limitations, and accepting what you can and cannot do before you set and manage the expectations of participants and organizers, is crucial.
+This is why having a solid sense of your own limitations, and accepting what you can and cannot do before you set and manage the expectations of participants and organizers, is crucial. Take a look at the article on [When You Are Out Of Scope](https://www.securityeducationcompanion.org/articles/when-you-are-out-of-scope) from the Security Education Companion as well.
 <br><br>
 
 ## Managing the Expectations of Participants

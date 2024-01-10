@@ -42,4 +42,5 @@ breadcrumb: "Social Media Safety Awareness"
 
 **Preferences for particular social networking tools and services varies widely.** Included here are some of the most common social networking tools, but it is by no means representative of what is used worldwide. After you find out what your participants use before the training, if there is a social networking tool or service that you're unfamiliar with, do the legwork to research the tool before putting together this session.
 
-
+### Additional Material
+You may also find the content on [Locking Down Social Media](https://www.securityeducationcompanion.org/topics/locking-down-social-media) from the Security Education Companion to be useful.
