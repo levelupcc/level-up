@@ -1,14 +1,14 @@
 ---
 layout: content-page
 title: Creating Safe Spaces
-author: Sandra Ljubinkovic
+author: Sandra Ljubinkovic, Dhyta Caturani, Beatrice
 summary: Training can be an emotional experience, in particular for participants experiencing constant stress or trauma. As a trainer, creating a safe space is the basis for your work, crucial for creating a sense of physical safety as well as a sense of confidence in a group.
 date: 2024-01
 permalink: /before-an-event/creating-safe-spaces/
 parent: Before an Event
 breadcrumb: Creating Safe Spaces
 ---
-##### Please note that the original content is licensed to (and should be attributed to) Sandra Ljubinkovic for [Tactical Tech](https://www.tacticaltech.org) (not LevelUp), under the same Creative Commons license-type shown in the footer.
+##### Please note that the original (physical location) content is licensed to (and should be attributed to) Sandra Ljubinkovic for [Tactical Tech](https://www.tacticaltech.org) (not LevelUp), under the same Creative Commons license-type shown in the footer.
 
 In addition to the content below, you may also find articles from the Security Education Companion on [The Harm Reduction Appropach](https://www.securityeducationcompanion.org/articles/the-harm-reduction-approach), [Cultural Sensitivity](https://www.securityeducationcompanion.org/articles/cultural-sensitivity), [Touching Other People's Devices](https://www.securityeducationcompanion.org/articles/a-word-on-touching-other-people-s-devices-don-t), and [Fear Is The Mind Killer](https://www.securityeducationcompanion.org/articles/fear-is-the-mind-killer-rethinking-demos) to be helpful.
 {: .notice}
