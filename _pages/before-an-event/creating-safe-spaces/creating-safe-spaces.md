@@ -1,7 +1,7 @@
 ---
 layout: content-page
 title: Creating Safe Spaces
-author: Sandra Ljubinkovic, Dhyta Caturani, Beatrice
+author: Sandra Ljubinkovic, Dhyta Caturani, Beatrice Martini
 summary: Training can be an emotional experience, in particular for participants experiencing constant stress or trauma. As a trainer, creating a safe space is the basis for your work, crucial for creating a sense of physical safety as well as a sense of confidence in a group.
 date: 2024-01
 permalink: /before-an-event/creating-safe-spaces/
