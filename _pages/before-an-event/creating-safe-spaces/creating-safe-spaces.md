@@ -10,7 +10,7 @@ breadcrumb: Creating Safe Spaces
 ---
 ##### Please note that the original (physical location) content is licensed to (and should be attributed to) Sandra Ljubinkovic for [Tactical Tech](https://www.tacticaltech.org) (not LevelUp), under the same Creative Commons license-type shown in the footer.
 
-In addition to the content below, you may also find articles from the Security Education Companion on [The Harm Reduction Appropach](https://www.securityeducationcompanion.org/articles/the-harm-reduction-approach), [Cultural Sensitivity](https://www.securityeducationcompanion.org/articles/cultural-sensitivity), [Touching Other People's Devices](https://www.securityeducationcompanion.org/articles/a-word-on-touching-other-people-s-devices-don-t), and [Fear Is The Mind Killer](https://www.securityeducationcompanion.org/articles/fear-is-the-mind-killer-rethinking-demos) to be helpful.
+In addition to the content below, you may also find articles from the Security Education Companion on [The Harm Reduction Approach](https://www.securityeducationcompanion.org/articles/the-harm-reduction-approach), [Cultural Sensitivity](https://www.securityeducationcompanion.org/articles/cultural-sensitivity), [Touching Other People's Devices](https://www.securityeducationcompanion.org/articles/a-word-on-touching-other-people-s-devices-don-t), and [Fear Is The Mind Killer](https://www.securityeducationcompanion.org/articles/fear-is-the-mind-killer-rethinking-demos) to be helpful.
 {: .notice}
 
 *"Caring for myself is not self-indulgence, it is self-preservation and that is an act of political warfare" - Audre Lord*
