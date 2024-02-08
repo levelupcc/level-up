@@ -391,7 +391,7 @@ ul {
   color: #666666; }
 
 h1, h2, .post-header-title-link,
-.post-title-link, h3, h4, h5, nav, .menu-link, header, footer {
+.post-title-link, h3, h4, h5, h6, nav, .menu-link, header, footer {
   font-family: "Arvo", serif; }
 
 h1 {
@@ -408,10 +408,14 @@ h3 {
   line-height: 2rem; }
 
 h4 {
-  font-size: 1.25rem;
+  font-size: 1.5rem;
   line-height: 1.625rem; }
 
 h5 {
+  font-size: 1.25rem;
+  line-height: 1.625rem; }
+
+h6 {
   font-size: 1rem;
   line-height: 1.625rem; }
 
@@ -597,7 +601,7 @@ body {
   background-color: #F3B968; }
 
 h1, h2, .post-header-title-link,
-.post-title-link, h3, h4, h5, nav, .menu-link,
+.post-title-link, h3, h4, h5, h6, nav, .menu-link,
 strong, blockquote {
   color: #24929B; }
 
