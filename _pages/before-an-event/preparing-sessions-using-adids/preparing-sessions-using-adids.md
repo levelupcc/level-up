@@ -257,7 +257,8 @@ The second part is for the participants to reflect on the whole session. The tra
  
  At the end of the session, the trainer can use the remaining time as an opportunity to encourage the participants by recognizing their difficulties. The trainer can share their own difficulties when they start practicing strong passwords. Listening to the trainer’s experience who also went through the same difficulties as they do will make them realize that everyone will start from zero and hopefully they can be more optimistic to keep learning and put what they learn into practice. 
    
-**Goal**
+#### Goal
+
 The goal of the session is to evaluate the whole session, i.e. on how it was carried out, the issues being discussed, what solutions were made, and to answer any questions, clarify any confusion and close the session.
 
 
