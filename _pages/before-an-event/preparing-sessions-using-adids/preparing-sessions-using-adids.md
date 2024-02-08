@@ -167,7 +167,7 @@ Sample of 4 passwords for the quiz:
 * ilovemydog
 * cringing frail creative mace slang condone cosmos 
 
-**Goal** 
+#### Goal
 The point of this activity is to show that passwords are not equal in strength therefore it will affect the security of their accounts.
 
 ### DISCUSSION
@@ -183,7 +183,7 @@ Using the same topic of Account Security - Creating & Managing Strong Passwords 
 * Have your account or heard someone else’s account been compromised?
 * Have you changed your password practices because of your account or heard someone else’s * account being compromised?
 
-**Goal**
+#### Goal
 This discussion can be helpful for the participants to have a group moment to process the activity and reflect on their own password practices. 
 
 *For Activity and Discussion, allocate an overall 15 minutes.*
@@ -202,7 +202,7 @@ Input content on the topic might cover:
 * What would happen if your password is compromised?
 * What makes a strong password and why?
 
-**Goal**
+#### Goal
 This is where the trainer will have the opportunity to get the participants to give the knowledge and skills related to the topic and can inspire the participant to change their password practice.
 
 
@@ -231,7 +231,7 @@ If the time allows, also do a demo on 2FA application.
 **Important Note:**
 *It will be good if the trainer can make themselves available if the participants have some questions or need support when they are practicing using the tool. But make an agreement on when and how they can contact the trainer for questions and support. The trainer needs to take care of their well-being.*
 
-**Goal**
+#### Goal
 This is the chance to expose the participants to a tool and skill related to creating and managing strong passwords. This is also an opportunity for them to understand that there are tools that can help them to have a better password practice to secure their accounts and data. Although an online session probably is not enough, this can encourage them to do self-learning with all the materials you have provided. 
 
 
