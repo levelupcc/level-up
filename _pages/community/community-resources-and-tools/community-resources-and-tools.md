@@ -3,7 +3,7 @@ layout: content-page
 title: Community Resources and Tools
 author: LevelUp
 summary: This is LevelUp's repository of Community Resources and Tools - this is where you'll find all trainer-contributed content, such as field-tested training modules, facilitation tools and aids, and other useful content. Also found here is our growing index of helpful resources, guides, and tools that you can provide to training participants before, during, or after an event.
-date: 2016-06
+date: 2024-06
 permalink: /community/community-resources-and-tools/
 parent: Community
 breadcrumb: Community Resources and Tools
@@ -18,14 +18,32 @@ Send us an email at [levelup@riseup.net](mailto: levelup@riseup.net) ([GPG publi
 
 This google sheet contains an overview of guides to digital protection for human rights defenders, activists, journalists, and other at-risk communities. It was created in February 2021 by Gus Andrews for Front Line Defenders, to supplement the Security in a Box guide. As of 2023, Gillian "Gus" Andrews, Jon Camfield, and Jeff Landale are among those with edit access. Please reach out to any of them if you know of a resource that should be added.
 
-- https://docs.google.com/spreadsheets/d/1LOc6SOJGWymaN4P1hc8ln3Zp-aGob_eKSr9B6MJ6ReE/edit#gid=1566213339
+- [https://docs.google.com/spreadsheets/d/1LOc6SOJGWymaN4P1hc8ln3Zp-aGob_eKSr9B6MJ6ReE/edit#gid=1566213339](https://docs.google.com/spreadsheets/d/1LOc6SOJGWymaN4P1hc8ln3Zp-aGob_eKSr9B6MJ6ReE/edit#gid=1566213339)
 
 ### [Security Education Companion](https://www.securityeducationcompanion.org/)
 
 SEC is a resource for people teaching digital security to their friends and neighbors. If you’d like to help your community learn about digital security but aren’t sure where to start, these articles, lesson plans, and teaching materials are for you!
 
 - Initially developed by the Electronic Frontier Foundation, as of 2023 this resource has been transitioned to members of the LevelUp community for management.
-- https://www.securityeducationcompanion.org/
+- [https://www.securityeducationcompanion.org/](https://www.securityeducationcompanion.org/)
+
+### [SaferJourno](https://saferjourno.org/)
+
+SaferJourno bolsters the digital security capacity of trainers working with journalists around the world. This guide provides trainers with best practice on how to mitigate an array of complex risks in a way that is both practical and accessible for the journalist and is designed for both experienced digital security trainers who are less familiar with teaching journalists, as well as media trainers who work with journalists but might lack digital security expertise.
+
+- By [Internews](https://internews.org/areas-of-expertise/global-tech/)
+- Languages: English
+- Updated: 2024
+
+### [Tabletop Exercise Scenarios and Facilitation Guide for Digital Safety Training for Journalists](https://internews.org/resource/tabletop-exercise-scenarios-and-facilitation-guide-for-digital-safety-training-for-journalists/)
+
+Tabletop exercises (TTXs) are a valuable scenario-based training tool, which can make digital safety training more engaging and interactive. These resources include a guide on designing and facilitating TTXs as a digital safety training method, as well as a set of digital safety focused TTX scenarios relevant for journalists, which may be used by anyone to enhance digital security training. Within these guides, you will find brief explanations of what is a TTX, why TTXs can be valuable supplements to digital safety trainings, and how one can develop, plan, and facilitate TTXs.
+
+- By [Internews](https://internews.org/areas-of-expertise/global-tech/)
+- Languages: English, Romanian, Croatian, Hungarian, Polish, Albanian, Czech, Bulgarian, Spanish, Arabic 
+- Updated: March 2024
+- [Tabletop Exercise Scenarios and Facilitation Guide for Digital Safety Training for Journalists](https://internews.org/resource/tabletop-exercise-scenarios-and-facilitation-guide-for-digital-safety-training-for-journalists/)
+
 
 # Resources for Training Participants
 
@@ -36,21 +54,13 @@ Virtually every "sophisticated" hack of an individual reporter or entire newsroo
 - By Freedom of the Press Foundation
 -  [https://freedom.press/anti-phishing-and-email-hygiene](https://freedom.press/anti-phishing-and-email-hygiene)
 
-###  [Be A Cyber Superhero!](https://www.cybersuperhero.net/)
-
-Staying safe on your computer, phone and online isn’t about having the latest security tools or paying lots of money to other people to keep you safe. By far the most powerful defense is to change your own behavior. Explore this site to learn how to keep yourself and your friends and family safer…and be your own Cyber Superhero.
-
-- By Tibet Action Institute
-- Languages: English Tibetan
--  [https://www.cybersuperhero.net/](https://www.cybersuperhero.net/)
-
-###  [CryptoParty Handbook](https://www.cryptoparty.in/documentation/handbook)
+###  [CryptoParty Handbook](https://www.cryptoparty.in/learn/handbook)
 
 The CryptoParty Handbook is an introduction for anyone  to the basics of cryptography tools, and how to throw a CryptoParty, an open-format party that is free to anyone (independent of age, gender or knowledge) who is interested in learning or teaching cryptography software and concepts. Topics covered include Tor, public key encryption, and Off The Record (OTR) messaging, and others.
 
 - By [CryptoParty](https://www.cryptoparty.in/)
 - Updated August, 2013
--  [https://www.cryptoparty.in/documentation/handbook](https://www.cryptoparty.in/documentation/handbook)
+-  [https://www.cryptoparty.in/learn/handbook](https://www.cryptoparty.in/learn/handbook)
 
 ###  [CyberArabs](https://www.cyber-arabs.com/)
 
@@ -59,7 +69,7 @@ CyberArabs is a website with news, guides, videos, and tutorials on digital secu
 - By [The Institute for War & Peace Reporting (IWPR)](https://iwpr.net/)
 - Languages: Arabic
 - Updated 2015
--  [https://www.cyber-arabs.com/](https://www.cyber-arabs.com/%2520)
+-  [https://www.cyber-arabs.com/](https://www.cyber-arabs.com/)
 
 ###  [Digital First Aid Kit](https://digitalfirstaid.org/)
 
@@ -68,14 +78,6 @@ The Digital First Aid Kit is a self-diagnostic tool for human rights defenders, 
 - By [The Digital Defenders Partnership](https://digitaldefenders.org/)
 - Created in November, 2014
 -  [http://digitalfirstaid.org/](https://rarenet.github.io/DFAK/)
-
-### [Digital Footprint: Assessing Risk & Impact](https://publicintelligence.net/nccic-digital-footprint/)
-
-Digital Footprint is a guide for individuals, businesses, organizations  and governments  to understand, assess and mitigate the data that is collected when they use digital technologies. Topics covered include data that is collected by social media, point of sale transactions, and Wi-Fi networks, and others.
-
-- By The [Department of Homeland Security’s National Cybersecurity and Communications Integration Center](http://www.dhs.gov/about-national-cybersecurity-communications-integration-center)
-- Created in February, 2014
--  [https://publicintelligence.net/nccic-digital-footprint/](https://publicintelligence.net/nccic-digital-footprint/)
 
 ### [Digital Security First Aid Kit for Human Rights Defenders](https://www.apc.org/en/irhr/digital-security-first-aid-kit)
 
@@ -94,13 +96,13 @@ This handbook explores the laws and technologies that have developed in the Unit
 - Released June, 2014
 -  [http://susanemcg.gitbooks.io/digital-security-for-journalists/content/](http://susanemcg.gitbooks.io/digital-security-for-journalists/content/)
 
-###  [Digital Security Resources](https://rorypecktrust.org/resources/digital-security)
+###  [Digital Security Resources](https://rorypecktrust.org/how-we-help/freelance-resources/digital-security/)
 
 Rory Peck Trust’s Digital Security Resources are a collection of guides for freelance journalists  on basic digital security practices. Topics covered include, how to access blocked content, safely use public networks or shared computers, and recognize social engineering attacks, amongst others.
 
 - By [The Rory Peck Trust](https://rorypecktrust.org/)
 - Updated 2015
--  [https://rorypecktrust.org/resources/digital-security](https://rorypecktrust.org/resources/digital-security)
+-  [https://rorypecktrust.org/how-we-help/freelance-resources/digital-security/](https://rorypecktrust.org/how-we-help/freelance-resources/digital-security/)
 
 ###  [Email Self-Defense](https://emailselfdefense.fsf.org/en/)
 
@@ -117,14 +119,6 @@ On July 2, 2013, Freedom of the Press Foundation published this whitepaper entit
 
 - Created by Micah Lee
 -  [https://freedom.press/encryption-works](https://freedom.press/encryption-works)
-
-###  [Information Security for Journalists](http://files.gendo.nl/Books/InfoSec_for_Journalists_V1.21.pdf)
-
-Information Security for Journalists is a handbook for investigative journalists  that outlines the most effective means of keeping work private and safe from spying. It explains how to write safely, how to think about security and how to safely receive, store and send information that must be kept out of the hands of others.
-
-- Created by Silkie Carlo and Arjen Kamphuis for [The Centre for Investigative Journalism](http://www.tcij.org/)
-- Updated July, 2015
--  [http://files.gendo.nl/Books/InfoSec\_for\_Journalists\_V1.21.pdf](http://files.gendo.nl/Books/InfoSec_for_Journalists_V1.21.pdf)
 
 ###  [Manage Your Identity](http://www.internetsociety.org/manage-your-identity)
 
@@ -197,7 +191,7 @@ Zen and the Art of Making Tech Work for You is a community-built resource on inf
 -  [https://gendersec.tacticaltech.org/wiki/index.php/Complete\_manual](https://gendersec.tacticaltech.org/wiki/index.php/Complete_manual)
 
 
-## Tool Guides & Lists ##
+## Tool Guides & Lists
 
 ###  [FLOSS Manuals](https://flossmanuals.net/)
 
@@ -207,15 +201,6 @@ FLOSS Manuals is a community-driven website that features manuals about free and
 - Languages: Dutch (Netherlands), English, Farsi, Finnish, French
 - Updated 2014
 -  [https://flossmanuals.net/](https://flossmanuals.net/)
-
-###  [ISC Project - Information Security Tool List](https://iscproject.org/tools/)
-
-A list of a number of desktop tools and mobile phone apps that help to protect user privacy and data integrity. The following lists, though not exhaustive, provides links to a number of them, categorized by function, that the ISC Project has found effective for protecting various facets of user privacy.
-
-- By The ISC Project
-- Languages: English, Russian, Spanish, Arabic
-- Desktop - https://iscproject.org/tools/
-- Mobile - [https://iscproject.org/mobile-apps/](https://iscproject.org/mobile-apps/)
 
 ###  [My Shadow - Security Tools Database](https://myshadow.org/resources)
 
@@ -232,13 +217,6 @@ Learn which online services are allegedly a part of PRISM and which open source 
 - Updated Jun 7, 2016
 -  [https://prism-break.org](https://prism-break.org/)
 
-###  [Secure Messaging Scorecard](https://www.eff.org/secure-messaging-scorecard)
-
-The Secure Messaging Scorecard is an assessment of messaging technologies (including chat, text, email, and video) rated on digital security best practices, including encryption, documentation of cryptography design, and whether they’ve received independent security audits, amongst others.
-
-- By the Electronic Frontier Foundation
-- Created 2014, updated 2015
--  [https://www.eff.org/secure-messaging-scorecard](https://www.eff.org/secure-messaging-scorecard)
 
 ###  [Tasharuk](http://www.tasharuk.net/)
 
@@ -249,32 +227,18 @@ Tasharuk is a community-driven website that serves as a peer-to-peer knowledge b
 - Updated 2015
 -  [http://www.tasharuk.net/](http://www.tasharuk.net/)
 
-###  [The Toolbox](http://www.thetoolbox.org/tools)
+###  [Alidade](https://alidade.tech)
 
 A website that assembles, curates, and  provide's easy access to a large list of tools that can be used for social change projects. This platform includes a range of secure and insecure tools.
 
-- By The Engine Room
--  [https://toolselect.theengineroom.org/page/get-help](https://toolselect.theengineroom.org/page/get-help)
+- By [The Engine Room](https://www.theengineroom.org)
+-  [https://alidade.tech](https://alidade.tech)
 
-###  [Tool Selection - External Resources](https://toolselect.theengineroom.org/page/get-help)
-
-The Engine Room aggregated resources, including for mobile data collection decision-making, as part of their recent study on how organisations select tech (for governance/accountability, but the resources are broader).
-
-- By The Engine Room
-- https://toolselect.theengineroom.org/page/get-help
-
-###  [VPN Services Review 2015](https://torrentfreak.com/anonymous-vpn-service-provider-review-2015-150228/)
+###  [VPN Services Review 2023](https://torrentfreak.com/best-vpn-anonymous-no-logging/)
 
 Every year Torrent Freak publishes a review of Virtual Private Network (VPN) services, based on how anonymous they really make the user. Reviews are based on whether or not (or how long) the services log users’ IP addresses, and other privacy sensitive practices.
 
 - By Torrent Freak
-- Updated May, 2015
--  [https://torrentfreak.com/anonymous-vpn-service-provider-review-2015-150228/](https://torrentfreak.com/anonymous-vpn-service-provider-review-2015-150228/)
+- Updated July, 2023
+-  [https://torrentfreak.com/best-vpn-anonymous-no-logging/](https://torrentfreak.com/best-vpn-anonymous-no-logging/)
 
-###  [Detailed VPN Comparison Guide](https://thatoneprivacysite.net/)
-
-A new, very detailed comparison of VPN providers. Note that this represents largely the analysis by the author, and focuses on features which are available by default and/or very clear and easy to activate.
-
-- By That One Privacy Site
-- Updated May, 2016
-- [https://thatoneprivacysite.net/](https://thatoneprivacysite.net/)

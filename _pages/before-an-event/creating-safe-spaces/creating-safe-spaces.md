@@ -13,7 +13,7 @@ breadcrumb: Creating Safe Spaces
 In addition to the content below, you may also find articles from the Security Education Companion on [The Harm Reduction Approach](https://www.securityeducationcompanion.org/articles/the-harm-reduction-approach), [Cultural Sensitivity](https://www.securityeducationcompanion.org/articles/cultural-sensitivity), [Touching Other People's Devices](https://www.securityeducationcompanion.org/articles/a-word-on-touching-other-people-s-devices-don-t), and [Fear Is The Mind Killer](https://www.securityeducationcompanion.org/articles/fear-is-the-mind-killer-rethinking-demos) to be helpful.
 {: .notice}
 
-*"Caring for myself is not self-indulgence, it is self-preservation and that is an act of political warfare" - Audre Lord*
+*"Caring for myself is not self-indulgence, it is self-preservation and that is an act of political warfare" - Audre Lorde*
 
 ## Why Is a "Safe Space" Crucial for Digital Security Trainings?
 
