@@ -4,7 +4,7 @@ title: Cryptography fundamentals for digital safety trainers
 date: 2026-09-03
 author: Jon Camfield
 summary: The tools and practices of digital safety stands on top of a relatively small amount of core cryptographic concepts.  Yet in training on these tools and practices, we treat the cryptography as magic that we just trust inherently, or provide an often convoluted metaphor to partially explain, and move on. This curricula provides deep working knowledge on entropy, hashing, and asymmetric encryption. 
-published: false
+published: true
 category: news
 permalink: /news/2026-09-03-cryptography-101-for-trainers/
 breadcrumb: Cryptography fundamentals for digital safety trainers
