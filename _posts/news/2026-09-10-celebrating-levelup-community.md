@@ -1,7 +1,7 @@
 ---
 layout: news
 title: Celebrating a decade of the LevelUp Community
-date: 2025-09-10
+date: 2026-09-10
 author: Jon Camfield
 summary: LevelUp continues to thrive thanks to its community
 published: true
