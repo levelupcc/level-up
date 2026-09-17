@@ -187,8 +187,9 @@ samp {
   font-family: monospace, monospace;
   /* 1 */
   font-size: 1em;
-  /* 2 */ }
-
+  /* 2 */ 
+  white-space: pre-wrap;
+     }
 /**
  * Add the correct margin in IE 8.
  */
