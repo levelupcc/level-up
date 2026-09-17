@@ -6,7 +6,7 @@ parent: "Asymmetric Encryption" #The titles of pages this links from
 summary: "This activity uses a hotel metaphor to explain PGP with more support of public/private key encryption/decryption and hash/signature functions." #A 1 P summary that will go on listing pages and at the top of this page
 permalink: /curriculum/crypto-fundamentals/asymmetric-encryption/activity/pgphotel/ #The full URL of this, for its primary parent page, e.g. /curriculum/safer-browsing/anonymity-and-circumvention/activity-discussion/offline-circumvention/
 breadcrumb: "The PGP Hotel" #The name of this lesson
-date: 2024-03 #Last updated date in YYYY-MM
+date: 2026-09 #Last updated date in YYYY-MM
 adids: Activity and Discussion # ADIDS element(s)
 duration: 30 minutes #free form duration/time field
 

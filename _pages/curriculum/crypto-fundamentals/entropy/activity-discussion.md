@@ -6,7 +6,7 @@ parent: "Entropy and Password Security" #The titles of pages this links from
 summary: "This simple activity helps build understanding about the role of context clues in guessing patterns." #A 1 P summary that will go on listing pages and at the top of this page
 permalink: /curriculum/crypto-fundamentals/entropy/activity/guessing-game/ #The full URL of this, for its primary parent page, e.g. /curriculum/safer-browsing/anonymity-and-circumvention/activity-discussion/offline-circumvention/
 breadcrumb: "Guessing game" #The name of this lesson
-date: 2024-01 #Last updateddate in YYYY-MM
+date: 2026-09 #Last updateddate in YYYY-MM
 adids: Activity and Discussion # ADIDS element(s)
 duration: 15-30 minutes #free form duration/time field
 

@@ -7,7 +7,7 @@ summary: "This requires physical locks and significantly more time, but provides
 " #A 1 P summary that will go on listing pages and at the top of this page
 permalink: /curriculum/crypto-fundamentals/entropy/activity/combolockpicking/ #The full URL of this, for its primary parent page, e.g. /curriculum/safer-browsing/anonymity-and-circumvention/activity-discussion/offline-circumvention/
 breadcrumb: "Combo Lock Picking" #The name of this lesson
-date: 2024-01 #Last updateddate in YYYY-MM
+date: 2026-09 #Last updateddate in YYYY-MM
 adids: Activity and Discussion # ADIDS element(s)
 duration: 45-90 minutes #free form duration/time field
 

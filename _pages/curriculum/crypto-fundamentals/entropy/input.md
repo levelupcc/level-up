@@ -6,7 +6,7 @@ parent: "Entropy and Password Security" #The titles of pages this links from
 summary: "" #A 1 P summary that will go on listing pages and at the top of this page
 permalink: /curriculum/crypto-fundamentals/entropy/input/entropy-and-you/ #The full URL of this, for its primary parent page, e.g. /curriculum/safer-browsing/anonymity-and-circumvention/activity-discussion/offline-circumvention/
 breadcrumb: "Entropy and You" #The name of this lesson
-date: 2024-01 #Last updateddate in YYYY-MM
+date: 2026-09 #Last updateddate in YYYY-MM
 adids: Input # ADIDS element(s): Activity and Discussion, Input, Deepening, Synthesis
 duration: 15 minutes #free form duration/time field
 platforms: #Where relevant, what mobile or computing platforms does this apply to: Linux, Mac OS, Windows, Android, iOS

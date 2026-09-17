@@ -6,7 +6,7 @@ parent: "Asymmetric Encryption" #The titles of pages this links from
 summary: "" #A 1 P summary that will go on listing pages and at the top of this page
 permalink: /curriculum/crypto-fundamentals/asymmetric-encryption/synthesis/everywhere/ #The full URL of this, for its primary parent page, e.g. /curriculum/safer-browsing/anonymity-and-circumvention/activity-discussion/offline-circumvention/
 breadcrumb: "Asymmetric Encryption Everywhere" #The name of this lesson
-date: 2024-09 #Last updateddate in YYYY-MM
+date: 2026-09 #Last updateddate in YYYY-MM
 adids: Synthesis # ADIDS element(s): Activity and Discussion, Input, Deepening, Synthesis
 duration: 30 minutes #free form duration/time field
 

@@ -6,7 +6,7 @@ permalink: /curriculum/crypto-fundamentals/asymmetric-encryption/
 parent: Fundamentals of Cryptography
 breadcrumb: Asymmetric Encryption
 author: Jon Camfield
-date: 2024-07
+date: 2026-09
 level: Advanced
 prerequisites: Introduction to Encryption, Entropy, Hashes
 
