@@ -1,6 +1,6 @@
 ---
 layout: news
-title: Announcing an advanced curricula for trainers on cure cryptographic concepts
+title: Announcing an advanced curricula for trainers on cryptographic concepts
 date: 2026-09-20
 author: Jon Camfield
 summary: Announcing some advanced curricula for trainers to have a deeper understanding of core cryptographic contexts underpinning security tools, such as entropy, hashing, and asymmetric encryption.
